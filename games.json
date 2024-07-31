@@ -12758,10 +12758,10 @@
     "name": "Great Houses of Calderia - Deluxe Edition",
     "id": "Great_Houses_of_Calderia",
     "notes": "",
-    "subName": "Portable V1.0.0.1284 + Build 14244222 & DLCs Included",
+    "subName": "Portable V1.0.1.1337 + Build 15162565 & DLCs Included",
     "description": "Great Houses of Calderia is a Feudal Grand Strategy game focusing on family dynamics & stories. Use your family strengths to compete against rivals to rise in the ranks of Calderia - produce, trade, scheme, bribe, and battle to build your legacy of power!",
     "link": "https://digitalzone.vercel.app/games/#Great_Houses_of_Calderia",
-    "thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1812910/header.jpg?t=1714689530",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/33590/s62af48bbcu5sdkt/header_ratio.jpg?t=1710489527",
     "gameplay": "https://youtu.be/6qeo6Yp2qg4",
     "tags": [
       "gse",
@@ -12772,15 +12772,15 @@
       "credits": "TENOKE",
       "link": "https://api.predb.net/nfoimg/Great.Houses.of.Calderia-TENOKE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=117361&p=3044298&hilit=#p3044298",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=117361&p=3098916&hilit=#p3098916",
     "downloads": [
       {
         "name": "FileCrypt.cc",
-        "link": "https://filecrypt.cc/Container/33426C646D.html"
+        "link": "https://filecrypt.cc/Container/5BC5058C38.html"
       }
     ],
     "achievements": true,
-    "dateUpdated": "2024-07-24T19:58:03.147Z"
+    "dateUpdated": "2024-07-31T23:34:52.310Z"
   },
   {
     "name": "FOUNDRY - Founder Edition",
@@ -21567,5 +21567,32 @@
     ],
     "achievements": true,
     "dateUpdated": "2024-07-31T19:49:39.369Z"
+  },
+  {
+    "name": "Dread Weight",
+    "id": "Dread_Weight",
+    "notes": "",
+    "subName": "Portable V01.08.2024 + Build 15191263 & DLC Included",
+    "description": "Trapped in a crumbling mansion, it’s up to you to outsmart and outlast an ancient witch hunting you down. Scavenge for items to set traps, solve puzzles and discover hidden secrets to avoid your demise. Don’t be scared: encounters with ghosts are rewarded in this horror visual novel.",
+    "link": "https://digitalzone.vercel.app/games/#Dread_Weight",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399060/header.jpg?t=1722294059",
+    "gameplay": "https://www.youtube.com/watch?v=3T9beDAeZ8k",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Dread.Weight-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142195&p=3098920&hilit=#p3098920",
+    "downloads": [
+      {
+        "name": "FileCrypt.cc",
+        "link": "https://filecrypt.cc/Container/C10B1E1F84.html"
+      }
+    ],
+    "achievements": true,
+    "dateUpdated": "2024-07-31T23:32:20.497Z"
   }
 ]
