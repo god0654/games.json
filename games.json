@@ -21540,5 +21540,32 @@
     ],
     "achievements": true,
     "dateUpdated": "2024-07-31T16:04:04.933Z"
+  },
+  {
+    "name": "Into The Flames – Rescue Truck Pack 1",
+    "id": "Into_The_Flames",
+    "notes": "",
+    "subName": "Portable V2044 + Build 15216033 & DLCs Included",
+    "description": "Into The Flames is a Solo/Co-op firefighting game that focuses on the intensity of being a real life firefighter. Drive emergency vehicles, bust down doors, fight raging fires, and do whatever it takes to bring the chaotic scene under control!",
+    "link": "https://digitalzone.vercel.app/games/#Into_The_Flames",
+    "thumbnail": "thumbnails/2641290.webp",
+    "gameplay": "https://www.youtube.com/watch?v=HrPmLFPPQkQ",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "SKIDROW",
+      "link": "https://api.predb.net/nfoimg/Into.The.Flames.Rescue.Truck.Pack.1-SKIDROW.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=115650&p=3098825&hilit=#p3098825",
+    "downloads": [
+      {
+        "name": "FileCrypt.cc",
+        "link": "https://filecrypt.cc/Container/832E45537A.html"
+      }
+    ],
+    "achievements": true,
+    "dateUpdated": "2024-07-31T19:49:39.369Z"
   }
 ]
