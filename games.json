@@ -20215,8 +20215,8 @@
   {
     "name": "Dune: Imperium - Rise of Ix",
     "id": "Dune_Imperium",
-    "notes": "Note: GoldBerg Emu with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" folder and open Steam before launch.",
-    "subName": "Portable V1.3.0.651 (Client) + V1.3.0.194 (Server) & Build 13603600",
+    "notes": "",
+    "subName": "Portable V2.0.0.872 + Build 15214489 + DLC Included & Online Supported",
     "description": "The award-winning board game of strategy and intrigue in the iconic universe of Dune. The Spice must flow.",
     "link": "https://digitalzone.vercel.app/games/#Dune_Imperium",
     "thumbnail": "thumbnails/3051590.webp",
@@ -20234,11 +20234,11 @@
     "downloads": [
       {
         "name": "FileCrypt.cc",
-        "link": "https://filecrypt.cc/Container/6F48EC0AF8.html"
+        "link": "https://filecrypt.cc/Container/47F828E28A.html"
       }
     ],
     "achievements": true,
-    "dateUpdated": "2024-07-31T18:29:17.882Z"
+    "dateUpdated": "2024-07-31T18:46:22.547Z"
   },
   {
     "name": "Left Behind",
