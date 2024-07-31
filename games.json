@@ -20213,31 +20213,32 @@
     "dateUpdated": "2024-07-26T14:50:26.336Z"
   },
   {
-    "name": "Dune: Imperium",
+    "name": "Dune: Imperium - Rise of Ix",
     "id": "Dune_Imperium",
-    "notes": "",
+    "notes": "Note: GoldBerg Emu with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" folder and open Steam before launch.",
     "subName": "Portable V1.3.0.651 (Client) + V1.3.0.194 (Server) & Build 13603600",
     "description": "The award-winning board game of strategy and intrigue in the iconic universe of Dune. The Spice must flow.",
     "link": "https://digitalzone.vercel.app/games/#Dune_Imperium",
-    "thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1689500/header.jpg?t=1710364055",
-    "gameplay": "https://youtu.be/ovd1UTUJxyY",
+    "thumbnail": "thumbnails/3051590.webp",
+    "gameplay": "https://www.youtube.com/watch?v=gn2qIOdPcd8",
     "tags": [
-      "gse"
+      "gse",
+      "ofme"
     ],
     "based": {
-      "info": "csf",
-      "credits": "Petitgnoll6",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134659&p=3013236&hilit=#p3013236"
+      "info": "nfo",
+      "credits": "SKIDROW",
+      "link": "https://api.predb.net/nfoimg/Dune.Imperium.Rise.Of.Ix-SKIDROW.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134659&p=3013486&hilit=#p3013486",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134659&p=3098796&hilit=#p3098796",
     "downloads": [
       {
         "name": "FileCrypt.cc",
         "link": "https://filecrypt.cc/Container/6F48EC0AF8.html"
       }
     ],
-    "achievements": false,
-    "dateUpdated": "2024-07-26T14:55:45.875Z"
+    "achievements": true,
+    "dateUpdated": "2024-07-31T18:29:17.882Z"
   },
   {
     "name": "Left Behind",
