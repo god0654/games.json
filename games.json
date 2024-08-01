@@ -23623,5 +23623,34 @@
     "dateUpdated": "2024-08-01T19:54:01.184Z",
     "steamID": "983380",
     "genres": "Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Lords of Exile",
+    "id": "Lords_of_Exile",
+    "notes": "",
+    "subName": "Portable V02.08.2024 & Build 13433540",
+    "description": "Embark on a quest for revenge in Lords of Exile, an 8-bit side-scrolling action platformer set in the far Lands of Exilia. With classic retro mechanics and linear level design in 8-bit graphics.",
+    "link": "https://digitalzone.vercel.app/games/#Lords_of_Exile",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329360/header.jpg?t=1722522884",
+    "gameplay": "https://www.youtube.com/watch?v=9M8LrWHFlNg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TiNYiSO",
+      "link": "https://api.predb.net/nfoimg/Lords.Of.Exile-TiNYiSO.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=113687&p=3099448&hilit=#p3099448",
+    "downloads": [
+      {
+        "name": "FileCrypt.cc",
+        "link": "https://filecrypt.cc/Container/21DA0D622D.html"
+      }
+    ],
+    "achievements": true,
+    "dateUpdated": "2024-08-01T22:19:34.678Z",
+    "steamID": "1329360",
+    "genres": "Action, Indie"
   }
 ]
