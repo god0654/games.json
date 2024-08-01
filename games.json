@@ -21675,5 +21675,32 @@
     ],
     "achievements": true,
     "dateUpdated": "2024-08-01T10:14:39.178Z"
+  },
+  {
+    "name": "Song Of The Prairie",
+    "id": "Song_Of_The_Prairie",
+    "notes": "",
+    "subName": "Portable V1.0.74 +  Build 15211389 & DLC Included",
+    "description": "Song of The Prairie is a 3D relaxing farm game. A hero who defeat the demon begins a new rural life. Experiencing the fun of exploration to the town. Harvesting giant fruits and crops. Taking care fantastic animals. Dating with someone you like. Just enjoy the farming life only belongs to you!",
+    "link": "https://digitalzone.vercel.app/games/#Song_Of_The_Prairie",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1350840/header.jpg?t=1722494260",
+    "gameplay": "https://www.youtube.com/watch?v=40RNZyuGr5k",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "SKIDROW",
+      "link": "https://api.predb.net/nfoimg/Song.Of.The.Prairie-SKIDROW.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=118063&p=3099110&hilit=#p3099110",
+    "downloads": [
+      {
+        "name": "FileCrypt.cc",
+        "link": "https://filecrypt.cc/Container/2E46E64DE4.html"
+      }
+    ],
+    "achievements": false,
+    "dateUpdated": "2024-08-01T10:43:35.559Z"
   }
 ]
