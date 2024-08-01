@@ -21621,5 +21621,32 @@
     ],
     "achievements": true,
     "dateUpdated": "2024-08-01T00:05:34.218Z"
+  },
+  {
+    "name": "BioGun",
+    "id": "BioGun",
+    "notes": "",
+    "subName": "Portable V1.0 & Build 15216481",
+    "description": "Get injected into the microscopic world of BioGun. Face viral threats and winding corridors on your mission to save man’s best friend from the inside. Will you be the vaccine to save dog-kind from extinction?",
+    "link": "https://digitalzone.vercel.app/games/#BioGun",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219240/header.jpg?t=1722450918",
+    "gameplay": "https://www.youtube.com/watch?v=xKMEv_7aR3M",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/BioGun-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141015&p=3098952&hilit=#p3098952",
+    "downloads": [
+      {
+        "name": "FileCrypt.cc",
+        "link": "https://filecrypt.cc/Container/1FE04994C7.html"
+      }
+    ],
+    "achievements": false,
+    "dateUpdated": "2024-08-01T00:52:28.673Z"
   }
 ]
