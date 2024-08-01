@@ -23594,5 +23594,34 @@
     "dateUpdated": "2024-08-01T19:16:59.813Z",
     "steamID": "2093410",
     "genres": "Simulation, Strategy"
+  },
+  {
+    "name": "Car Manufacture",
+    "id": "Car_Manufacture",
+    "notes": "",
+    "subName": "Portable V1.0.0e & Build 15217515",
+    "description": "Car Manufacture is an automotive tycoon game. Start in the beginning of the XX century and create thriving business. Build cars, manage people, expand your plant and research new technology. Make tons of money and stay on top.",
+    "link": "https://digitalzone.vercel.app/games/#Car_Manufacture",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/983380/header.jpg?t=1722528045",
+    "gameplay": "https://www.youtube.com/watch?v=v_L4LzadlTI",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "✧GͥOͣDͫ✧",
+      "link": "https://store.steampowered.com/app/983380/Car_Manufacture/"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=94498&p=3099375&hilit=#p3099375",
+    "downloads": [
+      {
+        "name": "FileCrypt.cc",
+        "link": "https://filecrypt.cc/Container/8706C1E2A0.html"
+      }
+    ],
+    "achievements": false,
+    "dateUpdated": "2024-08-01T19:54:01.184Z",
+    "steamID": "983380",
+    "genres": "Indie, Simulation, Strategy"
   }
 ]
