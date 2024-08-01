@@ -21648,5 +21648,32 @@
     ],
     "achievements": false,
     "dateUpdated": "2024-08-01T00:52:28.673Z"
+  },
+  {
+    "name": "STAR WARS™: Bounty Hunter™",
+    "id": "STAR_WARS_Bounty_Hunter",
+    "notes": "",
+    "subName": "Portable V01.08.2024 & Build 15125379",
+    "description": "Bring In Your Bounty, Dead or Alive",
+    "link": "https://digitalzone.vercel.app/games/#STAR_WARS_Bounty_Hunter",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2419090/header.jpg?t=1722487944",
+    "gameplay": "https://www.youtube.com/watch?v=vCOLzP4IDYM",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "SKIDROW",
+      "link": "https://api.predb.net/nfoimg/STAR.WARS.Bounty.Hunter-SKIDROW.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141770&p=3099097&hilit=#p3099097",
+    "downloads": [
+      {
+        "name": "FileCrypt.cc",
+        "link": "https://filecrypt.cc/Container/CD914C2801.html"
+      }
+    ],
+    "achievements": true,
+    "dateUpdated": "2024-08-01T10:14:39.178Z"
   }
 ]
