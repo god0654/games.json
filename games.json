@@ -23536,5 +23536,34 @@
     "dateUpdated": "2024-08-01T15:42:20.965Z",
     "steamID": "1971650",
     "genres": "RPG"
+  },
+  {
+    "name": "Tomba! - Special Edition -",
+    "id": "Tomba_Special_Edition",
+    "notes": "",
+    "subName": "Portable V01.08.2024 & Build 15218391",
+    "description": "In Tomba! Special Edition, leap, bite, and throw your way across stunning 2.5D landscapes in this vastly-enhanced update to a platforming classic!",
+    "link": "https://digitalzone.vercel.app/games/#Tomba_Special_Edition",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2851150/header.jpg?t=1722484821",
+    "gameplay": "https://www.youtube.com/watch?v=AtZQN5N3jlg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TiNYiSO",
+      "link": "https://api.predb.net/nfoimg/Tomba.Special.Edition-TiNYiSO.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142416&p=3099280&hilit=#p3099280",
+    "downloads": [
+      {
+        "name": "FileCrypt.cc",
+        "link": "https://filecrypt.cc/Container/2AAAF62A87.html"
+      }
+    ],
+    "achievements": true,
+    "dateUpdated": "2024-08-01T16:49:34.072Z",
+    "steamID": "2851150",
+    "genres": "Action"
   }
 ]
