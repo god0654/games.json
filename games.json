@@ -23681,5 +23681,34 @@
     "dateUpdated": "2024-08-01T22:49:36.996Z",
     "steamID": "2366980",
     "genres": "Adventure, Casual, Indie"
+  },
+  {
+    "name": "Gym Manager",
+    "id": "Gym_Manager",
+    "notes": "",
+    "subName": "Portable V02.08.2024 - HotFix 2 & Build 15218111",
+    "description": "Gym Manager is a simulation game where you can build, expand and manage your own gym. To attract more customers, invest in new equipment and sabotage your competition. But beware: the town's shady streets provide opportunities for illegal business ventures.",
+    "link": "https://digitalzone.vercel.app/games/#Gym_Manager",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2337460/header.jpg?t=1722430244",
+    "gameplay": "https://www.youtube.com/watch?v=YbrafprJfRg",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Gym.Manager-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142395&p=3099487&hilit=#p3099487",
+    "downloads": [
+      {
+        "name": "FileCrypt.cc",
+        "link": "https://filecrypt.cc/Container/2EFF268433.html"
+      }
+    ],
+    "achievements": false,
+    "dateUpdated": "2024-08-01T23:51:02.750Z",
+    "steamID": "2337460",
+    "genres": "Casual, Indie, Simulation, Sports"
   }
 ]
