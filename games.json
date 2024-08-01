@@ -21594,5 +21594,32 @@
     ],
     "achievements": true,
     "dateUpdated": "2024-07-31T23:32:20.497Z"
+  },
+  {
+    "name": "Oblivion Override",
+    "id": "Oblivion_Override",
+    "notes": "",
+    "subName": "Portable V1.1.2.1574 & Build 15196760",
+    "description": "An intense, hardcore action side-scroller. Maneuver as a ninja killerbot through dynamic wastelands with 26+ specialized weapons. Dodge, dash, and dominate. A homage to Metroidvania and Roguelike: customize atomic evolution, breach intricate alert levels to decrypt the Oblivion Code...",
+    "link": "https://digitalzone.vercel.app/games/#Oblivion_Override",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952370/header.jpg?t=1713420604",
+    "gameplay": "https://www.youtube.com/watch?v=s4xa-xYgwew",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Oblivion.Override.v1.1.2.1574-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=126684&p=3098938&hilit=#p3098938",
+    "downloads": [
+      {
+        "name": "FileCrypt.cc",
+        "link": "https://filecrypt.cc/Container/9B3B83D570.html"
+      }
+    ],
+    "achievements": true,
+    "dateUpdated": "2024-08-01T00:05:34.218Z"
   }
 ]
