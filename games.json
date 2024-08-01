@@ -23565,5 +23565,34 @@
     "dateUpdated": "2024-08-01T16:49:34.072Z",
     "steamID": "2851150",
     "genres": "Action"
+  },
+  {
+    "name": "Supreme Ruler 2030 - 1936 Remastered",
+    "id": "Supreme_Ruler_2030",
+    "notes": "",
+    "subName": "Portable V12.1.1309 + Build 15230063 & DLCs Included",
+    "description": "Rise to power as any modern day country in a realistic military, political and economic simulation. Command your country's diplomacy, espionage, and resource management to strengthen your position. Use real-time tactical control of your military to fortify your place as the Supreme Ruler.",
+    "link": "https://digitalzone.vercel.app/games/#Supreme_Ruler_2030",
+    "thumbnail": "thumbnails/2878240.webp",
+    "gameplay": "https://www.youtube.com/watch?v=RvYyiKGshZk",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "SKIDROW",
+      "link": "https://api.predb.net/nfoimg/Supreme.Ruler.1936.Remastered-SKIDROW.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134353&p=3099359&hilit=#p3099359",
+    "downloads": [
+      {
+        "name": "FileCrypt.cc",
+        "link": "https://filecrypt.cc/Container/E30204E650.html"
+      }
+    ],
+    "achievements": false,
+    "dateUpdated": "2024-08-01T19:16:59.813Z",
+    "steamID": "2093410",
+    "genres": "Simulation, Strategy"
   }
 ]
