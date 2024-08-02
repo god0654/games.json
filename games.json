@@ -19034,5 +19034,28 @@
     "dateUpdated": "2024-08-02T23:36:32.948Z",
     "steamID": "",
     "genres": "Adventure, Indie, Puzzle"
+  },
+  {
+    "name": "Age of Empires IV: The Sultans Ascend - Deluxe Edition",
+    "id": "Age_of_Empires_IV",
+    "notes": "Note: This is not MULTI24 release, 4K Video are included.",
+    "subName": "Portable V11.0.0782.0 + Build 15203781 & DLCs Included",
+    "description": "Celebrating its first year of delighting millions of global players, the award-winning and best-selling strategy franchise continues with Age of Empires IV: Anniversary Edition, putting you at the center of even more epic historical battles that shaped the world.",
+    "thumbnail": "thumbnails/1959430.webp",
+    "gameplay": "https://www.youtube.com/watch?v=g22QzcMTAq0",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Age.of.Empires.IV.Anniversary.Edition.The.Sultans.Ascend-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=82709&p=3100049&hilit=#p3100049",
+    "download": "https://filecrypt.cc/Container/AE89AEDFC3.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-02T23:58:19.173Z",
+    "steamID": "1466860",
+    "genres": "Strategy"
   }
 ]
