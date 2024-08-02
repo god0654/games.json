@@ -18988,5 +18988,28 @@
     "dateUpdated": "2024-08-02T19:08:20.792Z",
     "steamID": "494840",
     "genres": "Action, Indie, RPG, Simulation, Strategy"
+  },
+  {
+    "name": "The Mortuary Assistant - Definitive Edition",
+    "id": "The_Mortuary_Assistant",
+    "notes": "",
+    "subName": "Portable + V3.0.0 & Build 15203781",
+    "description": "Alone with the dead... Embalm corpses, banish demons, save your soul.",
+    "thumbnail": "thumbnails/1295920.webp",
+    "gameplay": "https://www.youtube.com/watch?v=bJnqZC1zNxQ",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/The.Mortuary.Assistant.Definitive.Edition-RUNE.png"
+    },
+    "csrinru": "",
+    "download": "https://filecrypt.cc/Container/0B4ECC8A8B.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-02T19:49:23.362Z",
+    "steamID": "1295920",
+    "genres": "Adventure, Indie, Simulation"
   }
 ]
