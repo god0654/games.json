@@ -17178,5 +17178,29 @@
     "dateUpdated": "2024-08-02T12:09:22.998Z",
     "steamID": "2933500",
     "genres": "Action, Adventure, RPG"
+  },
+  {
+    "name": "Way of the Hunter: Lintukoto Reserve - Ultimate Edition",
+    "id": "Way_of_the_Hunter",
+    "notes": "Note: GoldBerg Emu with Achievements, Stats and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" folder and open Steam before launch.",
+    "subName": "Portable V1.26 - 127538 + Build 15234566 + DLCs Included & Online Supported",
+    "description": "Become the new owner of a hunting lodge nestled among gorgeous habitats and rich animal populations. Explore vast open world environments and hunt with a premium selection of firearms. Enjoy the perfect hunt on your own or with friends in co-op.",
+    "thumbnail": "thumbnails/3091570.webp",
+    "gameplay": "https://www.youtube.com/watch?v=PYtEIUsj3lw",
+    "tags": [
+      "gse",
+      "ofme"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Way.of.the.Hunter.Lintukoto.Reserve-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=121789&p=3099826&hilit=#p3099826",
+    "download": "https://filecrypt.cc/Container/DA22BA27B9.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-02T15:54:48.922Z",
+    "steamID": "1288321",
+    "genres": "Adventure, Simulation, Sports"
   }
 ]
