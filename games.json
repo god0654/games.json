@@ -23739,5 +23739,92 @@
     "dateUpdated": "2024-08-02T00:39:10.740Z",
     "steamID": "2720620",
     "genres": "Action, Adventure, Casual, Indie, RPG, Strategy"
+  },
+  {
+    "name": "hololive Treasure Mountain",
+    "id": "hololive_Treasure_Mountain",
+    "notes": "",
+    "subName": "Portable V1.0.0 & Build 15159824",
+    "description": "Stack the Love of Captain Marin! A Simple yet Exciting 3D Physics Puzzle Game!",
+    "link": "https://digitalzone.vercel.app/games/#hololive_Treasure_Mountain",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2972990/header.jpg?t=1722480785",
+    "gameplay": "https://www.youtube.com/watch?v=pwL0CZA30qg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/hololive.Treasure.Mountain-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142432&p=3099676&hilit=#p3099676",
+    "downloads": [
+      {
+        "name": "FileCrypt.cc",
+        "link": "https://filecrypt.cc/Container/4ED5BC9071.html"
+      }
+    ],
+    "achievements": true,
+    "dateUpdated": "2024-08-02T11:22:46.869Z",
+    "steamID": "2972990",
+    "genres": "Casual"
+  },
+  {
+    "name": "Closer the Distance",
+    "id": "Closer_the_Distance",
+    "notes": "",
+    "subName": "Portable V1.0.0+30884 & Build 14740796",
+    "description": "Closer the Distance is a slice-of-life sim that tells a deeply emotional story about the connections between family and friends in the face of tragedy. Unearth long kept secrets, repair strained relationships, and help your loved ones move on.",
+    "link": "https://digitalzone.vercel.app/games/#Closer_the_Distance",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1991300/header.jpg?t=1722571982",
+    "gameplay": "https://www.youtube.com/watch?v=IxAh9hvIphE",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "SKIDROW",
+      "link": "https://api.predb.net/nfoimg/Closer.The.Distance-SKIDROW.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=130874&p=3099699&hilit=#p3099699",
+    "downloads": [
+      {
+        "name": "FileCrypt.cc",
+        "link": "https://filecrypt.cc/Container/5F90B23DDD.html"
+      }
+    ],
+    "achievements": true,
+    "dateUpdated": "2024-08-02T11:33:57.273Z",
+    "steamID": "1991300",
+    "genres": "Casual, Indie, Simulation"
+  },
+  {
+    "name": "KitHack Model Club - Robotics",
+    "id": "KitHack_Model_Club",
+    "notes": "",
+    "subName": "Portable V1.3.0.1067 & Build 15222295",
+    "description": "Developed by the creator of the original Kerbal Space Program and a tiny three-person team, KitHack Model Club is a physics-based model building sandbox that provides limitless freedom for you and friends to design, build, battle, fly (and crash!) your very own RC vehicles.",
+    "link": "https://digitalzone.vercel.app/games/#KitHack_Model_Club",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2107090/header_alt_assets_1.jpg?t=1722593450",
+    "gameplay": "https://www.youtube.com/watch?v=dFrVJKr20T4",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/KitHack.Model.Club-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=131263&p=3099684&hilit=#p3099684",
+    "downloads": [
+      {
+        "name": "FileCrypt.cc",
+        "link": "https://filecrypt.cc/Container/E7DB5FDB23.html"
+      }
+    ],
+    "achievements": false,
+    "dateUpdated": "2024-08-02T11:35:53.307Z",
+    "steamID": "2107090",
+    "genres": "Action, Indie, Racing, Simulation"
   }
 ]
