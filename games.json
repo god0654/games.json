@@ -23710,5 +23710,34 @@
     "dateUpdated": "2024-08-01T23:51:02.750Z",
     "steamID": "2337460",
     "genres": "Casual, Indie, Simulation, Sports"
+  },
+  {
+    "name": "One More Night",
+    "id": "One_More_Night",
+    "notes": "",
+    "subName": "Portable V02.08.2024 & Build 15207367",
+    "description": "In this RPG (One More Night), you will wake up as an angel, your objective will be to follow the orders given to you by a mysterious voice, your primary task will be to save the world from darkness, while you level up and improve little by little until you achieve it.",
+    "link": "https://digitalzone.vercel.app/games/#One_More_Night",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2720620/header.jpg?t=1722395281",
+    "gameplay": "https://m.youtube.com/watch?v=izqtgZ3nATU",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/One.More.Night-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142428&p=3099497&hilit=#p3099497",
+    "downloads": [
+      {
+        "name": "FileCrypt.cc",
+        "link": "https://filecrypt.cc/Container/82025F62AF.html"
+      }
+    ],
+    "achievements": false,
+    "dateUpdated": "2024-08-02T00:39:10.740Z",
+    "steamID": "2720620",
+    "genres": "Action, Adventure, Casual, Indie, RPG, Strategy"
   }
 ]
