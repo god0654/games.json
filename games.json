@@ -19039,7 +19039,7 @@
     "name": "Age of Empires IV: The Sultans Ascend - Deluxe Edition",
     "id": "Age_of_Empires_IV",
     "notes": "Note: This is not MULTI24 release, 4K Video are included.",
-    "subName": "Portable V11.0.0782.0 + Build 15203781 & DLCs Included",
+    "subName": "Portable V11.0.0782.0 + Build 14927504 & DLCs Included",
     "description": "Celebrating its first year of delighting millions of global players, the award-winning and best-selling strategy franchise continues with Age of Empires IV: Anniversary Edition, putting you at the center of even more epic historical battles that shaped the world.",
     "thumbnail": "thumbnails/1959430.webp",
     "gameplay": "https://www.youtube.com/watch?v=g22QzcMTAq0",
@@ -19054,8 +19054,32 @@
     "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=82709&p=3100049&hilit=#p3100049",
     "download": "https://filecrypt.cc/Container/AE89AEDFC3.html",
     "achievements": false,
-    "dateUpdated": "2024-08-02T23:58:19.173Z",
+    "dateUpdated": "2024-08-03T01:59:09.454Z",
     "steamID": "1466860",
     "genres": "Strategy"
+  },
+  {
+    "name": "Thalassa: Edge of the Abyss",
+    "id": "Thalassa_Edge_of_the_Abyss",
+    "notes": "",
+    "subName": "Portable V1.0.0-012215 & Build 14614476",
+    "description": "Uncover the mystery of Thalassa, a first-person psychological drama set under the sea. Ill-fate has fallen on your former crew and friends and it’s up to you to find answers onboard the wreckage. Experience the melancholic underwater journey of human stories facing life and loss.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1783680/header.jpg?t=1722527898",
+    "gameplay": "https://www.youtube.com/watch?v=53tU1-Ufbfc",
+    "tags": [
+      "gse",
+      "steamless"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Thalassa.Edge.of.the.Abyss-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140179&p=3100084&hilit=#p3100084",
+    "download": "https://filecrypt.cc/Container/20003B6940.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-03T02:01:33.210Z",
+    "steamID": "1783680",
+    "genres": "Adventure, Indie, RPG"
   }
 ]
