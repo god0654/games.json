@@ -19081,5 +19081,28 @@
     "dateUpdated": "2024-08-03T02:01:33.210Z",
     "steamID": "1783680",
     "genres": "Adventure, Indie, RPG"
+  },
+  {
+    "name": "Space for Sale",
+    "id": "Space_for_Sale",
+    "notes": "",
+    "subName": "Portable V02.08.2024.11.21 + Build 15239366 & DLC Included",
+    "description": "Explore alien worlds, befriend their wildlife, and build the home of your clients' dreams! Solo or with a friend, use your wits and trusty tools to survive harsh uncharted biomes. Gather, craft, discover secrets, and rise to the top of the space property biz!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624060/header.jpg?t=1722505254",
+    "gameplay": "https://www.youtube.com/watch?v=-HOSRkfuZvo",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "gizmo_o",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=125486&p=3100058&hilit=#p3100058"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=125486&p=3100190&hilit=#p3100190",
+    "download": "https://filecrypt.cc/Container/17914FDFA0.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-03T09:00:46.451Z",
+    "steamID": "1624060",
+    "genres": "Simulation, Strategy"
   }
 ]
