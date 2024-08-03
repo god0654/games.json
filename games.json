@@ -19127,5 +19127,29 @@
     "dateUpdated": "2024-08-03T11:01:45.218Z",
     "steamID": "1325260",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "DEVIATOR",
+    "id": "DEVIATOR",
+    "notes": "",
+    "subName": "Portable V02.08.2024 & Build 15236765",
+    "description": "Deviator is a Metroidvania game centered around deflect, featuring exquisite 2D hand-drawn visuals. Exploring unknown wilderness and mysterious cities, delving into enigmatic realms of consciousness and encountering peculiar creatures. Try to find the truth behind this chaotic world.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620730/header.jpg?t=1722568434",
+    "gameplay": "https://www.youtube.com/watch?v=Z8HUELoNayE",
+    "tags": [
+      "gse",
+      "steamless"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "UltraShaggy",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137813&p=3100018&hilit=#p3100018"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137813&p=3100282&hilit=#p3100282",
+    "download": "https://filecrypt.cc/Container/28A378BE94.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-03T11:52:26.248Z",
+    "steamID": "2620730",
+    "genres": "Action, Adventure, Indie"
   }
 ]
