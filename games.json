@@ -7573,7 +7573,7 @@
     "name": "Astor: Blade of the Monolith",
     "id": "Astor_Blade_of_the_Monolith",
     "notes": "",
-    "subName": "Portable V30.05.2024 & Build 14526536",
+    "subName": "Portable V27.06.2024 - Patch 3 & Build 14837234",
     "description": "Rip through hordes of enemies with fury and style in this fast-paced action RPG. Play as Astor, a young warrior determined to unveil the secrets behind his creators’ unforeseen demise. Wield an arsenal of runic weapons to hunt down the evil haunting the planet Gliese and save it from impending doom.",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989320/header.jpg?t=1717086963",
     "gameplay": "https://youtu.be/M0uzAw2zYis",
@@ -7581,14 +7581,14 @@
       "gse"
     ],
     "based": {
-      "info": "nfo",
-      "credits": "RUNE",
-      "link": "https://api.predb.net/nfoimg/Astor.Blade.of.the.Monolith-RUNE.png"
+      "info": "csf",
+      "credits": "Rui & FrancisYorkMorgayn",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140868&p=3083513&hilit=#p3083513"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140868&p=3061668&hilit=#p3061668",
-    "download": "https://filecrypt.cc/Container/015BC23FF0.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140868&p=3101108&hilit=#p3101108",
+    "download": "https://filecrypt.cc/Container/20815069EC.html",
     "achievements": true,
-    "dateUpdated": "2024-07-24T15:46:23.919Z",
+    "dateUpdated": "2024-08-04T22:31:20.685Z",
     "steamID": "1989320",
     "genres": "Action, Adventure, Casual, Indie, RPG"
   },
