@@ -19151,5 +19151,97 @@
     "dateUpdated": "2024-08-03T11:52:26.248Z",
     "steamID": "2620730",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Unrooted",
+    "id": "Unrooted",
+    "notes": "",
+    "subName": "Portable V04.08.2024 & Build 15219277",
+    "description": "Unrooted is a vibrant and eye-catching precision platformer with lush environments and a stunning musical score. Take up your courage and squash your fear of heights. Travel upwards to lands no sapling has dared to explore before. But heed with caution, the higher you journey, the more you risk.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2441100/header.jpg?t=1722636012",
+    "gameplay": "https://www.youtube.com/watch?v=dBD0EBPVLxg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Unrooted-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=133308&p=3100646&hilit=#p3100646",
+    "download": "https://filecrypt.cc/Container/E2332A6971.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-04T02:41:38.355Z",
+    "steamID": "2441100",
+    "genres": "Adventure, Casual, Indie"
+  },
+  {
+    "name": "Amusement Park Simulator",
+    "id": "Amusement_Park_Simulator",
+    "notes": "",
+    "subName": "Portable V04.08.2024 & Build 14143841",
+    "description": "This is a simulation-tycoon game for making your dream park.You can purchase , sell and move all of the machines and visual items.While you do these things costumers comes and experience all of this.Sometimes they wanna eat , watch and enjoy on machines.Becareful if they buy a ticket !",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2480950/header.jpg?t=1722596515",
+    "gameplay": "https://www.youtube.com/watch?v=UGHSwCWFBj4",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Amusement.Park.Simulator-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142476&p=3100641&hilit=#p3100641",
+    "download": "https://filecrypt.cc/Container/D61752BECD.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-04T02:44:35.131Z",
+    "steamID": "2480948",
+    "genres": "Simulation"
+  },
+  {
+    "name": "Nine Tereasures of Liuyin",
+    "id": "Nine_Tereasures_of_Liuyin",
+    "notes": "How change language: You can change in the game settings or in the first launch.",
+    "subName": "Portable V0.1 & Build 15251498",
+    "description": "This is a dark, soul like role-playing game, trying to create a different experience in this genre. The protagonist fights against a powerful enemy in this city in search of a divine artifact.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2949580/header.jpg?t=1722610194",
+    "gameplay": "https://www.youtube.com/watch?v=K5_Ca-qByZw",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Nine.Tereasures.of.Liuyin-TENOKE.png"
+    },
+    "csrinru": "",
+    "download": "https://filecrypt.cc/Container/5AC30C5FE4.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-04T02:50:47.957Z",
+    "steamID": "2949580",
+    "genres": "Action, Adventure, Indie, RPG"
+  },
+  {
+    "name": "Setteeh",
+    "id": "Setteeh",
+    "notes": "",
+    "subName": "Portable V04.08.2024 & Build 15249364",
+    "description": "Setteeh - is a horror game created based on real stories of Yakutia residents. Each episode of the game tells a new story.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566450/header.jpg?t=1722596446",
+    "gameplay": "https://www.youtube.com/watch?v=ZRUU5FCoT3w",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Setteeh-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142477&p=3100661&hilit=#p3100661",
+    "download": "https://filecrypt.cc/Container/3AA4BE0301.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-04T03:05:22.331Z",
+    "steamID": "1566450",
+    "genres": "Action, Adventure, Indie, Simulation"
   }
 ]
