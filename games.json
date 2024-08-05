@@ -19359,5 +19359,28 @@
     "dateUpdated": "2024-08-05T16:57:55.147Z",
     "steamID": "2435920",
     "genres": "Adventure, Casual, Indie"
+  },
+  {
+    "name": "Fields of Mistria",
+    "id": "Fields_of_Mistria",
+    "notes": "",
+    "subName": "Portable V0.11.3 & Build 15257602",
+    "description": "Start your new life! Build the farm of your dreams as you discover a world brimming with possibilities. Magic, romance, and adventure all await you in this nostalgic farming / life sim RPG!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/header.jpg?t=1722890129",
+    "gameplay": "https://www.youtube.com/watch?v=Qtkr7whW7c4",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Dound1946",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=133585&p=3101499&hilit=#p3101499"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=133585&p=3101655&hilit=#p3101655",
+    "download": "https://filecrypt.cc/Container/0B8D3273D1.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-05T22:23:29.493Z",
+    "steamID": "2142790",
+    "genres": "Indie, RPG, Simulation"
   }
 ]
