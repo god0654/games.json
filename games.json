@@ -19290,5 +19290,28 @@
     "dateUpdated": "2024-08-04T23:10:24.531Z",
     "steamID": "2753620",
     "genres": "Casual, Indie"
+  },
+  {
+    "name": "Apartment No 129",
+    "id": "Apartment_No_129",
+    "notes": "",
+    "subName": "Portable V03.08.2024 & Build 15246438",
+    "description": "Emir, who has an interest in mysterious events, steps alone into the abandoned apartment known as \"Apartment No 129\" to trace the trail of a paranormal event that occurred in 2009 and shook the country. However, he will find himself in an unexpected confrontation within this horror apartment.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2895340/header.jpg?t=1722797318",
+    "gameplay": "https://www.youtube.com/watch?v=5GRP-mLOejE",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Apartment.No.129-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142494&p=3101148&hilit=#p3101148",
+    "download": "https://filecrypt.cc/Container/0233DED94A.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-05T00:04:01.206Z",
+    "steamID": "2895340",
+    "genres": "Action, Adventure, Indie"
   }
 ]
