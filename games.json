@@ -19313,5 +19313,28 @@
     "dateUpdated": "2024-08-05T00:04:01.206Z",
     "steamID": "2895340",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Highrise City: Vacation Season - Complete Edition",
+    "id": "Highrise_City",
+    "notes": "",
+    "subName": "Portable V1.2.2 + Build 15264840 & DLCs Included",
+    "description": "Highrise City offers a new spin on City Simulations & Tycoon games expanding the economy and resource management aspect. Experience a modern take on the genre enriched with a complex resource based economy system.",
+    "thumbnail": "thumbnails/3079070.webp",
+    "gameplay": "https://www.youtube.com/watch?v=Ns7x-bQeOX0",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Highrise.City.Vacation.Season-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=113288&p=3101473&hilit=#p3101473",
+    "download": "https://filecrypt.cc/Container/E753D4BE1A.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-05T16:21:59.590Z",
+    "steamID": "3079070",
+    "genres": "Simulation, Strategy"
   }
 ]
