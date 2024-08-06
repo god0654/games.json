@@ -10549,27 +10549,25 @@
     "genres": "Adventure, Casual, Indie, RPG"
   },
   {
-    "name": "Outbreak The Fedora Files: What Lydia Knows",
+    "name": "",
     "id": "",
     "notes": "",
-    "subName": "Portable V06.05.2024 & Build 14259270",
-    "description": "Something is foul in the city of Cypress Ridge. Uncover the truth in this narrative rich visual novel taking place just moments before a full blown undead epidemic.",
-    "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2587130/header.jpg?t=1714752164",
-    "gameplay": "https://youtu.be/ecBgSxfOVZ8",
-    "tags": [
-      "scene"
-    ],
+    "subName": "",
+    "description": "",
+    "thumbnail": "",
+    "gameplay": "",
+    "tags": [],
     "based": {
-      "info": "nfo",
-      "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Outbreak.The.Fedora.Files.What.Lydia.Knows-TENOKE.png"
+      "info": "",
+      "credits": "",
+      "link": ""
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140367&p=3046002&hilit=#p3046002",
-    "download": "https://filecrypt.cc/Container/96D85D8A03.html",
+    "csrinru": "",
+    "download": "",
     "achievements": false,
-    "dateUpdated": "2024-07-24T19:23:25.183Z",
-    "steamID": "2587130",
-    "genres": "Adventure, Casual, Indie, RPG"
+    "dateUpdated": "2024-08-06T11:10:53.968Z",
+    "steamID": "",
+    "genres": ""
   },
   {
     "name": "Meta-Ghost: The Breaking Show",
@@ -19475,5 +19473,28 @@
     "dateUpdated": "2024-08-06T02:06:48.417Z",
     "steamID": "1248080",
     "genres": "Action, Indie"
+  },
+  {
+    "name": "Hero Emblems II",
+    "id": "Hero_Emblems_II",
+    "notes": "",
+    "subName": "Portable V1.0.1613 & Build 15222097",
+    "description": "Hero Emblems II is a Japanese-style RPG that combines elements from side-scrollers and Match-3 games. Players will control members of the Night Chasers and embark on an adventure to become heroes in order to help the people who are suffering.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417940/header.jpg?t=1722910729",
+    "gameplay": "https://www.youtube.com/watch?v=JgC7T6iAvwM",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "afraidium",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=133581&p=3101752&hilit=#p3101752"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=133581&p=3101893&hilit=#p3101893",
+    "download": "https://filecrypt.cc/Container/E71C7CBD17.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-06T11:10:53.585Z",
+    "steamID": "2417940",
+    "genres": "RPG"
   }
 ]
