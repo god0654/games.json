@@ -19452,5 +19452,28 @@
     "dateUpdated": "2024-08-06T00:36:17.820Z",
     "steamID": "1432860",
     "genres": "Adventure, Casual, Indie, RPG, Simulation"
+  },
+  {
+    "name": "CYGNI: All Guns Blazing",
+    "id": "CYGNI_All_Guns_Blazing",
+    "notes": "",
+    "subName": "Portable V1.01 - 12254 & Build 14976496",
+    "description": "An unrelenting onslaught of eye-popping visuals, ear bursting soundscapes and mind-melting action makes CYGNI the vanguard for the next generation of shoot-em ups. Outgunned, outmanned and out on your own, plunge into a sky full of hell in a last-ditch battle for survival.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248080/header.jpg?t=1722899771",
+    "gameplay": "https://www.youtube.com/watch?v=waAdn0w3k8w",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/CYGNI.All.Guns.Blazing-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=105391&p=3101739&hilit=#p3101739",
+    "download": "https://filecrypt.cc/Container/CF2F3A90CF.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-06T02:06:48.417Z",
+    "steamID": "1248080",
+    "genres": "Action, Indie"
   }
 ]
