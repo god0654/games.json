@@ -19521,5 +19521,28 @@
     "dateUpdated": "2024-08-06T14:43:19.926Z",
     "steamID": "2172320",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Atlas Fallen: Reign of Sand - Ruin Rising Bundle",
+    "id": "Atlas_Fallen",
+    "notes": "",
+    "subName": "Portable V1.118888.1721314771 + Build 15094400 & DLCs Included",
+    "description": "In solo or co-op, experience Reign of Sand, the ultimate version of Atlas Fallen. Ride the sands of a timeless land and defeat legendary monsters in spectacular Action-RPG combat using devastating powers.",
+    "thumbnail": "thumbnails/1230530.webp",
+    "gameplay": "https://www.youtube.com/watch?v=0DFm6TolJY4",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "Gh0sT73",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=125749&p=3102053&hilit=#p3102053"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=125749&p=3102204&hilit=#p3102204",
+    "download": "https://filecrypt.cc/Container/F078BB1A8D.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-06T22:51:59.411Z",
+    "steamID": "1230530",
+    "genres": "Action, Adventure, RPG"
   }
 ]
