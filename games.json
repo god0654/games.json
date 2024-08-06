@@ -10549,25 +10549,27 @@
     "genres": "Adventure, Casual, Indie, RPG"
   },
   {
-    "name": "",
+    "name": "Outbreak The Fedora Files: What Lydia Knows",
     "id": "",
     "notes": "",
-    "subName": "",
-    "description": "",
-    "thumbnail": "",
-    "gameplay": "",
-    "tags": [],
+    "subName": "Portable V06.05.2024 & Build 14259270",
+    "description": "Something is foul in the city of Cypress Ridge. Uncover the truth in this narrative rich visual novel taking place just moments before a full blown undead epidemic.",
+    "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2587130/header.jpg?t=1714752164",
+    "gameplay": "https://youtu.be/ecBgSxfOVZ8",
+    "tags": [
+      "scene"
+    ],
     "based": {
-      "info": "",
-      "credits": "",
-      "link": ""
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Outbreak.The.Fedora.Files.What.Lydia.Knows-TENOKE.png"
     },
-    "csrinru": "",
-    "download": "",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140367&p=3046002&hilit=#p3046002",
+    "download": "https://filecrypt.cc/Container/96D85D8A03.html",
     "achievements": false,
-    "dateUpdated": "2024-08-06T11:10:53.968Z",
-    "steamID": "",
-    "genres": ""
+    "dateUpdated": "2024-07-24T19:23:25.183Z",
+    "steamID": "2587130",
+    "genres": "Adventure, Casual, Indie, RPG"
   },
   {
     "name": "Meta-Ghost: The Breaking Show",
@@ -19493,7 +19495,7 @@
     "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=133581&p=3101893&hilit=#p3101893",
     "download": "https://filecrypt.cc/Container/E71C7CBD17.html",
     "achievements": true,
-    "dateUpdated": "2024-08-06T11:10:53.585Z",
+    "dateUpdated": "2024-08-06T11:56:58.312Z",
     "steamID": "2417940",
     "genres": "RPG"
   }
