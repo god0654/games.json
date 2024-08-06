@@ -19544,5 +19544,28 @@
     "dateUpdated": "2024-08-06T22:51:59.411Z",
     "steamID": "1230530",
     "genres": "Action, Adventure, RPG"
+  },
+  {
+    "name": "Bee Island: Nuclear Missiles and Creative Mode",
+    "id": "Bee_Island",
+    "notes": "",
+    "subName": "Portable V05.08.2024 & Build 15268058",
+    "description": "Take control of the hive and protect it from enemies. Build factories and defence, research technologies and, if necessary, use nuclear weapons, but do not let the enemies harm the queen!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2345020/header.jpg?t=1722885015",
+    "gameplay": "https://www.youtube.com/watch?v=_qXctfK8FUU",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Bee.Island.v20240805-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134938&p=3102241&hilit=#p3102241",
+    "download": "https://filecrypt.cc/Container/80B3806746.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-06T23:48:50.192Z",
+    "steamID": "2345020",
+    "genres": "Action, Casual, Indie, Simulation, Strategy"
   }
 ]
