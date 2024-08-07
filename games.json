@@ -19613,5 +19613,51 @@
     "dateUpdated": "2024-08-07T10:19:21.661Z",
     "steamID": "2562900",
     "genres": "Action, Adventure"
+  },
+  {
+    "name": "Retail Company Simulator",
+    "id": "Retail_Company_Simulator",
+    "notes": "",
+    "subName": "Portable V1.0.04 & Build 15281328",
+    "description": "Run your retail company. Sign contracts with leading brands, order new products, meet customer needs, and never let your customers leave the store empty-handed. Hire new workers, expand your store, and enjoy the growth of your retail company.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089130/header.jpg?t=1722928886",
+    "gameplay": "https://www.youtube.com/watch?v=6U4sf84eMnc",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Retail.Company.Simulator-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142523&p=3102460&hilit=#p3102460",
+    "download": "https://filecrypt.cc/Container/4357376F66.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-07T10:52:28.294Z",
+    "steamID": "3089130",
+    "genres": "Casual, Indie, Simulation"
+  },
+  {
+    "name": "Volgarr the Viking II",
+    "id": "Volgarr_the_Viking_II",
+    "notes": "",
+    "subName": "Portable V06.08.2024 & Build 14838022",
+    "description": "A hardcore, 2D action-platformer where only precision can keep you from death.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195140/header.jpg?t=1722960046",
+    "gameplay": "https://www.youtube.com/watch?v=dQ542zmFndU",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "Unleashed",
+      "link": "https://predb.net/rls/Volgarr.The.Viking.II-Unleashed"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141230&p=3102474&hilit=#p3102474",
+    "download": "https://filecrypt.cc/Container/E76D8880CF.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-07T11:20:19.054Z",
+    "steamID": "2195140",
+    "genres": "Action, Adventure, Indie"
   }
 ]
