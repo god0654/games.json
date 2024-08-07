@@ -19683,5 +19683,29 @@
     "dateUpdated": "2024-08-07T15:40:49.212Z",
     "steamID": "2396980",
     "genres": "Adventure"
+  },
+  {
+    "name": "Creatures of Ava - Deluxe Edition",
+    "id": "Creatures_of_Ava",
+    "notes": "",
+    "subName": "Portable V07.08.2024 + Build 15279045 & DLCs Included",
+    "description": "Let your empathy guide you as you play an exciting action-adventure, creature-saver game. Understand and tame the creatures of Ava and let them lead you through a variety of ecosystems – all in the hopes of saving the planet from a life-consuming infection.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/43092/2czoz30od0tudvxd/header_ratio.jpg?t=1723038832",
+    "gameplay": "https://www.youtube.com/watch?v=plTZQlkQW4s",
+    "tags": [
+      "gse",
+      "steamless"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Dound1946",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138686&p=3102563&hilit=#p3102563"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138686&p=3102610&hilit=#p3102610",
+    "download": "https://filecrypt.cc/Container/DE26F6146A.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-07T16:41:51.792Z",
+    "steamID": "2304440",
+    "genres": "Action, Adventure, Indie"
   }
 ]
