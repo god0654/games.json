@@ -908,7 +908,7 @@
     "name": "Bodycam",
     "id": "Bodycam",
     "notes": "How to Play: Launch Bodycam.exe in ''Bodycam\\'' to play the game. (Open Steam before launch)",
-    "subName": "Portable V0.1.2.5 - HotFix 1 + Build 14881333 & Online Supported",
+    "subName": "Portable V0.1.2.7 - HotFix 4 + Build 15257158 & Online Supported",
     "description": "Bodycam is the first ultra-realistic multiplayer, first-person shooter game made using the latest technologies of the next-gen game engine Unreal Engine 5. Get ready to dive into fast-paced Bodycam actions, where every bullet counts and every choice can decide over the victory or loss of your team.",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/header.jpg?t=1717801174",
     "gameplay": "https://youtu.be/OJtv52GuSWM",
@@ -916,16 +916,16 @@
       "ofme"
     ],
     "based": {
-      "info": "basedon",
-      "credits": "Emlc",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137741&p=3082239&hilit=#p3082239"
+      "info": "info",
+      "credits": "Based on Kirigiri files + Patch & FreeTP Remover ",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137741&p=3102378&hilit=#p3102378"
     },
-    "download": "https://filecrypt.cc/Container/A4FCFBC694.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137741&p=3102511&hilit=#p3102511",
+    "download": "https://filecrypt.cc/Container/143B31B214.html",
     "achievements": false,
-    "dateUpdated": "2024-07-23T15:50:01.611Z",
-    "csrinru": "",
+    "dateUpdated": "2024-08-07T13:09:10.330Z",
     "steamID": "2406770",
-    "genres": "Action, Indie, Massively Multiplayer, Simulation, Strategy, Early Access"
+    "genres": "Action, Indie, Massively Multiplayer, Simulation, Strategy"
   },
   {
     "name": "Beyond Good & Evil - 20th Anniversary Edition",
