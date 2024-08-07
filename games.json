@@ -19659,5 +19659,28 @@
     "dateUpdated": "2024-08-07T11:20:19.054Z",
     "steamID": "2195140",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Fate/stay night REMASTERED",
+    "id": "Fate_stay_night_REMASTERED",
+    "notes": "",
+    "subName": "Portable V20240803-232445 & Build 15259149",
+    "description": "Seek the root of the Fate franchise. Return to where it all began.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396980/header.jpg?t=1723042707",
+    "gameplay": "https://www.youtube.com/watch?v=9VF7v3d-g_U",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "✧GͥOͣDͫ✧",
+      "link": "https://store.steampowered.com/app/2396980/Fatestay_night_REMASTERED/"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142535&p=3102568&hilit=#p3102568",
+    "download": "https://filecrypt.cc/Container/AFA72EEAB7.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-07T15:39:50.893Z",
+    "steamID": "2396980",
+    "genres": "Adventure"
   }
 ]
