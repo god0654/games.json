@@ -20101,5 +20101,51 @@
     "dateUpdated": "2024-08-08T17:03:17.638Z",
     "steamID": "1277130",
     "genres": "Action, Adventure, Indie, RPG"
+  },
+  {
+    "name": "DOOM + DOOM II",
+    "id": "DOOM_DOOM_II",
+    "notes": "",
+    "subName": "Portable V08.08.2024 & Build 15281183",
+    "description": "Developed by id Software, and originally released in 1993 and 1994, the definitive, newly enhanced versions of DOOM + DOOM II are available as a combined product.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2280/header.jpg?t=1723146182",
+    "gameplay": "https://www.youtube.com/watch?v=9OALhMjGpi8",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Likulau",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142580&p=3103350&hilit=#p3103350"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142580&p=3103367&hilit=#p3103367",
+    "download": "https://filecrypt.cc/Container/AF26E2AC5C.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-08T21:16:05.258Z",
+    "steamID": "2280",
+    "genres": "Action"
+  },
+  {
+    "name": "Dungeons & Degenerate Gamblers",
+    "id": "Dungeons_Degenerate_Gamblers",
+    "notes": "",
+    "subName": "Portable V1.0a & Build 15300981",
+    "description": "Battle your way through a seedy tavern filled with gambling addicted townspeople in this Blackjack Roguelike Adventure. From aces and face cards to tarot cards, business cards and more, create your unique deck to beat the house.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400510/header.jpg?t=1723136878",
+    "gameplay": "https://www.youtube.com/watch?v=PE-wjxdcNkA",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TiNYiSO",
+      "link": "https://api.predb.net/nfoimg/Dungeons.And.Degenerate.Gamblers-TiNYiSO.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132374&p=3103351&hilit=#p3103351",
+    "download": "https://filecrypt.cc/Container/8ABD510CB2.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-08T21:18:14.776Z",
+    "steamID": "2400510",
+    "genres": "Casual, Indie, RPG, Strategy"
   }
 ]
