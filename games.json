@@ -19868,5 +19868,97 @@
     "dateUpdated": "2024-08-08T02:12:17.520Z",
     "steamID": "2197680",
     "genres": "Action, RPG"
+  },
+  {
+    "name": "Vinecard",
+    "id": "Vinecard",
+    "notes": "How change language: You can change in the game settings.",
+    "subName": "Portable V0.9.1.3 & Build 15281003",
+    "description": "VineCard is a card strategy game that combines war chess and light rogue-like elements. Explore the divine weapons on the Kochab Planet, slay demons, solve puzzles, and cultivate your skills to the utmost.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649800/header.jpg?t=1723108352",
+    "gameplay": "https://www.youtube.com/watch?v=gxjD1qSGqvU",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Vinecard-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142566&p=3103066&hilit=#p3103066",
+    "download": "https://filecrypt.cc/Container/BF15BCC0A3.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-08T12:03:15.763Z",
+    "steamID": "2649800",
+    "genres": "Casual, Indie, Strategy"
+  },
+  {
+    "name": "Otherworld Legends 战魂铭人 – Deluxe Edition",
+    "id": "Otherworld_Legends",
+    "notes": "",
+    "subName": "Portable V2.4.0 + Build 15234726 & DLCs Included",
+    "description": "A \"blood-pumping, face-bashing\" roguelike brawler. Master heroes of your choice, craft uniquely broken builds, and hack & pummel through a myriad of dungeons in a thrilling rampage.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/25054/1lqmaj389gjqpg1f/header_ratio.jpg?t=1650969058",
+    "gameplay": "https://www.youtube.com/watch?v=XZS8jGj6XU0",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Otherworld.Legends-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=117658&p=3103046&hilit=#p3103046",
+    "download": "https://filecrypt.cc/Container/011077CD4F.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-08T12:06:16.748Z",
+    "steamID": "1761380",
+    "genres": "Action, Indie, RPG"
+  },
+  {
+    "name": "Moonless Moon",
+    "id": "Moonless_Moon",
+    "notes": "",
+    "subName": "Portable V1.0.1 & Build 15297423",
+    "description": "When night falls, she wanders into another world... Moonless Moon is a text-based adventure game following a girl as she travels through a variety of different worlds.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2951340/header.jpg?t=1723085045",
+    "gameplay": "https://www.youtube.com/watch?v=S9GDd6oTIR0",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Moonless.Moon-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142538&p=3103057&hilit=#p3103057",
+    "download": "https://filecrypt.cc/Container/1EEBB8F465.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-08T12:08:08.823Z",
+    "steamID": "2951340",
+    "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Cat Quest III",
+    "id": "Cat_Quest_III",
+    "notes": "",
+    "subName": "Portable V1.1.1 + Build 15234726 & DLC Included",
+    "description": "In Cat Quest III you play as a purrivateer in a freely explorable 2.5D open-world swarming with Pi-rats. You can sail the seas in your ship for treasures galore! But prepare for peril, as the Pirate King aims to hunt you down...",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2305840/header.jpg?t=1723100683",
+    "gameplay": "https://www.youtube.com/watch?v=q8y7vnYABvM",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Cat.Quest.III-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132917&p=3103038&hilit=#p3103038",
+    "download": "https://filecrypt.cc/Container/4DA37D0A31.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-08T12:10:15.658Z",
+    "steamID": "2305840",
+    "genres": "Action, Adventure, Indie, RPG"
   }
 ]
