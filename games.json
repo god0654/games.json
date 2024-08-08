@@ -19730,5 +19730,97 @@
     "dateUpdated": "2024-08-07T22:02:31.839Z",
     "steamID": "2139840",
     "genres": "Action, RPG"
+  },
+  {
+    "name": "家屋探索 -Japanese House Exploration-",
+    "id": "Japanese_House_Exploration",
+    "notes": "How change language: You can change in the game settings.",
+    "subName": "Portable V1.0 & Build 15276260",
+    "description": "『Japanese House Exploration』is a first-person puzzle horror adventure game set in a traditional Japanese house. You explore a house that is both eerie and nostalgic. To find a dear friend.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053390/header.jpg?t=1722822037",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257034112/movie480_vp9.webm?t=1720067182",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Japanese.House.Exploration-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142557&p=3102811&hilit=#p3102811",
+    "download": "https://filecrypt.cc/Container/129D5B233E.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-08T00:11:17.359Z",
+    "steamID": "3053390",
+    "genres": "Action, Indie"
+  },
+  {
+    "name": "Himegashima Island",
+    "id": "Himegashima_Island",
+    "notes": "",
+    "subName": "Portable V08.08.2024 & Build 15216593",
+    "description": "Kokomi is sent to the island of Himegashima, where his cousin demands that he spend his summer making happy memories. Having grown up sheltered, there's a whole new world of things for Kokomi to experience.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2991400/header.jpg?t=1722658205",
+    "gameplay": "https://www.youtube.com/watch?v=zWgmIQNyw48",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Himegashima.Island-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142473&p=3102784&hilit=#p3102784",
+    "download": "https://filecrypt.cc/Container/10D62EA54F.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-08T00:08:52.702Z",
+    "steamID": "2991400",
+    "genres": "Adventure, RPG, Simulation"
+  },
+  {
+    "name": "Haunted Elevator - 闹鬼电梯",
+    "id": "Haunted_Elevator",
+    "notes": "",
+    "subName": "Portable V08.08.2024 & Build 15216017",
+    "description": "Play as a photographer compelled by a haunted elevator to uncover a tragic story. Find dark secrets about your company, using your camera and choices to seek justice or follow a darker path. The outcome is in your hands.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113530/header.jpg?t=1722694508",
+    "gameplay": "https://www.youtube.com/watch?v=nM8QUDpI5m0",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Haunted.Elevator-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142555&p=3102799&hilit=#p3102799",
+    "download": "https://filecrypt.cc/Container/C8A83F54F1.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-08T00:10:31.009Z",
+    "steamID": "3113530",
+    "genres": "Indie"
+  },
+  {
+    "name": "Five Nights at Freddy's: Into the Pit",
+    "id": "Five_Nights_at_Freddy_s_Into_the_Pit",
+    "notes": "",
+    "subName": "Portable V1.0.0.2b & Build 15294217",
+    "description": "Survive five nights of terror in this chilling adventure game. Travel between time periods to solve puzzles, gather clues, and outrun the threat relentlessly pursuing you. Move swiftly and stay hidden, and you may just survive. But be careful—it's not just your own life that’s on the line this time.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638370/header.jpg?t=1723065423",
+    "gameplay": "https://www.youtube.com/watch?v=2pTYUVB6-zM",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "Kirigiri",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141235&p=3102796&hilit=#p3102796"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141235&p=3102821&hilit=#p3102821",
+    "download": "https://filecrypt.cc/Container/F3EA7417CF.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-08T00:40:57.867Z",
+    "steamID": "2638370",
+    "genres": "Action, Adventure, Indie"
   }
 ]
