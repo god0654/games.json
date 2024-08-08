@@ -20006,5 +20006,29 @@
     "dateUpdated": "2024-08-08T13:25:58.326Z",
     "steamID": "1232580",
     "genres": "Adventure, Indie, RPG, Strategy"
+  },
+  {
+    "name": "Dungeons 4: The Good, the Bad and the Evil - Deluxe Edition",
+    "id": "Dungeons_4",
+    "notes": "",
+    "subName": "Portable V1.6 + Build 15302506 & DLCs Included",
+    "description": "The Absolute Evil and its trusted *cough* servant, the Dark Elf Thalya, return in Dungeons 4 after the events of its fabulous predecessor to bring about their triumph over the forces of good once more.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2964020.webp",
+    "gameplay": "https://www.youtube.com/watch?v=jlXHldh0TlQ",
+    "tags": [
+      "gse",
+      "steamless"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Dungeons.4.The.Good.the.Bad.and.the.Evil-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=125689&p=3103118&hilit=#p3103118",
+    "download": "https://filecrypt.cc/Container/D81A368B3F.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-08T14:27:09.204Z",
+    "steamID": "2964020",
+    "genres": "Simulation, Strategy"
   }
 ]
