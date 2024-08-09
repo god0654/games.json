@@ -20147,5 +20147,28 @@
     "dateUpdated": "2024-08-08T21:18:14.776Z",
     "steamID": "2400510",
     "genres": "Casual, Indie, RPG, Strategy"
+  },
+  {
+    "name": "Depersonalization",
+    "id": "Depersonalization",
+    "notes": "",
+    "subName": "Portable V2.0.0-7930 & Build 15314929",
+    "description": "Dice! Tabletop role-playing games! Cthulhu! Diverse story modules! Rich branching narratives! We are prisoners of fate, but sometimes we also roll the dice and create miracles!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477070/header.jpg?t=1723192346",
+    "gameplay": "https://www.youtube.com/watch?v=z88x93AzxKs",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Depersonalization-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=123805&p=3103613&hilit=#p3103613",
+    "download": "https://filecrypt.cc/Container/F9AD37B836.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-09T09:24:30.930Z",
+    "steamID": "1477070",
+    "genres": "Adventure, Casual, Indie, RPG, Strategy"
   }
 ]
