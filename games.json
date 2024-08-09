@@ -20193,5 +20193,28 @@
     "dateUpdated": "2024-08-09T13:22:58.042Z",
     "steamID": "2429350",
     "genres": "Casual"
+  },
+  {
+    "name": "VLADiK BRUTAL",
+    "id": "VLADiK_BRUTAL",
+    "notes": "",
+    "subName": "Portable V09.08.2024 & Build 15319585",
+    "description": "Fight under the onslaught of mutated monsters, obsessed soldiers and even darker bosses. Just try to survive and find out what to do next in this life, simultaneously tearing your enemies to pieces.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1316680/header.jpg?t=1723215785",
+    "gameplay": "https://www.youtube.com/watch?v=08Fkh-YP3VY",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "DOGE",
+      "link": "https://api.predb.net/nfoimg/VLADiK.BRUTAL-DOGE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=125907&p=3103865&hilit=#p3103865",
+    "download": "https://filecrypt.cc/Container/D1CFB660C9.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-09T17:36:24.799Z",
+    "steamID": "1316680",
+    "genres": "Action, Adventure, Casual"
   }
 ]
