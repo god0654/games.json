@@ -20216,5 +20216,28 @@
     "dateUpdated": "2024-08-09T17:36:24.799Z",
     "steamID": "1316680",
     "genres": "Action, Adventure, Casual"
+  },
+  {
+    "name": "Train Valley World",
+    "id": "Train_Valley_World",
+    "notes": "",
+    "subName": "Portable V370 - 7ee193cd & Build 15318608",
+    "description": "Train Valley World is an engrossing transport tycoon inspired by the genre classics. Build and manage efficient railroads across the globe, create sophisticated logistics chains, design your own levels, and become a business mogul – solo or in multiplayer!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244470/header.jpg?t=1723218617",
+    "gameplay": "https://www.youtube.com/watch?v=cZK1zyX9tXs",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TiNYiSO",
+      "link": "https://api.predb.net/nfoimg/Train.Valley.World-TiNYiSO.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134035&p=3104038&hilit=#p3104038",
+    "download": "https://filecrypt.cc/Container/DB94ACD4C6.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-09T22:41:10.819Z",
+    "steamID": "2244470",
+    "genres": "Indie, Simulation, Strategy"
   }
 ]
