@@ -20170,5 +20170,28 @@
     "dateUpdated": "2024-08-09T09:24:30.930Z",
     "steamID": "1477070",
     "genres": "Adventure, Casual, Indie, RPG, Strategy"
+  },
+  {
+    "name": "myPOPGOES",
+    "id": "myPOPGOES",
+    "notes": "Note: Launch steamclient_loader_x32.exe in ''myPOPGOES\\'' to play the game.",
+    "subName": "Portable V1.1.1 & Build 15279993",
+    "description": "\"Of course you'll never get to experience Freddy Fazbear's Pizza like I did. And maybe that's a good thing. But a few months ago, I wondered... What if Popgoes could?\"",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2429350/header.jpg?t=1722544751",
+    "gameplay": "https://www.youtube.com/watch?v=raH4YqA4gQg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Krays & The Poet",
+      "link": "https://store.steampowered.com/app/2429350/myPOPGOES/"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142406&p=3103701&hilit=#p3103701",
+    "download": "https://filecrypt.cc/Container/DE3BEB38A1.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-09T13:22:58.042Z",
+    "steamID": "2429350",
+    "genres": "Casual"
   }
 ]
