@@ -3768,25 +3768,25 @@
     "genres": "Action, Adventure, RPG, Early Access"
   },
   {
-    "name": "CONSCRIPT",
+    "name": "CONSCRIPT - Officer Edition",
     "id": "CONSCRIPT",
     "notes": "",
-    "subName": "Portable V1.0.0.2 + Build 15110278 + DLCs Included",
+    "subName": "Portable V1.0.1.1 + Build 15299009 & DLCs Included",
     "description": "During the First World War, a lone French soldier must navigate twisted trenches, scavenge for limited supplies and solve complex puzzles - all whilst fighting for survival in the midst of mankind’s most brutal and horrifying conflict. CONSCRIPT is a new take on classic survival horror.",
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286990/header.jpg?t=1721750616",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1066636/header_ratio.jpg?t=1721752114",
     "gameplay": "https://www.youtube.com/watch?v=nEC9DSruEmM",
     "tags": [
       "gse"
     ],
     "based": {
-      "info": "csf",
-      "credits": "gingermatic ",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=107356&p=3094168&hilit=#p3094168"
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/CONSCRIPT.Update.v1.0.1.1-TENOKE.png"
     },
-    "download": "https://filecrypt.cc/Container/55355B53D3.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=107356&p=3104112&hilit=#p3104112",
+    "download": "https://filecrypt.cc/Container/022F9B9314.html",
     "achievements": true,
-    "dateUpdated": "2024-07-23T19:40:11.633Z",
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=107356&p=3094231&hilit=#p3094231",
+    "dateUpdated": "2024-08-10T00:47:28.778Z",
     "steamID": "1286990",
     "genres": "Action, Adventure, Indie"
   },
@@ -19942,7 +19942,7 @@
     "name": "Cat Quest III",
     "id": "Cat_Quest_III",
     "notes": "",
-    "subName": "Portable V1.1.1 + Build 15234726 & DLC Included",
+    "subName": "Portable V1.1.3 + Build 15304958 & DLC Included",
     "description": "In Cat Quest III you play as a purrivateer in a freely explorable 2.5D open-world swarming with Pi-rats. You can sail the seas in your ship for treasures galore! But prepare for peril, as the Pirate King aims to hunt you down...",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2305840/header.jpg?t=1723100683",
     "gameplay": "https://www.youtube.com/watch?v=q8y7vnYABvM",
@@ -19952,12 +19952,12 @@
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Cat.Quest.III-TENOKE.png"
+      "link": "https://api.predb.net/nfoimg/Cat.Quest.III.Update.v1.1.3-TENOKE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132917&p=3103038&hilit=#p3103038",
-    "download": "https://filecrypt.cc/Container/4DA37D0A31.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132917&p=3104063&hilit=#p3104063",
+    "download": "https://filecrypt.cc/Container/6695A116E6.html",
     "achievements": true,
-    "dateUpdated": "2024-08-08T12:10:15.658Z",
+    "dateUpdated": "2024-08-09T23:09:12.180Z",
     "steamID": "2305840",
     "genres": "Action, Adventure, Indie, RPG"
   },
@@ -20239,5 +20239,51 @@
     "dateUpdated": "2024-08-09T22:41:10.819Z",
     "steamID": "2244470",
     "genres": "Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Natsu-Mon: 20th Century Summer Kid - Sunset Bundle",
+    "id": "Natsu_Mon_20th_Century_Summer_Kid",
+    "notes": "",
+    "subName": "Portable V10.08.2024 + Build 15111170 & DLC Included",
+    "description": "A circus troupe comes to Yomogi Town, a rural town in Japan situated between mountains and the ocean. As the son of the circus ringmaster, enjoy a special summer filled with adventures! All of Yomogi Town and the nature surrounding it are an open world where you can enjoy summer to its fullest.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2839280.webp",
+    "gameplay": "https://www.youtube.com/watch?v=j1FxHCxG5Cc",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Natsu-Mon.20th.Century.Summer.Kid-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142035&p=3104082&hilit=#p3104082",
+    "download": "https://filecrypt.cc/Container/9F3B924BF2.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-09T23:40:40.293Z",
+    "steamID": "2839280",
+    "genres": "Adventure"
+  },
+  {
+    "name": "Bewitching Sinners",
+    "id": "Bewitching_Sinners",
+    "notes": "",
+    "subName": "Portable V10.08.2024 & Build 15171124",
+    "description": "Bewitching Sinners is a dark comedy dating sim where your choices will either leave you with your true love or ruin a whole world and potentially killing millions of people within it, no pressure! Explore a fantasy world full of witches, hot priests, and the occasional dance with death.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2615670/header.jpg?t=1719545595",
+    "gameplay": "https://www.youtube.com/watch?v=nRSkvbJmYL0",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Bewitching.Sinners-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142603&p=3104091&hilit=#p3104091",
+    "download": "https://filecrypt.cc/Container/A7CAEC5793.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-10T00:06:11.587Z",
+    "steamID": "2615670",
+    "genres": "Casual, Indie"
   }
 ]
