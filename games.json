@@ -20285,5 +20285,28 @@
     "dateUpdated": "2024-08-10T00:06:11.587Z",
     "steamID": "2615670",
     "genres": "Casual, Indie"
+  },
+  {
+    "name": "Aero GPX",
+    "id": "Aero_GPX",
+    "notes": "",
+    "subName": "Portable V09.08.2024 & Build 15277208",
+    "description": "Aero GPX is an anti-gravity racer focused on high velocity, flight, machine-to-machine combat, and responsive controls that are easy to pick up but difficult to master. Fight for the best position possible with high speeds, risky maneuvers, and visceral attacks!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2160360/header.jpg?t=1722969219",
+    "gameplay": "https://www.youtube.com/watch?v=BHbg8DQgY9c",
+    "tags": [
+      "steamless"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "ozorah",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=128271&p=3104077&hilit=#p3104077"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=128271&p=3104412&hilit=#p3104412",
+    "download": "https://filecrypt.cc/Container/E29BE40CA1.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-10T15:04:23.686Z",
+    "steamID": "2160360",
+    "genres": "Action, Racing"
   }
 ]
