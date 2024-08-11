@@ -19942,7 +19942,7 @@
     "name": "Cat Quest III",
     "id": "Cat_Quest_III",
     "notes": "",
-    "subName": "Portable V1.1.3 + Build 15304958 & DLC Included",
+    "subName": "Portable V1.1.4 + Build 15315103 & DLC Included",
     "description": "In Cat Quest III you play as a purrivateer in a freely explorable 2.5D open-world swarming with Pi-rats. You can sail the seas in your ship for treasures galore! But prepare for peril, as the Pirate King aims to hunt you down...",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2305840/header.jpg?t=1723100683",
     "gameplay": "https://www.youtube.com/watch?v=q8y7vnYABvM",
@@ -19952,12 +19952,12 @@
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Cat.Quest.III.Update.v1.1.3-TENOKE.png"
+      "link": "https://api.predb.net/nfoimg/Cat.Quest.III.Update.v1.1.4-TENOKE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132917&p=3104063&hilit=#p3104063",
-    "download": "https://filecrypt.cc/Container/6695A116E6.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132917&p=3104689&hilit=#p3104689",
+    "download": "https://filecrypt.cc/Container/093D91CCE0.html",
     "achievements": true,
-    "dateUpdated": "2024-08-09T23:09:12.180Z",
+    "dateUpdated": "2024-08-11T00:23:31.066Z",
     "steamID": "2305840",
     "genres": "Action, Adventure, Indie, RPG"
   },
@@ -20308,5 +20308,51 @@
     "dateUpdated": "2024-08-10T15:04:23.686Z",
     "steamID": "2160360",
     "genres": "Action, Racing"
+  },
+  {
+    "name": "The Crush House",
+    "id": "The_Crush_House",
+    "notes": "",
+    "subName": "Portable V1.1.9679 & Build 15319714",
+    "description": "Film and produce 1999's hottest reality TV show: The Crush House! Select a crush-worthy cast, satisfy voracious audiences and keep the show on air to uncover the sinister secrets behind this darkly comic thirst-person shooter.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2337820/header.jpg?t=1723232889",
+    "gameplay": "https://www.youtube.com/watch?v=ptoBACU80WY",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/The.Crush.House-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141263&p=3104675&hilit=#p3104675",
+    "download": "https://filecrypt.cc/Container/C96B9DAC7A.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-11T00:25:23.649Z",
+    "steamID": "2337820",
+    "genres": "Adventure, Simulation"
+  },
+  {
+    "name": "Meowsterpiece Museum",
+    "id": "Meowsterpiece_Museum",
+    "notes": "",
+    "subName": "Portable V11.08.2024 & Build 15311790",
+    "description": "Great painters love cats and hid them in their masterpieces. Your mission is to find them and make the paintings even more beautiful.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807600/header.jpg?t=1723165318",
+    "gameplay": "https://www.youtube.com/watch?v=jalesEc11Ps",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Meowsterpiece.Museum-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142617&p=3104684&hilit=#p3104684",
+    "download": "https://filecrypt.cc/Container/97226603F4.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-11T00:27:06.953Z",
+    "steamID": "2807600",
+    "genres": "Casual"
   }
 ]
