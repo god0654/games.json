@@ -20354,5 +20354,52 @@
     "dateUpdated": "2024-08-11T00:27:06.953Z",
     "steamID": "2807600",
     "genres": "Casual"
+  },
+  {
+    "name": "I Wani Hug that Gator!",
+    "id": "I_Wani_Hug_that_Gator",
+    "notes": "",
+    "subName": "Portable V1.6.0 & Build 15272720",
+    "description": "I Wani Hug that Gator! Is a choice-driven narrative about teenagers struggling to find their way. Help Inco, loser highschooler extraordinaire, navigate his budding friendships (and romance!) while surviving being the only human in a dinosaur-filled school.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895350/header.jpg?t=1722977764",
+    "gameplay": "https://www.youtube.com/watch?v=o50gMb1ZYKc",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/I.Wani.Hug.that.Gator.v1.6.0-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138312&p=3105194&hilit=#p3105194",
+    "download": "https://filecrypt.cc/Container/A1EB4E70C8.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-11T23:41:39.382Z",
+    "steamID": "1895350",
+    "genres": ""
+  },
+  {
+    "name": "Roots of Pacha + Soundtrack Bundle",
+    "id": "Roots_of_Pacha",
+    "notes": "Note: GoldBerg Emu with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" folder and open Steam before launch.",
+    "subName": "Portable V1.2.0 (2) & Build 15242459",
+    "description": "Be a part of a thriving stone age community. Discover “ideas,” domesticate crops, befriend animals, and contribute to the growth of your village. Play with friends in co-op or explore the early days of civilization in single-player.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245560/header_alt_assets_1.jpg?t=1722449197",
+    "gameplay": "https://www.youtube.com/watch?v=6I5H7W6Hz50",
+    "tags": [
+      "gse",
+      "ofme"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Roots.of.Pacha.v1.2.0.2-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=105174&p=3105202&hilit=#p3105202",
+    "download": "https://filecrypt.cc/Container/1B64F614ED.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-12T00:37:39.323Z",
+    "steamID": "1245560",
+    "genres": "Indie, RPG, Simulation"
   }
 ]
