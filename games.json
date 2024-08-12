@@ -20406,7 +20406,7 @@
     "name": "Mr. Prepper: Custom Game Settings - Anniversary Edition",
     "id": "Mr__Prepper",
     "notes": "",
-    "subName": "Portable | V1.34f + Build 15263048 & DLCs Included",
+    "subName": "Portable V1.34f + Build 15263048 & DLCs Included",
     "description": "Mr. Prepper is about being prepared. You know something is wrong. The risk of a nuclear war is in the air and you need to get ready for what's coming.",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/25279/dxdpt9bo1pmh3p0v/header_ratio.jpg?t=1678450900",
     "gameplay": "https://www.youtube.com/watch?v=z2jErBYWym4",
@@ -20424,5 +20424,28 @@
     "dateUpdated": "2024-08-12T01:07:54.863Z",
     "steamID": "761830",
     "genres": "Action, Adventure, Casual, Indie, RPG, Simulation"
+  },
+  {
+    "name": "GUILTY GEAR -STRIVE- Blazing Edition",
+    "id": "GUILTY_GEAR__STRIVE",
+    "notes": "",
+    "subName": "Portable V1.39 + Build 15201854 & DLCs Included",
+    "description": "The cutting-edge 2D/3D hybrid graphics pioneered in the Guilty Gear series have been raised to the next level in “GUILTY GEAR -STRIVE-“. The new artistic direction and improved character animations will go beyond anything you’ve seen before in a fighting game!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1384160.webp",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257044072/movie480_vp9.webm?t=1723001541",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/GUILTY.GEAR.STRIVE.v1.39-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=107031&p=3105303&hilit=#p3105303",
+    "download": "https://filecrypt.cc/Container/F4D052D355.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-12T09:43:21.688Z",
+    "steamID": "1384160",
+    "genres": "Action"
   }
 ]
