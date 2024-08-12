@@ -15824,27 +15824,27 @@
     "genres": "Adventure, Casual, Indie"
   },
   {
-       "name": "Millennia: Ancient Worlds - Expansion Pass",
-       "id": "Millennia",
-       "notes": "",
-       "subName": "Portable V1.0.21444.F + Build 15307926 & DLCs Included",
-       "description": "Create your own nation in Millennia, a historical turn-based 4X game that challenges your strategic prowess across 10,000 years of history, from the dawn of humanity to our possible futures.",
-       "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2829680.webp",
-       "gameplay": "https://www.youtube.com/watch?v=MtRoczdjW6A",
-       "tags": [
-       "gse"
-       ],
-        "based": {
-        "info": "nfo",
-        "credits": "RUNE",
-        "link": "https://api.predb.net/nfoimg/Millennia.Ancient.Worlds-RUNE.png"
-       },
-         "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135519&p=3105492&hilit=#p3105492",
-         "download": "https://filecrypt.cc/Container/8E6FBCA594.html",
-         "achievements": true,
-         "dateUpdated": "2024-08-12T17:14:43.140Z",
-          "steamID": "1268590",
-          "genres": "Simulation, Strategy"
+    "name": "Millennia: Ancient Worlds - Expansion Pass",
+    "id": "Millennia",
+    "notes": "",
+    "subName": "Portable V1.0.21444.F + Build 15307926 & DLCs Included",
+    "description": "Create your own nation in Millennia, a historical turn-based 4X game that challenges your strategic prowess across 10,000 years of history, from the dawn of humanity to our possible futures.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2829680.webp",
+    "gameplay": "https://www.youtube.com/watch?v=MtRoczdjW6A",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Millennia.Ancient.Worlds-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135519&p=3105492&hilit=#p3105492",
+    "download": "https://filecrypt.cc/Container/8E6FBCA594.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-12T17:14:43.140Z",
+    "steamID": "1268590",
+    "genres": "Simulation, Strategy"
   },
   {
     "name": "Valley Peaks",
@@ -15855,12 +15855,12 @@
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2107550/header.jpg?t=1721934879",
     "gameplay": "https://www.youtube.com/watch?v=1DC7GrJqIp4",
     "tags": [
-    "gse"
+      "gse"
     ],
     "based": {
-    "info": "nfo",
-    "credits": "TENOKE",
-    "link": "https://api.predb.net/nfoimg/Valley.Peaks-TENOKE.png"
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Valley.Peaks-TENOKE.png"
     },
     "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127824&p=3095681&hilit=#p3095681",
     "download": "https://filecrypt.cc/Container/68BD190FA4.html",
@@ -20374,9 +20374,9 @@
     "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138312&p=3105194&hilit=#p3105194",
     "download": "https://filecrypt.cc/Container/A1EB4E70C8.html",
     "achievements": true,
-    "dateUpdated": "2024-08-11T23:41:39.382Z",
+    "dateUpdated": "2024-08-12T17:11:55.254Z",
     "steamID": "1895350",
-          "genres": " Casual, Indie"
+    "genres": " Casual, Indie"
   },
   {
     "name": "Roots of Pacha + Soundtrack Bundle",
@@ -20470,5 +20470,28 @@
     "dateUpdated": "2024-08-12T15:53:48.201Z",
     "steamID": "2283880",
     "genres": "Action, RPG"
+  },
+  {
+    "name": "Nova Drift Game & Soundtrack Bundle",
+    "id": "Nova_Drift",
+    "notes": "",
+    "subName": "Portable V1.0 & Build 15295144",
+    "description": "Nova Drift distills the mechanical depth and strategy of an ARPG into classic arcade space combat. Control an endlessly evolving bio-mechanical ship, face legions of strange and deadly foes, and ride the wake of a dying star across the void.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858210/header.jpg?t=1723465444",
+    "gameplay": "https://www.youtube.com/watch?v=QWQTL6-iPG8",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "lanternjoe",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=91222&p=2965112&hilit=#p2965112"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=91222&p=3105587&hilit=#p3105587",
+    "download": "https://filecrypt.cc/Container/839D44AA34.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-12T20:02:09.192Z",
+    "steamID": "858210",
+    "genres": "Action, Indie"
   }
 ]
