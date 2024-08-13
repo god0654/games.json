@@ -10852,27 +10852,28 @@
     "genres": "Action, Casual, Indie"
   },
   {
-    "name": "Abiotic Factor",
+    "name": "Abiotic Factor - Crush Depth",
     "id": "Abiotic_Factor",
-    "notes": "",
-    "subName": "Portable V0.8.0.9766 & Build 14239853",
+    "notes": "Note: GoldBerg Emu with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" folder and open Steam before launch.",
+    "subName": "Portable V0.9.0.11281 + Build 15340670 & Online Supported",
     "description": "Abiotic Factor is a survival crafting experience for 1-6 players set in the depths of an underground research facility. Caught between paranormal containment failure, a military crusade, and chaos from a dozen realms, the world’s greatest minds must survive against the universe’s biggest threats.",
-    "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/427410/header.jpg?t=1714694871",
-    "gameplay": "https://youtu.be/YxhVCUH1j3I",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/header.jpg?t=1723485424",
+    "gameplay": "https://www.youtube.com/watch?v=3amLNBSMP8k",
     "tags": [
-      "gse"
+      "gse",
+      "ofme"
     ],
     "based": {
       "info": "csf",
-      "credits": "LucysLittleHelper",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=136559&p=3044124&hilit=#p3044124"
+      "credits": "xChingChongX",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=136559&p=3105618&hilit=#p3105618"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=136559&p=3044491&hilit=#p3044491",
-    "download": "https://filecrypt.cc/Container/404A7CD8B0.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=136559&p=3106122&hilit=#p3106122",
+    "download": "https://filecrypt.cc/Container/B369C975E1.html",
     "achievements": true,
-    "dateUpdated": "2024-07-24T19:56:51.730Z",
+    "dateUpdated": "2024-08-13T19:29:04.645Z",
     "steamID": "427410",
-    "genres": "Action, Adventure, RPG, Simulation, Early Access"
+    "genres": "Action, Adventure, RPG, Simulation"
   },
   {
     "name": "Great Houses of Calderia - Deluxe Edition",
@@ -20631,5 +20632,28 @@
     "dateUpdated": "2024-08-13T09:35:56.449Z",
     "steamID": "2090760",
     "genres": "Action, Indie, Strategy"
+  },
+  {
+    "name": "Tavern Manager Simulator",
+    "id": "Tavern_Manager_Simulator",
+    "notes": "",
+    "subName": "Portable V1.0.0 & Build 15357359",
+    "description": "Restore your fantasy tavern to its full glory. Repair, improve and expand the establishment. Cook delicious food and keep an eye on the mood of the visitors. Create a unique atmosphere for unforgettable adventures!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2756770/header.jpg?t=1723565747",
+    "gameplay": "https://www.youtube.com/watch?v=yGx4t4671ho",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Dound1946",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140043&p=3106048&hilit=#p3106048"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140043&p=3106118&hilit=#p3106118",
+    "download": "https://filecrypt.cc/Container/739F870CAC.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-13T19:31:52.715Z",
+    "steamID": "2756770",
+    "genres": "Casual, Indie, Simulation"
   }
 ]
