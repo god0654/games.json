@@ -4554,12 +4554,12 @@
     "genres": "Casual, Simulation"
   },
   {
-    "name": "Hero's Adventure: Road to Passion - The Great Conquest",
+    "name": "Hero's Adventure: Her Vanishing Silhouette - Jianghu Rogues Bundle",
     "id": "Hero's_Adventure_Road_to_Passion",
     "notes": "",
-    "subName": "Portable V1.2.0625b62 - Official Version + Build 14829549 & DLCs Included",
+    "subName": "Portable V1.2.0813b65 + Build 15353006 & DLCs Included",
     "description": "Hero's Adventure:Road to Passion is a wuxia open-world RPG. You will commence your journey as an underdog in the tumultuous Martial World and will be met with a wide array of choices as you navigate your own heroic saga.",
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948980/header.jpg?t=1719300617",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3128600.webp",
     "gameplay": "https://youtu.be/F6kZnvUl9q0",
     "tags": [
       "gse"
@@ -4567,12 +4567,12 @@
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Heros.Adventure.The.Great.Conquest-TENOKE.png"
+      "link": "https://api.predb.net/nfoimg/Heros.Adventure.Her.Vanishing.Silhouette-TENOKE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=130625&p=3078117&hilit=#p3078117",
-    "download": "https://filecrypt.cc/Container/B3C4719213.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=130625&p=3106008&hilit=#p3106008",
+    "download": "https://filecrypt.cc/Container/BA85945090.html",
     "achievements": true,
-    "dateUpdated": "2024-07-24T11:52:39.576Z",
+    "dateUpdated": "2024-08-13T15:13:14.825Z",
     "steamID": "1948980",
     "genres": "Adventure, Indie, RPG, Simulation"
   },
