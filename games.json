@@ -20585,5 +20585,28 @@
     "dateUpdated": "2024-08-13T00:23:18.669Z",
     "steamID": "3080380",
     "genres": "Action, Indie, Simulation"
+  },
+  {
+    "name": "Bopp Files",
+    "id": "Bopp_Files",
+    "notes": "How change language: You can change in the game settings.",
+    "subName": "Portable V13.08.2024 & Build 15344279",
+    "description": "A game similar to Exit No. 8, it combines spot-the-difference gameplay with room escape elements. Players are trapped in an apartment, the exit of which is blocked by a demon. The player needs to find the key in the looping space within the game to escape the room.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3016610/header.jpg?t=1723429876",
+    "gameplay": "https://www.youtube.com/watch?v=mnVOD8KJVKc",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Bopp.File-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142639&p=3105697&hilit=#p3105697",
+    "download": "https://filecrypt.cc/Container/C1B2CDD6EE.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-13T00:45:26.115Z",
+    "steamID": "3016610",
+    "genres": "Adventure, Indie"
   }
 ]
