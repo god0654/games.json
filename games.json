@@ -20539,5 +20539,51 @@
     "dateUpdated": "2024-08-12T23:01:42.912Z",
     "steamID": "1313140",
     "genres": "Action, Adventure, Indie, Strategy"
+  },
+  {
+    "name": "The Bathhouse - 地獄銭湯 Restored Edition",
+    "id": "The_Bathhouse_Restored_Edition",
+    "notes": "",
+    "subName": "Portable V1.03 & Build 15328485",
+    "description": "The Bathhouse | 地獄銭湯 Remake is a Japanese horror game that revolves around working at a bathhouse. A complete revamp of the original bathhouse.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989950/header.jpg?t=1723351415",
+    "gameplay": "https://www.youtube.com/watch?v=xIhy-6DpoZE",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/The.Bathhouse.Restored.Edition-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142642&p=3105686&hilit=#p3105686",
+    "download": "https://filecrypt.cc/Container/CFF4AAFC0E.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-12T23:54:58.812Z",
+    "steamID": "2989950",
+    "genres": "Indie"
+  },
+  {
+    "name": "Violent Horror Stories: anthology",
+    "id": "Violent_Horror_Stories_anthology",
+    "notes": "",
+    "subName": "Portable V13.08.2024 & Build 15334378",
+    "description": "4 short horror games from different authors and in different genres. Each game is an author's vision on the theme of 'pursuit'.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3080380/header.jpg?t=1723023448",
+    "gameplay": "https://www.youtube.com/watch?v=ZuCxuzOUfXw",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Violent.Horror.Stories.anthology-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142643&p=3105692&hilit=#p3105692",
+    "download": "https://filecrypt.cc/Container/C71F3D76A5.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-13T00:23:18.669Z",
+    "steamID": "3080380",
+    "genres": "Action, Indie, Simulation"
   }
 ]
