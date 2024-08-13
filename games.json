@@ -20520,7 +20520,7 @@
   {
     "name": "Cult of the Lamb: Unholy Alliance + Pilgrim Pack - The One Who Waits Bundle",
     "id": "Cult_of_the_Lamb",
-    "notes": "",
+    "notes": "Other DLCs unlockable, just add them in ''configs.app.ini''. (Not in _GSE Folder) ~ Thx to machine4578: https://cs.rin.ru/forum/viewtopic.php?f=10&t=115372&p=3105700&hilit=#p3105700",
     "subName": "Portable V1.4.3.228 + Build 15335541 & DLCs Included",
     "description": "Start your own cult in a land of false prophets, venturing out into diverse and mysterious regions to build a loyal community of woodland Followers and spread your Word to become the one true cult.",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313140/header_alt_assets_6.jpg?t=1723482464",
@@ -20536,7 +20536,7 @@
     "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=115372&p=3105658&hilit=#p3105658",
     "download": "https://filecrypt.cc/Container/243C03E9AA.html",
     "achievements": true,
-    "dateUpdated": "2024-08-12T23:01:42.912Z",
+    "dateUpdated": "2024-08-13T00:56:05.169Z",
     "steamID": "1313140",
     "genres": "Action, Adventure, Indie, Strategy"
   },
