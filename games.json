@@ -12547,25 +12547,26 @@
   {
     "name": "Hellbreach: Vegas",
     "id": "Hellbreach_Vegas",
-    "notes": "Instructions: 1- Launch Steam, go to your profile. 2- Launch the game via game.exe. 3- Log into your Epic Games Store account in the browser window that opens.  Thanks to OFME for the Files, Guide and Crack.",
-    "subName": "Portable V0.1.3 + Build 13822269 & Online Supported",
+    "notes": "Note: GoldBerg with Achievements, Stats and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch. (Also need an Epic Games account for proper operation)",
+    "subName": "Portable V1.0 - Full Version + Build 15365111 & Online Supported",
     "description": "Hellbreach: Vegas is a Wave-based First-Person Shooter for 1-4 players, made with passion by a one man dev team! Set your loadout, kill, and earn cash. Take a spin on the various slot machines and level up to improve your survival chances. Are you ready to try your luck?",
-    "thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1691320/header.jpg?t=1710177253",
-    "gameplay": "https://youtu.be/2PscIi0VAG8",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1691320/header.jpg?t=1723654612",
+    "gameplay": "https://www.youtube.com/watch?v=ZccakOdpJHc",
     "tags": [
+      "gse",
       "ofme"
     ],
     "based": {
-      "info": "release",
-      "credits": "Online-Fix.me",
-      "link": "https://online-fix.me/games/officialservers/17475-hellbreach-vegas-po-seti.html"
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Hellbreach.Vegas-RUNE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127402&p=3036748&hilit=#p3036748",
-    "download": "https://filecrypt.cc/Container/C5EE20A322.html",
-    "achievements": false,
-    "dateUpdated": "2024-07-25T11:15:27.697Z",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127402&p=3106629&hilit=#p3106629",
+    "download": "https://filecrypt.cc/Container/DAD1D25D8F.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-14T18:21:24.921Z",
     "steamID": "1691320",
-    "genres": "Action, Indie, Early Access"
+    "genres": "Action, Indie"
   },
   {
     "name": "Infection Free Zone",
