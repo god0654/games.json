@@ -20638,7 +20638,7 @@
     "name": "Tavern Manager Simulator",
     "id": "Tavern_Manager_Simulator",
     "notes": "",
-    "subName": "Portable V1.0.0 & Build 15357359",
+    "subName": "Portable V1.0.1 & Build 15372371",
     "description": "Restore your fantasy tavern to its full glory. Repair, improve and expand the establishment. Cook delicious food and keep an eye on the mood of the visitors. Create a unique atmosphere for unforgettable adventures!",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2756770/header.jpg?t=1723565747",
     "gameplay": "https://www.youtube.com/watch?v=yGx4t4671ho",
@@ -20648,12 +20648,12 @@
     "based": {
       "info": "csf",
       "credits": "Dound1946",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140043&p=3106048&hilit=#p3106048"
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140043&p=3106656&hilit=#p3106656"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140043&p=3106118&hilit=#p3106118",
-    "download": "https://filecrypt.cc/Container/739F870CAC.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140043&p=3106780&hilit=#p3106780",
+    "download": "https://filecrypt.cc/Container/49D7E7A459.html",
     "achievements": true,
-    "dateUpdated": "2024-08-13T19:31:52.715Z",
+    "dateUpdated": "2024-08-14T23:35:34.279Z",
     "steamID": "2756770",
     "genres": "Casual, Indie, Simulation"
   },
@@ -20725,5 +20725,51 @@
     "dateUpdated": "2024-08-14T16:43:10.166Z",
     "steamID": "1040200",
     "genres": "Action, Simulation"
+  },
+  {
+    "name": "墙之恐惧: The Walls Still Stand",
+    "id": "The_Walls_Still_Stand",
+    "notes": "",
+    "subName": "Portable V15.08.2024 & Build 15338816",
+    "description": "Step into the eerie Kowloon Walled City in 墙之恐惧: The Walls Still Stand, an indie horror walking simulator. Complete daily tasks, uncover dark secrets, and explore with 3D spatial sound. Think critically to unlock all six endings in this 1-2 hour journey. Can you escape the city's grip?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3114650/header.jpg?t=1723448217",
+    "gameplay": "https://www.youtube.com/watch?v=GCmbeOTwdhA",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/The.Walls.Still.Stand-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142672&p=3106767&hilit=#p3106767",
+    "download": "https://filecrypt.cc/Container/FA66195305.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-14T23:24:46.336Z",
+    "steamID": "3114650",
+    "genres": "Adventure, Indie, Simulation"
+  },
+  {
+    "name": "Hidden Through Time 2: Discovery",
+    "id": "Hidden_Through_Time_2_Discovery",
+    "notes": "",
+    "subName": "Portable V1.0.50-1-0 & Build 15133877",
+    "description": "Hidden Through Time 2: Discovery is a cozy hidden object game that has you searching for hidden objects in hand-drawn, interactive landscapes. Ignite your imagination, unleash your inner artist with the editor and share your masterpieces with the world!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1094680/header.jpg?t=1723582257",
+    "gameplay": "https://www.youtube.com/watch?v=eq_YP2IRJqw",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Hidden.Through.Time.2.Discovery-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142671&p=3106787&hilit=#p3106787",
+    "download": "https://filecrypt.cc/Container/E42C8FB3D1.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-14T23:56:53.234Z",
+    "steamID": "1094680",
+    "genres": "Casual, Indie"
   }
 ]
