@@ -20678,5 +20678,51 @@
     "dateUpdated": "2024-08-13T23:11:40.037Z",
     "steamID": "2316030",
     "genres": "Simulation"
+  },
+  {
+    "name": "Sam & Max: The Devil's Playhouse",
+    "id": "Sam_Max__The_Devils_Playhouse",
+    "notes": "",
+    "subName": "Portable V1.2.0 & Build 15309571",
+    "description": "The last game in the episodic Sam & Max trilogy, beautifully remastered! As the intergalactic villains who seek the Devil’s Toybox close in and Max’s psychic abilities grow beyond his control, the Freelance Police will come up against their most frightening adversary yet: the power of Max’s mind.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2648050/header.jpg?t=1723650666",
+    "gameplay": "https://www.youtube.com/watch?v=M38qzgVwZ40",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Sam.and.Max.The.Devils.Playhouse-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=136852&p=3106568&hilit=#p3106568",
+    "download": "https://filecrypt.cc/Container/E25A68B90A.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-14T16:41:31.103Z",
+    "steamID": "2648050",
+    "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Crime Scene Cleaner",
+    "id": "Crime_Scene_Cleaner",
+    "notes": "",
+    "subName": "Portable V1.0.20-RELEASE & Build 15365701",
+    "description": "Once you get tangled with the mob, you will forever be a part of the mob. At least they pay a decent salary and all you have to do is clean up after their dirty work, but you know what you’re doing. So clean crime scenes, earn as much money as you can, and get ready for the next mission.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040200/header.jpg?t=1723647077",
+    "gameplay": "https://www.youtube.com/watch?v=TdFeQultVDA",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "FLT",
+      "link": "https://api.predb.net/nfoimg/Crime_Scene_Cleaner-FLT.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=97912&p=3106558&hilit=#p3106558",
+    "download": "https://filecrypt.cc/Container/E513CA0A5F.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-14T16:43:10.166Z",
+    "steamID": "1040200",
+    "genres": "Action, Simulation"
   }
 ]
