@@ -2981,7 +2981,7 @@
     "name": "For The King II: Dark Canival - Game & Soundtrack Bundle",
     "id": "For_The_King_II",
     "notes": "",
-    "subName": "Portable V1.2.4 + Build 14947573 + DLCs Included & Online Supported",
+    "subName": "Portable V1.2.15 - HotFix + Build 15281825 + DLCs Included & Online Supported",
     "description": "Battle against Fahrul's tyrannical Queen alone or as a party of four players in the sequel to For The King, the massively popular turn-based roguelite tabletop RPG. Will you unravel the once beloved Queen's terrible secret?",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1676840/header_alt_assets_10.jpg?t=1719508911",
     "gameplay": "https://youtu.be/Fzcu8_K9O2Y",
@@ -2990,14 +2990,14 @@
       "ofme"
     ],
     "based": {
-      "info": "basedon",
-      "credits": "ElAmigos",
-      "link": "https://elamigos.site/data/For_The_King_II_MULTi13_-_ElAmigos.html"
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/For.The.King.II.Dark.Carnival-RUNE.png"
     },
-    "download": "https://filecrypt.cc/Container/6EC6D12C96.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=122999&p=3106666&hilit=#p3106666",
+    "download": "https://filecrypt.cc/Container/DAF37A6FDA.html",
     "achievements": true,
-    "dateUpdated": "2024-07-23T11:58:09.051Z",
-    "csrinru": "",
+    "dateUpdated": "2024-08-14T19:44:56.580Z",
     "steamID": "1676840",
     "genres": "Adventure, Indie, RPG, Strategy"
   },
