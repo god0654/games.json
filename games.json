@@ -20771,5 +20771,28 @@
     "dateUpdated": "2024-08-14T23:56:53.234Z",
     "steamID": "1094680",
     "genres": "Casual, Indie"
+  },
+  {
+    "name": "Late Shift",
+    "id": "Late_Shift",
+    "notes": "",
+    "subName": "Portable V15.08.2024 & Build 12295368",
+    "description": "Late Shift is a high stakes FMV crime thriller. Forced into a brutal London heist, your choices matter in this interactive cinematic experience with adaptable storylines that lead to one of seven conclusions. Your decisions are you.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584980/header.jpg?t=1697110140",
+    "gameplay": "https://www.youtube.com/watch?v=QBrfvJoY7s4",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Late.Shift-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=78700&p=3106804&hilit=#p3106804",
+    "download": "https://filecrypt.cc/Container/4F1A266E2A.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-15T00:39:49.519Z",
+    "steamID": "584980",
+    "genres": "Adventure, Indie"
   }
 ]
