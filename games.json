@@ -20840,5 +20840,28 @@
     "dateUpdated": "2024-08-15T13:44:08.208Z",
     "steamID": "1575940",
     "genres": "Simulation, Strategy"
+  },
+  {
+    "name": "DREDGE: The Iron Rig - Complete The Set Bundle",
+    "id": "DREDGE",
+    "notes": "",
+    "subName": "Portable V1.5.1 - 2782 + Build 15194044 & DLCs Included",
+    "description": "DREDGE is a single-player fishing adventure with a sinister undercurrent. Sell your catch, upgrade your boat, and dredge the depths for long-buried secrets. Explore a mysterious archipelago and discover why some things are best left forgotten.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2561450.avif",
+    "gameplay": "https://www.youtube.com/watch?v=r5RT3uZaOS0",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "DOGE",
+      "link": "https://api.predb.net/nfoimg/DREDGE.The.Iron.Rig-DOGE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=114456&p=3107093&hilit=#p3107093",
+    "download": "https://filecrypt.cc/Container/BD496264A2.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-15T14:25:36.118Z",
+    "steamID": "1562430",
+    "genres": "Adventure, RPG"
   }
 ]
