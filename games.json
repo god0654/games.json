@@ -21047,5 +21047,28 @@
     "dateUpdated": "2024-08-16T11:56:54.556Z",
     "steamID": "3088410",
     "genres": "Action, Indie, RPG"
+  },
+  {
+    "name": "Farewell North",
+    "id": "Farewell_North",
+    "notes": "",
+    "subName": "Portable V1.0.18 & Build 15386081",
+    "description": "Restore color to the desolate islands of Farewell North, an atmospheric journey where you play as a border collie on an adventure with your human. Explore land and sea, uncover hidden paths and free wildlife to bring color back to her world, while revealing an emotional story about saying farewell.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432850/header.jpg?t=1723829768",
+    "gameplay": "https://www.youtube.com/watch?v=so00MY00jXA",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "SKIDROW",
+      "link": "https://api.predb.net/nfoimg/Farewell.North-SKIDROW.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=108773&p=3107839&hilit=#p3107839",
+    "download": "https://filecrypt.cc/Container/5D0A6F5577.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-16T18:17:11.857Z",
+    "steamID": "1432850",
+    "genres": "Adventure, Casual, Indie"
   }
 ]
