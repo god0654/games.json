@@ -20978,5 +20978,28 @@
     "dateUpdated": "2024-08-16T02:43:15.710Z",
     "steamID": "1924180",
     "genres": "Casual, Indie, Racing, Sports"
+  },
+  {
+    "name": "Regiments - Winds of Change Bundle",
+    "id": "Regiments",
+    "notes": "",
+    "subName": "Portable V1.4.0S.1609 + Build 15391098 & DLC Included",
+    "description": "Regiments is a Real-Time Tactics game set in Germany 1989. The Cold War has gone hot, and the inferno is raging. Lead your Regiment through the fires of conflict and the fog of war. Break through the lines, call in artillery, maneuver, feign retreats, stage defenses, counter-attack. Do not relent.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1109680.webp",
+    "gameplay": "https://www.youtube.com/watch?v=-CHrchyIJ38",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Regiments.Winds.of.Change-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=118959&p=3107575&hilit=#p3107575",
+    "download": "https://filecrypt.cc/Container/DF762F05C7.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-16T11:00:08.151Z",
+    "steamID": "1109680",
+    "genres": "Indie, Simulation, Strategy"
   }
 ]
