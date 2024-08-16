@@ -9169,7 +9169,7 @@
     "name": "MULLET MADJACK",
     "id": "MULLET_MADJACK",
     "notes": "",
-    "subName": "Portable V1.0b + Build 14376190 & DLCs Included",
+    "subName": "Portable V1.09 + Build 15358682 & DLCs Included",
     "description": "MULLET MADJACK is a single-player fast-paced FPS that brings you directly inside a CLASSIC ANIME. Power up your character and reach the last floor; Beat your best time or try again. Haste makes waste… OF YOUR ENEMIES!",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/2111190/header.jpg?t=1715807840",
     "gameplay": "https://youtu.be/NOprlVm1gq0",
@@ -9177,14 +9177,14 @@
       "gse"
     ],
     "based": {
-      "info": "basedon",
-      "credits": "chronos",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=133459&p=3051817&hilit=#p3051817"
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/MULLET.MADJACK.Update.v1.09-TENOKE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=133459&p=3051998&hilit=#p3051998",
-    "download": "https://filecrypt.cc/Container/32C2B1AED0.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=133459&p=3107360&hilit=#p3107360",
+    "download": "https://filecrypt.cc/Container/FFCB01A2B9.html",
     "achievements": true,
-    "dateUpdated": "2024-07-24T17:27:12.003Z",
+    "dateUpdated": "2024-08-16T00:01:58.285Z",
     "steamID": "2111190",
     "genres": "Action, Indie"
   },
