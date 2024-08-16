@@ -21001,5 +21001,28 @@
     "dateUpdated": "2024-08-16T11:00:08.151Z",
     "steamID": "1109680",
     "genres": "Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Love, Ghostie - Soundtrack Bundle",
+    "id": "Love_Ghostie",
+    "notes": "",
+    "subName": "Portable V1.0.0 & Build 15205356",
+    "description": "Become a wholesome ghost matchmaker and grow relationships between the manor’s residents! Gift items to lift their spirits, set them up on dates, and watch love bloom! Discover cute romances with a unique story between every pair of residents! How will love blossom in your manor?",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1789490.webp",
+    "gameplay": "https://www.youtube.com/watch?v=BK9ANb5TNH0",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "spiritovod",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142629&p=3105177&hilit=#p3105177"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142629&p=3107596&hilit=#p3107596",
+    "download": "https://filecrypt.cc/Container/02CFD8A459.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-16T11:37:09.388Z",
+    "steamID": "1789490",
+    "genres": "Casual, Indie, Simulation"
   }
 ]
