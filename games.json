@@ -20863,5 +20863,97 @@
     "dateUpdated": "2024-08-15T14:25:36.118Z",
     "steamID": "1562430",
     "genres": "Adventure, RPG"
+  },
+  {
+    "name": "Intravenous II - Supporter Bundle",
+    "id": "Intravenous_II",
+    "notes": "",
+    "subName": "Portable V1.0 + Build 15382119 & DLC Included",
+    "description": "Intravenous 2 is the ultimate blend of tactical gameplay and immersive storytelling. Will you embrace the shadows or confront your foes head-on? The choice is yours. Experience a new era of tactical stealth action. Save lives. Uncover secrets. Take vengeance.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2608270.webp",
+    "gameplay": "https://www.youtube.com/watch?v=NfLsHQZp22U",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Intravenous.2-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135666&p=3107371&hilit=#p3107371",
+    "download": "https://filecrypt.cc/Container/A54EA89671.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-16T00:47:35.036Z",
+    "steamID": "2608270",
+    "genres": "Action, Adventure, Strategy"
+  },
+  {
+    "name": "Tales & Tactics",
+    "id": "Tales_and_Tactics",
+    "notes": "",
+    "subName": "Portable V1.0.11 & Build 15383764",
+    "description": "Roguelike Squad-based Autobattler in a Tabletop RPG setting. Draft your army, carefully equip and position your units, make important choices, and meet a colorful cast of characters as you make ready for the Grand Tournament.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1652250/header_alt_assets_5.jpg?t=1723749673",
+    "gameplay": "https://www.youtube.com/watch?v=dQOYAbxnArk",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Tales.And.Tactics-TENOKE.png"
+    },
+    "csrinru": "",
+    "download": "https://filecrypt.cc/Container/877891E848.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-16T01:26:28.210Z",
+    "steamID": "1652250",
+    "genres": "Adventure, RPG, Strategy"
+  },
+  {
+    "name": "Arco - Soundtrack Bundle",
+    "id": "Arco",
+    "notes": "",
+    "subName": "Portable V15.08.2024-01 & Build 15382998",
+    "description": "Enter the breathtaking world of Arco, a dynamic tactical RPG where your decisions shape the story. Three tales forged in bloodshed, laced with magic, and united by revenge.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2366970.webp",
+    "gameplay": "https://www.youtube.com/watch?v=7W-MmB0mUlg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Arco-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135013&p=3107389&hilit=#p3107389",
+    "download": "https://filecrypt.cc/Container/F05A000C4C.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-16T01:53:11.753Z",
+    "steamID": "2366970",
+    "genres": "Action, Indie, Strategy"
+  },
+  {
+    "name": "Just Crow Things",
+    "id": "Just_Crow_Things",
+    "notes": "",
+    "subName": "Portable V1.0.4 & Build 15349401",
+    "description": "You're a little crow trying to prove herself to the world. Make new animal friends, poop on unsuspecting hoomans, and steal all the shiny trinkets! Each level is a little sandbox full of fun items to discover and puzzles to solve, while leaving a bit of chaos behind. Why? Just caws!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537920/header.jpg?t=1723741267",
+    "gameplay": "https://www.youtube.com/watch?v=bMwy-8_44rg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Just.Crow.Things-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134769&p=3107402&hilit=#p3107402",
+    "download": "https://filecrypt.cc/Container/75FDCCD770.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-16T02:19:47.976Z",
+    "steamID": "2537920",
+    "genres": "Action, Adventure, Casual, Indie, Simulation"
   }
 ]
