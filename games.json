@@ -531,13 +531,13 @@
     "genres": "Action, Indie"
   },
   {
-    "name": "Nickelodeon All-Star Brawl 2: Rocksteady Brawl - Ultimate Edition",
+    "name": "Nickelodeon All-Star Brawl 2: Iroh Brawl – Ultimate Edition",
     "id": "Nickelodeon_AllStar_Brawl_2",
-    "notes": "",
-    "subName": "Portable V1.11.0 - 24962s + Build 14537649 + DLCs Included & Online Supported",
+    "notes": "Note: GoldBerg with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.",
+    "subName": "Portable V1.12.0 – 25068 + Build 15069397 + DLCs Included & Online Supported",
     "description": "Nickelodeon All-Star Brawl 2 lets you duke it out with the biggest and best fighting character roster yet! Choose your favorite brawlers, master their unique move sets, and use all-new powerful Supers to land the finishing blow with friends or across a unique, roguelike player campaign!",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/36080/srjwkuxke0l8gwy6/header_ratio.jpg?t=1699958581",
-    "gameplay": "https://youtu.be/bjce9C64btY",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257044937/movie480_vp9.webm?t=1723824272",
     "tags": [
       "gse",
       "ofme",
@@ -545,13 +545,13 @@
     ],
     "based": {
       "info": "nfo",
-      "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Nickelodeon.All-Star.Brawl.2.Rocksteady.Brawl.Pack-TENOKE.png"
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Nickelodeon.All-Star.Brawl.2.Iroh.Brawl.Pack-RUNE.png"
     },
-    "download": "https://filecrypt.cc/Container/9D7A8C23CD.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135616&p=3107795&hilit=#p3107795",
+    "download": "https://filecrypt.cc/Container/27BDB396A2.html",
     "achievements": true,
-    "dateUpdated": "2024-07-23T14:53:29.786Z",
-    "csrinru": "",
+    "dateUpdated": "2024-08-16T17:21:11.569Z",
     "steamID": "2017080",
     "genres": "Action"
   },
