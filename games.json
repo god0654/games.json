@@ -13124,7 +13124,7 @@
     "name": "Content Warning",
     "id": "Content_Warning",
     "notes": "",
-    "subName": "Portable V1.9.b + Build 14020941 + Online & BepInEx Supported",
+    "subName": "Portable V1.18.c + Build 15187686 + Online with BepInEx Support",
     "description": "Film your friends doing scary things to become SpöökTube famous!",
     "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2881650/header.jpg?t=1712062853",
     "gameplay": "https://youtu.be/1LTS0Me6MR4",
@@ -13132,14 +13132,14 @@
       "ofme"
     ],
     "based": {
-      "info": "nfo",
-      "credits": "",
+      "info": "csf",
+      "credits": "✧GͥOͣDͫ✧",
       "link": "https://store.steampowered.com/app/2881650/Content_Warning/"
     },
     "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=139663&p=3033512&hilit=#p3033512",
-    "download": "https://filecrypt.cc/Container/A68879E4C7.html",
+    "download": "https://filecrypt.cc/Container/AF5B56CE7C.html",
     "achievements": false,
-    "dateUpdated": "2024-07-25T13:14:15.330Z",
+    "dateUpdated": "2024-08-16T14:32:51.719Z",
     "steamID": "2881650",
     "genres": "Action, Adventure, Indie"
   },
