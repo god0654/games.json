@@ -21024,5 +21024,28 @@
     "dateUpdated": "2024-08-16T11:37:09.388Z",
     "steamID": "1789490",
     "genres": "Casual, Indie, Simulation"
+  },
+  {
+    "name": "7th Domain: Tree of Chaos",
+    "id": "7th_Domain_Tree_of_Chaos",
+    "notes": "",
+    "subName": "Portable V1.1.2 & Build 14996629",
+    "description": "\"7th Domain\" is a horizontal version action game derived from Roguelike Metroidvania combined with treasure grinding gameplay. You will play a child of destiny who repairs the world and finds the truth of the broken world. You will grow in battle and challenge the unknown and hidden forces.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3088410/header.jpg?t=1723791938",
+    "gameplay": "https://www.youtube.com/watch?v=1T0zNEUWTno",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/7th.Domain.Tree.of.Chaos-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142697&p=3107609&hilit=#p3107609",
+    "download": "https://filecrypt.cc/Container/5BC8A3AD1F.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-16T11:56:54.556Z",
+    "steamID": "3088410",
+    "genres": "Action, Indie, RPG"
   }
 ]
