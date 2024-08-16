@@ -21070,5 +21070,28 @@
     "dateUpdated": "2024-08-16T18:17:11.857Z",
     "steamID": "1432850",
     "genres": "Adventure, Casual, Indie"
+  },
+  {
+    "name": "Coral Island OST Bundle",
+    "id": "Coral_Island",
+    "notes": "",
+    "subName": "Portable V1.1-1225 + Build 15368693 & DLCs Included",
+    "description": "Coral Island is a vibrant and laid-back reimagining of farm sim games. Be who you want and experience enchanting island living at your own pace—live off the land, nurture animals, build relationships with a diverse cast of townsfolk, and make the world around you a more vital and harmonious place.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1158160.webp",
+    "gameplay": "https://www.youtube.com/watch?v=XOdWW3Il9rc",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Coral.Island.Update.v1.1-1225-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=107904&p=3107868&hilit=#p3107868",
+    "download": "https://filecrypt.cc/Container/822D359E57.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-16T19:00:33.709Z",
+    "steamID": "1158160",
+    "genres": "Adventure, Casual, Indie, RPG, Simulation, Strategy"
   }
 ]
