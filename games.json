@@ -21116,5 +21116,51 @@
     "dateUpdated": "2024-08-17T00:08:33.473Z",
     "steamID": "2194530",
     "genres": "Indie, RPG, Simulation"
+  },
+  {
+    "name": "Artifice: War Tactics",
+    "id": "Artifice_War_Tactics",
+    "notes": "",
+    "subName": "Portable V1.0.8 - Official Release & Build 15318965",
+    "description": "Artifice: War Tactics is a turn-based strategy roguelike game with a unique asymmetric combat system. In this game, enemies set up attack zones, while your champions can actively evade and disrupt their strategy using their traits, abilities, or items.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1359730/header.jpg?t=1723813189",
+    "gameplay": "https://www.youtube.com/watch?v=eYjImZvJwWA",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Artifice.War.Tactics-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142709&p=3108084&hilit=#p3108084",
+    "download": "https://filecrypt.cc/Container/7D1AB7C95B.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-17T01:25:47.576Z",
+    "steamID": "1359730",
+    "genres": "Indie, Strategy"
+  },
+  {
+    "name": "Beach Club Simulator 2024",
+    "id": "Beach_Club_Simulator_2024",
+    "notes": "",
+    "subName": "Portable V1.0 & Build 15390763",
+    "description": "Beach Club Simulator is a very comprehensive beach management game. Develop your beach from zero to hero. Increase your earnings, popularity and business acumen. Enjoy the sea, sand and sun!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2856030/header.jpg?t=1723815818",
+    "gameplay": "https://www.youtube.com/watch?v=BOwdSj8xay4",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Beach.Club.Simulator.2024-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142710&p=3108095&hilit=#p3108095",
+    "download": "https://filecrypt.cc/Container/3E4DBCE277.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-17T01:50:42.906Z",
+    "steamID": "2856030",
+    "genres": "Indie, Simulation"
   }
 ]
