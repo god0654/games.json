@@ -21162,5 +21162,28 @@
     "dateUpdated": "2024-08-17T01:50:42.906Z",
     "steamID": "2856030",
     "genres": "Indie, Simulation"
+  },
+  {
+    "name": "Vampire Survivors: Darkasso - Game + All DLC + OST Bundle",
+    "id": "Vampire_Survivors",
+    "notes": "",
+    "subName": "Portable V1.11.108 + Build 15398048 & DLCs Included",
+    "description": "Mow down thousands of night creatures and survive until dawn! Vampire Survivors is a gothic horror casual game with rogue-lite elements, where your choices can allow you to quickly snowball against the hundreds of monsters that get thrown at you.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/header_alt_assets_6.jpg?t=1723810075",
+    "gameplay": "https://www.youtube.com/watch?v=ZY-SoV-A39s",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "nxbrew321",
+      "link": "https://store.steampowered.com/app/1794680/Vampire_Survivors/"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=118200&p=3108468&hilit=#p3108468",
+    "download": "https://filecrypt.cc/Container/B2644ADEE1.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-17T17:23:11.500Z",
+    "steamID": "1794680",
+    "genres": "Action, Casual, Indie, RPG"
   }
 ]
