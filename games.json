@@ -20061,7 +20061,7 @@
     "name": "SteamWorld Heist II - Deluxe Edition",
     "id": "SteamWorld_Heist_II",
     "notes": "",
-    "subName": "Portable V5.2.1.3 + Build 15304751 & DLC Included",
+    "subName": "Portable V5.3.1.4 + Build 15370939 & DLC Included",
     "description": "Join Captain Leeway and his ragtag crew as they uncover the enigmatic menace threatening the Great Sea. Equip and upgrade your crew for turn-based gunfights packed with ricochet action and engage in real-time naval combat. Get ready to aim, plot, and plunder in this turn-based tactical adventure.",
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2396240.webp",
     "gameplay": "https://www.youtube.com/watch?v=tagQDYkQBFA",
@@ -20071,12 +20071,12 @@
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/SteamWorld.Heist.II-TENOKE.png"
+      "link": "https://api.predb.net/nfoimg/SteamWorld.Heist.II.Update.v1.4-TENOKE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140107&p=3103165&hilit=#p3103165",
-    "download": "https://filecrypt.cc/Container/ABC0ABB077.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140107&p=3108900&hilit=#p3108900",
+    "download": "https://filecrypt.cc/Container/CF36B2C153.html",
     "achievements": true,
-    "dateUpdated": "2024-08-08T16:32:33.149Z",
+    "dateUpdated": "2024-08-18T13:05:56.038Z",
     "steamID": "2396240",
     "genres": "Action, Adventure, Indie, RPG, Strategy"
   },
