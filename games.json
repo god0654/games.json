@@ -21185,5 +21185,74 @@
     "dateUpdated": "2024-08-17T17:23:11.500Z",
     "steamID": "1794680",
     "genres": "Action, Casual, Indie, RPG"
+  },
+  {
+    "name": "ZonZon",
+    "id": "ZonZon",
+    "notes": "",
+    "subName": "Portable V18.08.2024 & Build 15171993",
+    "description": "The main character is a journalist who arrived at a large warehouse to record a documentary about the warehouse operation. But instead, he is faced with a real nightmare. The warehouse turns out to be populated by hungry guards and crazy warehouse operators who turn it into a death trap.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964180/header.jpg?t=1723735364",
+    "gameplay": "https://www.youtube.com/watch?v=4jfnJbAagew",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/ZonZon-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142727&p=3108663&hilit=#p3108663",
+    "download": "https://filecrypt.cc/Container/E27F4DB548.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-18T01:47:27.787Z",
+    "steamID": "2964180",
+    "genres": "Action, Adventure, Casual, Indie, RPG, Simulation, Sports, Strategy"
+  },
+  {
+    "name": "SNAP SNAP",
+    "id": "SNAP_SNAP",
+    "notes": "",
+    "subName": "Portable V18.08.2024 + Build 15334191 & DLC Included",
+    "description": "Having collected information about the “unusual corpse” for your journalistic investigation, you return home from the morgue. Something is wrong... The house has changed and there is a creature wandering in it that is afraid of the camera flash. Solve puzzles to get out of the house and survive.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3104540/header.jpg?t=1723449560",
+    "gameplay": "https://www.youtube.com/watch?v=NULSPQkF-Jg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/SNAP.SNAP-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142530&p=3108670&hilit=#p3108670",
+    "download": "https://filecrypt.cc/Container/35E2B3F1BA.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-18T01:57:13.136Z",
+    "steamID": "3104540",
+    "genres": "Adventure, Indie, Simulation"
+  },
+  {
+    "name": "Lunar Nightmare",
+    "id": "Lunar_Nightmare",
+    "notes": "",
+    "subName": "Portable V18.08.2024 & Build 15105156",
+    "description": "Lunar Nightmare is a retro-inspired sci-fi thriller, set on an abandoned Moon base, where you have to solve the mystery behind missing crew members, ancient discoveries around deep down the Lunar surface, rouge-AI trying to control your fate and ghastly androids to revolting against your command.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103940/header.jpg?t=1723785822",
+    "gameplay": "https://www.youtube.com/watch?v=oxFEQ-cRs1U",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Lunar.Nightmare-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142726&p=3108684&hilit=#p3108684",
+    "download": "https://filecrypt.cc/Container/A268FC8757.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-18T02:27:32.080Z",
+    "steamID": "3103940",
+    "genres": "Action, Adventure"
   }
 ]
