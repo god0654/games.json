@@ -21277,5 +21277,28 @@
     "dateUpdated": "2024-08-18T03:14:00.288Z",
     "steamID": "2332260",
     "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Gourdlets - Supporters Edition",
+    "id": "Gourdlets",
+    "notes": "",
+    "subName": "Portable V1.0.0a + Build 15375832 & DLC Included",
+    "description": "An easygoing sandbox game about building towns for cute vegetable folks. Create your perfect community then watch as the gourdlets make themselves at home. No objectives, no points, just good vibes. Play in full screen, or let your gourdlets hang out at the bottom of your screen!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2013730.webp",
+    "gameplay": "https://www.youtube.com/watch?v=qqBcRL3v_P4",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "✧GͥOͣDͫ✧",
+      "link": "https://store.steampowered.com/app/2013730/Gourdlets/"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127799&p=3108817&hilit=#p3108817",
+    "download": "https://filecrypt.cc/Container/808DFA892A.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-18T10:31:33.357Z",
+    "steamID": "2013730",
+    "genres": "Casual, Indie, Simulation"
   }
 ]
