@@ -21346,5 +21346,28 @@
     "dateUpdated": "2024-08-18T22:21:07.130Z",
     "steamID": "1477130",
     "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Dead Cells: The End is Near - Medley of Pain Bundle",
+    "id": "Dead_Cells",
+    "notes": "How to Play: Launch steamclient_loader_x32.exe in ''Dead Cells The End is Near - Medley of Pain Bundle\\'' to play the game.",
+    "subName": "Portable V35 + Build 12584094 & DLCs Included",
+    "description": "Dead Cells is a roguelite, metroidvania inspired, action-platformer. You'll explore a sprawling, ever-changing castle... assuming you’re able to fight your way past its keepers in 2D souls-lite combat. No checkpoints. Kill, die, learn, repeat.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/588650.webp",
+    "gameplay": "https://www.youtube.com/watch?v=Ey694m9TEUU",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "ViktorShahter",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=76784&p=3109375&hilit=#p3109375"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=76784&p=3109388&hilit=#p3109388",
+    "download": "https://filecrypt.cc/Container/294F605A2C.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-19T11:36:39.428Z",
+    "steamID": "588650",
+    "genres": "Action, Adventure, Indie"
   }
 ]
