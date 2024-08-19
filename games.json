@@ -21369,5 +21369,28 @@
     "dateUpdated": "2024-08-19T11:36:39.428Z",
     "steamID": "588650",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Trailmakers: Pedal to the Metal & Motorhead - Ultimate Edition",
+    "id": "Trailmakers",
+    "notes": "",
+    "subName": "Portable V1.9.1 (HotFix 1) + Build 15383244 & DLCs Included",
+    "description": "Build the ultimate vehicle and explore a vast open world filled with challenges and adventure. Play solo or team up with friends in multiplayer to conquer the toughest obstacles. With a thrilling campaign mode and endless creative possibilities, Trailmakers is the ultimate sandbox for adventurers.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3009870.webp",
+    "gameplay": "https://www.youtube.com/watch?v=ljkIv4uL_XU",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Trailmakers.Rescue.Pack.Update.v1.9.1.incl.DLC-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=81125&p=3109555&hilit=#p3109555",
+    "download": "https://filecrypt.cc/Container/B3BB72F6D8.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-19T17:16:08.456Z",
+    "steamID": "3009870",
+    "genres": "Action, Adventure, Indie, Racing, Simulation"
   }
 ]
