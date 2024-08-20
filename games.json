@@ -21392,5 +21392,120 @@
     "dateUpdated": "2024-08-19T17:16:08.456Z",
     "steamID": "3009870",
     "genres": "Action, Adventure, Indie, Racing, Simulation"
+  },
+  {
+    "name": "The Gravedigger",
+    "id": "The_Gravedigger",
+    "notes": "",
+    "subName": "Portable V1.0.9 & Build 15367295",
+    "description": "You're hired to dig up graves at a local church, looting valuables while demonic activity escalates. You must find and return all the burnt bones to stop the demonic activity. Each night you will dig for valuables to find bones, fend off growing corruption, and survive to solve the mystery.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2818980/header.jpg?t=1723473898",
+    "gameplay": "https://www.youtube.com/watch?v=RAaTFwctZBc",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/The.Gravedigger-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142758&p=3109761&hilit=#p3109761",
+    "download": "https://filecrypt.cc/Container/F63A4C7616.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-19T23:48:59.266Z",
+    "steamID": "2818980",
+    "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Slot Waste",
+    "id": "Slot_Waste",
+    "notes": "",
+    "subName": "Portable V20.08.2024 & Build 15031687",
+    "description": "An episode-length first-person factory simulation. Navigate through a series of 10 unique and weird mini-games. What are you producing and who are you making it for?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3109370/header.jpg?t=1722829520",
+    "gameplay": "https://www.youtube.com/watch?v=3V0mUjmfkkk",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Slot.Waste-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142757&p=3109769&hilit=#p3109769",
+    "download": "https://filecrypt.cc/Container/C243BD0B6C.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-20T00:17:04.323Z",
+    "steamID": "3109370",
+    "genres": "Indie, Simulation"
+  },
+  {
+    "name": "NARIBIKIMURA",
+    "id": "NARIBIKIMURA",
+    "notes": "",
+    "subName": "Portable V1.00 & Build 15328334",
+    "description": "Guided by information from a bulletin board, the protagonist arrives at the uncharted village of Naribiki. With no way to turn back, he must explore the village to find a way out. As he delves deeper into the heart of Naribiki Village, the hidden mysteries of this eerie place slowly come to light...",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2693860/header.jpg?t=1723867372",
+    "gameplay": "https://www.youtube.com/watch?v=PZdhH5FhWEg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/NARIBIKIMURA-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142756&p=3109779&hilit=#p3109779",
+    "download": "https://filecrypt.cc/Container/2E2A6B6516.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-20T00:47:35.255Z",
+    "steamID": "2693860",
+    "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Portobugia - The Eternal Winter",
+    "id": "Portobugia",
+    "notes": "",
+    "subName": "Portable V1.0.4 & Build 15425428",
+    "description": "Portobugia is a management/survival/inspection game where you manage a port and must supply a city with goods and food. To do so you must unload boats, but, be careful, some of them could be infected! You will also face difficult events, to fight them, you can upgrade, construct and research!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1972460/header.jpg?t=1724085393",
+    "gameplay": "https://www.youtube.com/watch?v=5su3p5a_xoI",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Portobugia-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127640&p=3109796&hilit=#p3109796",
+    "download": "https://filecrypt.cc/Container/BB520F33D1.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-20T01:10:36.630Z",
+    "steamID": "1972460",
+    "genres": "Casual, Indie, Strategy"
+  },
+  {
+    "name": "In Woods - Poisohell",
+    "id": "In_Woods",
+    "notes": "",
+    "subName": "Portable V1.0.1 & Build 15421704",
+    "description": "In Woods is a roguelike survival game set in a forest. Fight different monsters, craft items, and defeat the final boss for victory.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/header.jpg?t=1724084756",
+    "gameplay": "https://www.youtube.com/watch?v=6UftsXQasyQ",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/In.Woods-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127650&p=3109799&hilit=#p3109799",
+    "download": "https://filecrypt.cc/Container/C56B3A9E32.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-20T01:27:56.989Z",
+    "steamID": "2113770",
+    "genres": "Action, Indie, RPG"
   }
 ]
