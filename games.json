@@ -21530,5 +21530,28 @@
     "dateUpdated": "2024-08-20T13:54:21.343Z",
     "steamID": "1645820",
     "genres": "Action, Adventure, Indie, RPG"
+  },
+  {
+    "name": "Dustborn",
+    "id": "Dustborn",
+    "notes": "",
+    "subName": "Portable V1.2 & Build 15351815",
+    "description": "Ragtag crew? Check. Musical gear? Check. Tour bus and robot driver? Check. Stolen package? Check! Embark on a perilous road-trip across a Divided States of America. Use the power of words to shape relationships with your crew, get out of trouble and reach your final destination.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/721180/header.jpg?t=1724162372",
+    "gameplay": "https://www.youtube.com/watch?v=AIn0a4n7f2o",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Dustborn-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=106065&p=3110115&hilit=#p3110115",
+    "download": "https://filecrypt.cc/Container/C6ED7F6F59.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-20T15:20:24.586Z",
+    "steamID": "721180",
+    "genres": "Action, Adventure, Indie"
   }
 ]
