@@ -21507,5 +21507,28 @@
     "dateUpdated": "2024-08-20T01:27:56.989Z",
     "steamID": "2113770",
     "genres": "Action, Indie, RPG"
+  },
+  {
+    "name": "SurrounDead - Discovery Part 1",
+    "id": "SurrounDead",
+    "notes": "",
+    "subName": "Portable V0.6.0 & Build 15412822",
+    "description": "SurrounDead is an open world survival game. Taking place in a world ravaged by an apocalyptic catastrophe. The dead reign free and will stop at nothing to kill you.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1645820/header.jpg?t=1716848209",
+    "gameplay": "https://www.youtube.com/watch?v=9TNm7iQhML0",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "R.P.",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=124121&p=3109663&hilit=#p3109663"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=124121&p=3110077&hilit=#p3110077",
+    "download": "https://filecrypt.cc/Container/14651594F7.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-20T13:54:21.343Z",
+    "steamID": "1645820",
+    "genres": "Action, Adventure, Indie, RPG"
   }
 ]
