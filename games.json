@@ -4141,7 +4141,7 @@
     "name": "Supermarket Simulator",
     "id": "Supermarket_Simulator",
     "notes": "",
-    "subName": "Portable V0.2 & Build 14860779",
+    "subName": "Portable V0.2.1 & Build 15424108",
     "description": "Run your own supermarket. Stock shelves, set prices as you'd like, take payments, hire staff, expand and design your store. Online orders & delivery, shoplifters, security, local market are upcoming.",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/2670630/header.jpg?t=1708875110",
     "gameplay": "https://youtu.be/E5RNctvKLlg",
@@ -4150,15 +4150,15 @@
     ],
     "based": {
       "info": "csf",
-      "credits": "alpacamybowl",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138409&p=3079713&hilit=#p3079713"
+      "credits": "voxan",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138409&p=3110064&hilit=#p3110064"
     },
     "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138409&p=3079729&hilit=#p3079729",
-    "download": "https://filecrypt.cc/Container/AE93E06CC4.html",
+    "download": "https://filecrypt.cc/Container/2F536E7446.html",
     "achievements": false,
-    "dateUpdated": "2024-07-24T11:25:21.536Z",
+    "dateUpdated": "2024-08-20T22:29:11.648Z",
     "steamID": "2670630",
-    "genres": "Casual, Indie, Simulation, Early Access"
+    "genres": "Casual, Indie, Simulation"
   },
   {
     "name": "Phasmophobia: Eventide",
