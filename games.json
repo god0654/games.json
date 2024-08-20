@@ -951,13 +951,13 @@
     "genres": "Action, Adventure"
   },
   {
-    "name": "Granblue Fantasy Versus: Rising - Deluxe Edition",
+    "name": "Granblue Fantasy Versus Rising: Versusia - Deluxe Edition",
     "id": "Granblue_Fantasy_Versus_Rising",
     "notes": "Note: GoldBerg with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.",
-    "subName": "Portable V1.42 + Build 14678492 + DLCs Included & Online Supported",
+    "subName": "Portable V1.50 + Build 15361371 + DLCs Included & Online Supported",
     "description": "Rise to the challenge in Granblue Fantasy Versus: Rising! This powered up, revamped sequel to GBVS is more enjoyable and accessible than ever before. With simplified input options, even newcomers can engage in thrilling and strategic matches!",
-    "thumbnail": "https://god0654.github.io/DigitalZone/Images/Granblue%20Fantasy%20Versus%20Rising%20-%20Deluxe%20Edition.webp",
-    "gameplay": "https://youtu.be/l6m-HFu9TYE",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2720400.webp",
+    "gameplay": "https://www.youtube.com/watch?v=U2OoiGWYFUk",
     "tags": [
       "gse",
       "ofme",
@@ -965,15 +965,15 @@
     ],
     "based": {
       "info": "nfo",
-      "credits": "TENKOE",
-      "link": "https://api.predb.net/nfoimg/Granblue.Fantasy.Versus.Rising.v1.42-TENOKE.png"
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Granblue.Fantasy.Versus.Rising.Versusia-TENOKE.png"
     },
-    "download": "https://filecrypt.cc/Container/B33D0471F4.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134584&p=3110017&hilit=#p3110017",
+    "download": "https://filecrypt.cc/Container/6841CDF124.html",
     "achievements": true,
-    "dateUpdated": "2024-07-23T15:53:01.667Z",
-    "csrinru": "",
-    "steamID": "",
-    "genres": ""
+    "dateUpdated": "2024-08-20T10:58:45.066Z",
+    "steamID": "2720400",
+    "genres": "Action"
   },
   {
     "name": "DAVE THE DIVER - Deluxe Edition",
