@@ -1705,7 +1705,7 @@
     "name": "Dungeons of Hinterberg - Complete Edition",
     "id": "Dungeons_of_Hinterberg",
     "notes": "",
-    "subName": "Portable V18.07.2024 + Build 15076385 & DLCs Included",
+    "subName": "Portable V1.0.24856 + Build 15344024 & DLCs Included",
     "description": "Armed with a sword and a tourist guide, explore the beautiful alpine village of Hinterberg and uncover the magic hidden within its dungeons! Master magic, solve puzzles, slay monsters; all this and more await you in Hinterberg!",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983260/header.jpg?t=1721311270",
     "gameplay": "https://youtu.be/ciMS2CRwZao",
@@ -1713,14 +1713,14 @@
       "gse"
     ],
     "based": {
-      "info": "csf",
-      "credits": "✧GͥOͣDͫ✧",
+      "info": "info",
+      "credits": "CSF ✧GͥOͣDͫ✧ + Update by TENOKE",
       "link": "https://store.steampowered.com/app/1983260/Dungeons_of_Hinterberg/"
     },
-    "download": "https://filecrypt.cc/Container/A9DE568536.html",
-    "achievements": false,
-    "dateUpdated": "2024-07-22T14:28:19.091Z",
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=133388&p=3091314&hilit=#p3091314",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=133388&p=3110374&hilit=#p3110374",
+    "download": "https://filecrypt.cc/Container/D9752E5409.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-20T23:15:11.712Z",
     "steamID": "1983260",
     "genres": "Action, Adventure, Indie, RPG"
   },
@@ -21553,5 +21553,120 @@
     "dateUpdated": "2024-08-20T15:20:24.586Z",
     "steamID": "721180",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Anomaly Exit",
+    "id": "Anomaly_Exit",
+    "notes": "How to play Online: GoldBerg with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (revCrew)\" and open Steam before launch.",
+    "subName": "Portable V1.38 + Build 14206020 & Online Supported",
+    "description": "On your way home on the train, you weren't paying attention. Until you realised the train had been stopping at the same station over, and over again. Watch out for anomalies, and avoid the Anomaly Exit! Made for singleplayer and 2-6 co-operative multiplayer.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2232600/header.jpg?t=1712490033",
+    "gameplay": "https://www.youtube.com/watch?v=KLNgk_F26Ng",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Anomaly.Exit-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141323&p=3110382&hilit=#p3110382",
+    "download": "https://filecrypt.cc/Container/04ED5BEAA2.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-20T23:44:42.360Z",
+    "steamID": "2232600",
+    "genres": "Adventure, Casual, Indie"
+  },
+  {
+    "name": "Ocean Punk - Climactic Battle",
+    "id": "Ocean_Punk",
+    "notes": "",
+    "subName": "Portable V1.5.9.7 & Build 15383469",
+    "description": "Explore a fantasy ocean-punk world, braving the deep with steam-powered marvels. Discover mysterious underwater treasures, but scarcity and ecological crises test survival. Rise, build, confront foes in this pixel-art ocean survival journey!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1883840/header.jpg?t=1720458934",
+    "gameplay": "https://www.youtube.com/watch?v=UQ690ZqjP3Y",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Ocean.Punk-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=125348&p=3110388&hilit=#p3110388",
+    "download": "https://filecrypt.cc/Container/F8D39C6EA8.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-21T00:10:59.087Z",
+    "steamID": "1883840",
+    "genres": "Adventure, Indie, RPG, Simulation, Strategy"
+  },
+  {
+    "name": "Owinka Shooter 2",
+    "id": "Owinka_Shooter_2",
+    "notes": "",
+    "subName": "Portable V21.08.2024 & Build 14344676",
+    "description": "Owinka Shooter 2 throws you right back into the story of Owinka 427. Prepare to escape the Institute once and for all!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397840/header.jpg?t=1715356778",
+    "gameplay": "https://www.youtube.com/watch?v=Zbg9HWbhxao",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Owinka.Shooter.2-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142781&p=3110398&hilit=#p3110398",
+    "download": "https://filecrypt.cc/Container/8645BA9ED7.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-21T00:36:45.089Z",
+    "steamID": "2397840",
+    "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Just Xiangqi",
+    "id": "Just_Xiangqi",
+    "notes": "",
+    "subName": "Portable V1.1.0 & Build 14004640",
+    "description": "This is a refreshing Chinese chess game with realistic graphics and a detailed audio tutorial that will keep you entertained, even as a novice. A variety of well-designed challenges will test your tactics. Sit back and relax, as you transform into a master of strategy.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2248180/header.jpg?t=1712716474",
+    "gameplay": "https://www.youtube.com/watch?v=l0Lwfg0SNrw",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Just.Xiangqi-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137730&p=3110403&hilit=#p3110403",
+    "download": "https://filecrypt.cc/Container/6D8383FCFF.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-21T00:54:30.437Z",
+    "steamID": "2248180",
+    "genres": "Casual, Indie, Simulation, Strategy"
+  },
+  {
+    "name": "1/8192",
+    "id": "1_8192",
+    "notes": "",
+    "subName": "Portable V21.08.2024 & Build 14666108",
+    "description": "Embark on a journey of Zen koans in a Buddhist mandala space Reach Nirvana with a 1 in 8192 chance in a mystical world adorned with tombstones and Buddha statues.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014150/header.jpg?t=1721909216",
+    "gameplay": "https://www.youtube.com/watch?v=b1MYTj9Bses",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/1.8192-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142780&p=3110409&hilit=#p3110409",
+    "download": "https://filecrypt.cc/Container/A81DEA3540.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-21T01:17:48.110Z",
+    "steamID": "3014150",
+    "genres": "Casual, Indie"
   }
 ]
