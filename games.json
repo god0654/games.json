@@ -10665,13 +10665,13 @@
     "genres": "Indie"
   },
   {
-    "name": "Disney Dreamlight Valley",
+    "name": "Disney Dreamlight Valley: Discover the Dapper Delights - Gold Edition",
     "id": "Disney_Dreamlight_Valley",
     "notes": "",
-    "subName": "Portable V1.10.1.18 + Build 14189847 & DLC Included",
+    "subName": "Portable V1.12.0.7834 + Build 15323657 + DLCs with Items Included",
     "description": "Explore a world filled with the magic of Disney as you discover rich stories and build the perfect neighborhood alongside Disney and Pixar heroes and villains in this new life-sim adventure game. Welcome to Disney Dreamlight Valley.",
-    "thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1401590/header.jpg?t=1709135253",
-    "gameplay": "https://youtu.be/rJcqU-beHhw",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1401590.webp",
+    "gameplay": "https://www.youtube.com/watch?v=rDbp8LcbBJc",
     "tags": [
       "gse",
       "steamless"
@@ -10679,12 +10679,12 @@
     "based": {
       "info": "nfo",
       "credits": "RUNE",
-      "link": "https://api.predb.net/nfoimg/Disney.Dreamlight.Valley.v1.10.1.18-RUNE.png"
+      "link": "https://api.predb.net/nfoimg/Disney.Dreamlight.Valley.Update.v1.12.0.7834-RUNE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=121979&p=3045361&hilit=#p3045361",
-    "download": "https://filecrypt.cc/Container/410509C039.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=121979&p=3110854&hilit=#p3110854",
+    "download": "https://filecrypt.cc/Container/D0F5CA0615.html",
     "achievements": true,
-    "dateUpdated": "2024-07-24T19:37:20.201Z",
+    "dateUpdated": "2024-08-21T18:58:21.892Z",
     "steamID": "1401590",
     "genres": "Action, Adventure, Casual, RPG, Simulation"
   },
