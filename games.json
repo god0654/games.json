@@ -21668,5 +21668,51 @@
     "dateUpdated": "2024-08-21T01:17:48.110Z",
     "steamID": "3014150",
     "genres": "Casual, Indie"
+  },
+  {
+    "name": "Sunset Hills",
+    "id": "Sunset_Hills",
+    "notes": "",
+    "subName": "Portable V21.08.2024 & Build 15431294",
+    "description": "After being discharged from the army and starting to write novels, Nico embarks on a trip to the world with the roar of a train, encountering all kinds of people and events on the way, and experiencing the new world after the war, and the real purpose of Nico's trip gradually emerges ......",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1791590/header.jpg?t=1724211875",
+    "gameplay": "https://www.youtube.com/watch?v=VnllaJQbLaU",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Sunset.Hills-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=124006&p=3110558&hilit=#p3110558",
+    "download": "https://filecrypt.cc/Container/4DDE6EB6EC.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-21T09:56:34.491Z",
+    "steamID": "1791590",
+    "genres": "Adventure, Indie, RPG"
+  },
+  {
+    "name": "Dicefolk: Will Chimeras - Master Summoner Bundle",
+    "id": "Dicefolk",
+    "notes": "",
+    "subName": "Portable V21.08.2024 + Build 15263970 & DLCs Included",
+    "description": "Wield magical dice and build a team of powerful Chimeras to stop a mysterious evil in this tactical roguelite adventure. As a Chimera Summoner, recruit and create your perfect team of mythical beasts and command them to victory using unique dice mechanics.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2945830.webp",
+    "gameplay": "https://www.youtube.com/watch?v=tLSczMz0-bY",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Dicefolk.Will.Chimeras.Pack-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132875&p=3110570&hilit=#p3110570",
+    "download": "https://filecrypt.cc/Container/37F85ED85C.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-21T10:23:48.147Z",
+    "steamID": "1996430",
+    "genres": "Casual, Indie, Strategy"
   }
 ]
