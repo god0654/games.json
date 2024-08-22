@@ -21761,5 +21761,74 @@
     "dateUpdated": "2024-08-21T18:06:57.431Z",
     "steamID": "2052990",
     "genres": "Indie, Simulation, Strategy"
+  },
+  {
+    "name": "KONOSUBA - God's Blessing on this Wonderful World!",
+    "id": "KONOSUBA_Gods_Blessing_on_this_Wonderful_World",
+    "notes": "",
+    "subName": "Portable V22.08.2024 + Build 13573281 & DLCs Included",
+    "description": "It's time for a Visual Novel Quest with a twist! Join Kazuma, a reincarnated adventurer, and spend turbulent days with his unfortunate party members. Prepare for waifus, dress-up and resource management and get ready for an Isekai comedy that’s out of this world!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2349140/header.jpg?t=1711445077",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/256999866/movie480_vp9.webm?t=1707389353",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/KONOSUBA.Gods.Blessing.on.this.Wonderful.World.Love.For.These.Clothes.Of.Desire-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=133453&p=3111009&hilit=#p3111009",
+    "download": "https://filecrypt.cc/Container/CBFAC6651B.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-21T23:42:53.463Z",
+    "steamID": "2349140",
+    "genres": "Action, Adventure, Casual"
+  },
+  {
+    "name": "Lunar Glow Stellar Dance",
+    "id": "Lunar_Glow_Stellar_Dance",
+    "notes": "How to change language: You can do this by clicking the last selectable option in the Main Menu.",
+    "subName": "Portable V29.2.0 & Build 15376704",
+    "description": "\"Lunar Glow Stellar Dance\" is a love-themed game for all ages, produced by the Chinese girl game brand JROCKSTUDIO.The protagonist, able to see ghosts since childhood, is drawn into non-ordinary events, where he encounters five adorable girls. All mysteries will gradually be unveiled.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2653460/header.jpg?t=1721346609",
+    "gameplay": "https://www.youtube.com/watch?v=jB9ZZeEoPdU",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Lunar.Glow.Stellar.Dance-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142804&p=3111019&hilit=#p3111019",
+    "download": "https://filecrypt.cc/Container/60278531FB.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-22T00:15:42.044Z",
+    "steamID": "2653460",
+    "genres": "Adventure, Casual"
+  },
+  {
+    "name": "Escape From Warehouse",
+    "id": "Escape_From_Warehouse",
+    "notes": "",
+    "subName": "Portable V22.08.2024 & Build 15204363",
+    "description": "The journalist goes to the warehouse to record a documentary, but becomes a witness to creepy stories. The guards and warehouse workers look very strange. What is really hidden behind the endless shelves and how not to become a victim of the warehouse?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964190/header.jpg?t=1724167185",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257038609/movie480_vp9.webm?t=1722543290",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Escape.From.Warehouse-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142803&p=3111035&hilit=#p3111035",
+    "download": "https://filecrypt.cc/Container/0B874EF7A7.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-22T00:52:57.424Z",
+    "steamID": "2964190",
+    "genres": "Action, Adventure, Casual, Indie, RPG, Simulation, Sports, Strategy"
   }
 ]
