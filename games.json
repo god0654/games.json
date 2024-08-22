@@ -21830,5 +21830,28 @@
     "dateUpdated": "2024-08-22T00:52:57.424Z",
     "steamID": "2964190",
     "genres": "Action, Adventure, Casual, Indie, RPG, Simulation, Sports, Strategy"
+  },
+  {
+    "name": "Who is Abby",
+    "id": "Who_is_Abby",
+    "notes": "",
+    "subName": "Portable V1.0.0 & Build 15448291",
+    "description": "A suspenseful psychological thriller, you must unravel a mystery through exploration and puzzle-solving. Become Tom on the search for his missing sister Abby and discover the truth behind her disappearance.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2614800/header.jpg?t=1724314033",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257037650/movie480_vp9.webm?t=1723303466",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Who.is.Abby-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135814&p=3111245&hilit=#p3111245",
+    "download": "https://filecrypt.cc/Container/78A7072D66.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-22T11:51:22.556Z",
+    "steamID": "2614800",
+    "genres": "Adventure, Casual, Indie"
   }
 ]
