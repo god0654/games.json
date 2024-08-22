@@ -21922,5 +21922,28 @@
     "dateUpdated": "2024-08-22T22:04:11.879Z",
     "steamID": "1043810",
     "genres": "Adventure, Indie, RPG, Strategy"
+  },
+  {
+    "name": "3 Minutes to Midnight® - A Comedy Graphic Adventure",
+    "id": "3_Minutes_to_Midnight_A_Comedy_Graphic_Adventure",
+    "notes": "",
+    "subName": "Portable V1.0.4 & Build 15456490",
+    "description": "In a race against time, Betty embarks on a thrilling, comedy-packed adventure to crack a conspiracy that starts with a bang and ends at 3 Minutes to Midnight.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/832500/header.jpg?t=1724352087",
+    "gameplay": "https://www.youtube.com/watch?v=O456xY830wk",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "xmastree",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=88728&p=3111586&hilit=#p3111586"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=88728&p=3111596&hilit=#p3111596",
+    "download": "https://filecrypt.cc/Container/69E74E0698.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-22T22:35:59.906Z",
+    "steamID": "832500",
+    "genres": "Adventure, Casual, Indie"
   }
 ]
