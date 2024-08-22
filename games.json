@@ -21876,5 +21876,28 @@
     "dateUpdated": "2024-08-22T13:57:42.916Z",
     "steamID": "1819460",
     "genres": "Action, Adventure, Casual, Indie"
+  },
+  {
+    "name": "Wild West Dynasty - Supporter Edition",
+    "id": "Wild_West_Dynasty",
+    "notes": "",
+    "subName": "Portable V1.0.9064 + Build 15462494 & DLCs Included",
+    "description": "Conquer the Wild West. Explore the open world of a fictitious American Midwest and survive the harsh environment. Convince other settlers to join you and manage your ever-growing settlements. Build a home, take care of your farm and become a legend in Wild West Dynasty.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1329880.webp",
+    "gameplay": "https://www.youtube.com/watch?v=xkyTgfG9wik",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Wild.West.Dynasty-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=109534&p=3111446&hilit=#p3111446",
+    "download": "https://filecrypt.cc/Container/D36DBB7B27.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-22T18:10:45.771Z",
+    "steamID": "1329880",
+    "genres": "Adventure, RPG, Simulation"
   }
 ]
