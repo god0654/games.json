@@ -21945,5 +21945,99 @@
     "dateUpdated": "2024-08-22T22:35:59.906Z",
     "steamID": "832500",
     "genres": "Adventure, Casual, Indie"
+  },
+  {
+    "name": "Veiled Skies",
+    "id": "Veiled_Skies",
+    "notes": "",
+    "subName": "Portable V23.08.2024 & Build 15448008",
+    "description": "Step into a world above the clouds, into a cloudpunk fantasy with foxgirls!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400370/header.jpg?t=1724261044",
+    "gameplay": "https://www.youtube.com/watch?v=zxstE55CVw8",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Veiled.Skies-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142823&p=3111612&hilit=#p3111612",
+    "download": "https://filecrypt.cc/Container/3B427E09D0.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-22T23:12:42.474Z",
+    "steamID": "2400370",
+    "genres": "Adventure, RPG"
+  },
+  {
+    "name": "Suzukuri Dungeon - Karin in the Mountain",
+    "id": "Suzukuri_Dungeon_Karin_in_the_Mountain",
+    "notes": "",
+    "subName": "Portable V1.02 & Build 14941695",
+    "description": "The diabolical demon queen Karin has risen—and you’re in charge of the dungeon she calls home! Expand your budding labyrinth, train monsters to defend it, and build amenities to shake intruders down for cash before you send them packing!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1552140/header.jpg?t=1724202022",
+    "gameplay": "https://www.youtube.com/watch?v=dIK_0rlxTyM",
+    "tags": [
+      "gse",
+      "steamless"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Suzukuri.Dungeon.Karin.in.the.Mountain-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142822&p=3111618&hilit=#p3111618",
+    "download": "https://filecrypt.cc/Container/23B763055F.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-22T23:46:20.457Z",
+    "steamID": "1552140",
+    "genres": "Strategy"
+  },
+  {
+    "name": "Office Fight",
+    "id": "Office_Fight",
+    "notes": "",
+    "subName": "Portable V23.08.2024 & Build 15364101",
+    "description": "You’ve been unfairly laid off by Mega Corp and the news kills you. Literally. As a vengeful spirit, use your ghostly power to fling cups, chairs and tables at your co-workers all in the name of revenge. Start fights and watch the destruction unfold in this casual physics-based destruction game.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2747060/header.jpg?t=1724245239",
+    "gameplay": "https://www.youtube.com/watch?v=-R6YdTLDJps",
+    "tags": [
+      "gse",
+      "steamless"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Office.Fight-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142821&p=3111629&hilit=#p3111629",
+    "download": "https://filecrypt.cc/Container/7800DCB5B0.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-22T23:47:45.801Z",
+    "steamID": "2747060",
+    "genres": "Casual, Simulation, Strategy"
+  },
+  {
+    "name": "Can't Revert",
+    "id": "Cant_Revert",
+    "notes": "",
+    "subName": "Portable V23.08.2024 & Build 15422088",
+    "description": "Can't revert is a first-person psychological horror game. You repeatedly find yourself in a house where your wife and son are dead. Discover hidden clues in the house and uncover the secrets of their deaths. Experience the constant tension and fear in the repetitive space.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3111680/header.jpg?t=1724206120",
+    "gameplay": "https://www.youtube.com/watch?v=BsXLqyLT9WY",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Cant.revert-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142312&p=3111633&hilit=#p3111633",
+    "download": "https://filecrypt.cc/Container/85835947C0.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-23T00:04:39.929Z",
+    "steamID": "3111680",
+    "genres": "Indie"
   }
 ]
