@@ -22086,5 +22086,28 @@
     "dateUpdated": "2024-08-23T02:29:36.493Z",
     "steamID": "3066170",
     "genres": "Adventure, Indie, RPG, Strategy"
+  },
+  {
+    "name": "DeepWeb Simulator",
+    "id": "DeepWeb_Simulator",
+    "notes": "",
+    "subName": "Portable V22.08.2024 & Build 14921970",
+    "description": "DeepWeb Simulator is a simulation game where you will get lost in the dark corridors and experience the thrill of illegal trade. Place ads, make secret deals and build your criminal empire in the illegal world of the deep web.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2852500/header.jpg?t=1718913490",
+    "gameplay": "https://www.youtube.com/watch?v=cecoWw03m5c",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "lolligoanima",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141596&p=3111353&hilit=#p3111353"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141596&p=3111991&hilit=#p3111991",
+    "download": "https://filecrypt.cc/Container/087325418F.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-23T16:39:20.945Z",
+    "steamID": "2852500",
+    "genres": "Action, Casual, Indie, Simulation"
   }
 ]
