@@ -12292,27 +12292,27 @@
     "genres": "Casual, Indie, Simulation, Strategy"
   },
   {
-    "name": "Outlanders - The Keeper's Shanty",
+    "name": "Outlanders: Wandering Stars - Complete Edition",
     "id": "Outlanders",
     "notes": "",
-    "subName": "Portable V7a09a5 + Build 14134973 & DLCs Included",
+    "subName": "Portable V23.08.2024 + Build 15369004 & DLCs Included",
     "description": "Welcome to the Outlands! A faraway place where work is hard but rewarding, where people dream big but stay grounded, where friends become family, and settlements become cities.",
-    "thumbnail": "https://god0654.github.io/DigitalZone/Images/Outlanders%20-%20The%20Keeper's%20Shanty.webp",
-    "gameplay": "",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2962040.webp",
+    "gameplay": "https://www.youtube.com/watch?v=2d5G0MoZmuo",
     "tags": [
       "gse"
     ],
     "based": {
       "info": "nfo",
-      "credits": "SKIDROW",
-      "link": "https://api.predb.net/nfoimg/Outlanders.The.Keepers.Shanty-SKIDROW.png"
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Outlanders.Wandering.Stars-TENOKE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=126871&p=3037799&hilit=#p3037799",
-    "download": "https://filecrypt.cc/Container/D1DA98FD36.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=126871&p=3111686&hilit=#p3111686",
+    "download": "https://filecrypt.cc/Container/F883CFCD35.html",
     "achievements": true,
-    "dateUpdated": "2024-07-25T10:33:19.817Z",
-    "steamID": "",
-    "genres": ""
+    "dateUpdated": "2024-08-23T02:53:12.154Z",
+    "steamID": "2962040",
+    "genres": "Simulation, Strategy"
   },
   {
     "name": "Sweet Transit",
@@ -22039,5 +22039,52 @@
     "dateUpdated": "2024-08-23T00:04:39.929Z",
     "steamID": "3111680",
     "genres": "Indie"
+  },
+  {
+    "name": "Yohane the Parhelion: NUMAZU in the MIRAGE - Riko & Mari + Yohane",
+    "id": "Yohane_the_Parhelion_NUMAZU_in_the_MIRAGE",
+    "notes": "",
+    "subName": "Portable V1.0.14 + Build 15442477 & DLCs Included",
+    "description": "Yohane the Parhelion is an official spin-off of \"Love Live! Sunshine\". 『Yohane the Parhelion - NUMAZU in the MIRAGE -』 is a deckbuilding roguelite set in that world! A mysterious mirror world that changes each time it's entered. After countless choices, Yohane chooses...",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2627870.webp",
+    "gameplay": "https://www.youtube.com/watch?v=SdVdZOrC_Fg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Yohane.the.Parhelion.NUMAZU.in.the.MIRAGE.Riko.Mari.Yohane-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135500&p=3111668&hilit=#p3111668",
+    "download": "https://filecrypt.cc/Container/CCDB6ED6EC.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-23T01:49:22.838Z",
+    "steamID": "2627870",
+    "genres": ""
+  },
+  {
+    "name": "HELLCARD - Bruja, the Blood Witch",
+    "id": "HELLCARD",
+    "notes": "How to play Online: GoldBerg with Achievements, Stats and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.",
+    "subName": "Portable V1.1.240821 + Build 15449149 + DLCs Included & Online Supported",
+    "description": "Hellcard is a unique cooperative deck builder rogue-like game. Descend into the paper dungeons on your own, recruit computer-controlled companions or join other players' lobbies in fast-paced tactical card battles against the armies of darkness and the Archdemon himself!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3066170.webp",
+    "gameplay": "https://www.youtube.com/watch?v=xQ1pzDY35xI",
+    "tags": [
+      "gse",
+      "ofme"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/HELLCARD.Bruja.the.Blood.Witch-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=102668&p=3111681&hilit=#p3111681",
+    "download": "https://filecrypt.cc/Container/726A36EBD6.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-23T02:29:36.493Z",
+    "steamID": "3066170",
+    "genres": "Adventure, Indie, RPG, Strategy"
   }
 ]
