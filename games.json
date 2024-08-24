@@ -22183,8 +22183,8 @@
   {
     "name": "Galaxy Burger",
     "id": "Galaxy_Burger",
-    "notes": "",
-    "subName": "Portable V1.0.0 – HotFix & Build 15481250",
+    "notes": "⬐ How to play Online: Download and apply the Fix ↴ https://cs.rin.ru/forum/viewtopic.php?f=10&t=142841&p=3112640&hilit=#p3112640 and open Steam before launch. Thx to Kirigiri!",
+    "subName": "Portable V1.0.0 – HotFix + Build 15481250 & Online Supported",
     "description": "Relaxing cooking simulator, NO stress! Cook burgers for mecha cats and aliens. Play with friends up to 8 players or solo.",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749770/header.jpg?t=1724418741",
     "gameplay": "https://www.youtube.com/watch?v=tavVO_iIyNI",
@@ -22199,7 +22199,7 @@
     "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142841&p=3112617&hilit=#p3112617",
     "download": "https://filecrypt.cc/Container/4C5CC6449E.html",
     "achievements": true,
-    "dateUpdated": "2024-08-24T21:36:07.560Z",
+    "dateUpdated": "2024-08-24T22:19:59.472Z",
     "steamID": "2749770",
     "genres": "Casual, Indie, Simulation"
   },
