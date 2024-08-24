@@ -22132,5 +22132,28 @@
     "dateUpdated": "2024-08-24T17:41:59.322Z",
     "steamID": "2059530",
     "genres": "Action, Adventure"
+  },
+  {
+    "name": "Fran Bow - Remastered",
+    "id": "Fran_Bow",
+    "notes": "",
+    "subName": "Portable V24.08.2024 + Build 11189293 & DLCs Included",
+    "description": "Fran Bow is a creepy adventure game that tells the story of Fran, a young girl struggling with a mental disorder and an unfair destiny.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362680/header.jpg?t=1693287362",
+    "gameplay": "https://www.youtube.com/watch?v=SXAe7hkXcWE",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "SKIDROW",
+      "link": "https://api.predb.net/nfoimg/Fran.Bow.Remastered-SKIDROW.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=68802&p=3112514&hilit=#p3112514",
+    "download": "https://filecrypt.cc/Container/C547B60DE4.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-24T18:38:42.577Z",
+    "steamID": "362680",
+    "genres": "Adventure, Indie"
   }
 ]
