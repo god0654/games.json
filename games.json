@@ -22155,5 +22155,29 @@
     "dateUpdated": "2024-08-24T18:38:42.577Z",
     "steamID": "362680",
     "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Sengoku Dynasty: Ikigai - Ultimate Edition",
+    "id": "Sengoku_Dynasty",
+    "notes": "",
+    "subName": "Portable V0.4.0.2 + Build 15473581 & DLCs Included",
+    "description": "Build and manage villages in an open-world feudal Japan. Survive, explore, meet unique characters, and establish your legacy. Play solo or in co-op multiplayer.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1702010.webp",
+    "gameplay": "https://www.youtube.com/watch?v=VV-ynBR9qYc",
+    "tags": [
+      "gse",
+      "steamless"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "Mart1z",
+      "link": "https://rutracker.org/forum/viewtopic.php?t=6397167"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=117959&p=3112570&hilit=#p3112570",
+    "download": "https://filecrypt.cc/Container/07AB9F166F.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-24T20:52:39.872Z",
+    "steamID": "1702010",
+    "genres": "Adventure, RPG, Simulation"
   }
 ]
