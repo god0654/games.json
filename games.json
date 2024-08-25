@@ -20914,7 +20914,7 @@
     "name": "Arco - Soundtrack Bundle",
     "id": "Arco",
     "notes": "",
-    "subName": "Portable V15.08.2024-01 & Build 15382998",
+    "subName": "Portable V1.01 & Build 15475793",
     "description": "Enter the breathtaking world of Arco, a dynamic tactical RPG where your decisions shape the story. Three tales forged in bloodshed, laced with magic, and united by revenge.",
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2366970.webp",
     "gameplay": "https://www.youtube.com/watch?v=7W-MmB0mUlg",
@@ -20924,12 +20924,12 @@
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Arco-TENOKE.png"
+      "link": "https://api.predb.net/nfoimg/Arco.Update.v20240823-TENOKE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135013&p=3107389&hilit=#p3107389",
-    "download": "https://filecrypt.cc/Container/F05A000C4C.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135013&p=3112706&hilit=#p3112706",
+    "download": "https://filecrypt.cc/Container/26C4D78D0E.html",
     "achievements": true,
-    "dateUpdated": "2024-08-16T01:53:11.753Z",
+    "dateUpdated": "2024-08-25T01:09:32.086Z",
     "steamID": "2366970",
     "genres": "Action, Indie, Strategy"
   },
