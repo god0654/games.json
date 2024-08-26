@@ -22409,5 +22409,28 @@
     "dateUpdated": "2024-08-26T10:58:26.898Z",
     "steamID": "437440",
     "genres": "Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Roundscape Adorevia",
+    "id": "Roundscape_Adorevia",
+    "notes": "",
+    "subName": "Portable V6.7 & Build 15272306",
+    "description": "Roundscape Adorevia is a turn-based 2D adult RPG filled with extensive content, exotic companions, and dozens of story choices. Select your gender, origin, class, and companions to explore the lewd fantasy world of Adorevia.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2986400/header.jpg?t=1722589607",
+    "gameplay": "https://www.youtube.com/watch?v=QeSoVgo7ouM",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://digitalzone.vercel.app/games/Roundscape_Adorevia"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142916&p=3113350&hilit=#p3113350",
+    "download": "https://filecrypt.cc/Container/9BC0F1BC47.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-26T12:13:53.537Z",
+    "steamID": "2986400",
+    "genres": "Indie, RPG, NSFW"
   }
 ]
