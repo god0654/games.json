@@ -22294,5 +22294,97 @@
     "dateUpdated": "2024-08-25T00:25:56.308Z",
     "steamID": "2503690",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Remnants of the Macabre",
+    "id": "Remnants_of_the_Macabre",
+    "notes": "",
+    "subName": "Portable V26.08.2024 & Build 15351665",
+    "description": "Navigate 1980s Japan as a schoolgirl in this Junji Ito-inspired horror game. Each choice shapes your fate, leading to safety or deeper into the macabre. Uncover hidden horrors in an urban street filled with sinister details. Will you find your way home, or be consumed by the unknown?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119470/header.jpg?t=1724402542",
+    "gameplay": "https://www.youtube.com/watch?v=b3eu7NxB8L4",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Remnants.of.the.Macabre-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142903&p=3113167&hilit=#p3113167",
+    "download": "https://filecrypt.cc/Container/C3158C2922.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-26T00:42:41.759Z",
+    "steamID": "3119470",
+    "genres": "Casual, Indie"
+  },
+  {
+    "name": "Terra Nil: Vita Nova - Deluxe Edition",
+    "id": "Terra_Nil",
+    "notes": "",
+    "subName": "Portable V1.1.7 - HotFix 1 + Build 15470202 & DLCs Included",
+    "description": "Terra Nil is an intricate environmental strategy game about transforming a barren wasteland into a thriving, balanced ecosystem. Bring life back to a lifeless world by purifying soil, cleaning oceans, planting trees, and reintroducing wildlife, then leave without a trace.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1593030.webp",
+    "gameplay": "https://www.youtube.com/watch?v=E3gddbyOdQc",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Terra.Nil.v1.1.7-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=113763&p=3113164&hilit=#p3113164",
+    "download": "https://filecrypt.cc/Container/965B516655.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-26T00:45:44.836Z",
+    "steamID": "1593030",
+    "genres": "Casual, Indie, Strategy"
+  },
+  {
+    "name": "Landlord's Super",
+    "id": "Landlords_Super",
+    "notes": "",
+    "subName": "Portable V1.0.09 + Build 15458393 & DLC Included",
+    "description": "",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1127840/header.jpg?t=1724252473",
+    "gameplay": "https://www.youtube.com/watch?v=LWMgmIWvVtQ",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Landlords.Super.v1.0.09-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=98878&p=3113155&hilit=#p3113155",
+    "download": "https://filecrypt.cc/Container/5A6F330E13.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-26T00:48:20.909Z",
+    "steamID": "1127840",
+    "genres": "Adventure, Indie, RPG, Simulation"
+  },
+  {
+    "name": "Liminal Void",
+    "id": "Liminal_Void",
+    "notes": "",
+    "subName": "Portable V26.08.2024 & Build 15471413",
+    "description": "This is a horror dungeon crawler where you snatch souls, cast spells, and die repeatedly. Select from 4 colorful characters and occasionally listen to them yap about their problems. It's very \"mood.\"",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745110/header.jpg?t=1724413196",
+    "gameplay": "https://www.youtube.com/watch?v=jlBsZXFQpHk",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Liminal.Void-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142868&p=3113179&hilit=#p3113179",
+    "download": "https://filecrypt.cc/Container/E490B149A0.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-26T01:14:37.093Z",
+    "steamID": "2745110",
+    "genres": "Action, RPG"
   }
 ]
