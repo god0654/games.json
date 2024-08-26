@@ -22386,5 +22386,28 @@
     "dateUpdated": "2024-08-26T01:14:37.093Z",
     "steamID": "2745110",
     "genres": "Action, RPG"
+  },
+  {
+    "name": "Lord of Rigel",
+    "id": "Lord_of_Rigel",
+    "notes": "",
+    "subName": "Portable V1.0 + Build 15488974 & DLC Included",
+    "description": "Lord of Rigel is a turn-based 4X space strategy game inspired by the classics. In a galaxy divided by two elder races, will you unite with other species or forge your own path? Navigate galactic politics and defeat threats using espionage, research, and military force. How will you shape the galaxy?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/437440/header.jpg?t=1724640868",
+    "gameplay": "https://www.youtube.com/watch?v=yFfTq_l7h_Q",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Lord.of.Rigel-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=72215&p=3113311&hilit=#p3113311",
+    "download": "https://filecrypt.cc/Container/00C004DF02.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-26T10:58:26.898Z",
+    "steamID": "437440",
+    "genres": "Indie, Simulation, Strategy"
   }
 ]
