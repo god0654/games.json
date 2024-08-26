@@ -20868,7 +20868,7 @@
     "name": "Intravenous II - Supporter Bundle",
     "id": "Intravenous_II",
     "notes": "",
-    "subName": "Portable V1.0 + Build 15382119 & DLC Included",
+    "subName": "Portable V1.0.16 + Build 15485972 & DLC Included",
     "description": "Intravenous 2 is the ultimate blend of tactical gameplay and immersive storytelling. Will you embrace the shadows or confront your foes head-on? The choice is yours. Experience a new era of tactical stealth action. Save lives. Uncover secrets. Take vengeance.",
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2608270.webp",
     "gameplay": "https://www.youtube.com/watch?v=NfLsHQZp22U",
@@ -20876,14 +20876,14 @@
       "gse"
     ],
     "based": {
-      "info": "nfo",
-      "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Intravenous.2-TENOKE.png"
+      "info": "basedon",
+      "credits": "Mart1z",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135666&p=3113152&hilit=#p3113152"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135666&p=3107371&hilit=#p3107371",
-    "download": "https://filecrypt.cc/Container/A54EA89671.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135666&p=3113296&hilit=#p3113296",
+    "download": "https://filecrypt.cc/Container/CA803E6AC5.html",
     "achievements": true,
-    "dateUpdated": "2024-08-16T00:47:35.036Z",
+    "dateUpdated": "2024-08-26T10:15:24.462Z",
     "steamID": "2608270",
     "genres": "Action, Adventure, Strategy"
   },
