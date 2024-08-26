@@ -22502,5 +22502,28 @@
     "dateUpdated": "2024-08-26T17:35:31.501Z",
     "steamID": "1439750",
     "genres": "Action, Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Endzone 2",
+    "id": "Endzone_2",
+    "notes": "How to play in DirectX 11: Launch Endzone2-DX11.bat.",
+    "subName": "Portable V0.8.9004.23998 & Build 15494129",
+    "description": "Endzone 2 is a post-apocalyptic survival colony builder, where you embark to secure humanity's survival after a cataclysmic disaster. Discover and repopulate the last habitable grounds, while the survival of your people hinges on your wits, foresight, and resilience in a harsh and unforgiving world.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144640/header_alt_assets_1.jpg?t=1724691272",
+    "gameplay": "https://www.youtube.com/watch?v=QCDBcHXTYas",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Titeuf",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134863&p=3113423&hilit=#p3113423"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134863&p=3113561&hilit=#p3113561",
+    "download": "https://filecrypt.cc/Container/B46BADC7EA.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-26T18:34:39.096Z",
+    "steamID": "2144640",
+    "genres": "Simulation, Strategy"
   }
 ]
