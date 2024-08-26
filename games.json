@@ -22455,5 +22455,28 @@
     "dateUpdated": "2024-08-26T14:50:39.462Z",
     "steamID": "3034130",
     "genres": "Casual, Indie"
+  },
+  {
+    "name": "Wartales: The Pits - The Mercenaries Edition",
+    "id": "Wartales",
+    "notes": "",
+    "subName": "Portable V1.0.36690 + Build 15493911 & DLCs Included",
+    "description": "Wartales is an open world RPG in which you lead a group of mercenaries in their search for wealth across a massive medieval universe. Explore the world, recruit companions, collect bounties and unravel the secrets of the tombs of the ancients!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3112270.webp",
+    "gameplay": "https://youtu.be/uSN9Mf9x38I",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Wartales.The.Pits-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=113911&p=3113481&hilit=#p3113481",
+    "download": "https://filecrypt.cc/Container/CD38E092D1.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-26T15:56:22.214Z",
+    "steamID": "3112270",
+    "genres": "Adventure, Indie, RPG, Strategy"
   }
 ]
