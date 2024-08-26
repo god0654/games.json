@@ -22432,5 +22432,28 @@
     "dateUpdated": "2024-08-26T12:13:53.537Z",
     "steamID": "2986400",
     "genres": "Indie, RPG, NSFW"
+  },
+  {
+    "name": "Love is in small things",
+    "id": "Love_is_in_small_things",
+    "notes": "Bypass Stuck Intro: Launch Save_Folder.bat (Create the save folder for you automatically), which is necessary to play otherwise you will get stuck in the intro.",
+    "subName": "Portable V26.08.2024 & Build 15181981",
+    "description": "\"Love is...\" is a hidden picture game with emotional art by artist 'Puuung'. It is a healing game that can relieve stress and excitement like relaxation, and enjoy the charming emotional coloring game that spreads at your fingertips.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3034130/header.jpg?t=1724655629",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257042185/movie480_vp9.webm?t=1722922961",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Pegasus1010",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142907&p=3113272&hilit=#p3113272"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142907&p=3113444&hilit=#p3113444",
+    "download": "https://filecrypt.cc/Container/D7E8873308.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-26T14:50:39.462Z",
+    "steamID": "3034130",
+    "genres": "Casual, Indie"
   }
 ]
