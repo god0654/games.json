@@ -1339,26 +1339,28 @@
     "genres": "Action"
   },
   {
-    "name": "Pocket Bravery: Rick - Ultimate Edition",
+    "name": "Pocket Bravery - Brandon",
     "id": "Pocket_Bravery",
-    "subName": "Portable V2.00 + Build 15099609 & DLC Included",
+    "notes": "How to play Online: GoldBerg with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.",
+    "subName": "Portable V2.03 + Build 15498197 + DLCs Included & Online Supported",
     "description": "Inspired by classic fighting games from the 90's such as Street Fighter, Fatal Fury and The King of Fighters, 'Pocket Bravery' channels the 'Neo Geo Pocket' aesthetic for a modern fighting game with a retro twist! ",
-    "thumbnail": "https://god0654.github.io/DigitalZone/Images/Pocket%20Bravery%20Rick%20-%20Ultimate%20Edition.webp",
-    "gameplay": "https://youtu.be/fr_i9oH6TU4",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1555150/header.jpg?t=1724695589",
+    "gameplay": "https://www.youtube.com/watch?v=59Un5--r0bA",
     "tags": [
-      "gse"
+      "gse",
+      "ofme"
     ],
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Pocket.Bravery.Rick-TENOKE.png"
+      "link": "https://api.predb.net/nfoimg/Pocket.Bravery.Brandon-TENOKE.png"
     },
-    "download": "https://filecrypt.cc/Container/C73117B9FE.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=125293&p=3113960&hilit=#p3113960",
+    "download": "https://filecrypt.cc/Container/B803E4640F.html",
     "achievements": true,
-    "dateUpdated": "2024-07-22T12:56:09.299Z",
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=125293&p=3092793&hilit=#p3092793",
-    "steamID": "",
-    "genres": ""
+    "dateUpdated": "2024-08-27T13:39:42.317Z",
+    "steamID": "3079490",
+    "genres": "Action, Indie"
   },
   {
     "name": "Magic Paper",
@@ -22710,5 +22712,29 @@
     "dateUpdated": "2024-08-27T12:36:57.307Z",
     "steamID": "2608350",
     "genres": "Action, Indie"
+  },
+  {
+    "name": "Core Keeper",
+    "id": "Core_Keeper",
+    "notes": "How to play Online: GoldBerg with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.",
+    "subName": "Portable V1.0 + Build 15497041 & Online Supported",
+    "description": "Explore an endless cavern of creatures, relics and resources in a mining sandbox adventure for 1-8 players. Mine, build, fight, craft and farm to unravel the mystery of the ancient Core.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/header.jpg?t=1724763088",
+    "gameplay": "https://www.youtube.com/watch?v=DoVaSRNQ8og",
+    "tags": [
+      "gse",
+      "ofme"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "afraidium",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=113851&p=3113912&hilit=#p3113912"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=113851&p=3113947&hilit=#p3113947",
+    "download": "https://filecrypt.cc/Container/76E464EF9F.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-27T13:11:22.944Z",
+    "steamID": "1621690",
+    "genres": "Adventure, Casual, Indie, RPG"
   }
 ]
