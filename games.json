@@ -22618,5 +22618,97 @@
     "dateUpdated": "2024-08-27T01:08:20.311Z",
     "steamID": "1926620",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "CyberCorp",
+    "id": "CyberCorp",
+    "notes": "",
+    "subName": "Portable V26.08.2024 & Build 15484635",
+    "description": "Brutal fast-paced isometric Co-op Loot Shooter in Cyberpunk world. Equipment-based combos. Exotic Weapons and Armor. Easy to start, hard to master. Play solo or with friends.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1116170/header.jpg?t=1724126590",
+    "gameplay": "https://www.youtube.com/watch?v=XzYU7-mxKBI",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Zdhnao",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=119979&p=3113403&hilit=#p3113403"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=119979&p=3113885&hilit=#p3113885",
+    "download": "https://filecrypt.cc/Container/D608E607D4.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-27T10:46:31.174Z",
+    "steamID": "1116170",
+    "genres": "Action, Adventure, Indie, RPG"
+  },
+  {
+    "name": "Motel Manager Simulator",
+    "id": "Motel_Manager_Simulator",
+    "notes": "",
+    "subName": "Portable V27.08.2024 & Build 15494427",
+    "description": "Restore an old motel alongside a shop and a gas station. Design, furnish, decorate and rent rooms. provide products for customers and fuel for cars. Hire employees to help you and be the boss of your own empire.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2594540/header.jpg?t=1724693988",
+    "gameplay": "https://www.youtube.com/watch?v=0da0cp5IGLc",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Motel.Manager.Simulator-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135592&p=3113903&hilit=#p3113903",
+    "download": "https://filecrypt.cc/Container/19802FCD2A.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-27T11:41:05.486Z",
+    "steamID": "2594540",
+    "genres": "Casual, Simulation"
+  },
+  {
+    "name": "Debtors' Club",
+    "id": "Debtors_Club",
+    "notes": "",
+    "subName": "Portable V1.0 & Build 15500426",
+    "description": "Be the tax collector of a shady city hall in this narrative-driven resource management game. Talk to debtors, manage a team, make difficult choices, and challenge the city's moral decay. It's their money, but it's your job.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2411560/header.jpg?t=1724698826",
+    "gameplay": "https://www.youtube.com/watch?v=Iuwf-LS--J4",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Debtors.Club-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135518&p=3113916&hilit=#p3113916",
+    "download": "https://filecrypt.cc/Container/7F41B38EF3.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-27T12:11:47.371Z",
+    "steamID": "2411560",
+    "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Snezhinka:Sentinel Girls2",
+    "id": "Snezhinka_Sentinel_Girls_2",
+    "notes": "",
+    "subName": "Portable V1.0.0 + Build 15479000 & DLCs Included",
+    "description": "A fast-paced shooter with simple controls. Enhance your character by purchasing cards and hold the line against waves of hostile mechs as an employee of a private military company.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2608350/header.jpg?t=1724696671",
+    "gameplay": "https://www.youtube.com/watch?v=qrTZrCf7HIo",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Snezhinka.Sentinel.Girls2-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142924&p=3113931&hilit=#p3113931",
+    "download": "https://filecrypt.cc/Container/FE77E0EAC7.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-27T12:36:57.307Z",
+    "steamID": "2608350",
+    "genres": "Action, Indie"
   }
 ]
