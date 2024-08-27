@@ -22759,5 +22759,28 @@
     "dateUpdated": "2024-08-27T14:00:51.289Z",
     "steamID": "2305500",
     "genres": "Adventure, Indie, RPG"
+  },
+  {
+    "name": "The Land of the Magnates",
+    "id": "The_Land_of_the_Magnates",
+    "notes": "",
+    "subName": "Portable V27.08.2024 & Build 15067862",
+    "description": "An epic adventure of love, betrayal, and sacrifice awaits, rooted in Middle Eastern myths and legends! As Shahbaz, a disgraced prince, travel across magical realms, defeat minions of darkness with the magic of your sitar, and reclaim your throne, bringing the light back to the Land of the Sun.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2816570/header.jpg?t=1724770774",
+    "gameplay": "https://www.youtube.com/watch?v=ipkP7Ga1Ogo",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/The.Land.of.the.Magnates-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142932&p=3114062&hilit=#p3114062",
+    "download": "https://filecrypt.cc/Container/4373E849A0.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-27T16:24:19.184Z",
+    "steamID": "2816570",
+    "genres": "Action, Adventure, RPG"
   }
 ]
