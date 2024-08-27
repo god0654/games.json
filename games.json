@@ -22829,5 +22829,29 @@
     "dateUpdated": "2024-08-27T19:12:27.456Z",
     "steamID": "2933130",
     "genres": "Adventure"
+  },
+  {
+    "name": "Risk of Rain 2: Seekers of the Storm",
+    "id": "Risk_of_Rain_2",
+    "notes": "",
+    "subName": " Portable V1.3.1 + Build 15390647 + DLCs Included & Online Supported",
+    "description": "Escape a chaotic alien planet by fighting through hordes of frenzied monsters – with your friends, or on your own. Combine loot in surprising ways and master each character until you become the havoc you feared upon your first crash landing.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2306620.webp",
+    "gameplay": "https://www.youtube.com/watch?v=aBaVZgkfHec",
+    "tags": [
+      "gse",
+      "ofme"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Owla",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=93802&p=3114196&hilit=#p3114196"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=93802&p=3114224&hilit=#p3114224",
+    "download": "https://filecrypt.cc/Container/6A5C10639D.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-27T20:48:24.181Z",
+    "steamID": "2306620",
+    "genres": "Action, Indie"
   }
 ]
