@@ -22853,5 +22853,28 @@
     "dateUpdated": "2024-08-27T20:50:45.926Z",
     "steamID": "2306620",
     "genres": "Action, Indie"
+  },
+  {
+    "name": "Peglin + Soundtrack Bundle",
+    "id": "Peglin",
+    "notes": "",
+    "subName": "Portable V1.0 & Build 15508692",
+    "description": "Peglin is a Pachinko Roguelike - Fight enemies by collecting special orbs and popping pegs to deal damage. Acquire special relics that radically change the game and ensure no two runs are the same. Aim carefully to survive in this unique turn-based RPG!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1296610.webp",
+    "gameplay": "https://www.youtube.com/watch?v=MMt97Szjjls",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "✧GͥOͣDͫ✧",
+      "link": "https://store.steampowered.com/app/1296610/Peglin/"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=114386&p=3114253&hilit=#p3114253",
+    "download": "https://filecrypt.cc/Container/D75C0D075B.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-27T21:33:57.340Z",
+    "steamID": "1296610",
+    "genres": "Casual, Indie, RPG, Strategy"
   }
 ]
