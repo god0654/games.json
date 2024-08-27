@@ -22876,5 +22876,51 @@
     "dateUpdated": "2024-08-27T21:33:57.340Z",
     "steamID": "1296610",
     "genres": "Casual, Indie, RPG, Strategy"
+  },
+  {
+    "name": "Trinity Fusion - Sundered Spaces",
+    "id": "Trinity_Fusion",
+    "notes": "",
+    "subName": "Portable V26.08.2024 & Build 15432299",
+    "description": "Sundered Spaces Free DLC #2 OUT NOW! Take control of your parallel selves and explore dark, Sci-Fi worlds. Slash, bash and shoot your way through this unique rogue-lite metroidvania where the only way to save the multiverse is to end it.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1911360.webp",
+    "gameplay": "https://www.youtube.com/watch?v=ewdju2C-0-4",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "UltraShaggy",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=126516&p=2963866&hilit=#p2963866"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=126516&p=3114311&hilit=#p3114311",
+    "download": "https://filecrypt.cc/Container/7AEDA2644C.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-27T23:21:40.307Z",
+    "steamID": "1911360",
+    "genres": "Action, Indie, RPG"
+  },
+  {
+    "name": "Koboo: The Tree Spirit",
+    "id": "Koboo_The_Tree_Spirit",
+    "notes": "",
+    "subName": "Portable V1.02 & Build 15487387",
+    "description": "Koboo is a fast paced action rogue-lite platformer. Battle against towering hunters as a small tree spirit by attacking their weak points. Forge powerful synergies, explore a handmade world with branching paths, fish and garden to rebuild your home - death is not the end!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718190/header.jpg?t=1724697048",
+    "gameplay": "https://www.youtube.com/watch?v=50nTj_fZ2_g",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Koboo.The.Tree.Spirit-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135790&p=3114326&hilit=#p3114326",
+    "download": "https://filecrypt.cc/Container/3F1676859F.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-27T23:45:09.529Z",
+    "steamID": "718190",
+    "genres": "Action, Adventure, Indie, RPG"
   }
 ]
