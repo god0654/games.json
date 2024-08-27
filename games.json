@@ -22736,5 +22736,28 @@
     "dateUpdated": "2024-08-27T13:11:22.944Z",
     "steamID": "1621690",
     "genres": "Adventure, Casual, Indie, RPG"
+  },
+  {
+    "name": "FAIRY TAIL: DUNGEONS",
+    "id": "FAIRY_TAIL_DUNGEONS",
+    "notes": "",
+    "subName": "Portable V1.0.1.1 & Build 15497963",
+    "description": "Fairy Tail: Dungeons is a deck-building rogue-lite featuring characters from the Fairy Tail series. Collect Magic Cards based on moves from the series to build your own unique deck and take down powerful monsters as you head for the dungeon depths!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2305500/header.jpg?t=1724683638",
+    "gameplay": "https://www.youtube.com/watch?v=6iMriCPO-ec",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "chronos",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142746&p=3113681&hilit=#p3113681"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142746&p=3113975&hilit=#p3113975",
+    "download": "https://filecrypt.cc/Container/5110CD7EBF.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-27T14:00:51.289Z",
+    "steamID": "2305500",
+    "genres": "Adventure, Indie, RPG"
   }
 ]
