@@ -22805,5 +22805,29 @@
     "dateUpdated": "2024-08-27T17:38:09.697Z",
     "steamID": "2369900",
     "genres": "Action, RPG"
+  },
+  {
+    "name": "The Lord of the Rings: Return to Moria™",
+    "id": "The_Lord_of_the_Rings_Return_to_Moria",
+    "notes": "How to play Online: RUNE Crack is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and launch EOSAuthLauncher.exe. (Also need an Epic Games account for proper operation)",
+    "subName": "Portable V1.3.2.157411 & Online Supported",
+    "description": "The only survival crafting video game set in the Fourth Age of Middle-earth™",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/header.jpg?t=1724780178",
+    "gameplay": "https://www.youtube.com/watch?v=WA8GIsG5XyE",
+    "tags": [
+      "scene",
+      "ofme"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/The.Lord.of.the.Rings.Return.to.Moria.v1.3.2.157411-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=38&t=123597&p=3114178&hilit=#p3114178",
+    "download": "https://filecrypt.cc/Container/A89DAD938C.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-27T19:12:27.456Z",
+    "steamID": "2933130",
+    "genres": "Adventure"
   }
 ]
