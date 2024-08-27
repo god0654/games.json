@@ -7478,27 +7478,28 @@
     "genres": "Adventure, Indie, Simulation"
   },
   {
-    "name": "Northgard: Garm Clan of the Hounds - The Viking Age Edition",
+    "name": "Northgard: The Viking Age Edition",
     "id": "Northgard",
-    "notes": "",
-    "subName": "Portable V3.5.4.38172 + Build 14546028 & DLCs Included",
+    "notes": "How to play Online: GoldBerg with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch EOSAuthLauncher.exe. (Also need an Epic Games account for proper operation)",
+    "subName": "Portable V3.5.15.39065 + Build 15457489 + DLCs Included & Online Supported",
     "description": "Northgard is a critically acclaimed strategy game based on Norse mythology. Lead your clan, uncover the secrets of a mysterious newfound continent and defeat your enemies to conquer the Throne!",
-    "thumbnail": "https://god0654.github.io/DigitalZone/Images/1Northgard%20Garm%20Clan%20of%20the%20Hounds%20-%20The%20Viking%20Age%20Edition.webp",
-    "gameplay": "https://youtu.be/78fMgYkJHlY",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/466560.webp",
+    "gameplay": "https://www.youtube.com/watch?v=-dKa4t4TjPU",
     "tags": [
-      "gse"
+      "gse",
+      "ofme"
     ],
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Northgard.Garm.Clan.of.the.Hounds-TENOKE.png"
+      "link": "https://api.predb.net/nfoimg/Northgard.v3.5.15.39065-TENOKE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=73063&p=3062068&hilit=#p3062068",
-    "download": "https://filecrypt.cc/Container/502B921595.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=73063&p=3113692&hilit=#p3113692",
+    "download": "https://filecrypt.cc/Container/FB81202093.html",
     "achievements": true,
-    "dateUpdated": "2024-07-24T15:42:15.507Z",
-    "steamID": "",
-    "genres": ""
+    "dateUpdated": "2024-08-27T00:07:41.796Z",
+    "steamID": "466560",
+    "genres": "Indie, Simulation, Strategy"
   },
   {
     "name": "Tiny Terry's Turbo Trip",
@@ -19941,10 +19942,10 @@
     "genres": "Adventure, Indie"
   },
   {
-    "name": "Cat Quest III",
+    "name": "Cat Quest III + The World of Cat Quest Digital Artbook Bundle",
     "id": "Cat_Quest_III",
     "notes": "",
-    "subName": "Portable V1.1.4 + Build 15315103 & DLC Included",
+    "subName": "Portable V1.1.7 & Build 15456120",
     "description": "In Cat Quest III you play as a purrivateer in a freely explorable 2.5D open-world swarming with Pi-rats. You can sail the seas in your ship for treasures galore! But prepare for peril, as the Pirate King aims to hunt you down...",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2305840/header.jpg?t=1723100683",
     "gameplay": "https://www.youtube.com/watch?v=q8y7vnYABvM",
@@ -19954,12 +19955,12 @@
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Cat.Quest.III.Update.v1.1.4-TENOKE.png"
+      "link": "https://api.predb.net/nfoimg/Cat.Quest.III.Update.v1.1.7-TENOKE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132917&p=3104689&hilit=#p3104689",
-    "download": "https://filecrypt.cc/Container/093D91CCE0.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132917&p=3113655&hilit=#p3113655",
+    "download": "https://filecrypt.cc/Container/6E51B2649D.html",
     "achievements": true,
-    "dateUpdated": "2024-08-11T00:23:31.066Z",
+    "dateUpdated": "2024-08-26T22:46:39.142Z",
     "steamID": "2305840",
     "genres": "Action, Adventure, Indie, RPG"
   },
@@ -22525,5 +22526,97 @@
     "dateUpdated": "2024-08-26T19:44:29.189Z",
     "steamID": "2144640",
     "genres": "Simulation, Strategy"
+  },
+  {
+    "name": "Just King + Original Soundtrack Bundle",
+    "id": "Just_King",
+    "notes": "",
+    "subName": "Portable V1.1.3c & Build 15451574",
+    "description": "Just King is an action auto-battler with roguelike elements. Assemble your party to venture into different lands fighting fearsome kings and their deadly armies. Use your loot to hire and upgrade mighty heroes... or the bard.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1059980.webp",
+    "gameplay": "https://www.youtube.com/watch?v=vfeXyc_uLQQ",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Just.King.v1.1.3C-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=125014&p=3113671&hilit=#p3113671",
+    "download": "https://filecrypt.cc/Container/3EADB68D3F.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-26T23:16:01.204Z",
+    "steamID": "1059980",
+    "genres": "Action, Casual, Indie, RPG, Strategy"
+  },
+  {
+    "name": "Chromosome Evil 2",
+    "id": "Chromosome_Evil_2",
+    "notes": "",
+    "subName": "Portable V1.77 & Build 15494520",
+    "description": "Dive deep into this Lovecraft-inspired RTS survival for a second time. Assemble your strike team and manage your convoy. It's up to you to survive the onslaught of nightmares that are surely coming your way. Will you find the source of the darkness?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2529770/header.jpg?t=1720901285",
+    "gameplay": "https://www.youtube.com/watch?v=bJMVxKt83Qk",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Chromosome.Evil.2.v1.77-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138326&p=3113677&hilit=#p3113677",
+    "download": "https://filecrypt.cc/Container/07389D34A9.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-26T23:37:58.398Z",
+    "steamID": "2529770",
+    "genres": "RPG, Strategy"
+  },
+  {
+    "name": "Dungeons of Sundaria",
+    "id": "Dungeons_of_Sundaria",
+    "notes": "",
+    "subName": "Portable V1.0.0.53803 & Build 15427624",
+    "description": "Adventure through epic dungeons facing fearsome creatures either solo or with a group of friends. Master your class, loot everything, and destroy the foul creatures of the deep! Will you become a hero of legend?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587520/header.jpg?t=1703180854",
+    "gameplay": "https://www.youtube.com/watch?v=eQ-yigTsoNs",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Dungeons.of.Sundaria.v1.0.0.53803-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=124652&p=3113699&hilit=#p3113699",
+    "download": "https://filecrypt.cc/Container/D4C8DBB09D.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-27T00:32:21.896Z",
+    "steamID": "587520",
+    "genres": "Action, Adventure, Indie, RPG"
+  },
+  {
+    "name": "The Backrooms: Lost Tape - The Tape of Nikolas",
+    "id": "The_Backrooms_Lost_Tape",
+    "notes": "",
+    "subName": "Portable V22.08.2024 & Build 15462367",
+    "description": "You work in the cinema as an usher and accidentally fell into the Backrooms, now being trapped, needing to unravel the mysteries of the yellow rooms in order to get out of this place, but be careful, there are entities that will be in your way.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1926620.webp",
+    "gameplay": "https://youtu.be/TFDQp5eqzXw",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/The.Backrooms.Lost.Tape.v20240822-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=128417&p=3113711&hilit=#p3113711",
+    "download": "https://filecrypt.cc/Container/599D020128.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-27T01:08:20.311Z",
+    "steamID": "1926620",
+    "genres": "Action, Adventure, Indie"
   }
 ]
