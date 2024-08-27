@@ -22782,5 +22782,28 @@
     "dateUpdated": "2024-08-27T16:24:19.184Z",
     "steamID": "2816570",
     "genres": "Action, Adventure, RPG"
+  },
+  {
+    "name": "Castlevania Dominus Collection",
+    "id": "Castlevania_Dominus_Collection",
+    "notes": "",
+    "subName": "Portable V1.000.000 & Build 14495929",
+    "description": "Three incredible action adventure games from the Castlevania series have finally returned, for the first time! But wait, there's more! Haunted Castle Revisited, a redesigned version of the very first Castlevania arcade game, makes its debut!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369900/header.jpg?t=1724770987",
+    "gameplay": "https://www.youtube.com/watch?v=dNe7qWsV5J4",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "chronos",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142931&p=3114091&hilit=#p3114091"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142931&p=3114105&hilit=#p3114105",
+    "download": "https://filecrypt.cc/Container/4917ED51E1.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-27T17:38:09.697Z",
+    "steamID": "2369900",
+    "genres": "Action, RPG"
   }
 ]
