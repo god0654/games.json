@@ -23037,5 +23037,28 @@
     "dateUpdated": "2024-08-28T18:28:22.895Z",
     "steamID": "1210800",
     "genres": "Action, Adventure, Indie, RPG"
+  },
+  {
+    "name": "GUNDAM BREAKER 4 - Ultimate Edition",
+    "id": "GUNDAM_BREAKER_4",
+    "notes": "",
+    "subName": "Portable V29.08.2024 + Build 15508073 & DLCs Included",
+    "description": "Create your own ultimate Gundam in the newest Gundam Breaker! With more customizable parts than ever before, you finally have the freedom to build your perfect Gunpla. Test it in battle using the brand new dual-weapon system and break parts off of your enemies and add them to your collection.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1672500.webp",
+    "gameplay": "https://www.youtube.com/watch?v=JOjzrbMtBAQ",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/GUNDAM.BREAKER.4-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138535&p=3114946&hilit=#p3114946",
+    "download": "https://filecrypt.cc/Container/BC932234BE.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-28T23:22:09.262Z",
+    "steamID": "1672500",
+    "genres": "Action, RPG"
   }
 ]
