@@ -16592,25 +16592,25 @@
     "genres": "Action, Adventure, Indie"
   },
   {
-    "name": "Balatro",
+    "name": "Balatro - Friends of Jimbo",
     "id": "Balatro",
     "notes": "",
-    "subName": "Portable V1.0.0n-FULL & Build 13672650",
+    "subName": "Portable V1.0.1g-FULL + Build 15507502 & DLC Included",
     "description": "The poker roguelike. Balatro is a hypnotically satisfying deckbuilder where you play illegal poker hands, discover game-changing jokers, and trigger adrenaline-pumping, outrageous combos.",
-    "thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/2379780/header.jpg?t=1708683444",
-    "gameplay": "https://youtu.be/VUyP21iQ_-g",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2379780.webp",
+    "gameplay": "https://www.youtube.com/watch?v=qChMssQkk3M",
     "tags": [
       "gse"
     ],
     "based": {
       "info": "csf",
-      "credits": "Girl5",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134183&p=3009157&hilit=#p3009157"
+      "credits": "UltraShaggy",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134183&p=3114365&hilit=#p3114365"
     },
     "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134183&p=3017025&hilit=#p3017025",
-    "download": "https://filecrypt.cc/Container/5285309DED.html",
-    "achievements": false,
-    "dateUpdated": "2024-07-26T12:43:52.049Z",
+    "download": "https://filecrypt.cc/Container/4092C3D782.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-28T15:29:45.920Z",
     "steamID": "2379780",
     "genres": "Casual, Indie, Strategy"
   },
