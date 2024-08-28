@@ -23014,5 +23014,28 @@
     "dateUpdated": "2024-08-28T14:14:03.549Z",
     "steamID": "2651570",
     "genres": "Casual, RPG, NSFW"
+  },
+  {
+    "name": "Rum & Gun",
+    "id": "Rum_and_Gun",
+    "notes": "",
+    "subName": "Portable V1.7.0h (Full Launch) & Build 15493499",
+    "description": "Rum & Gun combines fast-paced shooter action with ARPG loot and character building. Journey across the Indian Ocean, uncover the secrets of the Drunken God, and become a legendary pirate captain. You're not on the Caribbean anymore...",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210800/header.jpg?t=1724784866",
+    "gameplay": "https://www.youtube.com/watch?v=lgqQbm15zxA",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "jadarian",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=102909&p=3114657&hilit=#p3114657"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=102909&p=3114782&hilit=#p3114782",
+    "download": "https://filecrypt.cc/Container/371136A91B.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-28T18:28:22.895Z",
+    "steamID": "1210800",
+    "genres": "Action, Adventure, Indie, RPG"
   }
 ]
