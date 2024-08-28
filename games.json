@@ -22787,7 +22787,7 @@
     "name": "Castlevania Dominus Collection",
     "id": "Castlevania_Dominus_Collection",
     "notes": "",
-    "subName": "Portable V1.000.000 & Build 14495929",
+    "subName": "Portable V1.000.000 + Build 14495929 & Controller Fix",
     "description": "Three incredible action adventure games from the Castlevania series have finally returned, for the first time! But wait, there's more! Haunted Castle Revisited, a redesigned version of the very first Castlevania arcade game, makes its debut!",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369900/header.jpg?t=1724770987",
     "gameplay": "https://www.youtube.com/watch?v=dNe7qWsV5J4",
@@ -22968,5 +22968,28 @@
     "dateUpdated": "2024-08-28T01:31:35.605Z",
     "steamID": "1099790",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Age of Mythology: Retold - Premium Edition",
+    "id": "Age_of_Mythology_Retold",
+    "notes": "",
+    "subName": "Portable V1.00.17.18697.0 + Build 15444160 + Controller Fix & DLC Included",
+    "description": "From the creators of the award-winning Age of Empires franchise, Age of Mythology: Retold goes beyond history to a mythical age where gods, monsters, and humans collide.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1934680/header.jpg?t=1724795460",
+    "gameplay": "https://www.youtube.com/watch?v=Hwfs1zP1YtA",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "xElysium",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138477&p=3114484&hilit=#p3114484"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138477&p=3114523&hilit=#p3114523",
+    "download": "https://filecrypt.cc/Container/D232B94E4E.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-28T10:30:45.657Z",
+    "steamID": "1934680",
+    "genres": "Strategy"
   }
 ]
