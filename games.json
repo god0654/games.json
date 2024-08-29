@@ -23106,5 +23106,28 @@
     "dateUpdated": "2024-08-29T12:02:41.746Z",
     "steamID": "2350280",
     "genres": "Racing, Sports"
+  },
+  {
+    "name": "Wargame Red Dragon: Nation Pack Italy - Ultimate Franchise Pack Bundle",
+    "id": "Wargame_Red_Dragon",
+    "notes": "",
+    "subName": "Portable V24.08.24.130278 + Build 15490527 & DLCs Included",
+    "description": "The new reference in RTS at its best! The Wargame series returns to duty, larger, richer and more spectacular than ever before. In Wargame Red Dragon, you are engaged in a large-scale conflict where Western forces clash against the Communist bloc.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3025360.webp",
+    "gameplay": "https://www.youtube.com/watch?v=syN7LEq8_tw",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Wargame.Red.Dragon.Nation.Pack.Italy-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=64399&p=3115227&hilit=#p3115227",
+    "download": "https://filecrypt.cc/Container/4B19365E88.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-29T13:20:43.070Z",
+    "steamID": "3025360",
+    "genres": ""
   }
 ]
