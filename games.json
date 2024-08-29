@@ -23083,5 +23083,28 @@
     "dateUpdated": "2024-08-29T10:30:29.328Z",
     "steamID": "2581050",
     "genres": "Action, Adventure, Casual, Indie, Sports"
+  },
+  {
+    "name": "Monster Jam™ Showdown - Big Air Edition",
+    "id": "Monster_Jam_Showdown",
+    "notes": "How to Play: Launch monsterjam1-Win64-Shipping.exe in ''Monster Jam Showdown- Big Air Edition\\monsterjam1\\Binaries\\Win64\\''.",
+    "subName": "Portable V29.08.2024 + Build 15508073 & DLCs Included",
+    "description": "It’s time to jump into a groundbreaking off-road arcade racing game, packed with thrilling sprints and unique tricks. Get behind the wheel of the most iconic Monster Jam™ trucks ever, and show your skills in several game modes!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2350280.webp",
+    "gameplay": "https://www.youtube.com/watch?v=ptkvPNlQIy4",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Monster.Jam.Showdown-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142012&p=3115190&hilit=#p3115190",
+    "download": "https://filecrypt.cc/Container/0CED40E5A3.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-29T12:02:41.746Z",
+    "steamID": "2350280",
+    "genres": "Racing, Sports"
   }
 ]
