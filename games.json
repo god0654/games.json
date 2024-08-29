@@ -23339,5 +23339,28 @@
     "dateUpdated": "2024-08-29T20:28:57.729Z",
     "steamID": "1592490",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "MEMORIAPOLIS",
+    "id": "MEMORIAPOLIS",
+    "notes": "",
+    "subName": "Portable V0.214.131 & Build 15532883",
+    "description": "Memoriapolis invites you to construct a city that spans 2,500 years of history, from Antiquity to the Age of Enlightenment. Choose your culture, manage resources, face historical events, build \"Wonders\" to achieve the status of Capital of Capitals and leave your mark in history!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2228280/header.jpg?t=1724947197",
+    "gameplay": "https://www.youtube.com/watch?v=adSmZaFjCPQ",
+    "tags": [
+      "steamless"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Titeuf",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135112&p=3115380&hilit=#p3115380"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135112&p=3115489&hilit=#p3115489",
+    "download": "https://filecrypt.cc/Container/8CA39F284D.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-29T20:56:34.600Z",
+    "steamID": "2228280",
+    "genres": "Indie, Simulation, Strategy"
   }
 ]
