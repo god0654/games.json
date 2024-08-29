@@ -23180,7 +23180,7 @@
     "name": "Panzer Corps 2 War Stories: Fall of Poland - Complete Edition",
     "id": "Panzer_Corps_2",
     "notes": "",
-    "subName": "Portable V1.12.1 + Build 15508073 & DLCs Included",
+    "subName": "Portable V1.12.1 + Build 15458196 & DLCs Included",
     "description": "Panzer Corps 2 is the ultimate Second World War strategy game! Enjoy the time-proven gameplay formula which has been appreciated by millions of players over the years, brought to a whole new level of refinement up to the latest technical standards.",
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3023770.webp",
     "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257050578/movie480_vp9.webm?t=1724940368",
@@ -23198,5 +23198,28 @@
     "dateUpdated": "2024-08-29T16:05:25.433Z",
     "steamID": "3023770",
     "genres": "Strategy"
+  },
+  {
+    "name": "Akimbot",
+    "id": "Akimbot",
+    "notes": "",
+    "subName": "Portable V29.08.2024 & Build 15521555",
+    "description": "In the action-adventure platformer, Akimbot, blast your way through armies of robots, pilot spaceships and forge your own path to save the universe from impending doom! Set in a sci-fi world where only robots exist, travel the galaxy and experience non-stop robot mayhem and explosive action!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1843540/header.jpg?t=1724943257",
+    "gameplay": "https://www.youtube.com/watch?v=O1hGljkndrg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Akimbot-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141523&p=3115335&hilit=#p3115335",
+    "download": "https://filecrypt.cc/Container/E39B0CB893.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-29T16:36:04.044Z",
+    "steamID": "1843540",
+    "genres": "Action, Adventure"
   }
 ]
