@@ -23268,5 +23268,28 @@
     "dateUpdated": "2024-08-29T17:34:48.781Z",
     "steamID": "1299690",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Umamusume: Pretty Derby: Party Dash - Special Edition",
+    "id": "Umamusume_Pretty_Derby_Party_Dash",
+    "notes": "",
+    "subName": "Portable V1.01.00 + Build 15182242 & DLC Included",
+    "description": "A colorful cast of pixel-art Umamusume are all in line and ready to compete in the Slapdash Grand Prix, a school festival featuring four zany events! Which team will run, shoot, and eat their way to gold and glory?",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2313020.webp",
+    "gameplay": "https://www.youtube.com/watch?v=RA9-4_cwwxU",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Pegasus1010",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142971&p=3115306&hilit=#p3115306"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142971&p=3115409&hilit=#p3115409",
+    "download": "https://filecrypt.cc/Container/96F338CE17.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-29T19:04:36.749Z",
+    "steamID": "2313020",
+    "genres": "Action"
   }
 ]
