@@ -23175,5 +23175,28 @@
     "dateUpdated": "2024-08-29T15:19:59.915Z",
     "steamID": "2795270",
     "genres": "Adventure"
+  },
+  {
+    "name": "Panzer Corps 2 War Stories: Fall of Poland - Complete Edition",
+    "id": "Panzer_Corps_2",
+    "notes": "",
+    "subName": "Portable V1.12.1 + Build 15508073 & DLCs Included",
+    "description": "Panzer Corps 2 is the ultimate Second World War strategy game! Enjoy the time-proven gameplay formula which has been appreciated by millions of players over the years, brought to a whole new level of refinement up to the latest technical standards.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3023770.webp",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257050578/movie480_vp9.webm?t=1724940368",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Panzer.Corps.2.War.Stories.Fall.of.Poland-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=102131&p=3115321&hilit=#p3115321",
+    "download": "https://filecrypt.cc/Container/8C29B43890.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-29T16:05:25.433Z",
+    "steamID": "3023770",
+    "genres": "Strategy"
   }
 ]
