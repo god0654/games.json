@@ -23221,5 +23221,51 @@
     "dateUpdated": "2024-08-29T16:36:04.044Z",
     "steamID": "1843540",
     "genres": "Action, Adventure"
+  },
+  {
+    "name": "Squirrel with a Gun",
+    "id": "Squirrel_with_a_Gun",
+    "notes": "",
+    "subName": "Portable V1.0.2.14 & Build 15509576",
+    "description": "Squirrel, meet gun. As the neighborhood’s most obnoxious rodent, develop a knack (and a love?) for crime and mayhem in pursuit of golden acorns in this nutty sandbox shooter and puzzle platformer. Fight tooth, claw, and gun to escape a secret underground facility and defeat the Agents.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067050/header.jpg?t=1724947265",
+    "gameplay": "https://www.youtube.com/watch?v=qZj4Ft6ZklM",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "DOGE",
+      "link": "https://api.predb.net/nfoimg/Squirrel.with.a.Gun-DOGE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=125554&p=3115346&hilit=#p3115346",
+    "download": "https://filecrypt.cc/Container/7AA04736BF.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-29T17:00:38.266Z",
+    "steamID": "2067050",
+    "genres": "Action, Adventure, Indie, Simulation"
+  },
+  {
+    "name": "Gori: Cuddly Carnage - Special Edition",
+    "id": "Gori_Cuddly_Carnage",
+    "notes": "",
+    "subName": "Portable | V1.0.94 + Build 15517003 & DLCs Included",
+    "description": "Humanity has been destroyed - and it's up to Gori, along with his deadly but wise-cracking sentient hoverboard, F.R.A.N.K, and morose AI companion, CH1-P, to shred and slay the evil Adorable Army!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1299690.webp",
+    "gameplay": "https://www.youtube.com/watch?v=cltlqKkDPnk",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "DOGE",
+      "link": "https://api.predb.net/nfoimg/Gori.Cuddly.Carnage-DOGE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=108772&p=3115365&hilit=#p3115365",
+    "download": "https://filecrypt.cc/Container/35054E3900.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-29T17:34:48.781Z",
+    "steamID": "1299690",
+    "genres": "Action, Adventure, Indie"
   }
 ]
