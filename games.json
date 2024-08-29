@@ -23129,5 +23129,28 @@
     "dateUpdated": "2024-08-29T13:20:43.070Z",
     "steamID": "3025360",
     "genres": ""
+  },
+  {
+    "name": "Shadow of the Ninja: Reborn - Deluxe Edition",
+    "id": "Shadow_of_the_Ninja_Reborn",
+    "notes": "",
+    "subName": "Portable V29.08.2024 + Build 15220761 & DLC Included",
+    "description": "After 34 years in the shadows, prepare to see this legendary action adventure in a new light! Looking and playing better than ever before, Shadow of the Ninja - Reborn is Tengo Project’s remake of a cult classic, that the fans have been waiting for.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2543760/header.jpg?t=1724936677",
+    "gameplay": "https://www.youtube.com/watch?v=Uh3xgVs9Dds",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Shadow.of.the.Ninja.Reborn-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134848&p=3115248&hilit=#p3115248",
+    "download": "https://filecrypt.cc/Container/58DA5E2979.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-29T14:13:17.687Z",
+    "steamID": "2543760",
+    "genres": "Action, Adventure, RPG"
   }
 ]
