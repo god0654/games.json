@@ -6579,25 +6579,25 @@
     "genres": "Adventure, Casual, Indie, RPG, Simulation"
   },
   {
-    "name": "My Recycling Center: Container - Truck Edition",
+    "name": "My Recycling Center: Resources Trading - Deluxe Edition",
     "id": "My_Recycling_Center",
     "notes": "",
-    "subName": "V07.06.2024 + Build 14552330 & DLC Included",
+    "subName": "Portable V29.08.2024 + Build 15516993 & DLCs Included",
     "description": "Operate, configure and expand your own recycling center in this first-person simulator! Work fast and sort the trash. Use the compactors to destroy the bulky waste. Earn satisfaction and cash to buy new containers and unlock new trash types. Use the second hand shop to sell re-usable items.",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613060/header.jpg?t=1712860017",
-    "gameplay": "https://youtu.be/7wc0im_m1k0",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257047167/movie480_vp9.webm?t=1723920617",
     "tags": [
       "gse"
     ],
     "based": {
       "info": "nfo",
-      "credits": "TiNYiSO",
-      "link": "https://api.predb.net/nfoimg/My.Recycling.Center.Container.Truck.Expansion-TiNYiSO.png"
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/My.Recycling.Center.Resources.Trading.Expansion-TENOKE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135588&p=3066612&hilit=#p3066612",
-    "download": "https://filecrypt.cc/Container/87DBEA72CE.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135588&p=3115265&hilit=#p3115265",
+    "download": "https://filecrypt.cc/Container/F7FA3BAD49.html",
     "achievements": true,
-    "dateUpdated": "2024-07-24T14:26:38.851Z",
+    "dateUpdated": "2024-08-29T14:44:10.329Z",
     "steamID": "2613060",
     "genres": "Indie, Simulation"
   },
