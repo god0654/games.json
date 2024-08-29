@@ -23362,5 +23362,28 @@
     "dateUpdated": "2024-08-29T20:56:34.600Z",
     "steamID": "2228280",
     "genres": "Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Supermoves",
+    "id": "Supermoves",
+    "notes": "",
+    "subName": "Portable V30.08.2024 + Build 15534205 & DLC Included",
+    "description": "Supermoves is the ultimate parkour showdown where you and your friends run, jump and grind rails to glory! Go head to head in Bomb Tag, reach the finish line before the Rising Tide or race up to 40 players in Royale. Make your own games and levels with our powerful tools. Never stop running.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1959580/header.jpg?t=1724850239",
+    "gameplay": "https://www.youtube.com/watch?v=7d6YOJRwCEs",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Supermoves-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141426&p=3115568&hilit=#p3115568",
+    "download": "https://filecrypt.cc/Container/B35863657D.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-29T23:54:05.203Z",
+    "steamID": "1959580",
+    "genres": "Action, Casual, Indie, Racing, Sports"
   }
 ]
