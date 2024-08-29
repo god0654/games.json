@@ -23279,6 +23279,7 @@
     "gameplay": "https://www.youtube.com/watch?v=RA9-4_cwwxU",
     "tags": [
       "gse"
+               "steamless"
     ],
     "based": {
       "info": "csf",
@@ -23291,5 +23292,29 @@
     "dateUpdated": "2024-08-29T19:04:36.749Z",
     "steamID": "2313020",
     "genres": "Action"
+  },
+  {
+    "name": "PISTA Motorsport",
+    "id": "PISTA_Motorsport",
+    "notes": "",
+    "subName": "Portable V0.6.3.2 & Build 15462498",
+    "description": "Get behind the wheel! With realistic graphics and physics, a wide selection of Argentine racing cars, and various game modes, it provides an authentic and thrilling racing experience for enthusiasts.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2434120/header.jpg?t=1724858046",
+    "gameplay": "https://www.youtube.com/watch?v=uqGZopWAm0U",
+    "tags": [
+      "gse",
+      "steamless"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "S4mL0L",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142972&p=3115339&hilit=#p3115339"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142972&p=3115462&hilit=#p3115462",
+    "download": "https://filecrypt.cc/Container/4D04B872EB.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-29T20:01:31.791Z",
+    "steamID": "2434120",
+    "genres": "Racing, Simulation, Sports"
   }
 ]
