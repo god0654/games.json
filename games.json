@@ -23060,5 +23060,28 @@
     "dateUpdated": "2024-08-28T23:22:09.262Z",
     "steamID": "1672500",
     "genres": "Action, RPG"
+  },
+  {
+    "name": "KAMITSUBAKI CITY ENSEMBLE - Complete Edition",
+    "id": "KAMITSUBAKI_CITY_ENSEMBLE",
+    "notes": "",
+    "subName": "Portable V1.0.3 + Build 15518397 & DLCs Included",
+    "description": "\"KAMITSUBAKI CITY ENSEMBLE\" is a rhythm game in which AI girls who were awoken after the apocalypse use special song magic to create melodies with you, in an effort to restart the world. How did the destruction happen? Why do these girls exist? All answers will be revealed...when the music stops.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2581050.webp",
+    "gameplay": "https://www.youtube.com/watch?v=12If_GIZk6s",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Pegasus1010",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142965&p=3115018&hilit=#p3115018"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142965&p=3115157&hilit=#p3115157",
+    "download": "https://filecrypt.cc/Container/F639B5AC40.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-29T10:30:29.328Z",
+    "steamID": "2581050",
+    "genres": "Action, Adventure, Casual, Indie, Sports"
   }
 ]
