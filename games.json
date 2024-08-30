@@ -23418,7 +23418,8 @@
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2022930.webp",
     "gameplay": "https://www.youtube.com/watch?v=V4PenEKfUM4",
     "tags": [
-      "gse"
+      "gse",
+      "steamless"
     ],
     "based": {
       "info": "nfo",
@@ -23431,5 +23432,28 @@
     "dateUpdated": "2024-08-30T11:33:36.597Z",
     "steamID": "2022930",
     "genres": "Indie, Strategy"
+  },
+  {
+    "name": "Call of Sentinels",
+    "id": "Call_of_Sentinels",
+    "notes": "",
+    "subName": "Portable V1.0.0.2 & Build 15531670",
+    "description": "The innovative mix of bullet hell and survival roguelite elements. Explore the endless builds by combining different weapons, powerups and artifacts to defeat bosses and waves of enemies. Enjoy the masterful hand-drawn story cutscenes and dialogues. Global leaderboard of the Endless Arena.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2558200/header.jpg?t=1724967013",
+    "gameplay": "https://www.youtube.com/watch?v=Tpn0KbDoWiQ",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Call.of.Sentinels-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=120720&p=3115806&hilit=#p3115806",
+    "download": "https://filecrypt.cc/Container/BF04A21F65.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-30T11:57:00.384Z",
+    "steamID": "2558200",
+    "genres": "Action, Adventure, Indie"
   }
 ]
