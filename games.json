@@ -1661,7 +1661,7 @@
     "name": "Norland",
     "id": "Norland",
     "notes": "",
-    "subName": "Portable V0.3928.5436.1 – Patch 10 & Build 15173383",
+    "subName": "Portable V0.4010.5703.0 (Patch 20) & Build 15544670",
     "description": "Lead your noble family in this medieval colony sim, facing off against class conflict, religious struggle, and political treachery. Tend to your people’s needs, uncover the lost knowledge of a fallen empire, and engage in nefarious plots against your enemies.",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1857090/header.jpg?t=1721316240",
     "gameplay": "https://youtu.be/cEPSGcO_ba4",
@@ -1671,14 +1671,14 @@
     "based": {
       "info": "csf",
       "credits": "Kamds",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=118882&p=3096687&hilit=#p3096687"
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=118882&p=3115874&hilit=#p3115874"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=118882&p=3097056&hilit=#p3097056",
-    "download": "https://filecrypt.cc/Container/F28581BDDC.html",
-    "achievements": false,
-    "dateUpdated": "2024-07-28T10:59:00.848Z",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=118882&p=3115927&hilit=#p3115927",
+    "download": "https://filecrypt.cc/Container/32EE1E89BD.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-30T16:00:00.402Z",
     "steamID": "1857090",
-    "genres": "Simulation, Strategy, Early Access"
+    "genres": "Simulation, Strategy"
   },
   {
     "name": "Minecraft Dungeons: Fauna Faire Season 3 - Ultimate Edition",
