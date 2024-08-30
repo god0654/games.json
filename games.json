@@ -23501,5 +23501,51 @@
     "dateUpdated": "2024-08-30T17:13:23.813Z",
     "steamID": "2440380",
     "genres": "Casual, Indie, RPG, Strategy"
+  },
+  {
+    "name": "Forklift Simulator",
+    "id": "Forklift_Simulator",
+    "notes": "",
+    "subName": "Portable V1.0.6 & Build 15042922",
+    "description": "Start your career in logistics today in Forklift Simulator! Take on a variety of different missions, a selection of vehicles and an extensive career mode in which you can put your skills to the test. Are you ready for the challenges ahead?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2717850/header.jpg?t=1725009093",
+    "gameplay": "https://www.youtube.com/watch?v=dCovrDIXAMY",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Forklift.Simulator-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142946&p=3116140&hilit=#p3116140",
+    "download": "https://filecrypt.cc/Container/BB62AA9B11.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-30T23:27:35.011Z",
+    "steamID": "2717850",
+    "genres": "Casual, Simulation"
+  },
+  {
+    "name": "Tobla - Divine Path",
+    "id": "Tobla_Divine_Path",
+    "notes": "",
+    "subName": "Portable V31.08.2024 & Build 15418311",
+    "description": "A Divine Guide To Puzzle Solving is a narrative puzzle adventure that transports you to the realm of the gods. As a mere mortal, you are chosen by the enigmatic puzzle deity Tobla. Your task: test the latest collection of divine puzzles - all completely (not) at your own free will, of course",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2717750/header.jpg?t=1724918490",
+    "gameplay": "https://www.youtube.com/watch?v=zoW85ECj5t4",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Tobla.Divine.Path-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=139599&p=3116148&hilit=#p3116148",
+    "download": "https://filecrypt.cc/Container/F4EFD2D0A1.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-30T23:53:23.488Z",
+    "steamID": "2717750",
+    "genres": "Adventure, Indie"
   }
 ]
