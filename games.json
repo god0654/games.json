@@ -23387,7 +23387,7 @@
     "genres": "Action, Casual, Indie, Racing, Sports"
   },
   {
-    "name": "CarX Street - Deluxe edition",
+    "name": "CarX Street - Deluxe Edition",
     "id": "CarX_Street",
     "notes": "",
     "subName": "Portable V1.0.1 + Build 15534248 & DLC Included",
@@ -23408,5 +23408,28 @@
     "dateUpdated": "2024-08-30T10:42:54.634Z",
     "steamID": "1114150",
     "genres": "Racing, Simulation, Sports"
+  },
+  {
+    "name": "WARCANA - Ultimate Edition",
+    "id": "WARCANA",
+    "notes": "",
+    "subName": "Portable V1.0.240813.f80bb1d3 + Build 15354714 & DLCs Included",
+    "description": "WARCANA is a fantasy inspired base defence, RTS game with a deck-building mechanic. Face hundreds of thousands of unrelenting monsters in a battle royale between 30 other mighty magicians. Build your deck. Prepare your defences. Summon your armies. Survive the onslaught. Be the last one standing.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2022930.webp",
+    "gameplay": "https://www.youtube.com/watch?v=V4PenEKfUM4",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/WARCANA-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134855&p=3115800&hilit=#p3115800",
+    "download": "https://filecrypt.cc/Container/69B7D8531A.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-30T11:33:36.597Z",
+    "steamID": "2022930",
+    "genres": "Indie, Strategy"
   }
 ]
