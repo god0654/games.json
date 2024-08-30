@@ -19853,12 +19853,12 @@
     "genres": "Adventure"
   },
   {
-    "name": "That Time I Got Reincarnated as a Slime ISEKAI Chronicles - Deluxe Edition",
+    "name": "That Time I Got Reincarnated as a Slime ISEKAI Chronicles: A Strange Fate - Deluxe Edition",
     "id": "That_Time_I_Got_Reincarnated_as_a_Slime_ISEKAI_Chronicles",
     "notes": "",
-    "subName": "Portable V1.01 + Build 14868896 & DLCs Included",
+    "subName": "Portable V1.03 + Build 15431859 & DLCs Included",
     "description": "Spin a new tale of the Jura Tempest Federation together with all your favorite characters from the animated series!",
-    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2197680.webp",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2788680.webp",
     "gameplay": "https://www.youtube.com/watch?v=TdwPW4O3mPo&pp=ygVCdGhhdCB0aW1lIGkgZ290IHJlaW5jYXJuYXRlZCBhcyBhIHNsaW1lIGlzZWthaSBjaHJvbmljbGVzIGdhbWVwbGF5",
     "tags": [
       "gse"
@@ -19866,12 +19866,12 @@
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/That.Time.I.Got.Reincarnated.as.a.Slime.ISEKAI.Chronicles-TENOKE.png"
+      "link": "https://api.predb.net/nfoimg/That.Time.I.Got.Reincarnated.as.a.Slime.ISEKAI.Chronicles.A.Strange.Fate-TENOKE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142539&p=3102862&hilit=#p3102862",
-    "download": "https://filecrypt.cc/Container/91E7BA135A.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142539&p=3115824&hilit=#p3115824",
+    "download": "https://filecrypt.cc/Container/B73DF6CDBD.html",
     "achievements": true,
-    "dateUpdated": "2024-08-08T02:12:17.520Z",
+    "dateUpdated": "2024-08-30T12:29:11.341Z",
     "steamID": "2197680",
     "genres": "Action, RPG"
   },
