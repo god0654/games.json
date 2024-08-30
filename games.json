@@ -23455,5 +23455,28 @@
     "dateUpdated": "2024-08-30T11:57:00.384Z",
     "steamID": "2558200",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Yarimono - Deluxe Edition",
+    "id": "Yarimono",
+    "notes": "",
+    "subName": "Portable V1.16 + Build 15529250 & DLC Included",
+    "description": "The protagonist's life takes a turn after their partner Yarimon learns the ultra-invincible move, the \"Cheat Tackle\". While challenging various trainers to participate in the Yarimon tournament, the protagonist unexpectedly discovers the secrets of this world.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2696050/header.jpg?t=1725004855",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257038227/movie480_vp9.webm?t=1724291460",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "✧GͥOͣDͫ✧",
+      "link": "https://store.steampowered.com/app/2696050/Yarimono/"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142827&p=3115953&hilit=#p3115953",
+    "download": "https://filecrypt.cc/Container/8CD91A4C8C.html",
+    "achievements": false,
+    "dateUpdated": "2024-08-30T16:51:44.187Z",
+    "steamID": "2696050",
+    "genres": "Adventure, Indie, RPG, NSFW"
   }
 ]
