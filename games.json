@@ -23571,5 +23571,28 @@
     "dateUpdated": "2024-08-31T01:32:38.568Z",
     "steamID": "1566690",
     "genres": "Action, Strategy"
+  },
+  {
+    "name": "Kingdom Come: Deliverance - Royal Edition",
+    "id": "Kingdom_Come_Deliverance",
+    "notes": "",
+    "subName": "Portable V1.9.6 + Build 10507256 & DLCs Included",
+    "description": "Story-driven open-world RPG that immerses you in an epic adventure in the Holy Roman Empire. Avenge your parents' death as you battle invading forces, go on game-changing quests, and make influential choices. Explore castles, forests, villages and other realistic settings in medieval Bohemia!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/379430.webp",
+    "gameplay": "https://www.youtube.com/watch?v=BnE6lJourBU",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Free Weekend",
+      "link": "https://store.steampowered.com/app/379430/Kingdom_Come_Deliverance/"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=65414&p=3116329&hilit=#p3116329",
+    "download": "https://filecrypt.cc/Container/A4729DDB64.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-31T12:04:11.383Z",
+    "steamID": "379430",
+    "genres": "Action, Adventure, RPG"
   }
 ]
