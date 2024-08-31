@@ -23547,5 +23547,29 @@
     "dateUpdated": "2024-08-31T00:02:52.862Z",
     "steamID": "2717750",
     "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Outpost: Infinity Siege - Vanguard Edition",
+    "id": "Outpost_Infinity_Siege",
+    "notes": "Note: Launch steamclient_loader_x64.exe in ''Outpost Infinity Siege - Vanguard Edition\\'' to play the game. How to play Online: Apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch U01.exe.",
+    "subName": "Portable V2.0-6709b89 + Build 15513066 + DLC Included & Online Supported",
+    "description": "Command Mobile Outpost and take XEN Firearm to venture deep into the Signet surveillance off-limit area. Collect unique Weapon Units. Amp up the firepower of the Outpost that fights with you. This is an FTD game - FPS, Tower Defense, Base Building and much more all at the same time.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566690/header.jpg?t=1722336841",
+    "gameplay": "https://www.youtube.com/watch?v=LM363LQYUlQ",
+    "tags": [
+      "gse",
+      "ofme"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Outpost.Infinity.Siege.Update.v20240828-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=121823&p=3116173&hilit=#p3116173",
+    "download": "https://filecrypt.cc/Container/4BD8365C6C.html",
+    "achievements": true,
+    "dateUpdated": "2024-08-31T01:32:38.568Z",
+    "steamID": "1566690",
+    "genres": "Action, Strategy"
   }
 ]
