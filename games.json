@@ -23688,5 +23688,29 @@
     "dateUpdated": "2024-09-01T17:15:45.711Z",
     "steamID": "1811550",
     "genres": "Action, Strategy"
+  },
+  {
+    "name": "CODE VEIN - Deluxe Edition",
+    "id": "CODE_VEIN",
+    "notes": "",
+    "subName": "Portable V1.53.61787 & DLCs Included",
+    "description": "In the face of certain death, we rise. Team up and embark on a journey to the ends of hell to unlock your past and escape your living nightmare in CODE VEIN.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/678960.webp",
+    "gameplay": "https://www.youtube.com/watch?v=FAXxQLLIZFI",
+    "tags": [
+      "scene",
+      "mc"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/CODE.VEIN.Deluxe.Edition-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=80504&p=3117032&hilit=#p3117032",
+    "download": "https://filecrypt.cc/Container/4CC09555DD.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-01T18:28:12.848Z",
+    "steamID": "678960",
+    "genres": "Action, RPG"
   }
 ]
