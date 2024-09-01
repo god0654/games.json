@@ -23712,5 +23712,51 @@
     "dateUpdated": "2024-09-01T18:28:12.848Z",
     "steamID": "678960",
     "genres": "Action, RPG"
+  },
+  {
+    "name": "Ten Bells",
+    "id": "Ten_Bells",
+    "notes": "",
+    "subName": "Portable V1.1.3 & Build 15554087",
+    "description": "You're trapped in an old English pub. Unravel a chilling tale by discovering anomalies while trying to escape. Confront the horror as you survive Ten Bell's endless loop.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3044030/header.jpg?t=1725023464",
+    "gameplay": "https://www.youtube.com/watch?v=iFyLfA-CFqg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Ten.Bells-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143023&p=3117157&hilit=#p3117157",
+    "download": "https://filecrypt.cc/Container/92C3A4150D.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-01T23:03:01.146Z",
+    "steamID": "3044030",
+    "genres": "Action, Adventure, Indie, Simulation"
+  },
+  {
+    "name": "LUNARiA -Virtualized Moonchild-",
+    "id": "LUNARiA_Virtualized_Moonchild",
+    "notes": "",
+    "subName": "Portable V1.0.0.0 & Build 15504392",
+    "description": "Genius gamer T-Bit rakes in the prize money in VR races day after day. One day, after experiencing a network error mid-race, he ends up in Lunar World, a moon-based server. There, he meets an AI avatar by the name of Lunar-Q. A love story spanning the 384,400 km between the Earth and moon begins!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2983260/header.jpg?t=1725001443",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257040439/movie480_vp9.webm?t=1723772699",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/LUNARiA.Virtualized.Moonchild-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142983&p=3117161&hilit=#p3117161",
+    "download": "https://filecrypt.cc/Container/9FD741CAF8.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-01T23:23:30.714Z",
+    "steamID": "2983260",
+    "genres": "Adventure, Casual, Simulation"
   }
 ]
