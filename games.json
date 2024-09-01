@@ -23594,5 +23594,51 @@
     "dateUpdated": "2024-08-31T12:04:11.383Z",
     "steamID": "379430",
     "genres": "Action, Adventure, RPG"
+  },
+  {
+    "name": "Angola '86",
+    "id": "Angola_86",
+    "notes": "",
+    "subName": "Portable V1.00 - Full Release & Build 15545682",
+    "description": "The first strategy game to capture the essence of the entire South African Border war, from Omugulugwombashe to UNTAG (Aug'66 - Mar'90)",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2233150/header.jpg?t=1725027338",
+    "gameplay": "https://www.youtube.com/watch?v=yxtOnh3QoW4",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Angola.86-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=133169&p=3116626&hilit=#p3116626",
+    "download": "https://filecrypt.cc/Container/3BD863F0EA.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-01T00:55:29.184Z",
+    "steamID": "2233150",
+    "genres": "Strategy"
+  },
+  {
+    "name": "Satellite Odyssey: Prologue",
+    "id": "Satellite_Odyssey_Prologue",
+    "notes": "",
+    "subName": "Portable V1.0.0.0 & Build 15540695",
+    "description": "Satellite odyssey: Рrologue - is a short first-person story-driven adventure with horror elements.Immerse yourself in the atmosphere of classic science fiction and retro futurism, inspired by Soviet sci-fi films. Your partner is the artificial intelligence \"Zarya,\"",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2579270/header.jpg?t=1725148056",
+    "gameplay": "https://www.youtube.com/watch?v=bNB-JpyaUUQ",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Satellite.Odyssey.Prologue-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135353&p=3116632&hilit=#p3116632",
+    "download": "https://filecrypt.cc/Container/D8A969C6BD.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-01T01:15:01.719Z",
+    "steamID": "2579270",
+    "genres": "Adventure, Indie"
   }
 ]
