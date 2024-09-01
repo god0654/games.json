@@ -23640,5 +23640,29 @@
     "dateUpdated": "2024-09-01T01:15:01.719Z",
     "steamID": "2579270",
     "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Tomb Raider - Definitive Edition",
+    "id": "Tomb_Raider_Definitive_Edition",
+    "notes": "",
+    "subName": "Portable V1.01.00 & DLCs Included",
+    "description": "Tomb Raider explores the intense origin story of Lara Croft and her ascent from a young woman to a hardened survivor.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/203160.webp",
+    "gameplay": "https://www.youtube.com/watch?v=mYuoiQXCxt4",
+    "tags": [
+      "scene",
+      "mc"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Tomb.Raider.Definitive.Edition-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=62697&p=3116930&hilit=#p3116930",
+    "download": "https://filecrypt.cc/Container/540ABB6C3F.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-01T15:37:36.908Z",
+    "steamID": "203160",
+    "genres": "Action, Adventure"
   }
 ]
