@@ -20802,8 +20802,8 @@
   {
     "name": "shapez 2 - Supporter Edition",
     "id": "shapez_2",
-    "notes": "",
-    "subName": "Portable V0.0.7 + Build 15152349 & DLC Included",
+    "notes": "Note: Included two .bat for those who wish to play in DirectX 12 (shapez 2-DX12.bat) or Vulkan (shapez 2-VK.bat).",
+    "subName": "Portable V0.0.8-rc3 + Build 15533224 & DLC Included",
     "description": "Dive into a factory-building game where the focus is on just that — building huge factories! Construct sprawling multi-level factories and min-max your layouts without limits. Shapez 2 is tailor-made for enthusiasts who crave the thrill of optimizing production lines and perfecting automation.",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/header.jpg?t=1723719141",
     "gameplay": "https://www.youtube.com/watch?v=NvbbzOmp8rI",
@@ -20812,13 +20812,13 @@
     ],
     "based": {
       "info": "csf",
-      "credits": "gorre9090",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127314&p=3107022&hilit=#p3107022"
+      "credits": "pivoteu",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127314&p=3115362&hilit=#p3115362"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127314&p=3107053&hilit=#p3107053",
-    "download": "https://filecrypt.cc/Container/1F2EDE4564.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127314&p=3117430&hilit=#p3117430",
+    "download": "https://filecrypt.cc/Container/7835428C46.html",
     "achievements": false,
-    "dateUpdated": "2024-08-15T13:24:39.383Z",
+    "dateUpdated": "2024-09-02T13:38:43.899Z",
     "steamID": "2162800",
     "genres": "Casual, Indie, Simulation, Strategy"
   },
