@@ -23804,5 +23804,51 @@
     "dateUpdated": "2024-09-02T18:41:48.662Z",
     "steamID": "2920570",
     "genres": "Casual, RPG, Strategy"
+  },
+  {
+    "name": "Backrooms: Last Room",
+    "id": "Backrooms_Last_Room",
+    "notes": "",
+    "subName": "Portable V03.09.2024 & Build 15522311",
+    "description": "Experience the unknown world of utility rooms through a VHS camera, you will have to feel all the fear and anxiety of loneliness, plunging deeper and deeper into the world of utility rooms behind the scenes In search of that very, cherished, last room",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2805230/header.jpg?t=1725036539",
+    "gameplay": "https://www.youtube.com/watch?v=ZD92Jp_kU-E",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Backrooms.Last.Room-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143029&p=3117710&hilit=#p3117710",
+    "download": "https://filecrypt.cc/Container/EE78DAF369.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-02T23:13:22.173Z",
+    "steamID": "2805230",
+    "genres": "Indie"
+  },
+  {
+    "name": "Kamikaze Lassplanes",
+    "id": "Kamikaze_Lassplanes",
+    "notes": "",
+    "subName": "Portable V1.1.0 & Build 15498556",
+    "description": "Fly and fall for powerful Lassplanes! Discover a hand-crafted anime VN with story-driven arcade shoot-'em-up gameplay. Take part in a romantic story with drama and comedic elements set in a steampunk Kingdom filled with magic and torn by a brutal war. Decide the fate of your country and heart.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2253930/header.jpg?t=1725035418",
+    "gameplay": "https://www.youtube.com/watch?v=7Y3klC5WFtI",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Kamikaze.Lassplanes-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143031&p=3117715&hilit=#p3117715",
+    "download": "https://filecrypt.cc/Container/35D1418776.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-02T23:38:16.830Z",
+    "steamID": "2253930",
+    "genres": "Action, Adventure, Indie"
   }
 ]
