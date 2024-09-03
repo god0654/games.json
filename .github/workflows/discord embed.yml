@@ -17,7 +17,7 @@ jobs:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
           # Extract the first entry from the JSON file using jq (a lightweight command-line JSON processor)
-          json_entry=$(jq '.[0]' data.json)
+          json_entry=$(jq '.[0]' games.json)
           title=$(echo "$json_entry" | jq -r '.title')
           description=$(echo "$json_entry" | jq -r '.description')
           thumbnail=$(echo "$json_entry" | jq -r '.thumbnail')
