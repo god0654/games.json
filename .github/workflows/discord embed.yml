@@ -1,9 +1,10 @@
-name: Notify Discordy
+name: Notify Discord with Game Entries
 
 on:
   push:
     paths:
       - "games.json"
+  workflow_dispatch:
 
 jobs:
   notify-discord:
@@ -12,39 +13,54 @@ jobs:
       - name: Check out the repository
         uses: actions/checkout@v3
 
-      - name: Read JSON file and send to Discord
+      - name: Install jq (JSON processor)
+        run: sudo apt-get install jq
+
+      - name: Read JSON file and send entries to Discord
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
-          # Extract the first entry from the JSON file using jq (a lightweight command-line JSON processor)
-          json_entry=$(jq '.[0]' games.json)
-          title=$(echo "$json_entry" | jq -r '.title')
-          description=$(echo "$json_entry" | jq -r '.description')
-          thumbnail=$(echo "$json_entry" | jq -r '.thumbnail')
-          url=$(echo "$json_entry" | jq -r '.url')
-          timestamp=$(echo "$json_entry" | jq -r '.timestamp')
+          # Read the JSON file and iterate over each entry
+          cat games.json | jq -c '.[]' | while read -r game; do
+            name=$(echo "$game" | jq -r '.name')
+            subName=$(echo "$game" | jq -r '.subName')
+            description=$(echo "$game" | jq -r '.description')
+            thumbnail=$(echo "$game" | jq -r '.thumbnail')
+            url=$(echo "$game" | jq -r '.id')
+            dateUpdated=$(echo "$game" | jq -r '.dateUpdated')
 
-          # Create the JSON payload for Discord embed
-          payload=$(cat <<EOF
-          {
-            "embeds": [
-              {
-                "title": "$title",
-                "description": "$description",
-                "url": "$url",
-                "thumbnail": {
-                  "url": "$thumbnail"
-                },
-                "timestamp": "$timestamp",
-                "color": 3447003
-              }
-            ]
-          }
-          EOF
-          )
+            # Construct the JSON payload for Discord
+            payload=$(jq -n --arg name "$name" \
+                          --arg subName "$subName" \
+                          --arg description "$description" \
+                          --arg thumbnail "$thumbnail" \
+                          --arg url "https://digitalzone.vercel.app/games#$url" \
+                          --arg dateUpdated "$dateUpdated" \
+                          '{
+                            "content": "",
+                            "tts": false,
+                            "embeds": [
+                              {
+                                "description": "**\($subName)**\n\n\($description)",
+                                "image": { "url": $thumbnail },
+                                "title": $name,
+                                "footer": {
+                                  "text": "DigitalZone",
+                                  "icon_url": "https://github.com/god0654/games.json/blob/main/icon.png?raw=true"
+                                },
+                                "author": {
+                                  "name": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
+                                  "url": "https://digitalzone.vercel.app/games",
+                                  "icon_url": "https://cdn.discordapp.com/avatars/971732507877851166/04df45f2fed589803f65a7ae34b17add.webp?size=1024&format=webp&width=0&height=256"
+                                },
+                                "url": $url,
+                                "timestamp": $dateUpdated
+                              }
+                            ],
+                            "username": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
+                            "avatar_url": "https://cdn.discordapp.com/avatars/971732507877851166/04df45f2fed589803f65a7ae34b17add.webp?size=1024&format=webp&width=0&height=256"
+                          }')
 
-          # Send the payload to Discord
-          curl -H "Content-Type: application/json" \
-          -X POST \
-          -d "$payload" \
-          $DISCORD_WEBHOOK_URL
+            # Send the payload to Discord
+            curl -H "Content-Type: application/json" -X POST -d "$payload" $DISCORD_WEBHOOK_URL
+          done
