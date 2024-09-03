@@ -23483,7 +23483,7 @@
     "name": "Megaloot",
     "id": "Megaloot",
     "notes": "",
-    "subName": "Portable V1.0 & Build 15544800",
+    "subName": "Portable V1.02 & Build 15571145",
     "description": "Megaloot is an addictive Inventory Management Roguelike RPG, where meticulous loot management paves the way for creating diverse and powerful builds. Combine deck cards and loot strategically to craft dominating builds and become the ultimate power hunter.",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/header.jpg?t=1725030419",
     "gameplay": "https://www.youtube.com/watch?v=L2z0S7T_3LY",
@@ -23491,14 +23491,14 @@
       "gse"
     ],
     "based": {
-      "info": "csf",
-      "credits": "gingermatic",
+      "info": "info",
+      "credits": "CSF & Update of gingermatic",
       "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142987&p=3115952&hilit=#p3115952"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142987&p=3115973&hilit=#p3115973",
-    "download": "https://filecrypt.cc/Container/3B0629D9E8.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142987&p=3117725&hilit=#p3117725",
+    "download": "https://filecrypt.cc/Container/FCA22A9DEF.html",
     "achievements": false,
-    "dateUpdated": "2024-08-30T17:13:23.813Z",
+    "dateUpdated": "2024-09-03T00:03:03.757Z",
     "steamID": "2440380",
     "genres": "Casual, Indie, RPG, Strategy"
   },
