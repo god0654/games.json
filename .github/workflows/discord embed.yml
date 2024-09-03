@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install requests Pillow colorthief
 
       - name: Fetch last committed version of games.json
         id: fetch-last-commit
