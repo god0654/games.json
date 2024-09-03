@@ -1,4 +1,4 @@
-name: Notify Discord with Game Entries
+name: Notify Discord with Updated or Added Entries
 
 on:
   push:
@@ -13,15 +13,52 @@ jobs:
       - name: Check out the repository
         uses: actions/checkout@v3
 
-      - name: Install jq (JSON processor)
-        run: sudo apt-get install jq
+      - name: Install jq and diff tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq diffutils
 
-      - name: Read JSON file and send entries to Discord
+      - name: Load previous version of games.json
+        id: previous
+        run: |
+          # Check if previous version exists
+          if [ -f previous_games.json ]; then
+            cp previous_games.json previous_games.json.bak
+          else
+            touch previous_games.json.bak
+          fi
+
+      - name: Compare versions
+        id: compare
+        run: |
+          # Compare the current and previous versions of games.json
+          jq -S '.' games.json > games.json.sorted
+          jq -S '.' previous_games.json.bak > previous_games.json.sorted
+          diff previous_games.json.sorted games.json.sorted > diff.txt || true
+
+          if [ -s diff.txt ]; then
+            echo "Changes detected."
+            # Only send entries that are new or updated
+            jq -c '.[] | select(.id as $id | input | .[] | select(.id == $id) | . != .)' games.json previous_games.json.bak > changes.json
+            cat changes.json
+            if [ -s changes.json ]; then
+              echo "changes=$(cat changes.json)" >> $GITHUB_ENV
+            fi
+          else
+            echo "No changes detected."
+            exit 0
+          fi
+
+      - name: Save current version
+        run: cp games.json previous_games.json
+
+      - name: Send changes to Discord
+        if: env.changes
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          AUTHOR_ICON_URL: ${{ secrets.AUTHOR_ICON_URL }}
         run: |
-          # Read the JSON file and iterate over each entry
-          cat games.json | jq -c '.[]' | while read -r game; do
+          while IFS= read -r game; do
             name=$(echo "$game" | jq -r '.name')
             subName=$(echo "$game" | jq -r '.subName')
             description=$(echo "$game" | jq -r '.description')
@@ -36,6 +73,7 @@ jobs:
                           --arg thumbnail "$thumbnail" \
                           --arg url "https://digitalzone.vercel.app/games#$url" \
                           --arg dateUpdated "$dateUpdated" \
+                          --arg authorIconUrl "$AUTHOR_ICON_URL" \
                           '{
                             "content": "",
                             "tts": false,
@@ -46,21 +84,21 @@ jobs:
                                 "title": $name,
                                 "footer": {
                                   "text": "DigitalZone",
-                                  "icon_url": "https://github.com/god0654/games.json/blob/main/icon.png?raw=true"
+                                  "icon_url": $authorIconUrl
                                 },
                                 "author": {
                                   "name": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
                                   "url": "https://digitalzone.vercel.app/games",
-                                  "icon_url": "https://cdn.discordapp.com/avatars/971732507877851166/04df45f2fed589803f65a7ae34b17add.webp?size=1024&format=webp&width=0&height=256"
+                                  "icon_url": $authorIconUrl
                                 },
                                 "url": $url,
                                 "timestamp": $dateUpdated
                               }
                             ],
                             "username": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
-                            "avatar_url": "https://cdn.discordapp.com/avatars/971732507877851166/04df45f2fed589803f65a7ae34b17add.webp?size=1024&format=webp&width=0&height=256"
+                            "avatar_url": $authorIconUrl
                           }')
 
             # Send the payload to Discord
             curl -H "Content-Type: application/json" -X POST -d "$payload" $DISCORD_WEBHOOK_URL
-          done
+          done < changes.json
