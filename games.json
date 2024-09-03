@@ -23873,5 +23873,28 @@
     "dateUpdated": "2024-09-03T00:28:03.464Z",
     "steamID": "1750770",
     "genres": "Action, Adventure, Indie, RPG"
+  },
+  {
+    "name": "GIRLDIVERS - Combat 2",
+    "id": "GIRLDIVERS",
+    "notes": "",
+    "subName": "Portable V0.7.1 & Build 15558008",
+    "description": "Join the GIRLDIVERS, humanity's last line of offense against an overwhelming alien menace. Command sexy girl soldiers in a rich campaign full of randomly generated challenges, unforgiving enemies, sci-fi gadgets, and heavy firepower. Engaging in lewd punishments and rewards along the way.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2892310/header.jpg?t=1725030161",
+    "gameplay": "https://www.youtube.com/watch?v=0Cmfjz6SF3k",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://digitalzone.vercel.app/games/GIRLDIVERS"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143034&p=3117918&hilit=#p3117918",
+    "download": "https://filecrypt.cc/Container/0DD1120C68.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-03T10:40:45.881Z",
+    "steamID": "2892310",
+    "genres": "Action, Indie, NSFW"
   }
 ]
