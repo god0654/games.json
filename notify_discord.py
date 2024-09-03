@@ -2,9 +2,10 @@ import json
 import os
 import sys
 import requests
-from PIL import Image
+from PIL import Image, ImageDraw, ImageFont, ImageFilter
 from colorthief import ColorThief
 from io import BytesIO
+import base64
 import urllib.request
 
 def load_json(file_path):
@@ -15,7 +16,6 @@ def extract_dominant_color(image_url):
     try:
         with urllib.request.urlopen(image_url) as response:
             image_data = response.read()
-        image = Image.open(BytesIO(image_data))
         color_thief = ColorThief(BytesIO(image_data))
         dominant_color = color_thief.get_color(quality=1)
         return '#%02x%02x%02x' % dominant_color
@@ -32,18 +32,50 @@ def get_changes(current, previous):
             changes.append(item)
     return changes
 
+def convert_image_to_base64(image_url):
+    try:
+        with urllib.request.urlopen(image_url) as response:
+            image_data = response.read()
+        image = Image.open(BytesIO(image_data))
+
+        background = image.copy()
+        background = background.filter(ImageFilter.BoxBlur(2))
+
+        draw = ImageDraw.Draw(background)
+
+        font = ImageFont.truetype("inter.ttf", 150)
+
+        text = "18+"
+        text_color = "#F54139"
+        outline_color = "#780808"
+        outline_width = 5
+
+        draw.text((background.width/2, background.height/2), text, font=font, fill=text_color, stroke_width=outline_width, stroke_fill=outline_color, anchor="mm")
+
+        buffered = BytesIO()
+        background.save(buffered, format="PNG")
+
+        return base64.b64encode(buffered.getvalue()).decode("utf-8")
+    except Exception as e:
+        print(f"Error converting image to base64: {e}")
+        return None
+
 def send_discord_notification(webhook_url, changes, author_icon_url):
     headers = {'Content-Type': 'application/json'}
 
     for game in changes:
         color = extract_dominant_color(game['thumbnail'])
+        base64_image = convert_image_to_base64(game['thumbnail'])
+        if base64_image is None:
+            continue
+
         payload = {
             "content": "",
             "tts": False,
             "embeds": [
                 {
                     "description": f"**{game['subName']}**\n\n{game['description']}",
-                    "image": { "url": game['thumbnail'] },
+                    "image": { "url": f"data:image/png;base64,{base64_image}" },
                     "title": game['name'],
                     "footer": {
                         "text": "DigitalZone",
