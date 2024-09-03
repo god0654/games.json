@@ -1,0 +1,50 @@
+name: Notify Discordy
+
+on:
+  push:
+    paths:
+      - "games.json"
+
+jobs:
+  notify-discord:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v3
+
+      - name: Read JSON file and send to Discord
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          # Extract the first entry from the JSON file using jq (a lightweight command-line JSON processor)
+          json_entry=$(jq '.[0]' data.json)
+          title=$(echo "$json_entry" | jq -r '.title')
+          description=$(echo "$json_entry" | jq -r '.description')
+          thumbnail=$(echo "$json_entry" | jq -r '.thumbnail')
+          url=$(echo "$json_entry" | jq -r '.url')
+          timestamp=$(echo "$json_entry" | jq -r '.timestamp')
+
+          # Create the JSON payload for Discord embed
+          payload=$(cat <<EOF
+          {
+            "embeds": [
+              {
+                "title": "$title",
+                "description": "$description",
+                "url": "$url",
+                "thumbnail": {
+                  "url": "$thumbnail"
+                },
+                "timestamp": "$timestamp",
+                "color": 3447003
+              }
+            ]
+          }
+          EOF
+          )
+
+          # Send the payload to Discord
+          curl -H "Content-Type: application/json" \
+          -X POST \
+          -d "$payload" \
+          $DISCORD_WEBHOOK_URL
