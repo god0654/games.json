@@ -100,5 +100,6 @@ jobs:
                           }')
 
             # Send the payload to Discord
-            curl -H "Content-Type: application/json" -X POST -d "$payload" $DISCORD_WEBHOOK_URL
+            echo $payload
+            # curl -H "Content-Type: application/json" -X POST -d "$payload" $DISCORD_WEBHOOK_URL
           done < changes.json
