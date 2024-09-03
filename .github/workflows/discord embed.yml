@@ -1,0 +1,37 @@
+name: Notify Discord with Updated or Added Entries
+
+on:
+  push:
+    paths:
+      - "games.json"
+  workflow_dispatch:
+
+jobs:
+  notify-discord:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Fetch last committed version of games.json
+        id: fetch-last-commit
+        run: |
+          git fetch --depth=2
+          git show HEAD^:games.json > previous_games.json || true
+
+      - name: Run Python script to compare and notify
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          AUTHOR_ICON_URL: ${{ secrets.AUTHOR_ICON_URL }}
+        run: |
+          python notify_discord.py
