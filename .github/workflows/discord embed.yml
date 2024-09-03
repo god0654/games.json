@@ -13,90 +13,25 @@ jobs:
       - name: Check out the repository
         uses: actions/checkout@v3
 
-      - name: Install jq and diff tools
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
         run: |
-          sudo apt-get update
-          sudo apt-get install -y jq diffutils
+          python -m pip install --upgrade pip
+          pip install requests
 
       - name: Fetch last committed version of games.json
         id: fetch-last-commit
         run: |
-          # Fetch the last commit's games.json
           git fetch --depth=2
-          git show HEAD^:games.json > previous_games.json
+          git show HEAD^:games.json > previous_games.json || true
 
-      - name: Compare versions
-        id: compare
-        run: |
-          # Compare the current and previous versions of games.json
-          jq -S '.' games.json > games.json.sorted
-          jq -S '.' previous_games.json > previous_games.json.sorted
-          diff previous_games.json.sorted games.json.sorted > diff.txt || true
-
-          if [ -s diff.txt ]; then
-            echo "Changes detected."
-            # Only send entries that are new or updated
-            jq -c '.[] | select(.id as $id | input | .[] | select(.id == $id) | . != .)' games.json previous_games.json > changes.json
-            cat changes.json
-            if [ -s changes.json ]; then
-              echo "changes=$(cat changes.json)" >> $GITHUB_ENV
-            fi
-          else
-            echo "No changes detected."
-            exit 0
-          fi
-
-      - name: Save current version
-        run: cp games.json previous_games.json
-
-      - name: Send changes to Discord
-        if: env.changes
+      - name: Run Python script to compare and notify
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           AUTHOR_ICON_URL: ${{ secrets.AUTHOR_ICON_URL }}
         run: |
-          while IFS= read -r game; do
-            name=$(echo "$game" | jq -r '.name')
-            subName=$(echo "$game" | jq -r '.subName')
-            description=$(echo "$game" | jq -r '.description')
-            thumbnail=$(echo "$game" | jq -r '.thumbnail')
-            url=$(echo "$game" | jq -r '.id')
-            dateUpdated=$(echo "$game" | jq -r '.dateUpdated')
-
-            # Construct the JSON payload for Discord
-            payload=$(jq -n --arg name "$name" \
-                          --arg subName "$subName" \
-                          --arg description "$description" \
-                          --arg thumbnail "$thumbnail" \
-                          --arg url "https://digitalzone.vercel.app/games#$url" \
-                          --arg dateUpdated "$dateUpdated" \
-                          --arg authorIconUrl "$AUTHOR_ICON_URL" \
-                          '{
-                            "content": "",
-                            "tts": false,
-                            "embeds": [
-                              {
-                                "description": "**\($subName)**\n\n\($description)",
-                                "image": { "url": $thumbnail },
-                                "title": $name,
-                                "footer": {
-                                  "text": "DigitalZone",
-                                  "icon_url": $authorIconUrl
-                                },
-                                "author": {
-                                  "name": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
-                                  "url": "https://digitalzone.vercel.app/games",
-                                  "icon_url": $authorIconUrl
-                                },
-                                "url": $url,
-                                "timestamp": $dateUpdated
-                              }
-                            ],
-                            "username": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
-                            "avatar_url": $authorIconUrl
-                          }')
-
-            # Send the payload to Discord
-            echo $payload
-            # curl -H "Content-Type: application/json" -X POST -d "$payload" $DISCORD_WEBHOOK_URL
-          done < changes.json
+          python notify_discord.py
