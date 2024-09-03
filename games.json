@@ -23942,5 +23942,28 @@
     "dateUpdated": "2024-09-03T16:53:23.657Z",
     "steamID": "3189010",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "The Casting of Frank Stone™ - Deluxe Edition",
+    "id": "The_Casting_of_Frank_Stone",
+    "notes": "",
+    "subName": "Portable V03.09.2024 + Build 15473676 & DLCs Included",
+    "description": "The shadow of Frank Stone looms over Cedar Hills, a town forever altered by his violent past. As a group of young friends are about to discover, Stone’s blood-soaked legacy cuts deep, leaving scars across families, generations, and the very fabric of reality itself.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2223840.webp",
+    "gameplay": "https://www.youtube.com/watch?v=8MqvnEE9ZvI",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "FLT",
+      "link": "https://api.predb.net/nfoimg/The_Casting_of_Frank_Stone-FLT.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137095&p=3118221&hilit=#p3118221",
+    "download": "https://filecrypt.cc/Container/B9F0893B35.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-03T19:39:53.394Z",
+    "steamID": "2223840",
+    "genres": "Adventure"
   }
 ]
