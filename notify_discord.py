@@ -2,27 +2,41 @@ import json
 import os
 import sys
 import requests
+from PIL import Image
+from colorthief import ColorThief
+from io import BytesIO
+import urllib.request
 
 def load_json(file_path):
     with open(file_path, 'r') as file:
         return json.load(file)
 
+def extract_dominant_color(image_url):
+    try:
+        with urllib.request.urlopen(image_url) as response:
+            image_data = response.read()
+        image = Image.open(BytesIO(image_data))
+        color_thief = ColorThief(BytesIO(image_data))
+        dominant_color = color_thief.get_color(quality=1)
+        return '#%02x%02x%02x' % dominant_color
+    except Exception as e:
+        print(f"Error extracting color: {e}")
+        return '#000000'
+
 def get_changes(current, previous):
     current_dict = {item['id']: item for item in current}
     previous_dict = {item['id']: item for item in previous}
-
     changes = []
     for item_id, item in current_dict.items():
         if item_id not in previous_dict or item != previous_dict[item_id]:
             changes.append(item)
-
     return changes
 
-# Send a notification to Discord
 def send_discord_notification(webhook_url, changes, author_icon_url):
     headers = {'Content-Type': 'application/json'}
 
     for game in changes:
+        color = extract_dominant_color(game['thumbnail'])
         payload = {
             "content": "",
             "tts": False,
@@ -41,7 +55,8 @@ def send_discord_notification(webhook_url, changes, author_icon_url):
                         "icon_url": author_icon_url
                     },
                     "url": f"https://digitalzone.vercel.app/games#{game['id']}",
-                    "timestamp": game['dateUpdated']
+                    "timestamp": game['dateUpdated'],
+                    "color": int(color.replace('#', ''), 16)
                 }
             ],
             "username": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
@@ -54,7 +69,6 @@ def send_discord_notification(webhook_url, changes, author_icon_url):
 def main():
     current_file = 'games.json'
     previous_file = 'previous_games.json'
-
     webhook_url = os.getenv('DISCORD_WEBHOOK_URL')
     author_icon_url = os.getenv('AUTHOR_ICON_URL')
 
