@@ -60,88 +60,81 @@ def convert_image_to_base64(image_url):
         print(f"Error converting image to base64: {e}")
         return None
 
-def send_normal_embed(color, webhook_url, changes, author_icon_url):
-    payload = {
-        "content": "",
-        "tts": False,
-        "embeds": [
-            {
-                "description": f"**{game['subName']}**\n\n{game['description']}",
-                "image": { "url": game['thumbnail'] },
-                "title": game['name'],
-                "footer": {
-                    "text": "DigitalZone",
-                    "icon_url": author_icon_url
-                },
-                "author": {
-                    "name": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
-                    "url": "https://digitalzone.vercel.app/games",
-                    "icon_url": author_icon_url
-                },
-                "url": f"https://digitalzone.vercel.app/games#{game['id']}",
-                "timestamp": game['dateUpdated'],
-                "color": int(color.replace('#', ''), 16)
-            }
-        ],
-        "username": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
-        "avatar_url": author_icon_url
-    }
-    headers = {'Content-Type': 'application/json'}
-    response = requests.post(webhook_url, headers=headers, data=json.dumps(payload))
-    response.raise_for_status()
-
 def send_discord_notification(webhook_url, changes, author_icon_url):
     for game in changes:
         color = extract_dominant_color(game['thumbnail'])
-        try:
-            if "NSFW" in game["genres"]:
-                base64_image = convert_image_to_base64(game['thumbnail'])
-                if base64_image is None:
-                    continue
+        if "NSFW" in game["genres"]:
+            base64_image = convert_image_to_base64(game['thumbnail'])
+            if base64_image is None:
+                continue
 
-                payload_json = {
-                    "content": "",
-                    "tts": False,
-                    "embeds": [
-                        {
-                            "description": f"**{game['subName']}**\n\n{game['description']}",
-                            "image": {"url": "attachment://image.png"},
-                            "title": game['name'],
-                            "footer": {
-                                "text": "DigitalZone",
-                                "icon_url": "https://github.com/god0654/games.json/blob/main/icon.png?raw=true"
-                            },
-                            "author": {
-                                "name": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
-                                "url": "https://digitalzone.vercel.app/games",
-                                "icon_url": author_icon_url
-                            },
-                            "url": f"https://digitalzone.vercel.app/games#{game['id']}",
-                            "timestamp": game['dateUpdated'],
-                            "color": int(color.replace('#', ''), 16)
-                        }
-                    ],
-                    "username": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
-                    "avatar_url": author_icon_url
-                }
+            payload_json = {
+                "content": "",
+                "tts": False,
+                "embeds": [
+                    {
+                        "description": f"**{game['subName']}**\n\n{game['description']}",
+                        "image": {"url": "attachment://image.png"},
+                        "title": game['name'],
+                        "footer": {
+                            "text": "DigitalZone",
+                            "icon_url": "https://github.com/god0654/games.json/blob/main/icon.png?raw=true"
+                        },
+                        "author": {
+                            "name": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
+                            "url": "https://digitalzone.vercel.app/games",
+                            "icon_url": author_icon_url
+                        },
+                        "url": f"https://digitalzone.vercel.app/games#{game['id']}",
+                        "timestamp": game['dateUpdated'],
+                        "color": int(color.replace('#', ''), 16)
+                    }
+                ],
+                "username": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
+                "avatar_url": author_icon_url
+            }
 
-                files = {
-                    'file': ('image.png', BytesIO(base64_image), 'image/png')
-                }
+            files = {
+                'file': ('image.png', BytesIO(base64_image), 'image/png')
+            }
 
-                response = requests.post(webhook_url, data={'payload_json': json.dumps(payload_json)}, files=files)
-                response.raise_for_status()
-            else:
-                send_normal_embed(color,webhook_url, changes, author_icon_url)
-        except Exception as e:
-            send_normal_embed(color,webhook_url, changes, author_icon_url)
-            print(f"Error sending notification: {e}")
+            response = requests.post(webhook_url, data={'payload_json': json.dumps(payload_json)}, files=files)
+            response.raise_for_status()
+        else:
+            payload = {
+                "content": "",
+                "tts": False,
+                "embeds": [
+                    {
+                        "description": f"**{game['subName']}**\n\n{game['description']}",
+                        "image": { "url": game['thumbnail'] },
+                        "title": game['name'],
+                        "footer": {
+                            "text": "DigitalZone",
+                            "icon_url": author_icon_url
+                        },
+                        "author": {
+                            "name": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
+                            "url": "https://digitalzone.vercel.app/games",
+                            "icon_url": author_icon_url
+                        },
+                        "url": f"https://digitalzone.vercel.app/games#{game['id']}",
+                        "timestamp": game['dateUpdated'],
+                        "color": int(color.replace('#', ''), 16)
+                    }
+                ],
+                "username": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
+                "avatar_url": author_icon_url
+            }
+            headers = {'Content-Type': 'application/json'}
+            response = requests.post(webhook_url, headers=headers, data=json.dumps(payload))
+            response.raise_for_status()
 
 def main():
     current_file = 'games.json'
     previous_file = 'previous_games.json'
-    webhook_url = "https://discord.com/api/webhooks/1273653286603587595/FplQVpcJcp9XfOeYON43SEnFxeQcbzqmCBE0jgF-2Vh04By1NUgc1O5el_sctj-3fXij"
-    author_icon_url = "https://cdn.discordapp.com/avatars/971732507877851166/b1c7145c15f3a43e1f8674268206a2d3.webp?size=1024&format=webp&width=0&height=256"
+    webhook_url = os.getenv('DISCORD_WEBHOOK_URL')
+    author_icon_url = os.getenv('AUTHOR_ICON_URL')
 
     current_data = load_json(current_file)
     previous_data = load_json(previous_file)
