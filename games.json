@@ -4158,7 +4158,7 @@
     "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138409&p=3117348&hilit=#p3117348",
     "download": "https://filecrypt.cc/Container/740A4479E7.html",
     "achievements": false,
-    "dateUpdated": "2024-09-02T10:37:26.000Z",
+    "dateUpdated": "2024-09-03T13:34:11.347Z",
     "steamID": "2670630",
     "genres": "Casual, Indie, Simulation"
   },
@@ -20818,7 +20818,7 @@
     "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127314&p=3117430&hilit=#p3117430",
     "download": "https://filecrypt.cc/Container/7835428C46.html",
     "achievements": false,
-    "dateUpdated": "2024-09-02T13:38:43.899Z",
+    "dateUpdated": "2024-09-03T13:27:15.183Z",
     "steamID": "2162800",
     "genres": "Casual, Indie, Simulation, Strategy"
   },
@@ -22897,7 +22897,7 @@
     "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=126516&p=3114311&hilit=#p3114311",
     "download": "https://filecrypt.cc/Container/7AEDA2644C.html",
     "achievements": true,
-    "dateUpdated": "2024-08-27T23:21:40.307Z",
+    "dateUpdated": "2024-09-03T12:17:28.326Z",
     "steamID": "1911360",
     "genres": "Action, Indie, RPG"
   },
@@ -23661,7 +23661,7 @@
     "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=62697&p=3116930&hilit=#p3116930",
     "download": "https://filecrypt.cc/Container/540ABB6C3F.html",
     "achievements": false,
-    "dateUpdated": "2024-09-01T15:37:36.908Z",
+    "dateUpdated": "2024-09-03T13:52:19.199Z",
     "steamID": "203160",
     "genres": "Action, Adventure"
   },
@@ -23709,7 +23709,7 @@
     "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=80504&p=3117032&hilit=#p3117032",
     "download": "https://filecrypt.cc/Container/4CC09555DD.html",
     "achievements": false,
-    "dateUpdated": "2024-09-01T18:28:12.848Z",
+    "dateUpdated": "2024-09-03T14:00:02.934Z",
     "steamID": "678960",
     "genres": "Action, RPG"
   },
@@ -23896,5 +23896,28 @@
     "dateUpdated": "2024-09-03T10:40:45.881Z",
     "steamID": "2892310",
     "genres": "Action, Indie, NSFW"
+  },
+  {
+    "name": "Star Trucker - Deluxe Edition",
+    "id": "Star_Trucker",
+    "notes": "",
+    "subName": "Portable V1.0.37.0 + Build 15542131 & DLCs Included",
+    "description": "Haul cargo, trade salvage and keep your space suit close as you search for fame and fortune among the stars in a game that puts an interstellar twist on the truck sim genre.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2380050.webp",
+    "gameplay": "https://www.youtube.com/watch?v=7iYsFWBUar0",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "✧GͥOͣDͫ✧",
+      "link": "https://store.steampowered.com/app/2380050/Star_Trucker/"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=133359&p=3118008&hilit=#p3118008",
+    "download": "https://filecrypt.cc/Container/2463C1D729.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-03T15:14:30.861Z",
+    "steamID": "2380050",
+    "genres": "Simulation"
   }
 ]
