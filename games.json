@@ -23850,5 +23850,28 @@
     "dateUpdated": "2024-09-02T23:38:16.830Z",
     "steamID": "2253930",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Starcom: Unknown Space",
+    "id": "Starcom_Unknown_Space",
+    "notes": "",
+    "subName": "Portable V17318 (Full Release) & Build 15425041",
+    "description": "Starcom: Unknown Space is an action RPG of space exploration and adventure. Build your own starship while discovering an epic story in a universe of strange mysteries, alien factions and uncharted worlds.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1750770/header.jpg?t=1725296666",
+    "gameplay": "https://www.youtube.com/watch?v=NNbgBGEea5A",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Starcom.Unknown.Space-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=126929&p=3117733&hilit=#p3117733",
+    "download": "https://filecrypt.cc/Container/C156601253.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-03T00:28:03.464Z",
+    "steamID": "1750770",
+    "genres": "Action, Adventure, Indie, RPG"
   }
 ]
