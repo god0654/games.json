@@ -1821,26 +1821,25 @@
     "genres": "Indie, Simulation, Early Access"
   },
   {
-    "name": "No Man's Sky - Worlds Part 1",
+    "name": "No Man's Sky - Aquarius",
     "id": "No_Mans_Sky",
-    "notes": "Note: Launch No Man's Sky.bat or No Man's Sky VR.bat in ''No Man's Sky - Worlds Part 1\\'' to play the game.",
-    "subName": "Portable V5.0 - 126243 + Build 15062433 & DLC Included",
+    "notes": "How to Play: Launch steamclient_loader_x64.exe in ''No Man's Sky - Aquarius\\''.",
+    "subName": "Portable V128610 + Build 15589286 & DLC Included",
     "description": "No Man's Sky is a game about exploration and survival in an infinite procedurally generated universe.",
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/header_alt_assets_24.jpg?t=1721222195",
-    "gameplay": "https://youtu.be/SsX2hK6yBPU",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/header_alt_assets_25.jpg?t=1725460490",
+    "gameplay": "https://www.youtube.com/watch?v=j7Qq34sRSJk",
     "tags": [
-      "gse",
-      "steamless"
+      "gse"
     ],
     "based": {
-      "info": "basedon",
-      "credits": "AR-81",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=68098&p=3090826&hilit=#p3090826"
+      "info": "csf",
+      "credits": "xChingChongX",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=68098&p=3118763&hilit=15589286%5D#p3118763"
     },
-    "download": "https://filecrypt.cc/Container/9DC6F8F46E.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=68098&p=3118840&hilit=#p3118840",
+    "download": "https://filecrypt.cc/Container/2AAFE617C3.html",
     "achievements": true,
-    "dateUpdated": "2024-07-22T15:23:24.591Z",
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=68098&p=3091019&hilit=#p3091019",
+    "dateUpdated": "2024-09-04T22:22:44.261Z",
     "steamID": "275850",
     "genres": "Action, Adventure"
   },
