@@ -8734,22 +8734,22 @@
     "name": "Survival: Fountain of Youth",
     "id": "Survival_Fountain_of_Youth",
     "notes": "",
-    "subName": "Portable V1.0 - 1622 + Build 14373869 & DLC Included",
+    "subName": "Portable V1648 & Build 15005981 & DLCs Included",
     "description": "Survival: Fountain of Youth is a challenging single-player open-world adventure game set on the Caribbean islands. Survive as a shipwrecked 16th-century explorer, craft tools and shelter, and uncover the secrets of both an ancient civilization and your own fate.",
-    "thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1967630/header_alt_assets_5.jpg?t=1716296492",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1967630.webp",
     "gameplay": "https://youtu.be/tKfqAVbJvnI",
     "tags": [
-      "scene"
+      "gse"
     ],
     "based": {
       "info": "nfo",
-      "credits": "FLT",
-      "link": "https://api.predb.net/nfoimg/Survival_Fountain_of_Youth-FLT.png"
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Survival.Fountain.of.Youth.v1648-TENOKE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=125250&p=3055660&hilit=#p3055660",
-    "download": "https://filecrypt.cc/Container/5070A04519.html",
-    "achievements": false,
-    "dateUpdated": "2024-07-24T16:53:29.555Z",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=125250&p=3118336&hilit=#p3118336",
+    "download": "https://filecrypt.cc/Container/A0F5AB41BA.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-04T00:35:49.198Z",
     "steamID": "1967630",
     "genres": "Action, Adventure, Indie, Simulation"
   },
@@ -23988,5 +23988,28 @@
     "dateUpdated": "2024-09-03T22:52:03.191Z",
     "steamID": "2969380",
     "genres": "Action, Adventure"
+  },
+  {
+    "name": "Lone Fungus - Game & Soundtrack Bundle",
+    "id": "Lone_Fungus",
+    "notes": "How to Play: Launch steamclient_loader_x32.exe in ''Lone Fungus - Game and Soundtrack Bundle\\''.",
+    "subName": "Portable V1.1.14 & Build 15027460",
+    "description": "A handcrafted open-world platformer set in a world built by Mushrooms! Explore different locations filled with secrets, acquire new abilities and use those abilities to reach new places!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1674780.webp",
+    "gameplay": "https://www.youtube.com/watch?v=N4QMig11OTo",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Lone.Fungus.v1.1.14-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=112938&p=3118320&hilit=#p3118320",
+    "download": "https://filecrypt.cc/Container/685B2469BD.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-03T23:31:34.363Z",
+    "steamID": "1674780",
+    "genres": "Action, Adventure, Indie"
   }
 ]
