@@ -15760,26 +15760,26 @@
     "genres": "Adventure, Indie, RPG, Strategy"
   },
   {
-    "name": "Bulwark: Falconeer Chronicles",
+    "name": "Bulwark Evolution Falconeer Chronicles: Mongres Trader - Deluxe Edition",
     "id": "Bulwark_Falconeer_Chronicles",
     "notes": "",
-    "subName": "Portable V27.03.2024 + Build 13854792 & DLC Included",
+    "subName": "Portable V04.09.2024 + Build 15595947 & DLCs Included",
     "description": "Bulwark: Falconeer Chronicles is an open world builder with freedom and expression at its core, allowing players to build sprawling towns, spires, and fortresses that become hubs for trade, or rallying grounds for conquests.",
-    "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/290100/header.jpg?t=1711475617",
-    "gameplay": "https://youtu.be/QkImUBD3EsM",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3165180.webp",
+    "gameplay": "https://www.youtube.com/watch?v=nq0U-HObH-4",
     "tags": [
-      "drmfree"
+      "gse"
     ],
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Bulwark.Falconeer.Chronicles-TENOKE.png"
+      "link": "https://api.predb.net/nfoimg/Bulwark.Evolution.Falconeer.Chronicles.Mongres.Trader.Pack-TENOKE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=125785&p=3021852&hilit=#p3021852",
-    "download": "https://filecrypt.cc/Container/DF8E5DCBA7.html",
-    "achievements": false,
-    "dateUpdated": "2024-07-25T21:51:31.353Z",
-    "steamID": "290100",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=125785&p=3118908&hilit=#p3118908",
+    "download": "https://filecrypt.cc/Container/C3A1E8676C.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-05T00:53:43.880Z",
+    "steamID": "3165180",
     "genres": "Casual, Indie, Simulation, Strategy"
   },
   {
