@@ -24079,5 +24079,28 @@
     "dateUpdated": "2024-09-05T11:32:38.026Z",
     "steamID": "2683150",
     "genres": "Action, Adventure, Casual, Indie, Simulation"
+  },
+  {
+    "name": "Fantasy Map Simulator",
+    "id": "Fantasy_Map_Simulator",
+    "notes": "",
+    "subName": "Portable V05.09.2024 & Build 15590750",
+    "description": "Fantasy Map Simulator: Create and watch imaginary worlds evolve over centuries. Design maps, simulate nations, and control destinies. See empires rise and fall on your desktop wallpaper. A unique simulation for history buffs and creative minds.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035500/header.jpg?t=1725440292",
+    "gameplay": "https://www.youtube.com/watch?v=sI-opE_XqY4",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "th298GG12",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143057&p=3119133&hilit=#p3119133"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143057&p=3119152&hilit=#p3119152",
+    "download": "https://filecrypt.cc/Container/580DA12F7E.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-05T12:02:32.439Z",
+    "steamID": "3035500",
+    "genres": "Indie, Simulation, Strategy"
   }
 ]
