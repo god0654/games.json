@@ -13980,25 +13980,25 @@
     "genres": "Adventure"
   },
   {
-    "name": "Spirit City: Lofi Sessions",
+    "name": "Spirit City: Lofi Sessions + Supporter Pack Bundle",
     "id": "Spirit_City_Lofi_Sessions",
     "notes": "",
-    "subName": "Portable V09.04.2024 & Build 13989279",
+    "subName": "Portable V1.4.2 - HotFix + Build 15546937 & DLC Included",
     "description": "Spirit City: Lofi Sessions is a gamified focus tool, set to a soothing lofi soundtrack. Discover and collect Spirits, customize your cozy virtual space, and facilitate your real-life tasks with a collection of handy features designed to improve concentration and ease stress.",
-    "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2113850/header.jpg?t=1712615600",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2113850.webp",
     "gameplay": "https://youtu.be/rtckyVEU4TQ",
     "tags": [
-      "scene"
+      "gse"
     ],
     "based": {
-      "info": "nfo",
-      "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Spirit.City.Lofi.Sessions-TENOKE.png"
+      "info": "csf",
+      "credits": "UltraShaggy",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=136256&p=3037565&hilit=#p3037565"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=136256&p=3030187&hilit=#p3030187",
-    "download": "https://filecrypt.cc/Container/83A0EA93F5.html",
-    "achievements": false,
-    "dateUpdated": "2024-07-25T16:29:17.144Z",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=136256&p=3118918&hilit=#p3118918",
+    "download": "https://filecrypt.cc/Container/A069C1C4B3.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-05T01:16:21.460Z",
     "steamID": "2113850",
     "genres": "Casual, Indie, Simulation"
   },
