@@ -24010,5 +24010,51 @@
     "dateUpdated": "2024-09-03T23:31:34.363Z",
     "steamID": "1674780",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Northend Tower Defense",
+    "id": "Northend_Tower_Defense",
+    "notes": "",
+    "subName": "Portable V1.0 & Build 15592572",
+    "description": "Jump into a realtime strategy, action filled battlefield, deploy relentless soldiers, unlock powerful troops and vehicles, upgrade your army, decimate the enemy. If that's not enough, jump into a chaotic Zombie mode, with traps, fun upgrades, and a new gameplay!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669170/header.jpg?t=1725469663",
+    "gameplay": "https://www.youtube.com/watch?v=v0aMcWyBmXI",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "TheJudge",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=121330&p=3118849&hilit=#p3118849"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=121330&p=3118887&hilit=#p3118887",
+    "download": "https://filecrypt.cc/Container/6DC64769AC.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-04T23:28:35.849Z",
+    "steamID": "1669170",
+    "genres": "Action, Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Ticket to Ride®: Legendary Asia - Deluxe Edition",
+    "id": "Ticket_to_Ride",
+    "notes": "",
+    "subName": "Portable V1.5.0-670891 + Build 15531234 & DLCs Included",
+    "description": "Travel around the world in an epic adventure that redefined the modern board game genre! Build a railway empire that connects the most popular cities, claim the most exciting routes and dominate your competitors in this fan favorite classic!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3102710.webp",
+    "gameplay": "https://www.youtube.com/watch?v=V1qxBXHb6jY",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Ticket.to.Ride.Legendary.Asia-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135444&p=3118898&hilit=#p3118898",
+    "download": "https://filecrypt.cc/Container/5BB5A6D661.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-05T00:07:27.826Z",
+    "steamID": "3102710",
+    "genres": "Casual, Simulation, Strategy"
   }
 ]
