@@ -1824,7 +1824,7 @@
     "name": "No Man's Sky - Aquarius",
     "id": "No_Mans_Sky",
     "notes": "How to Play: Launch steamclient_loader_x64.exe in ''No Man's Sky - Aquarius\\''.",
-    "subName": "Portable V128610 + Build 15589286 & DLC Included",
+    "subName": "Portable V128610 + Build 15589270 & DLC Included",
     "description": "No Man's Sky is a game about exploration and survival in an infinite procedurally generated universe.",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/header_alt_assets_25.jpg?t=1725460490",
     "gameplay": "https://www.youtube.com/watch?v=j7Qq34sRSJk",
@@ -24056,5 +24056,28 @@
     "dateUpdated": "2024-09-05T00:07:27.826Z",
     "steamID": "3102710",
     "genres": "Casual, Simulation, Strategy"
+  },
+  {
+    "name": "Ale & Tale Tavern",
+    "id": "Ale_and_Tale_Tavern",
+    "notes": "",
+    "subName": "Portable V1.0.2 & Build 15600757",
+    "description": "Get ready for a thrilling mix of genres: a cooperative, first-person, open-world fantasy tavern simulator, action, fishing, hunting, exploration, and completing fun and diverse quests. And, of course, COOKING! Play with friends, feed and quench the thirst of the entire world!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/header.jpg?t=1725530302",
+    "gameplay": "https://www.youtube.com/watch?v=RzVf4dl5Y5I",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Dound1946",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141704&p=3119090&hilit=#p3119090"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141704&p=3119136&hilit=#p3119136",
+    "download": "https://filecrypt.cc/Container/A57B3E0E3F.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-05T11:32:38.026Z",
+    "steamID": "2683150",
+    "genres": "Action, Adventure, Casual, Indie, Simulation"
   }
 ]
