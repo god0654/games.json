@@ -12597,27 +12597,28 @@
     "genres": "Action, Indie, Simulation, Strategy, Early Access"
   },
   {
-    "name": "Golf With Your Friends - Critical Hit",
+    "name": "Golf With Your Friends: Olympus Odyssey Course + Legends of Olympus - Complete the Set Bundle",
     "id": "Golf_With_Your_Friends",
     "notes": "",
-    "subName": "Portable V260.885783 + Build 14105064 + DLCs Included & Online Supported",
+    "subName": "Portable V282.909355 + Build 15577835 + DLCs with Items Included & Online Supported",
     "description": "Why have friends if not to play Golf... With Your Friends! Nothing is out of bounds as you take on courses filled with fast paced, exciting, simultaneous mini golf for up to 12 players!",
-    "thumbnail": "https://god0654.github.io/DigitalZone/Images/Golf%20With%20Your%20Friends%20-%20Critical%20Hit.webp",
-    "gameplay": "https://cdn.cloudflare.steamstatic.com/steam/apps/257016633/movie480_vp9.webm?t=1713430923",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3041140.webp",
+    "gameplay": "https://www.youtube.com/watch?v=dwmCSsaeuY4",
     "tags": [
+      "gse",
       "ofme"
     ],
     "based": {
-      "info": "csf",
-      "credits": "Free Weekend",
-      "link": "https://store.steampowered.com/app/2863570/Golf_With_Your_Friends__Critical_Hit_Pack/"
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Golf.With.Your.Friends.Olympus.Odyssey.Course-TENOKE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=70455&p=3036230&hilit=#p3036230",
-    "download": "https://filecrypt.cc/Container/3073BAB254.html",
-    "achievements": false,
-    "dateUpdated": "2024-07-25T11:18:23.999Z",
-    "steamID": "",
-    "genres": ""
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=70455&p=3120020&hilit=#p3120020",
+    "download": "https://filecrypt.cc/Container/634B57DAA3.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-06T15:16:21.240Z",
+    "steamID": "3041140",
+    "genres": "Casual, Indie, Sports"
   },
   {
     "name": "ReMix",
