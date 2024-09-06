@@ -24102,5 +24102,28 @@
     "dateUpdated": "2024-09-05T12:02:32.439Z",
     "steamID": "3035500",
     "genres": "Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Warhammer 40,000: Space Marine II - Ultra Edition",
+    "id": "Warhammer_40_000_Space_Marine_II",
+    "notes": "How to Play: Launch Warhammer 40000 Space Marine 2 - Retail.exe in ''Warhammer 40,000 Space Marine II - Ultra Edition\\client_pc\\root\\bin\\pc\\''.",
+    "subName": "Portable V05.09.2024 + Build 15521170 & DLCs Included",
+    "description": "Embody the superhuman skill and brutality of a Space Marine. Unleash deadly abilities and devastating weaponry to obliterate the relentless Tyranid swarms. Defend the Imperium in spectacular third-person action in solo or multiplayer modes.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2183900.webp",
+    "gameplay": "https://www.youtube.com/watch?v=3NPbs2oArY8",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Warhammer.40000.Space.Marine.2-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=41&t=127945&p=3119597&hilit=#p3119597",
+    "download": "https://filecrypt.cc/Container/379BD93D30.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-05T23:52:25.430Z",
+    "steamID": "2183900",
+    "genres": "Action, Adventure, RPG"
   }
 ]
