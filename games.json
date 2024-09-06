@@ -3073,13 +3073,13 @@
     "genres": ""
   },
   {
-    "name": "The Rogue Prince of Persia",
+    "name": "The Rogue Prince of Persia - Weapons Within",
     "id": "The_Rogue_Prince_of_Persia",
     "notes": "",
-    "subName": "Portable V0.1 - 31aafc7c8 & Build 14932211",
+    "subName": "Portable V0.8.0 : 956bc9071 & Build 15603753",
     "description": "Jump into this action roguelite installment in the Prince of Persia series as you flow between death-defying platforming and acrobatic combat as the Prince himself. Battle through the capital city again and again with one goal – find a way to save Persia from a Hun invasion wielding dark magic.",
-    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2717880/header.jpg?t=1716821692",
-    "gameplay": "https://youtu.be/XZzOxEK7hXo",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2717880.webp",
+    "gameplay": "https://www.youtube.com/watch?v=o3-4Y39bAvA",
     "tags": [
       "gse"
     ],
@@ -3088,12 +3088,12 @@
       "credits": "UltraShaggy",
       "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140003&p=3060045&hilit=#p3060045"
     },
-    "download": "https://filecrypt.cc/Container/D3C04BCB33.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140003&p=3119967&hilit=#p3119967",
+    "download": "https://filecrypt.cc/Container/121996576D.html",
     "achievements": true,
-    "dateUpdated": "2024-07-23T11:25:03.849Z",
-    "csrinru": "",
+    "dateUpdated": "2024-09-06T13:55:31.457Z",
     "steamID": "2717880",
-    "genres": "Action, Adventure, Early Access"
+    "genres": "Action, Adventure"
   },
   {
     "name": "Artisan TD",
