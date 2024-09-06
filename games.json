@@ -24265,5 +24265,28 @@
     "dateUpdated": "2024-09-06T17:53:52.670Z",
     "steamID": "2852980",
     "genres": "Adventure, Indie, Strategy"
+  },
+  {
+    "name": "Shogun Showdown",
+    "id": "Shogun_Showdown",
+    "notes": "",
+    "subName": "Portable V1.0.1.0 & Build 15458673",
+    "description": "Shogun Showdown is a turn-based combat game with rogue-like and deck-building elements. Position yourself and attack at the right time, upgrade your tiles and combo them to get ready to face the Shogun!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084000/header.jpg?t=1725565425",
+    "gameplay": "https://www.youtube.com/watch?v=jtauaOL5OJo",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Tao",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=130873&p=3119803&hilit=#p3119803"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=130873&p=3120282&hilit=#p3120282",
+    "download": "https://filecrypt.cc/Container/161270F0FA.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-06T22:06:47.812Z",
+    "steamID": "2084000",
+    "genres": "Indie, RPG, Strategy"
   }
 ]
