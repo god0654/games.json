@@ -9077,27 +9077,28 @@
     "genres": "Action, Adventure, Indie"
   },
   {
-    "name": "GigaBash: Godzilla - Nemesis",
+    "name": "GigaBash Mighty: R.O.J.A.K & Balzarr",
     "id": "GigaBash",
-    "notes": "",
-    "subName": "Portable V113.1.4.1.231.64103 + Build 14286870 & DLCs Included",
+    "notes": "How to play Online: GoldBerg with Achievements, Stats and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.",
+    "subName": "Portable V142.1.4.5.412.69602 + Build 15414890 + DLCs Included & Online Supported",
     "description": "GigaBash is the ultimate Kaiju Fighting Game for 1-4 players, where you battle as film-inspired Kaijus and giant Heroes in fully destructible cityscapes.",
-    "thumbnail": "https://god0654.github.io/DigitalZone/Images/GigaBash%20Godzilla%20-%20Nemesis.webp",
-    "gameplay": "https://youtu.be/TGyIpzw8xy4",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3063700",
+    "gameplay": "https://www.youtube.com/watch?v=QtFeMJTeLX0",
     "tags": [
-      "scene"
+      "gse",
+      "ofme"
     ],
     "based": {
       "info": "nfo",
       "credits": "RUNE",
-      "link": "https://api.predb.net/nfoimg/GigaBash.Godzilla.Nemesis-RUNE.png"
+      "link": "https://api.predb.net/nfoimg/GigaBash.Mighty-RUNE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=114438&p=3053155&hilit=#p3053155",
-    "download": "https://filecrypt.cc/Container/A4C0DF535A.html",
-    "achievements": false,
-    "dateUpdated": "2024-07-24T17:12:04.871Z",
-    "steamID": "",
-    "genres": ""
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=114438&p=3119891&hilit=#p3119891",
+    "download": "https://filecrypt.cc/Container/DE77DEA6D6.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-06T11:50:37.536Z",
+    "steamID": "3063700",
+    "genres": "Action, Casual, Indie"
   },
   {
     "name": "Violet",
@@ -24125,5 +24126,97 @@
     "dateUpdated": "2024-09-05T23:52:25.430Z",
     "steamID": "2183900",
     "genres": "Action, Adventure, RPG"
+  },
+  {
+    "name": "Perennial Order",
+    "id": "Perennial_Order",
+    "notes": "",
+    "subName": "Portable V1.0.1 (HotFix 3) & Build 15604673",
+    "description": "Perennial Order is a 2D plant horror boss rush with challenging one-hit-death combat. Set in an atmospheric Dark Age world plagued by nature-infested horrors, explore a lore-filled and eldritch land alone or in two player co-op, all in a realistic painterly style.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411020/header.jpg?t=1725609954",
+    "gameplay": "https://www.youtube.com/watch?v=O_MLgWLynrU",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Perennial.Order-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138075&p=3119819&hilit=#p3119819",
+    "download": "https://filecrypt.cc/Container/BC7A7E9A39.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-06T09:36:30.654Z",
+    "steamID": "1411020",
+    "genres": "Action, Adventure, RPG"
+  },
+  {
+    "name": "Selfloss",
+    "id": "Selfloss",
+    "notes": "",
+    "subName": "Portable V06.09.2024 & Build 15607150",
+    "description": "Selfloss is an emotional exploration game filled with rich lore, set in a whale-worshipping, Slavic-inspired world. Embark on the journey of the healer, Kazimir, and his magical staff as he fights a mysterious Miasm in search of a ritual to cure his wounded soul.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086620/header.jpg?t=1725542073",
+    "gameplay": "https://www.youtube.com/watch?v=SEjKf06d0bM",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Selfloss-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=97054&p=3119830&hilit=#p3119830",
+    "download": "https://filecrypt.cc/Container/09FDC70416.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-06T10:02:56.818Z",
+    "steamID": "1086620",
+    "genres": "Action, Adventure, Indie, RPG"
+  },
+  {
+    "name": "Gimmick! 2",
+    "id": "Gimmick_2",
+    "notes": "",
+    "subName": "Portable V1.1.0-94b07639b9 & Build 15545156",
+    "description": "Embark on a sparkling journey in this long-awaited sequel to SUNSOFT’s legendary 8-bit platformer Gimmick! Solve puzzles, trick enemies, and explore a physics-based playground. Yumetaro is back!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994880/header.jpg?t=1725540971",
+    "gameplay": "https://www.youtube.com/watch?v=zybESjXGWdE",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Gimmick.2-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142171&p=3119843&hilit=#p3119843",
+    "download": "https://filecrypt.cc/Container/09C08D8020.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-06T10:27:58.185Z",
+    "steamID": "2994880",
+    "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "DATE A LIVE: Ren Dystopia - Deluxe Edition",
+    "id": "DATE_A_LIVE_Ren_Dystopia",
+    "notes": "",
+    "subName": "Portable V1.0.0 + Build 15610405 & DLC Included",
+    "description": "Play as Shido and unravel the secrets of the mysterious spirit Ren in the visual novel follow-up to DATE A LIVE: Rio Reincarnation, based on the acclaimed light novel and anime series.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2627780.webp",
+    "gameplay": "https://www.youtube.com/watch?v=Bul6L_u1fy8",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/DATE.A.LIVE.Ren.Dystopia-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143051&p=3119865&hilit=#p3119865",
+    "download": "https://filecrypt.cc/Container/18C4E547CC.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-06T10:55:54.863Z",
+    "steamID": "2984950",
+    "genres": "Casual, Simulation"
   }
 ]
