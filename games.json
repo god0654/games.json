@@ -24288,5 +24288,74 @@
     "dateUpdated": "2024-09-06T22:06:47.812Z",
     "steamID": "2084000",
     "genres": "Indie, RPG, Strategy"
+  },
+  {
+    "name": "Demon's Mirror",
+    "id": "Demons_Mirror",
+    "notes": "",
+    "subName": "Portable V07.09.2024 & Build 15525949",
+    "description": "Step into the Demon’s Mirror and enter a fantastical, nightmarish world in this roguelike deckbuilder! Strategy meets the arcane in a unique fusion of deck-building and chain-3 mechanics. Can you face your demons and come out unscathed?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1600910/header.jpg?t=1725544536",
+    "gameplay": "https://www.youtube.com/watch?v=pF0JJ92VWRs",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Demons.Mirror-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143075&p=3120319&hilit=#p3120319",
+    "download": "https://filecrypt.cc/Container/8704BD9F74.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-06T23:32:44.217Z",
+    "steamID": "1600910",
+    "genres": "Strategy"
+  },
+  {
+    "name": "Garlant: My Story",
+    "id": "Garlant_My_Story",
+    "notes": "",
+    "subName": "Portable V1.1.0.5 & Build 15588133",
+    "description": "I am a Falconeye who just graduated from the academy. In pursuit of challenges, I came to the distant border of the kingdom: Garlant in the Doe region. Here I will start a new chapter of my life, and it's going to be an amazing adventure story!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2022850/header.jpg?t=1725517070",
+    "gameplay": "https://www.youtube.com/watch?v=pNMBE5mNizs",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Garlant.My.Story-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143097&p=3120333&hilit=#p3120333",
+    "download": "https://filecrypt.cc/Container/FF155ABA66.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-06T23:54:01.394Z",
+    "steamID": "2022850",
+    "genres": "Adventure, Casual, Indie, RPG, Simulation"
+  },
+  {
+    "name": "The Corpsmen",
+    "id": "The_Corpsmen",
+    "notes": "",
+    "subName": "Portable + V1.0 - Full Release & Build 15620583",
+    "description": "The Corpsmen is a deck-building roguelite where you build and lead a team of creatures to fight, hunt and harvest other monsters. Your creatures will grow and learn new skills according to how you construct them. Craft unique creatures and decks, and venture forth into the unknown.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1571960/header_alt_assets_3.jpg?t=1725664152",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257049924/movie480_vp9.webm?t=1724783369",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/The.Corpsmen-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=112363&p=3120338&hilit=#p3120338",
+    "download": "https://filecrypt.cc/Container/C4BF9D39C1.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-07T00:22:39.012Z",
+    "steamID": "1571960",
+    "genres": "Adventure, Indie, Strategy"
   }
 ]
