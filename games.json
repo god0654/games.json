@@ -24426,5 +24426,28 @@
     "dateUpdated": "2024-09-07T10:28:35.816Z",
     "steamID": "2401970",
     "genres": "Adventure"
+  },
+  {
+    "name": "Sex Formula",
+    "id": "Sex_Formula",
+    "notes": "Note: It takes a while to launch, if you present a white or black screen in the game window it is normal. (SSD is highly recommended)",
+    "subName": "Portable V1.0.0 & Build 15610797",
+    "description": "This game narrates how the player meets Reika and begins a life together. Before satisfying Reika sexually, she will not agree to date you, even if you already have a physical relationship.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2889660/header.jpg?t=1725612422",
+    "gameplay": "https://www.youtube.com/watch?v=CNEBH0Y9xp8",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://digitalzone.vercel.app/games/Sex_Formula"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143103&p=3120595&hilit=#p3120595",
+    "download": "https://filecrypt.cc/Container/9F88ED8EE4.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-07T12:03:28.861Z",
+    "steamID": "2889660",
+    "genres": "Indie, RPG, NSFW"
   }
 ]
