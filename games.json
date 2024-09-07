@@ -24403,5 +24403,28 @@
     "dateUpdated": "2024-09-07T01:38:20.977Z",
     "steamID": "2071430",
     "genres": "Indie, Strategy"
+  },
+  {
+    "name": "Ace Attorney Investigations Collection",
+    "id": "Ace_Attorney_Investigations_Collection",
+    "notes": "",
+    "subName": "Portable-Ryujinx V1.0.0.1",
+    "description": "Miles Edgeworth's dramatic turnabouts take center stage! Experience both Ace Attorney Investigations games in one gorgeous collection! Investigate crime scenes and solve tough, intriguing cases through logic and deduction. When Edgeworth's past and present collide, his future begins!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401970/header.jpg?t=1725595421",
+    "gameplay": "https://www.youtube.com/watch?v=XCPSlCIPKBs",
+    "tags": [
+      "switch"
+    ],
+    "based": {
+      "info": "info",
+      "credits": "Based on Ryujinx",
+      "link": "https://digitalzone.vercel.app/games/Ace_Attorney_Investigations_Collection"
+    },
+    "csrinru": "",
+    "download": "https://filecrypt.cc/Container/C25EDA987B.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-07T10:28:35.816Z",
+    "steamID": "2401970",
+    "genres": "Adventure"
   }
 ]
