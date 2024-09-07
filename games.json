@@ -23390,23 +23390,23 @@
   {
     "name": "CarX Street - Deluxe Edition",
     "id": "CarX_Street",
-    "notes": "",
-    "subName": "Portable V1.0.1 + Build 15534248 & DLC Included",
+    "notes": "How to Play: Launch CarX Street.exe in ''CarX Street - Deluxe Edition\\''.",
+    "subName": "Portable V1.0.3 + Build 15618189 & DLC Included",
     "description": "Conquer mountain roads, highways, and city streets. Build your dream car with detailed tuning that unleashes the potential of “CarX Technology”© physics. Take part in thrilling races, enjoying realistic gameplay and dynamic driving.",
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/header.jpg?t=1724914854",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1114150.webp",
     "gameplay": "https://www.youtube.com/watch?v=hMm_Rkeg4wY",
     "tags": [
-      "scene"
+      "gse"
     ],
     "based": {
-      "info": "nfo",
-      "credits": "RUNE",
-      "link": "https://api.predb.net/nfoimg/CarX.Street-RUNE.png"
+      "info": "csf",
+      "credits": "flaywah",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=109435&p=3120218&hilit=#p3120218"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=109435&p=3115777&hilit=#p3115777",
-    "download": "https://filecrypt.cc/Container/861FC30345.html",
-    "achievements": false,
-    "dateUpdated": "2024-08-30T10:42:54.634Z",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=109435&p=3120637&hilit=#p3120637",
+    "download": "https://filecrypt.cc/Container/4D71A367D1.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-07T14:15:50.540Z",
     "steamID": "1114150",
     "genres": "Racing, Simulation, Sports"
   },
