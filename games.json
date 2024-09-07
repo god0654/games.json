@@ -24357,5 +24357,51 @@
     "dateUpdated": "2024-09-07T00:22:39.012Z",
     "steamID": "1571960",
     "genres": "Adventure, Indie, Strategy"
+  },
+  {
+    "name": "Scourge Of War - Remastered",
+    "id": "Scourge_Of_War_Remastered",
+    "notes": "",
+    "subName": "Portable V07.09.2024 + Build 15405430 & DLC Included",
+    "description": "Welcome to Scourge of War, a real-time 3D computer game/simulation developed by NorbSoftDev, the company headed by renowned game designer Norb Timpko, designer of Mad Minute Games' acclaimed Take Command series. Scourge of War is the epitome of historical command simulations.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2205330/header.jpg?t=1725636480",
+    "gameplay": "https://www.youtube.com/watch?v=ZPXD1TSCgkU",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Scourge.Of.War.Remastered-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143100&p=3120343&hilit=#p3120343",
+    "download": "https://filecrypt.cc/Container/3A29DA9795.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-07T00:49:29.599Z",
+    "steamID": "2205330",
+    "genres": "Action, Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Roots of Yggdrasil - Valkyrie's Lament",
+    "id": "Roots_of_Yggdrasil",
+    "notes": "",
+    "subName": "Portable V1.0 & Build 15568614",
+    "description": "Build settlements, explore the Nine Realms, collect artifacts and upgrade your deck to reach the top of Yggdrasil in this post-Ragnarok roguelike city-builder! Can you survive the end of the world?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071430/header.jpg?t=1725656546",
+    "gameplay": "https://www.youtube.com/watch?v=y96K5yRfNWM",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Roots.of.Yggdrasil-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=125580&p=3120347&hilit=#p3120347",
+    "download": "https://filecrypt.cc/Container/1DE182E929.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-07T01:38:20.977Z",
+    "steamID": "2071430",
+    "genres": "Indie, Strategy"
   }
 ]
