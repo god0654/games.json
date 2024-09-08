@@ -24564,5 +24564,29 @@
     "dateUpdated": "2024-09-08T19:22:42.363Z",
     "steamID": "3059010",
     "genres": "Action, Indie"
+  },
+  {
+    "name": "Forever Skies - The Combat",
+    "id": "Forever_Skies",
+    "notes": "",
+    "subName": "Portable V1.6.0 + Build 15613337 & DLC Included",
+    "description": "Forever Skies is a first-person post-apocalyptic survival game. Return to Earth, ravaged by an ecological disaster. Fly, upgrade and customize your mobile high-tech airship base. Scavenge resources to survive, face dangers on the surface and hunt for viral pathogens to cure a mysterious illness.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/header.jpg?t=1725650296",
+    "gameplay": "https://www.youtube.com/watch?v=C3MlTgiNfYo",
+    "tags": [
+      "gse",
+      "steamless"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Skiminok",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=118692&p=3120231&hilit=#p3120231"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=118692&p=3121466&hilit=#p3121466",
+    "download": "https://filecrypt.cc/Container/3AF4F712D8.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-08T21:25:51.712Z",
+    "steamID": "1641960",
+    "genres": "Action, Adventure, Indie, Simulation"
   }
 ]
