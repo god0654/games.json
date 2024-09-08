@@ -24495,5 +24495,28 @@
     "dateUpdated": "2024-09-07T16:14:51.143Z",
     "steamID": "2719060",
     "genres": "Action, Indie"
+  },
+  {
+    "name": "Stigma-ARIA",
+    "id": "Stigma_ARIA",
+    "notes": "",
+    "subName": "Portable V1.06 & Build 15617008",
+    "description": "Due to the succubus curse, the \"Succubus Disease\" has spread. The only way to confront the disease is let the infected cum again and again!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2710010/header.jpg?t=1725609619",
+    "gameplay": "https://www.youtube.com/watch?v=VHmVPky0smc",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "QuantumPixelWanderer",
+      "link": "https://digitalzone.vercel.app/games/Stigma_ARIA"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143123&p=3121372&hilit=#p3121372",
+    "download": "https://filecrypt.cc/Container/AD14197D9D.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-08T17:54:45.706Z",
+    "steamID": "2710010",
+    "genres": "Adventure, Casual, Indie, RPG"
   }
 ]
