@@ -24821,5 +24821,28 @@
     "dateUpdated": "2024-09-09T19:07:33.748Z",
     "steamID": "2727650",
     "genres": "Action, Adventure, Casual, Indie, Racing"
+  },
+  {
+    "name": "Monastery",
+    "id": "Monastery",
+    "notes": "",
+    "subName": "Portable V0.349.3 & Build 15461102",
+    "description": "Step into a wild deckbuilder adventure in the Monastery's shadows. Battle unexpected foes, gather potent loot, and refine your deck. Gear up for the ultimate challenge against fearsome bosses, each with unique tactics. Every playthrough offers a whole new thrill. Are you ready for the showdown?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1731410/header.jpg?t=1717682317",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/256969642/movie480_vp9.webm?t=1694708260",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "sikkacyanide",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=124446&p=3121492&hilit=#p3121492"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=124446&p=3121987&hilit=#p3121987",
+    "download": "https://filecrypt.cc/Container/1AEF30D9B4.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-09T20:41:40.649Z",
+    "steamID": "1731410",
+    "genres": "Adventure, Indie, Strategy"
   }
 ]
