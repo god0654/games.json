@@ -24775,5 +24775,28 @@
     "dateUpdated": "2024-09-09T13:31:59.900Z",
     "steamID": "3009850",
     "genres": "Action, Adventure, Indie, RPG, Simulation"
+  },
+  {
+    "name": "Arcane Blast",
+    "id": "Arcane_Blast",
+    "notes": "",
+    "subName": "Portable V09.09.2024 & Build 15630691",
+    "description": "Arcane Blast is a fast-paced, action-packed roguelike brimming with sorcery. Master the seven elements, combine them to achieve powerful reactions and face swarms of enemies to help feline Mage Adrian find his way home from a time dungeon.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2628230/header.jpg?t=1725886702",
+    "gameplay": "https://www.youtube.com/watch?v=kiL6nnli-9w",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Dound1946",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143131&p=3121825&hilit=#p3121825"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143131&p=3121863&hilit=#p3121863",
+    "download": "https://filecrypt.cc/Container/678945EC58.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-09T16:42:10.132Z",
+    "steamID": "2628230",
+    "genres": "Action, Indie"
   }
 ]
