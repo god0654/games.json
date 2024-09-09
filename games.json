@@ -24798,5 +24798,28 @@
     "dateUpdated": "2024-09-09T16:42:10.132Z",
     "steamID": "2628230",
     "genres": "Action, Indie"
+  },
+  {
+    "name": "WHAT THE CAR?",
+    "id": "WHAT_THE_CAR",
+    "notes": "",
+    "subName": "Portable V4.5.0 & Build 15602714",
+    "description": "An absurdly silly adventure full of racing, laughs, and unexpected surprises. Roll, sprint, jump, fly and sneeze your way to victory on the racetrack and beyond!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2727650/header.jpg?t=1725887527",
+    "gameplay": "https://www.youtube.com/watch?v=Zix1mpAWf1c",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "munkyhead86",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140029&p=3121794&hilit=#p3121794"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140029&p=3121943&hilit=#p3121943",
+    "download": "https://filecrypt.cc/Container/FAFCEDFE01.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-09T19:07:33.748Z",
+    "steamID": "2727650",
+    "genres": "Action, Adventure, Casual, Indie, Racing"
   }
 ]
