@@ -24660,5 +24660,51 @@
     "dateUpdated": "2024-09-09T02:16:29.764Z",
     "steamID": "1038250",
     "genres": "Action, Adventure, Casual, Racing, Sports"
+  },
+  {
+    "name": "Spiritfall - The Meditation Chamber",
+    "id": "Spiritfall",
+    "notes": "",
+    "subName": "Portable V1.5.11 + Build 15631412 & DLC Included",
+    "description": "Spiritfall is a fast-paced Action Roguelite with combat inspired by Platform Fighters. Slash, smash, launch, and wall-splat a multitude of enemies using an ever-changing arsenal of divine powers.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1835240/header.jpg?t=1720438457",
+    "gameplay": "https://www.youtube.com/watch?v=l7tnRJ5CfZI",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Spiritfall.v1.5.11-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=118665&p=3121697&hilit=#p3121697",
+    "download": "https://filecrypt.cc/Container/A58F4824A7.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-09T10:14:55.656Z",
+    "steamID": "1835240",
+    "genres": "Action, Indie"
+  },
+  {
+    "name": "Peaks of Yore",
+    "id": "Peaks_of_Yore",
+    "notes": "",
+    "subName": "Portable V1.7.0f & Build 15592799",
+    "description": "Travel around The Great Gales to climb challenging peaks in this physics-based climbing adventure set in 1887. Meet like-minded mountaineers, unlock helpful climbing gear, and become a pioneer of mountaineering.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/header.jpg?t=1715074643",
+    "gameplay": "https://www.youtube.com/watch?v=pwfN-Q5IixY",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Peaks.of.Yore.v1.7.0f-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=136123&p=3121705&hilit=#p3121705",
+    "download": "https://filecrypt.cc/Container/1E29853E2D.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-09T10:35:41.428Z",
+    "steamID": "2236070",
+    "genres": "Action, Adventure, Indie"
   }
 ]
