@@ -24706,5 +24706,28 @@
     "dateUpdated": "2024-09-09T10:35:41.428Z",
     "steamID": "2236070",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "KeepUp Survival + DLC Bündel",
+    "id": "KeepUp_Survival",
+    "notes": "How to Play in DirectX11: KeepUpSurvival-DX11.bat in 'KeepUp Survival + DLC Bündel\\''.",
+    "subName": "Portable V06.09.2024 + Build 15610827 & DLCs Included",
+    "description": "Welcome to a world of survival on a deserted island, characterized by an incredible wildlife and abandoned structures. Immerse yourself in a game set in a natural and post-apocalyptic environment where your primary task is to survive in KeepUp Survival.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1524630/header.jpg?t=1725651368",
+    "gameplay": "https://www.youtube.com/watch?v=LTaVWaIC5h0",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/KeepUp.Survival.v20240906-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=111836&p=3121720&hilit=#p3121720",
+    "download": "https://filecrypt.cc/Container/DEB1923139.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-09T11:21:27.796Z",
+    "steamID": "1524630",
+    "genres": "Action, Adventure, Indie, Simulation"
   }
 ]
