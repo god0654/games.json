@@ -13985,7 +13985,7 @@
     "name": "Spirit City: Lofi Sessions + Supporter Pack Bundle",
     "id": "Spirit_City_Lofi_Sessions",
     "notes": "",
-    "subName": "Portable V1.4.2 - HotFix + Build 15546937 & DLC Included",
+    "subName": "Portable V1.4.3 - HotFix + Build 15602532 & DLC Included",
     "description": "Spirit City: Lofi Sessions is a gamified focus tool, set to a soothing lofi soundtrack. Discover and collect Spirits, customize your cozy virtual space, and facilitate your real-life tasks with a collection of handy features designed to improve concentration and ease stress.",
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2113850.webp",
     "gameplay": "https://youtu.be/rtckyVEU4TQ",
@@ -13993,14 +13993,14 @@
       "gse"
     ],
     "based": {
-      "info": "csf",
-      "credits": "UltraShaggy",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=136256&p=3037565&hilit=#p3037565"
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Spirit.City.Lofi.Sessions.v1.4.3-TENOKE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=136256&p=3118918&hilit=#p3118918",
-    "download": "https://filecrypt.cc/Container/A069C1C4B3.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=136256&p=3121530&hilit=#p3121530",
+    "download": "https://filecrypt.cc/Container/3CCE340403.html",
     "achievements": true,
-    "dateUpdated": "2024-09-05T01:16:21.460Z",
+    "dateUpdated": "2024-09-09T00:24:29.026Z",
     "steamID": "2113850",
     "genres": "Casual, Indie, Simulation"
   },
@@ -24588,5 +24588,52 @@
     "dateUpdated": "2024-09-08T21:25:51.712Z",
     "steamID": "1641960",
     "genres": "Action, Adventure, Indie, Simulation"
+  },
+  {
+    "name": "Good Pizza, Great Pizza - Cooking Simulator Game",
+    "id": "Good_Pizza_Great_Pizza_Cooking_Simulator_Game",
+    "notes": "",
+    "subName": "Portable V5.15.4_421b + Build 15621386 & DLCs with Items Included",
+    "description": "Ever wanted to know what it feels like to run your own cozy Pizza shop? Do your best to fulfill pizza orders from customers while making enough money to keep your shop open. Upgrade your shop with new toppings and equipment to compete against your pizza rival, Alicante!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770810/header.jpg?t=1713222679",
+    "gameplay": "https://www.youtube.com/watch?v=h0JODPr7SDo",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Good.Pizza.Great.Pizza.Cooking.Simulator.Game.v5.15.4-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=89934&p=3121552&hilit=#p3121552",
+    "download": "https://filecrypt.cc/Container/F0F670710E.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-09T00:55:16.669Z",
+    "steamID": "770810",
+    "genres": "Casual, Indie, Simulation"
+  },
+  {
+    "name": "Ember Knights: Ember Cat and Astral Ascent - Soundtrack Edition",
+    "id": "Ember_Knights",
+    "notes": "How to play Online: GoldBerg with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.",
+    "subName": "Portable + V1.5.2_b4383 + Build 15594073 & Online Supported",
+    "description": "Ember Knights is an action rogue-lite for 1-4 players where you play as legendary knights, the last spark of hope against the mad sorcerer Praxis and his hordes of unwavering fiends. Wield weapons & skills, build synergies with game-changing relics and free the universe of Praxis’ corruption.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1135230.webp",
+    "gameplay": "https://www.youtube.com/watch?v=preR0s1DZJw",
+    "tags": [
+      "gse",
+      "ofme"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Ember.Knights.v1.5.2-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=106192&p=3121561&hilit=#p3121561",
+    "download": "https://filecrypt.cc/Container/01B358E5B7.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-09T01:32:02.967Z",
+    "steamID": "1135230",
+    "genres": "Action, Adventure, RPG"
   }
 ]
