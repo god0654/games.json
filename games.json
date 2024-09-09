@@ -24635,5 +24635,30 @@
     "dateUpdated": "2024-09-09T01:32:02.967Z",
     "steamID": "1135230",
     "genres": "Action, Adventure, RPG"
+  },
+  {
+    "name": "DiRT 5 - Year One Edition",
+    "id": "DiRT_5",
+    "notes": "Note: If you have trouble launching the game, install the Gaming Services in ”_Support\\Gaming_Services\\”.  Reminder: Need an Account Microsoft for proper work + Controllers and Split Screen are supported.",
+    "subName": "Portable V1.2770.47.0 + DLCs Included & Online Supported",
+    "description": "DIRT 5 is a fun, amplified, off-road arcade racing experience created by Codemasters. Blaze a trail on routes across the world, covering gravel, ice, snow and sand, with a roster of cars ranging from rally icons to trucks, to GT heroes.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1038250.webp",
+    "gameplay": "https://www.youtube.com/watch?v=iIAvBjGx2s4",
+    "tags": [
+      "ofme",
+      "scene",
+      "mc"
+    ],
+    "based": {
+      "info": "info",
+      "credits": "CMF ✧GͥOͣDͫ✧",
+      "link": "https://digitalzone.vercel.app/games/DiRT_5"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=105296&p=3121570&hilit=#p3121570",
+    "download": "https://filecrypt.cc/Container/552EB2B073.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-09T02:16:29.764Z",
+    "steamID": "1038250",
+    "genres": "Action, Adventure, Casual, Racing, Sports"
   }
 ]
