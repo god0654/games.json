@@ -25005,5 +25005,28 @@
     "dateUpdated": "2024-09-10T15:38:59.855Z",
     "steamID": "526870",
     "genres": "Adventure, Indie, Simulation, Strategy"
+  },
+  {
+    "name": "I Am Your Beast",
+    "id": "I_Am_Your_Beast",
+    "notes": "",
+    "subName": "Portable V10.09.2024 & Build 15651533",
+    "description": "Hunt the military-industrial complex across stylish comic book micro-sandboxes in this fast-paced covert revenge thriller FPS from the developers of El Paso, Elsewhere.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1876590/header.jpg?t=1725974933",
+    "gameplay": "https://www.youtube.com/watch?v=A4RHkNCLtIU",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "SKIDROW",
+      "link": "https://api.predb.net/nfoimg/I.Am.Your.Beast-SKIDROW.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141541&p=3122435&hilit=#p3122435",
+    "download": "https://filecrypt.cc/Container/BD3FA8757F.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-10T16:21:58.256Z",
+    "steamID": "1876590",
+    "genres": "Action"
   }
 ]
