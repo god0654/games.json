@@ -24959,5 +24959,28 @@
     "dateUpdated": "2024-09-10T00:36:12.029Z",
     "steamID": "1999520",
     "genres": "Adventure, Casual, Indie"
+  },
+  {
+    "name": "Shadowkin",
+    "id": "Shadowkin",
+    "notes": "",
+    "subName": "Portable V1.0f & Build 14341019",
+    "description": "Face waves of enemies as you travel from room to room in your auto-shooting horde survival conquest. You and your companion (AI or 2 Player) must work together and create builds that compliment each other while exploring branching paths through various zones and worlds in a Roguelite setting.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2212410/header.jpg?t=1725743691",
+    "gameplay": "https://www.youtube.com/watch?v=zze9PSjN03I",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Owla",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137562&p=3023573&hilit=#p3023573"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137562&p=3122347&hilit=#p3122347",
+    "download": "https://filecrypt.cc/Container/7DB0C6BBC4.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-10T13:49:34.048Z",
+    "steamID": "2212410",
+    "genres": "Action, Indie"
   }
 ]
