@@ -25029,5 +25029,29 @@
     "dateUpdated": "2024-09-10T16:21:58.256Z",
     "steamID": "1876590",
     "genres": "Action"
+  },
+  {
+    "name": "Son and Bone",
+    "id": "Son_and_Bone",
+    "notes": "",
+    "subName": "Portable V10.09.2024",
+    "description": "When a local farm is attacked by a group of bandits, Sheriff Sam Judge sets out to bring them to justice. But on his journey, Sam finds himself transported to another world overrun with prehistoric creatures, dinosaurs and now must fight for his life to make it back to earth.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/SonandBone-EGS.webp",
+    "gameplay": "https://www.youtube.com/watch?v=oV9cjsBP2Ww",
+    "tags": [
+      "epic",
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Son.and.Bone-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=38&t=143061&p=3122550&hilit=#p3122550",
+    "download": "https://filecrypt.cc/Container/02E4185452.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-10T18:44:24.110Z",
+    "steamID": "",
+    "genres": "First Person, Platformer, Shooter"
   }
 ]
