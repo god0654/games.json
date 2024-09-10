@@ -4212,7 +4212,7 @@
     "name": "Emberward",
     "id": "Emberward",
     "notes": "",
-    "subName": "Portable V0.2.0 & Build 14834163",
+    "subName": "Portable V0.3.1 & Build 15628352",
     "description": "Build twisting mazes with tetromino blocks and deploy unique towers in this engaging roguelite tower defense game!",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459550/header.jpg?t=1719331185",
     "gameplay": "https://youtu.be/UF1yPgZQTqw",
@@ -4222,14 +4222,14 @@
     "based": {
       "info": "csf",
       "credits": "mafia47",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141759&p=3078998&hilit=#p3078998"
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141759&p=3122662&hilit=#p3122662"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141759&p=3079339&hilit=#p3079339",
-    "download": "https://filecrypt.cc/Container/879ED5CF38.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141759&p=3122683&hilit=#p3122683",
+    "download": "https://filecrypt.cc/Container/A7A8BB484C.html",
     "achievements": false,
-    "dateUpdated": "2024-07-24T11:30:20.883Z",
+    "dateUpdated": "2024-09-10T22:24:26.415Z",
     "steamID": "2459550",
-    "genres": "Indie, Strategy, Early Access"
+    "genres": "Indie, Strategy"
   },
   {
     "name": "PANICORE - Supporter Pack Bundle",
