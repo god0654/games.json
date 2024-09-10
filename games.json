@@ -25099,5 +25099,28 @@
     "dateUpdated": "2024-09-10T22:05:46.849Z",
     "steamID": "2545740",
     "genres": "Action, Casual, Indie, RPG"
+  },
+  {
+    "name": "Tech Store Simulator",
+    "id": "Tech_Store_Simulator",
+    "notes": "",
+    "subName": "Portable V1.0.8 & Build 15620208",
+    "description": "Run your own electronic shop! Stock shelves with the latest tech gadgets, set prices to attract customers, handle payments, hire and manage staff, and customize your store layout.Create the ultimate tech shopping experience in your Tech Shop Simulator!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3076400/header.jpg?t=1725006364",
+    "gameplay": "https://www.youtube.com/watch?v=It1EOzKD-MY",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Zulux91",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143002&p=3122679&hilit=#p3122679"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143002&p=3122689&hilit=#p3122689",
+    "download": "https://filecrypt.cc/Container/C227495113.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-10T22:43:59.473Z",
+    "steamID": "3076400",
+    "genres": "Casual, Indie, Simulation, Strategy"
   }
 ]
