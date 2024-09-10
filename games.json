@@ -24982,5 +24982,28 @@
     "dateUpdated": "2024-09-10T13:49:34.048Z",
     "steamID": "2212410",
     "genres": "Action, Indie"
+  },
+  {
+    "name": "Satisfactory",
+    "id": "Satisfactory",
+    "notes": "",
+    "subName": "Portable V1.0_365306 + Build 15636841 & DLC Included",
+    "description": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header_alt_assets_2.jpg?t=1725980493",
+    "gameplay": "https://www.youtube.com/watch?v=nrKEm4ue8tE",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "nxbrew321",
+      "link": "https://store.steampowered.com/app/526870/Satisfactory/"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=90111&p=3122407&hilit=#p3122407",
+    "download": "https://filecrypt.cc/Container/DFED0F8319.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-10T15:38:59.855Z",
+    "steamID": "526870",
+    "genres": "Adventure, Indie, Simulation, Strategy"
   }
 ]
