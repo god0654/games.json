@@ -24844,5 +24844,97 @@
     "dateUpdated": "2024-09-09T20:41:40.649Z",
     "steamID": "1731410",
     "genres": "Adventure, Indie, Strategy"
+  },
+  {
+    "name": "CORPUS EDAX",
+    "id": "CORPUS_EDAX",
+    "notes": "",
+    "subName": "Portable V1.0 & Build 15641419",
+    "description": "An immersive first-person-melee RPG where you create your character so you can play your way. Fight, talk or sneak your way out of confrontation - your choice.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2017610/header.jpg?t=1725562611",
+    "gameplay": "https://www.youtube.com/watch?v=-iDfr_Ueb9w",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "badnews1983",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140378&p=3122022&hilit=#p3122022"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140378&p=3122042&hilit=#p3122042",
+    "download": "https://filecrypt.cc/Container/DB2081D3BA.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-09T23:03:07.392Z",
+    "steamID": "2017610",
+    "genres": "Action, Adventure, RPG"
+  },
+  {
+    "name": "Urayama",
+    "id": "Urayama",
+    "notes": "",
+    "subName": "Portable V1.02 & Build 15502925",
+    "description": "Urayama | ウラヤマ is a psychological J-horror game featuring students on summer vacation.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2939550/header.jpg?t=1724699282",
+    "gameplay": "https://www.youtube.com/watch?v=mvbzQzAlmQ8",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Urayama-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143138&p=3122053&hilit=#p3122053",
+    "download": "https://filecrypt.cc/Container/A34ED3C97A.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-09T23:28:56.623Z",
+    "steamID": "2939550",
+    "genres": "Indie"
+  },
+  {
+    "name": "Dreamlike Love with Seira",
+    "id": "Dreamlike_Love_with_Seira",
+    "notes": "",
+    "subName": "Portable V7.1.2 & Build 15381844",
+    "description": "Enjoy the memories with a beautiful maid in your dreams and heal your fatigue in reality.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2986260/header.jpg?t=1724422152",
+    "gameplay": "https://www.youtube.com/watch?v=w68cLjnlMUo",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Dreamlike.Love.with.Seira-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143101&p=3122061&hilit=#p3122061",
+    "download": "https://filecrypt.cc/Container/89E49EF2D5.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-09T23:52:07.410Z",
+    "steamID": "2986260",
+    "genres": "Casual, Indie"
+  },
+  {
+    "name": "Escape Gaia",
+    "id": "Escape_Gaia",
+    "notes": "",
+    "subName": "Portable V1.0.1 & Build 15196300",
+    "description": "you will play as Gaia, the shattered will of a planet, and command your spaceship to explore new worlds, collect and refine various resources, build a home on the damaged spacecraft, summon a wide range of monsters, and ultimately, devour other shattered wills to repair yourself.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103970/header.jpg?t=1725710606",
+    "gameplay": "https://www.youtube.com/watch?v=q56xGuehqNk",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Escape.Gaia-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143136&p=3122068&hilit=#p3122068",
+    "download": "https://filecrypt.cc/Container/038E61D048.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-10T00:13:14.427Z",
+    "steamID": "3103970",
+    "genres": "Casual, Indie, Strategy"
   }
 ]
