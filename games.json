@@ -25076,5 +25076,28 @@
     "dateUpdated": "2024-09-10T20:40:34.001Z",
     "steamID": "2639100",
     "genres": "Simulation, NSFW"
+  },
+  {
+    "name": "Hive Jump 2: Survivors",
+    "id": "Hive_Jump_2_Survivors",
+    "notes": "",
+    "subName": "Portable V1.0.1825 & Build 15595500",
+    "description": "Become an agent of vengeance in this bullet-heaven action roguelite! You are the lone survivor of your squad, on an alien planet with just your weapon, a jetpack, and the courage to keep fighting. Kill off alien swarms and transform their valuable guts into explosive upgrades and vital utilities.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2545740/header.jpg?t=1725980689",
+    "gameplay": "https://www.youtube.com/watch?v=WrZTI0i7Iqo",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "Unleashed",
+      "link": "https://predb.net/rls/Hive.Jump.2.Survivors-Unleashed"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142150&p=3122672&hilit=#p3122672",
+    "download": "https://filecrypt.cc/Container/5A1B0B769F.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-10T22:05:46.849Z",
+    "steamID": "2545740",
+    "genres": "Action, Casual, Indie, RPG"
   }
 ]
