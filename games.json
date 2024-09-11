@@ -19950,7 +19950,7 @@
     "name": "Cat Quest III + The World of Cat Quest Digital Artbook Bundle",
     "id": "Cat_Quest_III",
     "notes": "",
-    "subName": "Portable V1.1.7 & Build 15456120",
+    "subName": "Portable V1.1.8 & Build 15598901",
     "description": "In Cat Quest III you play as a purrivateer in a freely explorable 2.5D open-world swarming with Pi-rats. You can sail the seas in your ship for treasures galore! But prepare for peril, as the Pirate King aims to hunt you down...",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2305840/header.jpg?t=1723100683",
     "gameplay": "https://www.youtube.com/watch?v=q8y7vnYABvM",
@@ -19960,12 +19960,12 @@
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Cat.Quest.III.Update.v1.1.7-TENOKE.png"
+      "link": "https://api.predb.net/nfoimg/Cat.Quest.III.Update.v1.1.8-TENOKE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132917&p=3113655&hilit=#p3113655",
-    "download": "https://filecrypt.cc/Container/6E51B2649D.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132917&p=3122719&hilit=#p3122719",
+    "download": "https://filecrypt.cc/Container/FAAAE9FCA7.html",
     "achievements": true,
-    "dateUpdated": "2024-08-26T22:46:39.142Z",
+    "dateUpdated": "2024-09-10T23:43:21.246Z",
     "steamID": "2305840",
     "genres": "Action, Adventure, Indie, RPG"
   },
@@ -25122,5 +25122,28 @@
     "dateUpdated": "2024-09-10T22:43:59.473Z",
     "steamID": "3076400",
     "genres": "Casual, Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Fantasy Match -Make a H match with cute young woman-",
+    "id": "Fantasy_Match_Make_a_H_match_with_cute_young_woman",
+    "notes": "",
+    "subName": "Portable V10.09.2024 & Build 15587195",
+    "description": "Ike had been living a quiet life in a relaxed, otherworldly world, but one day a thief and a horned sorceress invade Ike's life. How can Ike use his wits and strength to get through this difficult time and win the hearts of these beauties?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651500/header.jpg?t=1725956077",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/256999608/movie480_vp9.webm?t=1709800396",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://digitalzone.vercel.app/games/Fantasy_Match_Make_a_H_match_with_cute_young_woman"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143158&p=3122731&hilit=#p3122731",
+    "download": "https://filecrypt.cc/Container/359F1DC360.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-11T00:12:12.182Z",
+    "steamID": "2651500",
+    "genres": "Casual, RPG, Simulation, NSFW"
   }
 ]
