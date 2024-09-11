@@ -12320,25 +12320,25 @@
     "genres": "Simulation, Strategy"
   },
   {
-    "name": "Sweet Transit",
+    "name": "Sweet Transit: Locomotive Pack - Deluxe Edition",
     "id": "Sweet_Transit",
     "notes": "",
-    "subName": "Portable V1.0.38 & Build 14084027",
+    "subName": "Portable V1.1.17 + Build 15431212 & DLCs Included",
     "description": "Sweet Transit is a unique city builder where the railway is king. Build and automate the dream supply chain for your citizens, giving them all they need to expand quaint villages into bustling cities. Progress from steam power to diesel and beyond in this advanced train-driven experience.",
-    "thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1612770/header_alt_assets_3.jpg?t=1713802388",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3104710.webp",
     "gameplay": "https://youtu.be/Zs0l5SYDLYk",
     "tags": [
       "gse"
     ],
     "based": {
       "info": "nfo",
-      "credits": "SKIDROW",
-      "link": "https://api.predb.net/nfoimg/Sweet.Transit-SKIDROW.png"
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Sweet.Transit.Locomotive.Pack-TENOKE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=121445&p=3037732&hilit=#p3037732",
-    "download": "https://filecrypt.cc/Container/D9EE52EC66.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=121445&p=3122897&hilit=#p3122897",
+    "download": "https://filecrypt.cc/Container/A989C7142F.html",
     "achievements": true,
-    "dateUpdated": "2024-07-25T10:34:04.192Z",
+    "dateUpdated": "2024-09-11T11:31:12.976Z",
     "steamID": "1612770",
     "genres": "Indie, Simulation, Strategy"
   },
