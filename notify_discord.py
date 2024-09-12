@@ -32,10 +32,15 @@ def get_changes(current, previous):
     current_dict = {item['id']: item for item in current}
     previous_dict = {item['id']: item for item in previous}
 
-    changes = [
-        item for item_id, item in current_dict.items()
-        if item_id in previous_dict and item['dateUpdated'] != previous_dict[item_id]['dateUpdated']
-    ]
+    changes = []
+
+    for item_id, item in current_dict.items():
+        if item_id in previous_dict and item['dateUpdated'] != previous_dict[item_id]['dateUpdated']:
+            print("Changed game: " + item_id)
+            changes.append(item)
+        elif item_id not in previous_dict:
+            print("Newly added game: " + item_id)
+            changes.append(item)
 
     return changes
 
