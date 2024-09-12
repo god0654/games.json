@@ -42,26 +42,36 @@ jobs:
       - name: Print Length of Changed Game Names
         run: |
           python notify_discord.py -c
-          
-      - name: Manual Approval to Send Changed JSON Data
-        id: manual_approval_changes
+
+      - name: Wait for Approval to Send Changed JSON Data
+        id: wait_for_approval_changes
         uses: trstringer/manual-approval@v1
         with:
-          review: "Do you want to send the changed JSON data? (yes/no)"
+          secret: ${{ secrets.GITHUB_TOKEN }}
+          approvers: god0654,V0IDL355
+          minimum-approvals: 1
+          issue-title: "Approval Needed: Send Changed JSON Data"
+          issue-body: "Please approve or deny the sending of changed JSON data."
+          exclude-workflow-initiator-as-approver: false
 
       - name: Send Changed JSON Data
-        if: ${{ steps.manual_approval_changes.outputs.approved == 'yes' }}
+        if: ${{ steps.wait_for_approval_changes.outputs.approved == 'yes' }}
         run: |
           python notify_discord.py -y
 
-      - name: Manual Approval to Send Only New Entries
-        if: ${{ steps.manual_approval_changes.outputs.approved != 'yes' }}
-        id: manual_approval_new_entries
+      - name: Wait for Approval to Send Only New Entries
+        if: ${{ steps.wait_for_approval_changes.outputs.approved != 'yes' }}
+        id: wait_for_approval_new_entries
         uses: trstringer/manual-approval@v1
         with:
-          review: "Do you want to send only new entries? (yes/no)"
+          secret: ${{ secrets.GITHUB_TOKEN }}
+          approvers: god0654,V0IDL355
+          minimum-approvals: 1
+          issue-title: "Approval Needed: Send Only New Entries"
+          issue-body: "Please approve or deny the sending of only new entries."
+          exclude-workflow-initiator-as-approver: false
 
       - name: Send Only New Entries
-        if: ${{ steps.manual_approval_new_entries.outputs.approved == 'yes' }}
+        if: ${{ steps.wait_for_approval_new_entries.outputs.approved == 'yes' }}
         run: |
           python notify_discord.py -b
