@@ -5,6 +5,15 @@ on:
     paths:
       - "games.json"
   workflow_dispatch:
+    inputs:
+      action:
+        description: 'Select the action to perform'
+        required: true
+        type: choice
+        options:
+          - print_length
+          - send_changes
+          - send_new_entries
 
 jobs:
   notify-discord:
@@ -39,9 +48,33 @@ jobs:
           git fetch --depth=2
           git show HEAD^:games.json > previous_games.json || true
 
-      - name: Run Python script to compare and notify
-        env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          AUTHOR_ICON_URL: ${{ secrets.AUTHOR_ICON_URL }}
+      - name: Print Length of Changed Game Names
+        if: ${{ github.event.inputs.action == 'print_length' }}
         run: |
-          python notify_discord.py
+          python notify_discord.py -c
+
+      - name: Confirm to Send Changed JSON Data
+        if: ${{ github.event.inputs.action == 'print_length' }}
+        id: confirm_send_changes
+        run: |
+          echo "Do you want to send the changed JSON data? (yes/no)"
+          read -r response
+          echo "SEND_CHANGES=$response" >> $GITHUB_ENV
+
+      - name: Send Changed JSON Data
+        if: ${{ env.SEND_CHANGES == 'yes' }}
+        run: |
+          python notify_discord.py -y
+
+      - name: Confirm to Send Only New Entries
+        if: ${{ github.event.inputs.action == 'print_length' && env.SEND_CHANGES != 'yes' }}
+        id: confirm_send_new_entries
+        run: |
+          echo "Do you want to send only new entries? (yes/no)"
+          read -r response
+          echo "SEND_NEW_ENTRIES=$response" >> $GITHUB_ENV
+
+      - name: Send Only New Entries
+        if: ${{ env.SEND_NEW_ENTRIES == 'yes' }}
+        run: |
+          python notify_discord.py -b
