@@ -24063,8 +24063,8 @@
   {
     "name": "Ale & Tale Tavern",
     "id": "Ale_and_Tale_Tavern",
-    "notes": "",
-    "subName": "Portable V1.0.21 & Build 15667544",
+    "notes": "How to Play Offline: Launch Ale and Tale Tavern-Offline.bat in ''Ale and Tale Tavern\\''.\n\nHow to play Online: Apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch Ale and Tale Tavern.exe.",
+    "subName": "Portable V1.0.21 + Build 15667544 & Online Supported",
     "description": "Get ready for a thrilling mix of genres: a cooperative, first-person, open-world fantasy tavern simulator, action, fishing, hunting, exploration, and completing fun and diverse quests. And, of course, COOKING! Play with friends, feed and quench the thirst of the entire world!",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/header.jpg?t=1725530302",
     "gameplay": "https://www.youtube.com/watch?v=RzVf4dl5Y5I",
@@ -24080,7 +24080,7 @@
     "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141704&p=3123248&hilit=#p3123248",
     "download": "https://filecrypt.cc/Container/7FBAEE3BCC.html",
     "achievements": true,
-    "dateUpdated": "2024-09-11T23:45:34.254Z",
+    "dateUpdated": "2024-09-12T01:00:22.372Z",
     "link": "",
     "steamID": "2683150",
     "genres": "Action, Adventure, Casual, Indie, Simulation"
@@ -25286,5 +25286,53 @@
     "link": "https://store.steampowered.com/app/433300",
     "steamID": "433300",
     "genres": "Action, Adventure, RPG"
+  },
+  {
+    "name": "Yars Rising",
+    "id": "Yars_Rising",
+    "notes": "",
+    "subName": "Portable V1.1.0 & Build 15214964",
+    "description": "From the renowned development studio WayForward Technologies, Inc. (Shantae, River City Girls, Advance Wars 1+2: Re-Boot Camp) comes Yars Rising, a 2D action adventure exploration of one of Atari’s richest, and best known classic titles.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2534370/header.jpg?t=1726091548",
+    "gameplay": "https://www.youtube.com/watch?v=1pXQWEJM2w0",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Yars.Rising-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142859&p=3123267&hilit=#p3123267",
+    "download": "https://filecrypt.cc/Container/3AAD0E9947.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-12T00:23:14.259Z",
+    "link": "https://store.steampowered.com/app/2534370",
+    "steamID": "2534370",
+    "genres": "Action, Adventure"
+  },
+  {
+    "name": "Nightfall Comes",
+    "id": "Nightfall_Comes",
+    "notes": "",
+    "subName": "Portable V0910.24 & Build 15638950",
+    "description": "Nightfall Comes is a rogue-lite action game based on top-view 3D actions that tells the story of the four characters who gathered in a castle built on a fief, led by their last lingering feelings of the extinct world.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1935100/header.jpg?t=1725942268",
+    "gameplay": "https://www.youtube.com/watch?v=BDHGALGHlrM",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Nightfall.Comes-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=121259&p=3123278&hilit=#p3123278",
+    "download": "https://filecrypt.cc/Container/DA12B0A193.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-12T00:58:24.259Z",
+    "link": "https://store.steampowered.com/app/1935100",
+    "steamID": "1935100",
+    "genres": "Action, Indie"
   }
 ]
