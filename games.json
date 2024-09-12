@@ -26425,5 +26425,29 @@
     "link": "https://store.steampowered.com/app/1935100",
     "steamID": "1935100",
     "genres": "Action, Indie"
+  },
+  {
+    "name": "LOLLIPOP CHAINSAW RePOP",
+    "id": "LOLLIPOP_CHAINSAW_RePOP",
+    "notes": "",
+    "subName": "Portable V12.09.2024 & Build 15664141",
+    "description": "The legendary zombie hunter Juliet is back in 4K!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2658450.webp",
+    "gameplay": "https://www.youtube.com/watch?v=abPO5TKOgtw",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ElAmigos",
+      "link": "https://elamigos.site/data/Lollipop_Chainsaw_RePOP_MULTi9_-_ElAmigos.html"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142592&p=3123491&hilit=#p3123491",
+    "download": "https://filecrypt.cc/Container/B29F806D30.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-12T12:12:49.671Z",
+    "link": "https://store.steampowered.com/app/2658450",
+    "steamID": "2658450",
+    "genres": "Action"
   }
 ]
