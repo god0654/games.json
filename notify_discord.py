@@ -7,7 +7,6 @@ from colorthief import ColorThief
 from io import BytesIO
 import base64
 import urllib.request
-import argparse
 
 def load_json(file_path):
     with open(file_path, 'r') as file:
@@ -32,12 +31,6 @@ def get_changes(current, previous):
         if item_id not in previous_dict or item != previous_dict[item_id]:
             changes.append(item)
     return changes
-
-def get_new_entries(current, previous):
-    current_ids = {item['id'] for item in current}
-    previous_ids = {item['id'] for item in previous}
-    new_entries = [item for item in current if item['id'] not in previous_ids]
-    return new_entries
 
 def convert_image_to_base64(image_url):
     try:
@@ -67,7 +60,7 @@ def convert_image_to_base64(image_url):
         print(f"Error converting image to base64: {e}")
         return None
 
-def send_discord_notification(webhook_url, changes, author_icon_url, is_new_data=False):
+def send_discord_notification(webhook_url, changes, author_icon_url):
     for game in changes:
         color = extract_dominant_color(game['thumbnail'])
         if "NSFW" in game["genres"]:
@@ -138,12 +131,6 @@ def send_discord_notification(webhook_url, changes, author_icon_url, is_new_data
             response.raise_for_status()
 
 def main():
-    parser = argparse.ArgumentParser(description='Process game notifications.')
-    parser.add_argument('-c', action='store_true', help='Check the length of game names that got changed')
-    parser.add_argument('-y', action='store_true', help='Send changed JSON data')
-    parser.add_argument('-b', action='store_true', help='Send only new data')
-    args = parser.parse_args()
-
     current_file = 'games.json'
     previous_file = 'previous_games.json'
     webhook_url = os.getenv('DISCORD_WEBHOOK_URL')
@@ -152,30 +139,13 @@ def main():
     current_data = load_json(current_file)
     previous_data = load_json(previous_file)
 
-    if args.c:
-        changes = get_changes(current_data, previous_data)
-        for game in changes:
-            print(f"Game Name Length: {len(game['name'])}")
-        sys.exit(0)
+    changes = get_changes(current_data, previous_data)
 
-    if args.y:
-        changes = get_changes(current_data, previous_data)
-        if changes:
-            send_discord_notification(webhook_url, changes, author_icon_url)
-        else:
-            print("No changes detected.")
+    if changes:
+        send_discord_notification(webhook_url, changes, author_icon_url)
+    else:
+        print("No changes detected.")
         sys.exit(0)
-
-    if args.b:
-        new_entries = get_new_entries(current_data, previous_data)
-        if new_entries:
-            send_discord_notification(webhook_url, new_entries, author_icon_url, is_new_data=True)
-        else:
-            print("No new entries detected.")
-        sys.exit(0)
-
-    print("No options provided. Use -c, -y, or -b.")
-    sys.exit(1)
 
 if __name__ == "__main__":
     main()
