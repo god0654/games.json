@@ -39,39 +39,9 @@ jobs:
           git fetch --depth=2
           git show HEAD^:games.json > previous_games.json || true
 
-      - name: Print Length of Changed Game Names
+      - name: Run Python script to compare and notify
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          AUTHOR_ICON_URL: ${{ secrets.AUTHOR_ICON_URL }}
         run: |
-          python notify_discord.py -c
-
-      - name: Wait for Approval to Send Changed JSON Data
-        id: wait_for_approval_changes
-        uses: trstringer/manual-approval@v1
-        with:
-          secret: ${{ secrets.GITHUB_TOKEN }}
-          approvers: god0654,V0IDL355
-          minimum-approvals: 1
-          issue-title: "Approval Needed: Send Changed JSON Data"
-          issue-body: "Please approve or deny the sending of changed JSON data."
-          exclude-workflow-initiator-as-approver: false
-
-      - name: Send Changed JSON Data
-        if: ${{ steps.wait_for_approval_changes.outputs.approved == 'yes' }}
-        run: |
-          python notify_discord.py -y
-
-      - name: Wait for Approval to Send Only New Entries
-        if: ${{ steps.wait_for_approval_changes.outputs.approved != 'yes' }}
-        id: wait_for_approval_new_entries
-        uses: trstringer/manual-approval@v1
-        with:
-          secret: ${{ secrets.GITHUB_TOKEN }}
-          approvers: god0654,V0IDL355
-          minimum-approvals: 1
-          issue-title: "Approval Needed: Send Only New Entries"
-          issue-body: "Please approve or deny the sending of only new entries."
-          exclude-workflow-initiator-as-approver: false
-
-      - name: Send Only New Entries
-        if: ${{ steps.wait_for_approval_new_entries.outputs.approved == 'yes' }}
-        run: |
-          python notify_discord.py -b
+          python notify_discord.py
