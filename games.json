@@ -26474,5 +26474,30 @@
     "link": "https://store.steampowered.com/app/3063250",
     "steamID": "3063250",
     "genres": "Action, Adventure, Indie, RPG"
+  },
+  {
+    "name": "STAR WARS Jedi: Survivor™ - Deluxe Edition",
+    "id": "STAR_WARS_Jedi_Survivor",
+    "notes": "Note: Useless Original EXE is removed.\n\nHow change language: Open anadius.cfg in \"SwGame\\Binaries\\Win64\\\" and replace \"en_US\" with desidered language.",
+    "subName": "Portable V1.0.0.11 (Patch 9) + Build 15643690 & DLCs Included",
+    "description": "The story of Cal Kestis continues in STAR WARS Jedi: Survivor™, a galaxy-spanning, third-person, action-adventure game.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1774580.webp",
+    "gameplay": "https://www.youtube.com/watch?v=ndMPzks0pq0",
+    "tags": [
+      "denuvoremoved",
+      "anadius"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "✧GͥOͣDͫ✧",
+      "link": "https://store.steampowered.com/app/1774580/STAR_WARS_Jedi_Survivor/"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=119088&p=3123708&hilit=#p3123708",
+    "download": "https://filecrypt.cc/Container/AD3282CFCA.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-12T16:52:10.827Z",
+    "link": "https://store.steampowered.com/app/1774580",
+    "steamID": "1774580",
+    "genres": "Action, Adventure"
   }
 ]
