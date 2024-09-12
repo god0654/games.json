@@ -32,10 +32,11 @@ def get_changes(current, previous):
     current_dict = {item['id']: item for item in current}
     previous_dict = {item['id']: item for item in previous}
 
-    changes = []
-    for item_id, item in current_dict.items():
-        if item_id not in previous_dict or generate_hash(item) != generate_hash(previous_dict[item_id]):
-            changes.append(item)
+    changes = [
+        item for item_id, item in current_dict.items()
+        if item_id in previous_dict and item['dateUpdated'] != previous_dict[item_id]['dateUpdated']
+    ]
+
     return changes
 
 def convert_image_to_base64(image_url):
@@ -150,7 +151,6 @@ def main():
     if changes:
         send_discord_notification(webhook_url, changes, author_icon_url)
 
-        # Update the previous data file with current data
         with open(previous_file, 'w') as file:
             json.dump(current_data, file, indent=4)
     else:
