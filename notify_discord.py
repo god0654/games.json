@@ -149,6 +149,7 @@ def main():
     changes = get_changes(current_data, previous_data)
 
     if changes:
+        print(f"Changes detected: {len(changes)}")
         send_discord_notification(webhook_url, changes, author_icon_url)
 
         with open(previous_file, 'w') as file:
