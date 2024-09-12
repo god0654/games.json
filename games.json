@@ -26449,5 +26449,30 @@
     "link": "https://store.steampowered.com/app/2658450",
     "steamID": "2658450",
     "genres": "Action"
+  },
+  {
+    "name": "Gunfire Reborn: Realm of Frost and Inkwash - Visitors of Spirit Realm Bundle",
+    "id": "Gunfire_Reborn",
+    "notes": "How to play Online: GoldBerg with Achievements, Overlay support and .dll by RUNE is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.",
+    "subName": "Portable V12.09.2024 + Build 15675547 + DLC Included & Online Supported",
+    "description": "Gunfire Reborn is a level-based adventure game featuring FPS, Roguelite and RPG. Players can control heroes with various abilities to experience diverse Build gameplay, use various weapons to explore procedurally-generated levels. You can play the game alone, or join 4-player coop.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3063250.webp",
+    "gameplay": "https://www.youtube.com/watch?v=5GNDmfCfnRI",
+    "tags": [
+      "gse",
+      "ofme"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Gunfire.Reborn.Realm.of.Frost.and.Inkwash-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=105259&p=3123533&hilit=#p3123533",
+    "download": "https://filecrypt.cc/Container/B6D39DED64.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-12T13:34:56.623Z",
+    "link": "https://store.steampowered.com/app/3063250",
+    "steamID": "3063250",
+    "genres": "Action, Adventure, Indie, RPG"
   }
 ]
