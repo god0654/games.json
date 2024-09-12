@@ -8648,28 +8648,28 @@
     "link": "https://store.steampowered.com/app/2060790"
   },
   {
-    "name": "Galacticare - Placebo Edition",
+    "name": "Galacticare: Challenge Mode - Placebo Edition",
     "id": "Galacticare",
     "notes": "",
-    "subName": "Portable V1.0.2 + Build 14467559 & DLCs Included",
+    "subName": "Portable V1.1.0 + Build 15653058 & DLCs Included",
     "description": "Build, manage and optimise intergalactic hospitals! Recruit staff to satisfy the whims of various alien species, and cure their bizarre illnesses - for money! Save the (literal) Galaxy in story mode, or head into sandbox to design the hospital of your dreams.",
-    "thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/494730/header.jpg?t=1716473372",
-    "gameplay": "https://youtu.be/R55ftpZEpK4",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3089140.webp",
+    "gameplay": "https://www.youtube.com/watch?v=swdMw24VplY",
     "tags": [
       "gse"
     ],
     "based": {
-      "info": "csf",
-      "credits": "Dound1946",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=117631&p=3056909&hilit=#p3056909"
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Galacticare.Challenge.Mode-RUNE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=117631&p=3057116&hilit=#p3057116",
-    "download": "https://filecrypt.cc/Container/497821E41F.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=117631&p=3124028&hilit=#p3124028",
+    "download": "https://filecrypt.cc/Container/9AB5E0232D.html",
     "achievements": true,
-    "dateUpdated": "2024-07-24T16:31:28.436Z",
+    "dateUpdated": "2024-09-12T21:42:06.139Z",
+    "link": "https://store.steampowered.com/app/494730",
     "steamID": "494730",
-    "genres": "Simulation, Strategy",
-    "link": "https://store.steampowered.com/app/494730"
+    "genres": "Simulation, Strategy"
   },
   {
     "name": "Crown Wars: The Black Prince",
@@ -26478,7 +26478,7 @@
   {
     "name": "STAR WARS Jedi: Survivor™ - Deluxe Edition",
     "id": "STAR_WARS_Jedi_Survivor",
-  "notes": "Note: Useless Original EXE is removed.\n\nHow change language: Open anadius.cfg in \"SwGame\\Binaries\\Win64\\\" and replace \"en_US\" with desidered language.\n\n⬐DLC Unlocker by machine4578⬎  https://cs.rin.ru/forum/viewtopic.php?f=10&t=119088&p=3123920&hilit=#p3123920\nJust extract in the main folder.",
+    "notes": "Note: Useless Original EXE is removed.\n\nHow change language: Open anadius.cfg in \"SwGame\\Binaries\\Win64\\\" and replace \"en_US\" with desidered language.\n\n⬐DLC Unlocker by machine4578⬎  https://cs.rin.ru/forum/viewtopic.php?f=10&t=119088&p=3123920&hilit=#p3123920\nJust extract in the main folder.",
     "subName": "Portable V1.0.0.11 (Patch 9) + Build 15643690 & DLCs Included",
     "description": "The story of Cal Kestis continues in STAR WARS Jedi: Survivor™, a galaxy-spanning, third-person, action-adventure game.",
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1774580.webp",
@@ -26499,5 +26499,101 @@
     "link": "https://store.steampowered.com/app/1774580",
     "steamID": "1774580",
     "genres": "Action, Adventure"
+  },
+  {
+    "name": "MARVEL vs. CAPCOM Fighting Collection: Arcade Classics",
+    "id": "MARVEL_vs_CAPCOM_Fighting_Collection_Arcade_Classics",
+    "notes": "",
+    "subName": "Portable V12.09.2024 & Build 15598301",
+    "description": "The legendary crossover hits are back! The action-packed lineup consisting of seven unique titles, is full of heavy hitters like X-MEN VS. STREET FIGHTER, and MARVEL vs. CAPCOM 2 New Age of Heroes. The collection also includes the rare beat 'em up game, THE PUNISHER.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2634890/header.jpg?t=1726113746",
+    "gameplay": "https://www.youtube.com/watch?v=QNTZnjzFH8o",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/MARVEL.vs.CAPCOM.Fighting.Collection.Arcade.Classics-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141620&p=3124051&hilit=#p3124051",
+    "download": "https://filecrypt.cc/Container/D517E0411E.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-12T22:13:51.468Z",
+    "link": "https://store.steampowered.com/app/2634890",
+    "steamID": "2634890",
+    "genres": "Action"
+  },
+  {
+    "name": "Turbo Sliders Unlimited - Deluxe Edition",
+    "id": "Turbo_Sliders_Unlimited",
+    "notes": "",
+    "subName": "Portable V12.09.2024 + Build 15663379 & DLCs Included",
+    "description": "Driving game with Unlimited possibilities. Spiritual successor to classic top-down racing games, but in 3D with modern online features, countless game modes and extensive moddability. For casual fun, serious competition, or to unleash your creativity with the editors.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1478340.webp",
+    "gameplay": "https://www.youtube.com/watch?v=MSbpRt58sxM",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Turbo.Sliders.Unlimited-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=118607&p=3124096&hilit=#p3124096",
+    "download": "https://filecrypt.cc/Container/0532D59BA8.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-12T22:57:51.170Z",
+    "link": "https://store.steampowered.com/app/1478340",
+    "steamID": "1478340",
+    "genres": "Casual, Indie, Racing, Simulation, Sports"
+  },
+  {
+    "name": "REKA",
+    "id": "REKA",
+    "notes": "",
+    "subName": "Portable V0.1.83.18780b & Build 15630221",
+    "description": "Channel your inner witch! Build your cozy chicken-legged hut, practice witchcraft, and forage for ingredients in autumnal woodlands. Solve quests & uncover the great mysteries of the legendary witch Baba Jaga…",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/header.jpg?t=1726141650",
+    "gameplay": "https://www.youtube.com/watch?v=A7MljC6aZ0o",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Dound",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=123440&p=3123512&hilit=#p3123512"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=123440&p=3124115&hilit=#p3124115",
+    "download": "https://filecrypt.cc/Container/EB384F5415.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-12T23:22:42.419Z",
+    "link": "https://store.steampowered.com/app/1737870",
+    "steamID": "1737870",
+    "genres": "Adventure, Casual, Indie, RPG"
+  },
+  {
+    "name": "Caravan SandWitch",
+    "id": "Caravan_SandWitch",
+    "notes": "How to Play: Launch CaravanSandWitch.bat in ''Caravan SandWitch\\''.",
+    "subName": "Portable V1.12.71.0 + Build 15643653 & DLC Included",
+    "description": "Embark on a journey across vast landscapes in Caravan SandWitch, a captivating narrative-driven exploration adventure.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1582650/header.jpg?t=1726153679",
+    "gameplay": "https://www.youtube.com/watch?v=l7aJXIjVoBA",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Dound",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=115843&p=3123670&hilit=#p3123670"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=115843&p=3124128&hilit=#p3124128",
+    "download": "https://filecrypt.cc/Container/6AFDD30AD1.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-12T23:44:18.763Z",
+    "link": "https://store.steampowered.com/app/1582650",
+    "steamID": "1582650",
+    "genres": "Adventure, Casual, Indie"
   }
 ]
