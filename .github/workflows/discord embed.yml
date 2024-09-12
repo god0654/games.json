@@ -42,26 +42,26 @@ jobs:
       - name: Print Length of Changed Game Names
         run: |
           python notify_discord.py -c
-
+          
       - name: Manual Approval to Send Changed JSON Data
         id: manual_approval_changes
-        uses: peter-evans/manual-approval@v2
+        uses: trstringer/manual-approval@v1
         with:
           review: "Do you want to send the changed JSON data? (yes/no)"
 
       - name: Send Changed JSON Data
-        if: ${{ steps.manual_approval_changes.outputs.review == 'yes' }}
+        if: ${{ steps.manual_approval_changes.outputs.approved == 'yes' }}
         run: |
           python notify_discord.py -y
 
       - name: Manual Approval to Send Only New Entries
-        if: ${{ steps.manual_approval_changes.outputs.review != 'yes' }}
+        if: ${{ steps.manual_approval_changes.outputs.approved != 'yes' }}
         id: manual_approval_new_entries
-        uses: peter-evans/manual-approval@v2
+        uses: trstringer/manual-approval@v1
         with:
           review: "Do you want to send only new entries? (yes/no)"
 
       - name: Send Only New Entries
-        if: ${{ steps.manual_approval_new_entries.outputs.review == 'yes' }}
+        if: ${{ steps.manual_approval_new_entries.outputs.approved == 'yes' }}
         run: |
           python notify_discord.py -b
