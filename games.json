@@ -26595,5 +26595,77 @@
     "link": "https://store.steampowered.com/app/1582650",
     "steamID": "1582650",
     "genres": "Adventure, Casual, Indie"
+  },
+  {
+    "name": "Insect Swarm",
+    "id": "Insect_Swarm",
+    "notes": "",
+    "subName": "Portable V1.0 & Build 15661193",
+    "description": "The insect swarm is a swarm consists of millions of alien insects, and you, as the only survival on this barren planet, will have to fight against them dauntlessly. Good luck!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1999170/header.jpg?t=1726124294",
+    "gameplay": "https://www.youtube.com/watch?v=q0_BgPxVMmk",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Insect.Swarm-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=123452&p=3124144&hilit=#p3124144",
+    "download": "https://filecrypt.cc/Container/6D85B510EC.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-13T00:17:04.158Z",
+    "link": "https://store.steampowered.com/app/1999170",
+    "steamID": "1999170",
+    "genres": "Action, Adventure, Casual, Indie, RPG"
+  },
+  {
+    "name": "Demolish & Build 3",
+    "id": "Demolish_and_Build_3",
+    "notes": "",
+    "subName": "Portable V1.0 & Build 15668515",
+    "description": "Step into the boots of a demolition company owner. Accept and complete contracts to earn money, allowing you to buy new equipment and upgrade your business. Use powerful tools, from sledgehammers to giant excavators, and experience the realism of a true construction site, where every brick matters.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203670/header.jpg?t=1726063695",
+    "gameplay": "https://www.youtube.com/watch?v=HXn1xY2Z2sk",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Demolish.And.Build.3-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=120903&p=3124168&hilit=#p3124168",
+    "download": "https://filecrypt.cc/Container/270AD04860.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-13T00:56:32.196Z",
+    "link": "https://store.steampowered.com/app/1203670",
+    "steamID": "1203670",
+    "genres": "Indie, Simulation"
+  },
+  {
+    "name": "Hollowbody + Soundtrack Bundle",
+    "id": "Hollowbody",
+    "notes": "",
+    "subName": "Portable V12.09.2024 & Build 15656753",
+    "description": "A tech-noir survival horror short story, set in the urban decay of a long abandoned British city. Solve environmental puzzles, manage limited resources and fight for a way to escape beyond the wall.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2123640/header.jpg?t=1726160434",
+    "gameplay": "https://www.youtube.com/watch?v=a8nF-O_fHr0",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "Gh0sT73",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=125946&p=3123787&hilit=#p3123787"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=125946&p=3124181&hilit=#p3124181",
+    "download": "https://filecrypt.cc/Container/98CCE783F7.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-13T01:27:32.378Z",
+    "link": "https://store.steampowered.com/app/2123640",
+    "steamID": "2123640",
+    "genres": "Adventure, Indie"
   }
 ]
