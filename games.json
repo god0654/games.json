@@ -26763,5 +26763,29 @@
     "link": "https://store.steampowered.com/app/2400640",
     "steamID": "2400640",
     "genres": "Action, Indie"
+  },
+  {
+    "name": "Radiant Victorias - Deluxe Edition",
+    "id": "Radiant_Victorias",
+    "notes": "",
+    "subName": "Portable V1.0.2 + Build 15600861 & DLCs Included",
+    "description": "With kindom Arcilla left in ruins, Wolf, the prince of Arcilla, embarks on a journey around the world where he teams up with eight heroines and tries to stop the empire's ambition.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2652480/header.jpg?t=1726194045",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257021152/movie480_vp9.webm?t=1715060186",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://digitalzone.vercel.app/games/Radiant_Victorias"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143187&p=3124474&hilit=#p3124474",
+    "download": "https://filecrypt.cc/Container/239DBA52FE.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-13T12:27:26.916Z",
+    "link": "https://store.steampowered.com/app/2652480",
+    "steamID": "2652480",
+    "genres": "Adventure, Indie, RPG, NSFW"
   }
 ]
