@@ -26715,5 +26715,53 @@
     "link": "https://store.steampowered.com/app/2961530",
     "steamID": "2961530",
     "genres": "Adventure, Casual, Indie"
+  },
+  {
+    "name": "Garden Witch Life",
+    "id": "Garden_Witch_Life",
+    "notes": "",
+    "subName": "Portable V1.0.18.723e770f & Build 15643311",
+    "description": "Experience a cute, cozy witch life! After losing your job your life just took a whimsical turn. You're now on a quest to create a magical food forest and make it a home for all kinds of adorable creatures!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240450/header.jpg?t=1726135838",
+    "gameplay": "https://www.youtube.com/watch?v=2rtmTUwSlkM",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Dound",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=116049&p=3123462&hilit=#p3123462"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=116049&p=3124442&hilit=#p3124442",
+    "download": "https://filecrypt.cc/Container/D2FBF938C8.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-13T11:32:50.639Z",
+    "link": "https://store.steampowered.com/app/1240450",
+    "steamID": "1240450",
+    "genres": "Casual, Indie, RPG, Simulation"
+  },
+  {
+    "name": "NanoApostle",
+    "id": "NanoApostle",
+    "notes": "",
+    "subName": "Portable V1.0.2b75 & Build 15681063",
+    "description": "NanoApostle is a dark sci-fi boss rush action game featuring intense reaction-based combat and the unique \"Destruction Point\" system. Play as Anita, a child augmented with lethal nanomachines, as she battles against twisted cybernetic experiments to escape a top-secret facility.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400640/header.jpg?t=1726172973",
+    "gameplay": "https://www.youtube.com/watch?v=q4IOyFE3Pp8",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "DEVILDICE",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137976&p=3123980&hilit=#p3123980"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137976&p=3124460&hilit=#p3124460",
+    "download": "https://filecrypt.cc/Container/A614A0FC04.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-13T12:01:01.811Z",
+    "link": "https://store.steampowered.com/app/2400640",
+    "steamID": "2400640",
+    "genres": "Action, Indie"
   }
 ]
