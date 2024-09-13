@@ -26859,5 +26859,29 @@
     "link": "https://store.steampowered.com/app/1897110",
     "steamID": "1897110",
     "genres": "Action, Indie"
+  },
+  {
+    "name": "Drill Core",
+    "id": "Drill_Core",
+    "notes": "",
+    "subName": "Portable V0.57.4.9.11.12 + Build 15666040 & DLC Included",
+    "description": "Corporate greed meets strategic planet-mining in Drill Core! Drill to the heart of planets while managing workers, researching cutting-edge tech, and fortifying against alien attacks. Will you prioritize efficiency and risk your workers' safety, or focus on defense for survival?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2821800/header.jpg?t=1726172588",
+    "gameplay": "https://www.youtube.com/watch?v=N-6MMjC_2RE",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "joastar1222",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140954&p=3124742&hilit=#p3124742"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140954&p=3124766&hilit=#p3124766",
+    "download": "https://filecrypt.cc/Container/CF78CC4AAE.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-13T18:53:37.228Z",
+    "link": "https://store.steampowered.com/app/2821800",
+    "steamID": "2821799",
+    "genres": "Indie, Strategy"
   }
 ]
