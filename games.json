@@ -26835,5 +26835,29 @@
     "link": "https://store.steampowered.com/app/2644470",
     "steamID": "2644470",
     "genres": "Action, Casual"
+  },
+  {
+    "name": "Edge of Sanity - Eldritch Edition",
+    "id": "Edge_of_Sanity",
+    "notes": "",
+    "subName": "Portable V1.1.1 + Build 15677037 & DLC Included",
+    "description": "Set in the unforgiving lands of Alaska, Edge of Sanity is a Cthulhu-inspired, 2D survival horror game. Uncover a disturbing story while madness claws at your mind. Lead a group of survivors and explore, scavenge and survive together - against untold eldritch horrors.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1897110.webp",
+    "gameplay": "https://www.youtube.com/watch?v=8eqNzHBE_hg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "SKIDROW",
+      "link": "https://api.predb.net/nfoimg/Edge.Of.Sanity-SKIDROW.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=125721&p=3124702&hilit=#p3124702",
+    "download": "https://filecrypt.cc/Container/487B5A639F.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-13T17:40:36.308Z",
+    "link": "https://store.steampowered.com/app/1897110",
+    "steamID": "1897110",
+    "genres": "Action, Indie"
   }
 ]
