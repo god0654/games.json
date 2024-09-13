@@ -26667,5 +26667,53 @@
     "link": "https://store.steampowered.com/app/2123640",
     "steamID": "2123640",
     "genres": "Adventure, Indie"
+  },
+  {
+    "name": "The Last Soldier of the Ming Dynasty: Shadow of Yamatai - Legendary Edition",
+    "id": "The_Last_Soldier_of_the_Ming_Dynasty",
+    "notes": "",
+    "subName": "Portable V2.0.1 + Build 15660850 & DLCs Included",
+    "description": "The Japanese pirates have terrorized the Ming Dynasty for generations. You've devoted your life as a soldier to fighting them.And now you are in their turf, alone with your sword; the last soldier in pirate's land in this 3D-action game inspired by traditional Chinese ink painting landscapes.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2494450/header.jpg?t=1726023806",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257035463/movie480_vp9.webm?t=1726023566",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/The.Last.Soldier.of.the.Ming.Dynasty.Shadow.of.Yamatai-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=133759&p=3124404&hilit=#p3124404",
+    "download": "https://filecrypt.cc/Container/F0B781375E.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-13T10:09:03.297Z",
+    "link": "https://store.steampowered.com/app/2494450",
+    "steamID": "2494450",
+    "genres": "Action, Adventure, Indie, RPG"
+  },
+  {
+    "name": "Fears to Fathom - Woodbury Getaway",
+    "id": "Fears_to_Fathom_Woodbury_Getaway",
+    "notes": "",
+    "subName": "Portable V1.3 & Build 15682320",
+    "description": "Sydney Harper, a 23-year-old working at a consulting firm plans a weekend getaway to a Woodbury rental with her college friends. Little did she know what was about to unfold during their stay.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2961530/header.jpg?t=1726149629",
+    "gameplay": "https://www.youtube.com/watch?v=A9E8ZnOwpCg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "Kirigiri",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143056&p=3123967&hilit=i#p3123967"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143056&p=3124431&hilit=#p3124431",
+    "download": "https://filecrypt.cc/Container/43F26AB861.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-13T10:59:02.901Z",
+    "link": "https://store.steampowered.com/app/2961530",
+    "steamID": "2961530",
+    "genres": "Adventure, Casual, Indie"
   }
 ]
