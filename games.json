@@ -26907,5 +26907,53 @@
     "link": "https://store.steampowered.com/app/2468100",
     "steamID": "2468100",
     "genres": "Indie, Strategy"
+  },
+  {
+    "name": "Grapple Dogs: Cosmic Canines",
+    "id": "Grapple_Dogs_Cosmic_Canines",
+    "notes": "",
+    "subName": "Portable V1.0.2 & Build 15662012",
+    "description": "Swing, jump, and blast through dimensions in the follow-up to the critically-acclaimed 2D action-platformer Grapple Dog. Zip between action-packed worlds as Pablo and Luna team up to save the cosmos in their own unique ways.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278790/header.jpg?t=1726153572",
+    "gameplay": "https://www.youtube.com/watch?v=4BKgrk9trHw",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Grapple.Dogs.Cosmic.Canines-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134934&p=3124943&hilit=#p3124943",
+    "download": "https://filecrypt.cc/Container/A3855B437C.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-13T23:47:36.051Z",
+    "link": "https://store.steampowered.com/app/2278790",
+    "steamID": "2278790",
+    "genres": "Action, Adventure"
+  },
+  {
+    "name": "Line Time",
+    "id": "Line_Time",
+    "notes": "",
+    "subName": "Portable V14.09.2024 & Build 15287752",
+    "description": "Time is on your hands! Challenge yourself in this strategy puzzle game where you move a ball to its destination through a grid. Plan your movements, interact with different balls and become a master of your own Line Time.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1861120/header.jpg?t=1726109997",
+    "gameplay": "https://www.youtube.com/watch?v=ePGIH33JoA0",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Line.Time-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143193&p=3124956&hilit=#p3124956",
+    "download": "https://filecrypt.cc/Container/5BB62961BC.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-14T00:07:00.419Z",
+    "link": "https://store.steampowered.com/app/1861120",
+    "steamID": "1861120",
+    "genres": "Casual, Indie, Simulation, Strategy"
   }
 ]
