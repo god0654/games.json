@@ -27003,5 +27003,29 @@
     "link": "https://store.steampowered.com/app/1660840",
     "steamID": "1660840",
     "genres": "Action, Indie, Strategy"
+  },
+  {
+    "name": "Meme Mayhem",
+    "id": "Meme_Mayhem",
+    "notes": "",
+    "subName": "Portable V0.20.124 & Build 15698762",
+    "description": "Hurl emojis and battle the internet's biggest stars to rise as a meme master in Meme Mayhem! Collect powerful perks and relics, enjoy a darkly comic social media story, and assemble the ultimate emoji attack stack in this roguelite idle RPG.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2719030/header.jpg?t=1726286454",
+    "gameplay": "https://www.youtube.com/watch?v=SpNiDQd-ics",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "gorre9090",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141878&p=3125166&hilit=#p3125166"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141878&p=3125417&hilit=#p3125417",
+    "download": "https://filecrypt.cc/Container/491D3E1028.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-14T18:38:42.780Z",
+    "link": "https://store.steampowered.com/app/2719030",
+    "steamID": "2719030",
+    "genres": "Casual, Strategy"
   }
 ]
