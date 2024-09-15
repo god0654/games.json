@@ -3791,25 +3791,25 @@
     "name": "Ultros - Deluxe Edition",
     "id": "Ultros",
     "notes": "",
-    "subName": "Portable V03.04.2024 + Build 13934854 & DLCs Included",
+    "subName": "Portable V12.09.2024 + Build 15638549 & DLCs Included",
     "description": "ULTROS is a psychedelic metroidvania where you wake up stranded on The Sarcophagus — a cosmic uterus holding an ancient, demonic being. Trapped in the loop of a black hole, you will have to explore The Sarcophagus and meet its inhabitants to understand the part you play...",
     "thumbnail": "https://god0654.github.io/DigitalZone/Images/Ultros%20-%20Deluxe%20Edition.webp",
-    "gameplay": "https://youtu.be/iloiRk1k3_U",
+    "gameplay": "https://www.youtube.com/watch?v=j8j224onSVA",
     "tags": [
       "gse"
     ],
     "based": {
-      "info": "csf",
-      "credits": "FrancisYorkMorgayn",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132919&p=3071708&hilit=#p3071708"
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Ultros.Update.v20240912-TENOKE.png"
     },
-    "download": "https://filecrypt.cc/Container/C49BF88D6C.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132919&p=3125772&hilit=#p3125772",
+    "download": "https://filecrypt.cc/Container/0447D2B96D.html",
     "achievements": true,
-    "dateUpdated": "2024-07-23T13:29:58.898Z",
-    "csrinru": "",
-    "steamID": "",
-    "genres": "",
-    "link": ""
+    "dateUpdated": "2024-09-15T10:05:37.925Z",
+    "link": "https://store.steampowered.com/app/2386310",
+    "steamID": "2386310",
+    "genres": "Adventure, Indie"
   },
   {
     "name": "WRATH: Aeon of Ruin",
