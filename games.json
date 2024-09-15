@@ -27171,5 +27171,29 @@
     "link": "https://store.steampowered.com/app/2099670",
     "steamID": "2099668",
     "genres": "Action, Adventure, RPG"
+  },
+  {
+    "name": "ELDORANTE",
+    "id": "ELDORANTE",
+    "notes": "",
+    "subName": "Portable V1.01 & Build 15633218",
+    "description": "Shipwrecked on an unfamiliar island with no money or goods to pay for a ride home... What's a merchant to do? Explore the Dungeon and make her way to the golden land of Eldorante, that's what!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2657730/header.jpg?t=1726287221",
+    "gameplay": "https://www.youtube.com/watch?v=XayQ85k56LY",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://digitalzone.vercel.app/games/ELDORANTE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143221&p=3125807&hilit=#p3125807",
+    "download": "https://filecrypt.cc/Container/627753C0DC.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-15T10:57:52.463Z",
+    "link": "https://store.steampowered.com/app/2657730",
+    "steamID": "2657730",
+    "genres": "Adventure, Indie, RPG, NSFW"
   }
 ]
