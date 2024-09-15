@@ -27099,5 +27099,77 @@
     "link": "https://store.steampowered.com/app/2964300",
     "steamID": "2964300",
     "genres": "Adventure, Simulation"
+  },
+  {
+    "name": "Internet Cafe & Supermarket Simulator 2024",
+    "id": "Internet_Cafe_and_Supermarket_Simulator_2024",
+    "notes": "",
+    "subName": "Portable V1.0.14 (Full Release) & Build 15687912",
+    "description": "Internet Cafe & Supermarket Simulator 2024\" is a comprehensive simulation game that combines the management of both an internet cafe and a supermarket. Step into the role of a shop owner, apply your business acumen, and expand your empire step by step.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2738380/header.jpg?t=1726229038",
+    "gameplay": "https://www.youtube.com/watch?v=5ft29DYJJXA",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Internet.Cafe.And.Supermarket.Simulator.2024-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140828&p=3125592&hilit=#p3125592",
+    "download": "https://filecrypt.cc/Container/8AB975A23E.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-15T01:31:12.086Z",
+    "link": "https://store.steampowered.com/app/2738380",
+    "steamID": "2738380",
+    "genres": "Casual, Indie, RPG, Simulation"
+  },
+  {
+    "name": "AMEDAMA",
+    "id": "AMEDAMA",
+    "notes": "",
+    "subName": "Portable V2.0.0 (Full Release) & Build 15685216",
+    "description": "Side-scrolling, soul-shifting sandbox action adventure brought to life with a striking new 2D style! With only his soul remaining, Yushin must fight tooth and nail, possessing body after body on a quest to find his sister. With just seven days left until his soul departs, can he save her in time?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2411980/header.jpg?t=1726229532",
+    "gameplay": "https://www.youtube.com/watch?v=t_TVxofMW4I",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/AMEDAMA-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=124065&p=3125601&hilit=#p3125601",
+    "download": "https://filecrypt.cc/Container/AFA2734DBE.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-15T01:57:34.193Z",
+    "link": "https://store.steampowered.com/app/2411980",
+    "steamID": "2411980",
+    "genres": "Action, Adventure"
+  },
+  {
+    "name": "Pirates Journey",
+    "id": "Pirates_Journey",
+    "notes": "",
+    "subName": "Portable V0.1.06 & Build 15696399",
+    "description": "You and your crew have been shipwrecked on a tropical island in the late 1600s. At the beginning of the adventure, you find yourself with only a few basic supplies, including ropes, sticks, and stones. With skill and cunning, you can survive on the island and thrive as a pirate crew.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2099670/header.jpg?t=1726248799",
+    "gameplay": "https://www.youtube.com/watch?v=Bl61U6obN1o",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Pirates.Journey-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135861&p=3125610&hilit=#p3125610",
+    "download": "https://filecrypt.cc/Container/6A8D7C3BE3.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-15T02:27:41.558Z",
+    "link": "https://store.steampowered.com/app/2099670",
+    "steamID": "2099668",
+    "genres": "Action, Adventure, RPG"
   }
 ]
