@@ -27051,5 +27051,53 @@
     "link": "https://store.steampowered.com/app/2754530",
     "steamID": "2754530",
     "genres": "Adventure, Indie"
+  },
+  {
+    "name": "METAL DOGS: Chihuahua and Shiba B - DLCs Pack + Soundtrack Bundle",
+    "id": "METAL_DOGS",
+    "notes": "",
+    "subName": "Portable V15.09.2024 & Build 15634146 & DLCs Included",
+    "description": "Set in a world after the destruction of humankind, the harsh battle of the combat dog \"Pochi\" begins. Explore dungeons that change every time you enter, get a wide variety of weapons, and power up your dog! Hunt the evil \"WANTED\"! Enjoy exhilarating battles casually in this shooting action game.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3025210.webp",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257054671/movie480_vp9.webm?t=1726210681",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/METAL.DOGS.NEW.DOG.ADDITION.Chihuahua.and.Shiba.B-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=115519&p=3125567&hilit=#p3125567",
+    "download": "https://filecrypt.cc/Container/101C255AE4.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-15T00:21:59.402Z",
+    "link": "https://store.steampowered.com/app/1036740",
+    "steamID": "1036740",
+    "genres": "Action, Indie, RPG"
+  },
+  {
+    "name": "City Bus Simulator 2024",
+    "id": "City_Bus_Simulator_2024",
+    "notes": "",
+    "subName": "Portable V15.09.2024 & Build 15701579",
+    "description": "Embark on the ultimate urban adventure in City Bus Simulator 2024, where the bustling streets are your playground and the city's pulse beats through every road. Get ready to take the wheel of detailed buses, transporting passengers through a dynamic metropolis teeming with endless possibilities!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964300/header.jpg?t=1726318289",
+    "gameplay": "https://www.youtube.com/watch?v=lJRzNeJfUD8",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/City.Bus.Simulator.2024-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143212&p=3125579&hilit=#p3125579",
+    "download": "https://filecrypt.cc/Container/373943E7C2.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-15T00:48:44.898Z",
+    "link": "https://store.steampowered.com/app/2964300",
+    "steamID": "2964300",
+    "genres": "Adventure, Simulation"
   }
 ]
