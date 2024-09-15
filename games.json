@@ -27195,5 +27195,29 @@
     "link": "https://store.steampowered.com/app/2657730",
     "steamID": "2657730",
     "genres": "Adventure, Indie, RPG, NSFW"
+  },
+  {
+    "name": "Jesus Christ Simulator",
+    "id": "Jesus_Christ_Simulator",
+    "notes": "",
+    "subName": "Portable V15.09.2024 & Build 15569167",
+    "description": "'Jesus Christ Simulator' is a new take on the 'Superhero Simulator' game genre. You are tasked by God your Father with fixing the broken system that humans now live in. Armed with Unlimited Miracles, Flight & Superpowers, you will change the world and help its people. You are THE Ultimate Superhero!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2921650/header.jpg?t=1723482037",
+    "gameplay": "https://www.youtube.com/watch?v=AesbQ5MSRYA",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "GOTCHYAHACKED123",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143223&p=3125851&hilit=#p3125851"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143223&p=3125927&hilit=#p3125927",
+    "download": "https://filecrypt.cc/Container/0B9B6A91C0.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-15T15:02:16.218Z",
+    "link": "https://store.steampowered.com/app/2921650",
+    "steamID": "2921650",
+    "genres": "Action, Adventure, Casual, Indie, Simulation"
   }
 ]
