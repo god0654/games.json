@@ -27219,5 +27219,29 @@
     "link": "https://store.steampowered.com/app/2921650",
     "steamID": "2921650",
     "genres": "Action, Adventure, Casual, Indie, Simulation"
+  },
+  {
+    "name": "TCG Card Shop Simulator",
+    "id": "TCG_Card_Shop_Simulator",
+    "notes": "",
+    "subName": "Portable V0.30 & Build 15708572",
+    "description": "Open your own local game store. Stock shelves with the latest booster packs, or crack them and collect the cards for yourself. Set your own prices, hire staff, host events, and expand your card shop.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/header.jpg?t=1726399391",
+    "gameplay": "https://www.youtube.com/watch?v=nA-0lImHjTE",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "gorre9090",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142700&p=3126063&hilit=#p3126063"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142700&p=3126086&hilit=#p3126086",
+    "download": "https://filecrypt.cc/Container/CC26A89BA6.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-15T20:09:52.929Z",
+    "link": "https://store.steampowered.com/app/3070070",
+    "steamID": "3070070",
+    "genres": "Simulation"
   }
 ]
