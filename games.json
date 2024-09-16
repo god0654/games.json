@@ -27267,5 +27267,29 @@
     "link": "https://store.steampowered.com/app/2102450",
     "steamID": "2102450",
     "genres": "Action, Adventure, Indie, RPG"
+  },
+  {
+    "name": "EVERSPACE™ 2 - Titans",
+    "id": "EVERSPACE_2",
+    "notes": "",
+    "subName": "Portable V1.3.4_2909 + Build 15690175 & DLCs Included",
+    "description": "EVERSPACE 2 is a fast-paced single-player spaceship shooter with exploration in space and on planets, tons of loot, RPG elements, mining, and crafting. Experience an exciting sci-fi story set in a vivid, handcrafted open world full of secrets, puzzles, and perils.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2873460.webp",
+    "gameplay": "https://www.youtube.com/watch?v=MoOaS6oqMGY",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "FLT",
+      "link": "https://api.predb.net/nfoimg/EVERSPACE_2_Titans-FLT.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=99408&p=3126638&hilit=#p3126638",
+    "download": "https://filecrypt.cc/Container/FB9979D7D5.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-16T19:33:58.240Z",
+    "link": "https://store.steampowered.com/app/2873460",
+    "steamID": "2873460",
+    "genres": "Action, Adventure, RPG, Simulation"
   }
 ]
