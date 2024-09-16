@@ -27243,5 +27243,29 @@
     "link": "https://store.steampowered.com/app/3070070",
     "steamID": "3070070",
     "genres": "Simulation"
+  },
+  {
+    "name": "Enotria: The Last Song",
+    "id": "Enotria_The_Last_Song",
+    "notes": "",
+    "subName": "Portable V1.002.26228 & Build 15706386",
+    "description": "Enotria: The Last Song is a soulslike set in a beautiful sun-lit world inspired by Italian folklore where the brightest sun casts the darkest shadow. Wear unique role-altering masks, face formidable foes and alter reality with the power of Ardore to unravel the secrets of Enotria.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2102450/header.jpg?t=1726497544",
+    "gameplay": "https://www.youtube.com/watch?v=mu4WxO8M0Eg",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "FLT",
+      "link": "https://api.predb.net/nfoimg/Enotria_The_Last_Song-FLT.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134672&p=3126487&hilit=#p3126487",
+    "download": "https://filecrypt.cc/Container/030DE41EBD.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-16T16:01:13.163Z",
+    "link": "https://store.steampowered.com/app/2102450",
+    "steamID": "2102450",
+    "genres": "Action, Adventure, Indie, RPG"
   }
 ]
