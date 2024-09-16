@@ -27413,5 +27413,53 @@
     "link": "https://store.steampowered.com/app/2904000",
     "steamID": "2904000",
     "genres": "Action, Casual, Indie"
+  },
+  {
+    "name": "Panic In The Woods",
+    "id": "Panic_In_The_Woods",
+    "notes": "",
+    "subName": "Portable V1.0.1 & Build 15695318",
+    "description": "A horror survival and extraction game playable in single player or co-op for up to 4 players. Lost in a creepy forest, you and your friends are hunted by a monster. Stay quiet while extracting keys through nightmarish realms using items like traps, sonars, and flare guns to survive!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3036880/header.jpg?t=1726237482",
+    "gameplay": "https://www.youtube.com/watch?v=ZZD1CDQDjgM",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Panic.In.The.Woods-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143090&p=3126767&hilit=#p3126767",
+    "download": "https://filecrypt.cc/Container/E7D64C60F6.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-16T23:31:53.192Z",
+    "link": "https://store.steampowered.com/app/3036880",
+    "steamID": "3036880",
+    "genres": "Action, Casual"
+  },
+  {
+    "name": "Mexico, 1921. A Deep Slumber.",
+    "id": "Mexico_1921_A_Deep_Slumber",
+    "notes": "",
+    "subName": "Portable V17.09.2024 & Build 15684931",
+    "description": "Immerse yourself in an emotional and intriguing narrative adventure video game about the awakening of a country.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1851090/header.jpg?t=1726507660",
+    "gameplay": "https://www.youtube.com/watch?v=q7LeVMOo_D8",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Mexico.1921.A.Deep.Slumber-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143262&p=3126775&hilit=#p3126775",
+    "download": "https://filecrypt.cc/Container/2B966DF6F7.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-16T23:59:04.543Z",
+    "link": "https://store.steampowered.com/app/1851090",
+    "steamID": "1851090",
+    "genres": "Adventure, Indie"
   }
 ]
