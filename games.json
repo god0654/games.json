@@ -27315,5 +27315,30 @@
     "link": "https://store.steampowered.com/app/2706450",
     "steamID": "2706450",
     "genres": "Action, Indie"
+  },
+  {
+    "name": "Chains of Fury",
+    "id": "Chains_of_Fury",
+    "notes": "",
+    "subName": "Portable V1.0.0.2 & BuildID 57931245374845171",
+    "description": "Welcome to Volume I of a high adrenaline, fast-paced Boomer Shooter where you have only one goal: spread furious mayhem among the scumbags keeping you locked up. Stuck looking for an exit? Just punch through walls and then shoot the suckers behind them.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1121320/header.jpg?t=1726507396",
+    "gameplay": "https://www.youtube.com/watch?v=nWmJIiEJ1uc",
+    "tags": [
+      "drmfree",
+      "gog"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "FCKDRM",
+      "link": "https://api.predb.net/nfoimg/Chains.of.Fury-FCKDRM.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=101578&p=3126669&hilit=#p3126669",
+    "download": "https://filecrypt.cc/Container/91EBF1B3B0.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-16T20:22:20.772Z",
+    "link": "https://store.steampowered.com/app/1121320",
+    "steamID": "1121320",
+    "genres": "Action, Indie"
   }
 ]
