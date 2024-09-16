@@ -27340,5 +27340,30 @@
     "link": "https://store.steampowered.com/app/1121320",
     "steamID": "1121320",
     "genres": "Action, Indie"
+  },
+  {
+    "name": "American Truck Simulator: Arkansas - Northwest Bundle",
+    "id": "American_Truck_Simulator",
+    "notes": "Note: GoldBerg with Achievements, 110 Items and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.\n\nHow to play in DX9, DX11 or OpenGL: 3 .bat in ''bin\\win_x64'' have been added.\n\nMissing DLC for Crack Only OFME: Click CS.RIN.RU Button and download the attachment.",
+    "subName": "Portable V1.51.2.3s + Build 15718043 + DLCs Included & Online Supported",
+    "description": "Experience legendary American trucks and deliver various cargoes across sunny California, sandy Nevada, and the Grand Canyon State of Arizona. American Truck Simulator takes you on a journey through the breathtaking landscapes and widely recognized landmarks around the States.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2585150.webp",
+    "gameplay": "https://www.youtube.com/watch?v=A3qNn0-V-RM",
+    "tags": [
+      "gse",
+      "ofme"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/American.Truck.Simulator.Arkansas-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=70425&p=3126702&hilit=#p3126702",
+    "download": "https://filecrypt.cc/Container/3648B7352B.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-16T21:33:47.328Z",
+    "link": "https://store.steampowered.com/app/2585150",
+    "steamID": "2585150",
+    "genres": "Indie, Simulation"
   }
 ]
