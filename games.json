@@ -27271,7 +27271,7 @@
   {
     "name": "EVERSPACE™ 2 - Titans",
     "id": "EVERSPACE_2",
-    "notes": "",
+    "notes": "How to Play in DX11: Launch Everspace2-DX11.bat in ''EVERSPACE 2 - Titans\\''.",
     "subName": "Portable V1.3.4_2909 + Build 15690175 & DLCs Included",
     "description": "EVERSPACE 2 is a fast-paced single-player spaceship shooter with exploration in space and on planets, tons of loot, RPG elements, mining, and crafting. Experience an exciting sci-fi story set in a vivid, handcrafted open world full of secrets, puzzles, and perils.",
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2873460.webp",
@@ -27291,5 +27291,29 @@
     "link": "https://store.steampowered.com/app/2873460",
     "steamID": "2873460",
     "genres": "Action, Adventure, RPG, Simulation"
+  },
+  {
+    "name": "Hands of Necromancy II",
+    "id": "Hands_of_Necromancy_II",
+    "notes": "",
+    "subName": "Portable V16.09.2024 & Build 15628438",
+    "description": "Hands of Necromancy II is a dark fantasy FPS sequel, inspired by classics such as Heretic and Doom. Choose from two characters, wield new weapons and learn even more powerful spells and transformations to prove once and for all that you are the supreme Necromancer, master of death itself!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706450/header.jpg?t=1726504370",
+    "gameplay": "https://www.youtube.com/watch?v=gP7XEF72kZU",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "TigerTheGreat",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137733&p=3126573&hilit=#p3126573"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137733&p=3126648&hilit=#p3126648",
+    "download": "https://filecrypt.cc/Container/8D21110EED.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-16T19:57:39.119Z",
+    "link": "https://store.steampowered.com/app/2706450",
+    "steamID": "2706450",
+    "genres": "Action, Indie"
   }
 ]
