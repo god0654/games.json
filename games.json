@@ -27389,5 +27389,29 @@
     "link": "https://store.steampowered.com/app/1674900",
     "steamID": "1674900",
     "genres": "Casual, Indie, Simulation"
+  },
+  {
+    "name": "The Spell Brigade - Supporter Edition",
+    "id": "The_Spell_Brigade",
+    "notes": "",
+    "subName": "Portable V0.6.0.1666_2409161216 + Build 15713766 & DLC Included",
+    "description": "Team up with your wizard friends to slay hordes of dark creatures. Complete team-based objectives, unlock new upgrades and create overpowered spell synergies. Friend nor foe is safe in this friendly fire bullet hell!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2904000.webp",
+    "gameplay": "https://www.youtube.com/watch?v=aWuqQ25JsAU",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "semi-demon",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143210&p=3126677&hilit=#p3126677"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143210&p=3126740&hilit=#p3126740",
+    "download": "https://filecrypt.cc/Container/DC9F89AEAA.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-16T23:05:46.290Z",
+    "link": "https://store.steampowered.com/app/2904000",
+    "steamID": "2904000",
+    "genres": "Action, Casual, Indie"
   }
 ]
