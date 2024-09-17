@@ -13600,26 +13600,28 @@
     "link": "https://store.steampowered.com/app/2091720"
   },
   {
-    "name": "Frostpunk 2 - BETA",
+    "name": "Frostpunk 2",
     "id": "Frostpunk_2",
-    "notes": "Launch F2Beta.bat in ''Frostpunk 2 - Beta\\'' for install the game and then launch Frostpunk 2 from the Menu Start. (Activate Developer Mode first) Note: If you have trouble launching the game, install the Gaming Services in ”_Support\\Gaming_Services\\”.",
-    "subName": "Portable V0.28.7424.0 & Support Folder",
+    "notes": "",
+    "subName": "Portable V5.2.1-391109 & Build 15731711",
     "description": "Discover a city-survival game set 30 years after an apocalyptic blizzard ravaged Earth, transforming our world into a harsh, icy wasteland. In Frostpunk 2, you must face a new deadly threat that appears on the horizon – human nature and its unsatiated thirst for power.",
-    "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1601580/header_alt_assets_1.jpg?t=1713200466",
-    "gameplay": "https://youtu.be/ayuLK0JIp74",
-    "tags": [],
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/header_alt_assets_0.jpg?t=1726592173",
+    "gameplay": "https://www.youtube.com/watch?v=BuvJAcptUd0",
+    "tags": [
+      "scene"
+    ],
     "based": {
-      "info": "basedon",
-      "credits": "osb79",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=115123&p=3033693&hilit=#p3033693"
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Frostpunk.2-RUNE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=115123&p=3033802&hilit=#p3033802",
-    "download": "https://filecrypt.cc/Container/ECEB6F3B03.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=115123&p=3127337&hilit=#p3127337",
+    "download": "https://filecrypt.cc/Container/AB08874C49.html",
     "achievements": false,
-    "dateUpdated": "2024-07-25T13:09:13.521Z",
+    "dateUpdated": "2024-09-17T18:04:19.508Z",
+    "link": "https://store.steampowered.com/app/1601580",
     "steamID": "1601580",
-    "genres": "Simulation, Strategy",
-    "link": "https://store.steampowered.com/app/1601580"
+    "genres": "Simulation, Strategy"
   },
   {
     "name": "Survival Nation: Lost Horizon",
