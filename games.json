@@ -27679,5 +27679,29 @@
     "link": "https://store.steampowered.com/app/1627570",
     "steamID": "1627570",
     "genres": "Adventure"
+  },
+  {
+    "name": "Kimi no Hitomi ni Hit Me",
+    "id": "Kimi_no_Hitomi_ni_Hit_Me",
+    "notes": "",
+    "subName": "Portable V1.01 + Build 15693703 & ENG Ver",
+    "description": "\"Your Gaze Hits My Heart\" is a school romance comedy developed by the renowned Japanese visual novel company GIGA/Entergram (Studio GIGA). After its release, it received positive reviews in the market. The Chinese version includes the additional storyline of the popular console-exclusive character Ayumu Kirihara, along with numerous new CGs. Top voice actresses such as Atsumi Tanezaki, Ayumi Oohashi, and Megumi Toda lend their voices to the game's heroines.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947240/header.jpg?t=1726226304",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257037542/movie480_vp9.webm?t=1725012004",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://digitalzone.vercel.app/games/Kimi_no_Hitomi_ni_Hit_Me"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143285&p=3127506&hilit=#p3127506",
+    "download": "https://filecrypt.cc/Container/D31F0E5EBA.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-17T22:01:38.002Z",
+    "link": "https://store.steampowered.com/app/2947240",
+    "steamID": "2947240",
+    "genres": "Adventure, Casual, NSFW"
   }
 ]
