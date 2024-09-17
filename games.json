@@ -27485,5 +27485,29 @@
     "link": "https://store.steampowered.com/app/2836820",
     "steamID": "2836820",
     "genres": "Action, Adventure, Indie, Simulation"
+  },
+  {
+    "name": "Diluvian Ultra: Awakening",
+    "id": "Diluvian_Ultra_Awakening",
+    "notes": "",
+    "subName": "Portable V3.5.41 & Build 15713139",
+    "description": "Diluvian Ultra: Awakening shows a never-before seen part of Diluvian Ultra's story, preceding the events of the main game. As a young Diluvian Knight, stage a heroic defense against insurmountable odds, in this single-player FPS with a retro aesthetic and fast-paced, strategic combat.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3225260/header.jpg?t=1726503813",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257053910/movie480_vp9.webm?t=1726502943",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "hal_butterchops",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143266&p=3126783&hilit=#p3126783"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143266&p=3126803&hilit=#p3126803",
+    "download": "https://filecrypt.cc/Container/CF3718C534.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-17T00:59:51.251Z",
+    "link": "https://store.steampowered.com/app/3225260",
+    "steamID": "3225260",
+    "genres": "Action"
   }
 ]
