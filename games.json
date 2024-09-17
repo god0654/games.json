@@ -27509,5 +27509,101 @@
     "link": "https://store.steampowered.com/app/3225260",
     "steamID": "3225260",
     "genres": "Action"
+  },
+  {
+    "name": "Judero",
+    "id": "Judero",
+    "notes": "",
+    "subName": "Portable V1.000 & Build 15716716",
+    "description": "A handmade action/adventure game based on the rich folklore of the Scottish Borders.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1960900/header.jpg?t=1726502446",
+    "gameplay": "https://www.youtube.com/watch?v=jU-NXnwQSZw",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Judero-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143257&p=3127030&hilit=#p3127030",
+    "download": "https://filecrypt.cc/Container/B4BAC8CEB6.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-17T10:36:57.699Z",
+    "link": "https://store.steampowered.com/app/1960900",
+    "steamID": "1960900",
+    "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Dragon Spirits 2",
+    "id": "Dragon_Spirits_2",
+    "notes": "",
+    "subName": "Portable V17.09.2024 & Build 15723057",
+    "description": "In this modern urban-themed RPG, you can collect 80+ different dragon spirits, experiment with skill setups, assemble teams, and devise strategies to build your dragon spirit squad. Adventure through the virtual spaces in Metapolis, and uncover the conspiracy behind it all.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1965190/header.jpg?t=1726537023",
+    "gameplay": "https://www.youtube.com/watch?v=oMs0RSTeNjY",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Dragon.Spirits.2-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135878&p=3127051&hilit=#p3127051",
+    "download": "https://filecrypt.cc/Container/5F0FD7229E.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-17T10:59:39.832Z",
+    "link": "https://store.steampowered.com/app/1965190",
+    "steamID": "1965190",
+    "genres": "Adventure, Indie, RPG, Strategy"
+  },
+  {
+    "name": "Abnormal1999:The Compass and the Sand",
+    "id": "Abnormal1999_The_Compass_and_the_Sand",
+    "notes": "",
+    "subName": "Portable V17.09.2024 & Build 15709761",
+    "description": "The fate of exile, like an endless river, carries Ann to a distant and unfamiliar land. A flame of unwavering determination burns within Ann's heart. She knows that one day, either Sam or SU will surely find her. Until then, Ann must find a way to escape this place.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146640/header.jpg?t=1726452122",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257045420/movie480_vp9.webm?t=1723437021",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Abnormal1999.The.Compass.and.the.Sand-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=119306&p=3127070&hilit=#p3127070",
+    "download": "https://filecrypt.cc/Container/D3E0D4AD01.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-17T11:34:28.748Z",
+    "link": "https://store.steampowered.com/app/3146640",
+    "steamID": "3146640",
+    "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Lucky Tower Ultimate",
+    "id": "Lucky_Tower_Ultimate",
+    "notes": "",
+    "subName": "Portable V0.1.2 & Build 15702281",
+    "description": "Escape from a dangerous tower where everything can be a weapon. Lucky Tower Ultimate is a slapstick, roguelike adventure that looks like a cartoon and feels like a joke. Slashy slashy!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1700270/header.jpg?t=1726275327",
+    "gameplay": "https://www.youtube.com/watch?v=lJnKmejaQr8",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "darthalex2014",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143192&p=3127063&hilit=#p3127063"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143192&p=3127089&hilit=#p3127089",
+    "download": "https://filecrypt.cc/Container/F781198B03.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-17T12:01:27.943Z",
+    "link": "https://store.steampowered.com/app/1700270",
+    "steamID": "1700270",
+    "genres": "Action, Adventure, Indie, RPG"
   }
 ]
