@@ -27461,5 +27461,29 @@
     "link": "https://store.steampowered.com/app/1851090",
     "steamID": "1851090",
     "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Baby Blues Nightmares - Toddler Horror Game",
+    "id": "Baby_Blues_Nightmares_Toddler_Horror_Game",
+    "notes": "",
+    "subName": "Portable V16.09.2024 & Build 15684931",
+    "description": "Baby Blues Nightmare is a survival horror stealth game where you play as a toddler going into a little adventure with your tricycle which you can fix, maintain and customize. Paddle, hide and survive but remember; try not to cry when you are scared.. or the monsters will hear you and get you.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2836820/header.jpg?t=1726498844",
+    "gameplay": "https://www.youtube.com/watch?v=Nw0CHJxNaHM",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TiNYiSO",
+      "link": "https://api.predb.net/nfoimg/Baby.Blues.Nightmares.Toddler.Horror.Game-TiNYiSO.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143249&p=3126789&hilit=#p3126789",
+    "download": "https://filecrypt.cc/Container/E7E8CCC101.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-17T00:34:15.815Z",
+    "link": "https://store.steampowered.com/app/2836820",
+    "steamID": "2836820",
+    "genres": "Action, Adventure, Indie, Simulation"
   }
 ]
