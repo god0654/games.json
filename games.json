@@ -27629,5 +27629,29 @@
     "link": "https://store.steampowered.com/app/1383370",
     "steamID": "1383370",
     "genres": "Action, Indie, RPG"
+  },
+  {
+    "name": "Test Drive Unlimited Solar Crown - Gold Edition",
+    "id": "Test_Drive_Unlimited_Solar_Crown",
+    "notes": "How to Play: Create an Nacon Account (https://my.nacongaming.com/en-GB/register) and open Steam before launch.",
+    "subName": "Portable V06.09.2024 + Build 15544415 + DLCs Included & Online Supported",
+    "description": "TDUSC is a lifestyle and social experience that redefines what an open-world racing game can be. Explore a fully recreated Hong Kong Island. Take to the road behind the wheel of exceptional cars and live the ultimate life of luxury.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1249970.webp",
+    "gameplay": "https://www.youtube.com/watch?v=j9zL-tKG2Io",
+    "tags": [
+      "ofme"
+    ],
+    "based": {
+      "info": "info",
+      "credits": "CSF InvaderX + OFME Fix",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=104125&p=3119884&hilit=#p3119884"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=104125&p=3127193&hilit=#p3127193",
+    "download": "https://filecrypt.cc/Container/1FC0BC4606.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-17T14:59:00.742Z",
+    "link": "https://store.steampowered.com/app/1249970",
+    "steamID": "1249970",
+    "genres": "Racing, Simulation"
   }
 ]
