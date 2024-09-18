@@ -27872,5 +27872,29 @@
     "link": "https://store.steampowered.com/app/1147860",
     "steamID": "1147860",
     "genres": "Action, Adventure, Indie, RPG, Strategy"
+  },
+  {
+    "name": "TOUHOU GENSOU MAHJONG",
+    "id": "TOUHOU_GENSOU_MAHJONG",
+    "notes": "",
+    "subName": "Portable V1.2.6 & Build 15745652",
+    "description": "Engage in all manner of Mahjong! From standard matches to total chaos, featuring over 130 Touhou characters from 20+ entries! The match of your dreams awaits!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2491200/header.jpg?t=1726671831",
+    "gameplay": "https://www.youtube.com/watch?v=yx8Pqv8V2bQ",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "NekoWasTaken",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141407&p=3128029&hilit=#p3128029"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141407&p=3128115&hilit=#p3128115",
+    "download": "https://filecrypt.cc/Container/E74775EFBA.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-18T18:27:43.568Z",
+    "link": "https://store.steampowered.com/app/2491200",
+    "steamID": "2491200",
+    "genres": "Casual, Indie, Sports"
   }
 ]
