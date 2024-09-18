@@ -27799,5 +27799,29 @@
     "link": "https://store.steampowered.com/app/2488510",
     "steamID": "2488510",
     "genres": "Action, Casual, Indie, RPG"
+  },
+  {
+    "name": "Frostpunk: Game of the Year Edition",
+    "id": "Frostpunk",
+    "notes": "",
+    "subName": "Portable V1.6.2 + Build 15262773 & DLCs Included",
+    "description": "Frostpunk is the first society survival game. As the ruler of the last city on Earth, it is your duty to manage both its citizens and infrastructure. What decisions will you make to ensure your society's survival? What will you do when pushed to breaking point? Who will you become in the process?",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/323190.webp",
+    "gameplay": "https://www.youtube.com/watch?v=WeKw9SnM8ro",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "TheWacoKid",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=75391&p=3116993&hilit=#p3116993"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=75391&p=3127895&hilit=#p3127895",
+    "download": "https://filecrypt.cc/Container/4FAC94FF73.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-18T13:22:15.083Z",
+    "link": "https://store.steampowered.com/app/323190",
+    "steamID": "323190",
+    "genres": "Simulation, Strategy"
   }
 ]
