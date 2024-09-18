@@ -3450,10 +3450,10 @@
     "name": "V Rising - Legacy of Castlevania",
     "id": "V_Rising",
     "notes": "Note: GoldBerg Emu with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in ''_CrackOnly (OFME)'' folder, open Steam before launch.",
-    "subName": "Portable V1.0.8.81074-b6 + Build 14917997 + Online Supported + DLCs & Dedicated Server Included",
+    "subName": "Portable V1.0.9.0 (HotFix 9) + Build 15720080 + DLCs with Dedicated Server Included & Online Supported",
     "description": "Awaken as a Vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing, open world full of mystery. Gain allies online and conquer the land of the living.",
     "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1604030/header.jpg?t=1715169294",
-    "gameplay": "https://youtu.be/BmKGN2SgWZY",
+    "gameplay": "https://www.youtube.com/watch?v=aB_2ZRn9F_k",
     "tags": [
       "gse",
       "ofme"
@@ -3463,13 +3463,13 @@
       "credits": "✧GͥOͣDͫ✧",
       "link": "https://store.steampowered.com/app/1604030/V_Rising/"
     },
-    "download": "https://filecrypt.cc/Container/E79418B871.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=113132&p=3128081&hilit=#p3128081",
+    "download": "https://filecrypt.cc/Container/A06ECDFFA5.html",
     "achievements": true,
-    "dateUpdated": "2024-07-23T12:08:13.415Z",
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=113132&p=3083947&hilit=#p3083947",
+    "dateUpdated": "2024-09-18T17:56:54.635Z",
+    "link": "https://store.steampowered.com/app/1604030",
     "steamID": "1604030",
-    "genres": "Action, Adventure, Massively Multiplayer",
-    "link": "https://store.steampowered.com/app/1604030"
+    "genres": "Action, Adventure"
   },
   {
     "name": "Red Dead Redemption II - Ultimate Edition",
