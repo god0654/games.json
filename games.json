@@ -27824,5 +27824,29 @@
     "link": "https://store.steampowered.com/app/323190",
     "steamID": "323190",
     "genres": "Simulation, Strategy"
+  },
+  {
+    "name": "Towerborne - Gold Founder's Pack Bundle",
+    "id": "Towerborne",
+    "notes": "How to Play: Create an Account Microsoft / Xbox Account (Without 2FA Auth) and open Steam before launch.",
+    "subName": "Portable V5.4.3_2555057.48063 + Build 15718718 + DLCs Included & Online Supported",
+    "description": "The Belfry stands as a beacon of hope and safety amongst the ruins of humanity and the City of Numbers, with monsters lurking right outside the tower’s walls. You are an Ace, born anew from the spirit realm with the skills, the grit, and the determination to protect the people of the Belfry.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2458830/header.jpg?t=1725979024",
+    "gameplay": "https://www.youtube.com/watch?v=YQlDe-tBV4E",
+    "tags": [
+      "ofme"
+    ],
+    "based": {
+      "info": "release",
+      "credits": "Online-Fix.me",
+      "link": "https://online-fix.me/games/officialservers/17587-towerborne-po-seti.html"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=133392&p=3127973&hilit=#p3127973",
+    "download": "https://filecrypt.cc/Container/E573F634E1.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-18T15:42:02.932Z",
+    "link": "https://store.steampowered.com/app/2458830",
+    "steamID": "2458830",
+    "genres": "Action, Adventure, RPG"
   }
 ]
