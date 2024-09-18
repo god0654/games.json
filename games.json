@@ -27896,5 +27896,29 @@
     "link": "https://store.steampowered.com/app/2491200",
     "steamID": "2491200",
     "genres": "Casual, Indie, Sports"
+  },
+  {
+    "name": "Slackers - Carts of Glory",
+    "id": "Slackers_Carts_of_Glory",
+    "notes": "",
+    "subName": "Portable V0.944 & Build 15743270",
+    "description": "Step into the wonderful world of Slackers! Picture this: you and your friends run out of drinks and the store is closing! Hop in a shopping cart, the ultimate eco-friendly marvel, master the art of riding an unpredictable beast, discover shortcuts as you pave your path to glory!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2354000/header.jpg?t=1726669172",
+    "gameplay": "https://www.youtube.com/watch?v=OQXbdPlIHgU",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "IceColdOldMan",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143295&p=3127943&hilit=#p3127943"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143295&p=3128134&hilit=#p3128134",
+    "download": "https://filecrypt.cc/Container/35AA066885.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-18T18:52:19.578Z",
+    "link": "https://store.steampowered.com/app/2354000",
+    "steamID": "2354000",
+    "genres": "Action, Casual, Indie, Racing, Simulation"
   }
 ]
