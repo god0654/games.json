@@ -27775,5 +27775,29 @@
     "link": "https://store.steampowered.com/app/2947240",
     "steamID": "3099840",
     "genres": "Adventure, NSFW"
+  },
+  {
+    "name": "FatalZone",
+    "id": "FatalZone",
+    "notes": "",
+    "subName": "Portable V1.4.507 (Full Release) & Build 15693871",
+    "description": "FatalZone is an auto shooter with roguelike and RPG elements set in a savage world of zombies. Exterminate zombie hordes, collect resources, upgrade your camp, and level up mercenaries. Humanity must survive at any cost!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488510/header.jpg?t=1726583328",
+    "gameplay": "https://www.youtube.com/watch?v=5_3KmbWAodE",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "sikkacyanide",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135604&p=3127446&hilit=#p3127446"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135604&p=3127838&hilit=#p3127838",
+    "download": "https://filecrypt.cc/Container/3FA012E302.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-18T12:09:56.636Z",
+    "link": "https://store.steampowered.com/app/2488510",
+    "steamID": "2488510",
+    "genres": "Action, Casual, Indie, RPG"
   }
 ]
