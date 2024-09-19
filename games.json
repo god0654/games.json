@@ -28005,7 +28005,8 @@
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2322010.webp",
     "gameplay": "https://www.youtube.com/watch?v=_Zj6zhpVFLM",
     "tags": [
-      "gse"
+      "gse",
+      "steamless"
     ],
     "based": {
       "info": "csf",
@@ -28019,5 +28020,30 @@
     "link": "https://store.steampowered.com/app/2322010",
     "steamID": "2322010",
     "genres": "Action, Adventure, RPG"
+  },
+  {
+    "name": "Broken Sword - Shadow of the Templars: Reforged",
+    "id": "Broken_Sword_Shadow_of_the_Templars__Reforged",
+    "notes": "",
+    "subName": "Portable V1.0.0 & BuildID 57935084443672100",
+    "description": "The classic multi-award winning adventure \"Broken Sword - the Shadow of the Templars\" returns with glorious 4K visuals and iconic remastered audio, pitching intrepid American George Stobbart and fearless journalist Nico Collard into a journey of perilous adventures and ancient conspiracies.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2544110/header.jpg?t=1726752543",
+    "gameplay": "https://www.youtube.com/watch?v=sSEFshSwhQU",
+    "tags": [
+      "drmfree",
+      "gog"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "SKIDROW",
+      "link": "https://api.predb.net/nfoimg/Broken.Sword.Shadow.Of.The.Templars.Reforged-SKIDROW.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135041&p=3128962&hilit=#p3128962",
+    "download": "https://filecrypt.cc/Container/1AC36ED2B8.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-19T22:15:28.553Z",
+    "link": "https://store.steampowered.com/app/2544110",
+    "steamID": "2544110",
+    "genres": "Adventure, Casual, Indie"
   }
 ]
