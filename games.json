@@ -27920,5 +27920,31 @@
     "link": "https://store.steampowered.com/app/2354000",
     "steamID": "2354000",
     "genres": "Action, Casual, Indie, Racing, Simulation"
+  },
+  {
+    "name": "Euro Truck Simulator 2 - Kässbohrer Trailer",
+    "id": "Euro_Truck_Simulator_2",
+    "notes": "Note: GoldBerg with Achievements, Stats, 148 Items and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.\n\nHow to play in DX9, DX11 or OpenGL: 3 .bat in ''bin\\win_x64'' have been added.",
+    "subName": "Portable V1.51.1.8s + Build 15730162 + DLCs Included & Online Supported",
+    "description": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3034950.webp",
+    "gameplay": "https://www.youtube.com/watch?v=o7I98uf1SqU",
+    "tags": [
+      "gse",
+      "ofme",
+      "steamless"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "AR-81",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=63279&p=3128129&hilit=#p3128129"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=63279&p=3128324&hilit=#p3128324",
+    "download": "https://filecrypt.cc/Container/4A896D78EA.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-19T01:04:40.041Z",
+    "link": "https://store.steampowered.com/app/227300",
+    "steamID": "227300",
+    "genres": "Indie, Simulation"
   }
 ]
