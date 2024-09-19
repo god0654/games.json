@@ -27999,7 +27999,7 @@
   {
     "name": "God of War Ragnarok + Pre-Order Bonus - Deluxe Edition",
     "id": "Echoes_of_Valhalla_Deluxe_Edition",
-    "notes": "Note: Require to install PsPcSdkRuntimeInstaller.msi for proper work, need also an PSN account for login.\n\n^^\n(Popup for Login appear after press Enter)\nUnder no circumstances link your PSN account to Steam Account, the game will ask you later if you want to do this.\n\nCS.RIN.RU Button will be available soon.",
+    "notes": "Note: Require to install PsPcSdkRuntimeInstaller.msi for proper work, need also an PSN account for login.\n\nhttps://i.imgur.com/Q37dRGP.png\n^^\n(Popup appear after press Enter)\nUnder no circumstances link your PSN account to Steam Account, the game will ask you later if you want to do this.",
     "subName": "Portable V19.09.2024 + Build 15752266 & DLCs Included",
     "description": "Kratos and Atreus embark on a mythic journey for answers before Ragnarök arrives – now on PC.",
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2322010.webp",
@@ -28012,10 +28012,10 @@
       "credits": "✧GͥOͣDͫ✧",
       "link": "https://store.steampowered.com/app/2322010/God_of_War_Ragnark/"
     },
-    "csrinru": "",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=41&t=141113&p=3128808&hilit=#p3128808",
     "download": "https://filecrypt.cc/Container/5F723CED0D.html",
     "achievements": false,
-    "dateUpdated": "2024-09-19T17:29:42.147Z",
+    "dateUpdated": "2024-09-19T17:36:22.085Z",
     "link": "https://store.steampowered.com/app/2322010",
     "steamID": "2322010",
     "genres": "Action, Adventure, RPG"
