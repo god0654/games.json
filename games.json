@@ -27946,5 +27946,29 @@
     "link": "https://store.steampowered.com/app/227300",
     "steamID": "227300",
     "genres": "Indie, Simulation"
+  },
+  {
+    "name": "Marko: Beyond Brave",
+    "id": "Marko_Beyond_Brave",
+    "notes": "",
+    "subName": "Portable V1.00 & Build 15733753",
+    "description": "Marko: Beyond Brave is an action-packed Metroidvania adventure. Wander through lush forests and crumbling castles, battle corrupted creatures, and escape intricate traps. Jump, slash, and shoot your way through challenging foes and mighty bosses inspired by Slavic myths and legends.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186470/header.jpg?t=1726593573",
+    "gameplay": "https://www.youtube.com/watch?v=yt3X6OF2vO8",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "voices38",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=128755&p=3127498&hilit=#p3127498"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=128755&p=3128338&hilit=#p3128338",
+    "download": "https://filecrypt.cc/Container/171F7B0188.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-19T01:32:11.764Z",
+    "link": "https://store.steampowered.com/app/1186470",
+    "steamID": "1186470",
+    "genres": "Action, Adventure, Indie"
   }
 ]
