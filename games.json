@@ -28286,5 +28286,29 @@
     "link": "https://store.steampowered.com/app/1807220",
     "steamID": "1807220",
     "genres": "Action, Casual, Indie, Simulation"
+  },
+  {
+    "name": "Lorn's Lure",
+    "id": "Lorns_Lure",
+    "notes": "",
+    "subName": "Portable V20.09.2024 & Build 15765771",
+    "description": "An android is led through a vast structure by a glitch in his visual system. Lorn's Lure is an atmospheric narrative first-person platformer with novel climb-anything mechanics and modernized retro 3D graphics.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1417930/header.jpg?t=1726838168",
+    "gameplay": "https://www.youtube.com/watch?v=vAa2JQM7GRM",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "TheBinaryWizard",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=130494&p=3129500&hilit=#p3129500"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=130494&p=3129642&hilit=#p3129642",
+    "download": "https://filecrypt.cc/Container/04B5A0493F.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-20T21:46:26.717Z",
+    "link": "https://store.steampowered.com/app/1417930",
+    "steamID": "1417930",
+    "genres": "Action, Adventure, Indie"
   }
 ]
