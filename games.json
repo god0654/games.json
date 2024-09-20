@@ -28237,5 +28237,29 @@
     "link": "https://store.steampowered.com/app/2652490",
     "steamID": "2652490",
     "genres": "Indie, Simulation, NSFW"
+  },
+  {
+    "name": "Mad Smartphone Tycoon",
+    "id": "Mad_Smartphone_Tycoon",
+    "notes": "",
+    "subName": "Portable V0.85.3.2 & Build 15756268",
+    "description": "Build Your smartphone Empire in Mad Smartphone Tycoon, your main goal in this game is to create the ultimate smartphone that combines both performance and aesthetics. Expand your company, dominate the global market, become a tycoon in the world of mobile phones!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891120/header.jpg?t=1726816913",
+    "gameplay": "https://www.youtube.com/watch?v=MCscn6Nb6Do",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "gameclamp",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143183&p=3129126&hilit=#p3129126"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143183&p=3129401&hilit=#p3129401",
+    "download": "https://filecrypt.cc/Container/E79884387C.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-20T16:00:30.360Z",
+    "link": "https://store.steampowered.com/app/2891120",
+    "steamID": "2891120",
+    "genres": "Casual, Indie, Simulation, Strategy"
   }
 ]
