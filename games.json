@@ -28213,5 +28213,29 @@
     "link": "https://store.steampowered.com/app/2799940",
     "steamID": "2799940",
     "genres": "Adventure, Indie, RPG, Simulation, NSFW"
+  },
+  {
+    "name": "Agent Mirai and the Submission Machines",
+    "id": "Agent_Mirai_and_the_Submission_Machines",
+    "notes": "",
+    "subName": "Portable V4.0 & Build 15737362",
+    "description": "Secret Agent Mirai received information that a certain pharmaceutical company is conducting illegal human experiments. She headed to the company to investigate on her own but was captured. In the laboratory, there were numerous sinister-looking machines. What will become of her...!?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2652490/header.jpg?t=1726797767",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257018910/movie480_vp9.webm?t=1721889199",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://digitalzone.vercel.app/games/Agent_Mirai_and_the_Submission_Machines"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143330&p=3129388&hilit=#p3129388",
+    "download": "https://filecrypt.cc/Container/6C1B669B08.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-20T15:37:54.837Z",
+    "link": "https://store.steampowered.com/app/2652490",
+    "steamID": "2652490",
+    "genres": "Indie, Simulation, NSFW"
   }
 ]
