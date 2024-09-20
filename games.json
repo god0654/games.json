@@ -21391,28 +21391,28 @@
     "link": "https://store.steampowered.com/app/858210"
   },
   {
-    "name": "Operation: Polygon Storm - Deluxe Edition",
+    "name": "Operation: Polygon Storm The Train - Deluxe Edition",
     "id": "Operation_Polygon_Storm",
     "notes": "",
-    "subName": "Portable V0.9.9.9.7.1 + Build 15343454 & DLC Included",
+    "subName": "Portable V1.2.0.0 + Build 15759200 & DLCs Included",
     "description": "A fastpaced, military tug-of-war game with minimal micromanagement. Choose and deploy from a mix of specialized military units to overwhelm the enemy. Experiment with a huge variety of unit compositions, synergies, abilities, and upgrades to lead your army to victory!",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/43751/6sibvzrphw49u1ek/header_ratio.jpg?t=1722325592",
-    "gameplay": "https://www.youtube.com/watch?v=3TBOkI8pMfY",
+    "gameplay": "https://www.youtube.com/watch?v=UKYGyzmj5Mk",
     "tags": [
-      "scene"
+      "gse"
     ],
     "based": {
       "info": "nfo",
-      "credits": "SKIDROW",
-      "link": "https://api.predb.net/nfoimg/Operation.Polygon.Storm-SKIDROW.png"
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Operation.Polygon.Storm.Deluxe.Edition-TENOKE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142627&p=3105625&hilit=#p3105625",
-    "download": "https://filecrypt.cc/Container/8AE5284219.html",
-    "achievements": false,
-    "dateUpdated": "2024-08-12T21:35:35.554Z",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142627&p=3129046&hilit=#p3129046",
+    "download": "https://filecrypt.cc/Container/9AFB081B19.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-20T01:47:39.186Z",
+    "link": "https://store.steampowered.com/app/2310160",
     "steamID": "2310160",
-    "genres": "Strategy",
-    "link": "https://store.steampowered.com/app/2310160"
+    "genres": "Strategy"
   },
   {
     "name": "Cult of the Lamb: Unholy Alliance + Pilgrim Pack - The One Who Waits Bundle",
