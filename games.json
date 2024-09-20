@@ -28117,5 +28117,29 @@
     "link": "https://store.steampowered.com/app/3077670",
     "steamID": "3077670",
     "genres": "Adventure, Indie, Simulation"
+  },
+  {
+    "name": "Wild Indigo Ranch",
+    "id": "Wild_Indigo_Ranch",
+    "notes": "",
+    "subName": "Portable V1.0.42p (Full Release) + Build 15756488 & DLC Included",
+    "description": "Wild Indigo Ranch is a cozy cowboy-life RPG for 1-4 players. Start a new life on the prairie, explore the frontier, build the finest ranch in the West, and ride into the sunset.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1751350/header_alt_assets_5.jpg?t=1726657809",
+    "gameplay": "https://www.youtube.com/watch?v=LTelXyoie7k",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Wild.Indigo.Ranch-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=121910&p=3129031&hilit=#p3129031",
+    "download": "https://filecrypt.cc/Container/715377C503.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-20T01:09:04.975Z",
+    "link": "https://store.steampowered.com/app/1751350",
+    "steamID": "1751350",
+    "genres": "Action, Adventure, Indie"
   }
 ]
