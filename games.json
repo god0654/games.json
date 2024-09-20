@@ -28165,5 +28165,29 @@
     "link": "https://store.steampowered.com/app/1029210",
     "steamID": "1029210",
     "genres": "Action, Indie"
+  },
+  {
+    "name": "Copycat Game & OST Bundle",
+    "id": "Copycat",
+    "notes": "",
+    "subName": "Portable V1.0 & Build 15755182",
+    "description": "A poignant narrative-driven game about rejection, belonging and the meaning of home. It follows the story of a newly adopted shelter cat whose space in the home is taken by a copycat. Bring the tissues.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622350/header.jpg?t=1726831574",
+    "gameplay": "https://www.youtube.com/watch?v=xDGAwmVXaLM",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "Gh0sT73",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135623&p=3129157&hilit=#p3129157"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135623&p=3129340&hilit=#p3129340",
+    "download": "https://filecrypt.cc/Container/587790B9A3.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-20T14:24:34.493Z",
+    "link": "https://store.steampowered.com/app/1622350",
+    "steamID": "1622350",
+    "genres": "Adventure, Indie"
   }
 ]
