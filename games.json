@@ -28261,5 +28261,30 @@
     "link": "https://store.steampowered.com/app/2891120",
     "steamID": "2891120",
     "genres": "Casual, Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Welcome to Empyreum",
+    "id": "Welcome_to_Empyreum",
+    "notes": "",
+    "subName": "Portable V1.0.7 & BuildID 57937042214430295",
+    "description": "Welcome to Empyreum, the video game that will transform your gaming experience into a fun-filled party for the whole family! This exciting cooperative party game for up to 4 players immerses you in the fascinating and wild universe of Hotel Empyreum.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1807220/header.jpg?t=1726818509",
+    "gameplay": "https://www.youtube.com/watch?v=pswDk6Obifw",
+    "tags": [
+      "drmfree",
+      "gog"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "Razor1911",
+      "link": "https://api.predb.net/nfoimg/Welcome_to_Empyreum-Razor1911.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=128369&p=3129430&hilit=#p3129430",
+    "download": "https://filecrypt.cc/Container/6F1ED3E101.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-20T16:36:16.306Z",
+    "link": "https://store.steampowered.com/app/1807220",
+    "steamID": "1807220",
+    "genres": "Action, Casual, Indie, Simulation"
   }
 ]
