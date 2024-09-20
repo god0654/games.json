@@ -123,7 +123,7 @@ def send_discord_notification(webhook_url, changes, author_icon_url):
                         "title": game['name'],
                         "footer": {
                             "text": "DigitalZone",
-                            "icon_url": "https://cdn.discordapp.com/icons/1149479236302802987/8e05d2df735e49167326f43ee4faad45.webp?size=1024&format=webp&width=0&height=256"
+                            "icon_url": "https://github.com/god0654/games.json/blob/main/icon.png?raw=true"
                         },
                         "author": {
                             "name": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
