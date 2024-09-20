@@ -28189,5 +28189,29 @@
     "link": "https://store.steampowered.com/app/1622350",
     "steamID": "1622350",
     "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Sera's Adventure -Cave of Destruction-",
+    "id": "Seras_Adventure_Cave_of_Destruction",
+    "notes": "",
+    "subName": "Portable V20.09.2024 & Build 15646746",
+    "description": "To gain experience, Sera ventures into the maze by her own, when suddenly the floor disappears, dropping her into an unknown place she has never seen before. There, awaiting her, will be inhumane treatment beyond imagination...",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2799940/header.jpg?t=1726819234",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257048087/movie480_vp9.webm?t=1724217414",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://digitalzone.vercel.app/games/Seras_Adventure_Cave_of_Destruction"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143329&p=3129354&hilit=#p3129354",
+    "download": "https://filecrypt.cc/Container/3680AF0140.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-20T15:02:34.730Z",
+    "link": "https://store.steampowered.com/app/2799940",
+    "steamID": "2799940",
+    "genres": "Adventure, Indie, RPG, Simulation, NSFW"
   }
 ]
