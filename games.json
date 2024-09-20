@@ -27999,7 +27999,7 @@
   {
     "name": "God of War Ragnarok + Pre-Order Bonus - Deluxe Edition",
     "id": "Echoes_of_Valhalla_Deluxe_Edition",
-    "notes": "Note: Require to install PsPcSdkRuntimeInstaller.msi for proper work, need also an PSN account for login.\n\nhttps://i.imgur.com/Q37dRGP.png\n^^\n(Popup appear after press Enter)\nUnder no circumstances link your PSN account to Steam Account, the game will ask you later if you want to do this.\n\n⬐Crack Only RUNE (No Login required)↴ https://filecrypt.cc/Container/4D288AB212.html\n(Thx to NoeRin)",
+    "notes": "Note: Require to install PsPcSdkRuntimeInstaller.msi for proper work, need also an PSN account for login.\n\nhttps://i.imgur.com/Q37dRGP.png\n^^\n(Popup appear after press Enter)\nUnder no circumstances link your PSN account to Steam Account, the game will ask you later if you want to do this.\n\n⬐Crack Only RUNE (No Login required)↴ https://filecrypt.cc/Container/4D288AB212.html\n(Thx to NoeRin)\n↳ Password is: cs.rin.ru ↲",
     "subName": "Portable V19.09.2024 + Build 15752266 & DLCs Included",
     "description": "Kratos and Atreus embark on a mythic journey for answers before Ragnarök arrives – now on PC.",
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2322010.webp",
@@ -28045,5 +28045,77 @@
     "link": "https://store.steampowered.com/app/2544110",
     "steamID": "2544110",
     "genres": "Adventure, Casual, Indie"
+  },
+  {
+    "name": "Keylocker - Turn Based Cyberpunk Action",
+    "id": "Keylocker_Turn_Based_Cyberpunk_Action",
+    "notes": "",
+    "subName": "Portable V20.09.2024 + Build 15744848 & DLC Included",
+    "description": "In a silent world where music is outlawed, play as a singer to shatter the strings of fate and sing the melody of freedom in this unforgiving Turn Based Rhythm JRPG.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325040/header.jpg?t=1726698795",
+    "gameplay": "https://www.youtube.com/watch?v=D5Bt0tUI_pQ",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Keylocker.Turn.Based.Cyberpunk.Action-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=105977&p=3128994&hilit=#p3128994",
+    "download": "https://filecrypt.cc/Container/B34CE31FDA.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-19T23:26:48.034Z",
+    "link": "https://store.steampowered.com/app/1325040",
+    "steamID": "1325040",
+    "genres": "Adventure, Indie, RPG"
+  },
+  {
+    "name": "Machinika: Atlas",
+    "id": "Machinika_Atlas",
+    "notes": "",
+    "subName": "Portable V1.1.2.1 & Build 15743695",
+    "description": "Machinika: Atlas is an indie puzzle game and is the direct sequel to Machinika: Museum, you play as a museum researcher who just land on Atlas. Will you unravel the mysteries of the alien vessel? Solve cryptic puzzles to find out what happened!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2817620/header.jpg?t=1726735734",
+    "gameplay": "https://www.youtube.com/watch?v=0Ike9VNAM7I",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Machinika.Atlas-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143316&p=3129009&hilit=#p3129009",
+    "download": "https://filecrypt.cc/Container/A2EE74444E.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-19T23:47:59.855Z",
+    "link": "https://store.steampowered.com/app/2817620",
+    "steamID": "2817620",
+    "genres": "Adventure, Casual, Indie"
+  },
+  {
+    "name": "Water Delivery",
+    "id": "Water_Delivery",
+    "notes": "",
+    "subName": "Portable V20.09.2024 & Build 15752538",
+    "description": "Water Delivery is a first person, horror experience where you play as a water delivery boy. Ride along in the delivery truck from house to house. Deliver filled water jugs, find and return empty jugs, and collect all the payments. Will you be able to finish your final route of the evening?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3077670/header.jpg?t=1726649204",
+    "gameplay": "https://www.youtube.com/watch?v=T98eibd0njM",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Water.Delivery-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143315&p=3129013&hilit=#p3129013",
+    "download": "https://filecrypt.cc/Container/7BCA8690EA.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-20T00:07:58.382Z",
+    "link": "https://store.steampowered.com/app/3077670",
+    "steamID": "3077670",
+    "genres": "Adventure, Indie, Simulation"
   }
 ]
