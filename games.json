@@ -28310,5 +28310,29 @@
     "link": "https://store.steampowered.com/app/1417930",
     "steamID": "1417930",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Project: AHNO's Ark - Game, Artbook & Original Soundtrack Bundle",
+    "id": "Project_AHNOs_Ark",
+    "notes": "",
+    "subName": "Portable V0.2.1065 + Build 15764133 & DLCs Included",
+    "description": "This game merges elements of tactical RPG, Go, and introduces Roguelite features. Players will need to make decisions among numerous random events and capability divergences, trying to survive in an apocalyptic game of mutual destruction.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1631670.webp",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257007637/movie480_vp9.webm?t=1711254904",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Project.AHNOs.Ark-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134647&p=3129697&hilit=#p3129697",
+    "download": "https://filecrypt.cc/Container/26CA1FF4BE.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-20T23:56:37.087Z",
+    "link": "https://store.steampowered.com/app/1631670",
+    "steamID": "1631670",
+    "genres": "Indie, RPG, Strategy, Accounting"
   }
 ]
