@@ -28358,5 +28358,29 @@
     "link": "https://store.steampowered.com/app/2116680",
     "steamID": "2116679",
     "genres": "Casual, Indie, Sports"
+  },
+  {
+    "name": "Wisdom’s Lost Echo",
+    "id": "The_Legend_of_Zelda__Echoes_of_Wisdom",
+    "notes": "",
+    "subName": "Portable-Ryujinx V1.0.1",
+    "description": "In Echoes of Wisdom, Zelda sets out to save Link and the kingdom of Hyrule using the Tri Rod, a magical artifact provided by the fairy Tri, who assists in a quest.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/Echoes-of-Wisdom.webp",
+    "gameplay": "https://www.youtube.com/watch?v=01onjjAUnOQ",
+    "tags": [
+      "switch"
+    ],
+    "based": {
+      "info": "info",
+      "credits": "Based on Ryujinx",
+      "link": "https://digitalzone.vercel.app/games/The_Legend_of_Zelda__Echoes_of_Wisdom"
+    },
+    "csrinru": "",
+    "download": "https://filecrypt.cc/Container/31004E99C7.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-21T11:59:58.764Z",
+    "link": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/The-Legend-of-Zelda-Echoes-of-Wisdom-2590490.html",
+    "steamID": "",
+    "genres": "Adventure"
   }
 ]
