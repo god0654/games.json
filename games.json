@@ -28454,5 +28454,53 @@
     "link": "https://store.steampowered.com/app/3044550",
     "steamID": "3044550",
     "genres": "Adventure, Casual, RPG, NSFW"
+  },
+  {
+    "name": "Home Safety Hotline: Seasonal Worker - Deluxe Edition",
+    "id": "Home_Safety_Hotline",
+    "notes": "",
+    "subName": "Portable V22.09.2024 + Build 15766355 & DLCs Included",
+    "description": "Hearing noises? Seeing things? Call Home Safety Hotline! Our operators are standing by, waiting to give you the answers you need to protect your home from all manner of pests and household hazards.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2914730.webp",
+    "gameplay": "https://www.youtube.com/watch?v=1B08V9NPdrg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Home.Safety.Hotline.Deluxe.Edition-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137653&p=3130231&hilit=#p3130231",
+    "download": "https://filecrypt.cc/Container/99136E4AA0.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-21T23:10:50.170Z",
+    "link": "https://store.steampowered.com/app/2357910",
+    "steamID": "2357910",
+    "genres": "Casual, Indie, Simulation"
+  },
+  {
+    "name": "Spiral",
+    "id": "Spiral",
+    "notes": "",
+    "subName": "Portable V22.09.2024 + Build 15769482 & DLC Included",
+    "description": "Spiral is a third-person narrative exploration game that shares a poetic vision of cognitive degeneration. Step into the shoes of Bernard as you help him and support him while braving his unravelling mind and reliving his most treasured moments.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1579390/header.jpg?t=1726843593",
+    "gameplay": "https://www.youtube.com/watch?v=xA513vNl6rQ",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Spiral-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=112640&p=3130245&hilit=#p3130245",
+    "download": "https://filecrypt.cc/Container/E9C8B2B75B.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-21T23:43:34.249Z",
+    "link": "https://store.steampowered.com/app/1579390",
+    "steamID": "1579390",
+    "genres": "Adventure, Indie"
   }
 ]
