@@ -5,142 +5,76 @@ import requests
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 from colorthief import ColorThief
 from io import BytesIO
-import base64
 import urllib.request
-import hashlib
-
-def load_json(file_path):
-    with open(file_path, 'r') as file:
-        return json.load(file)
-
-def generate_hash(data):
-    hash_object = hashlib.sha256(json.dumps(data, sort_keys=True).encode('utf-8'))
-    return hash_object.hexdigest()
-
-def extract_dominant_color(image_url):
-    try:
-        with urllib.request.urlopen(image_url) as response:
-            image_data = response.read()
-        color_thief = ColorThief(BytesIO(image_data))
-        dominant_color = color_thief.get_color(quality=1)
-        return '#%02x%02x%02x' % dominant_color
-    except Exception as e:
-        print(f"Error extracting color: {e}")
-        return '#000000'
 
 def get_changes(current, previous):
-    current_dict = {item['id']: item for item in current}
     previous_dict = {item['id']: item for item in previous}
-
     changes = []
 
-    for item_id, item in current_dict.items():
-        if item_id in previous_dict and item['dateUpdated'] != previous_dict[item_id]['dateUpdated']:
-            print("Changed game: " + item_id)
-            changes.append(item)
-        elif item_id not in previous_dict:
-            print("Newly added game: " + item_id)
+    for item_id, item in {item['id']: item for item in current}.items():
+        if item_id not in previous_dict or item['dateUpdated'] != previous_dict[item_id]['dateUpdated']:
+            print(f"{'Newly added' if item_id not in previous_dict else 'Changed'} game: {item_id}")
             changes.append(item)
 
     return changes
 
-def convert_image_to_base64(image_url):
-    try:
-        with urllib.request.urlopen(image_url) as response:
-            image_data = response.read()
-        image = Image.open(BytesIO(image_data))
+def extract_dominant_color(image_url):
+    try: return '#%02x%02x%02x' % ColorThief(BytesIO(urllib.request.urlopen(image_url).read())).get_color(quality=1)
+    except Exception as e: print(f"Error extracting color: {e}") or '#000000'
 
-        background = image.copy()
-        background = background.filter(ImageFilter.BoxBlur(2))
+def get_image(image_url):
+    try: return response.content if (response := requests.get(image_url)).status_code == 200 else print(f"Error fetching image: {response.status_code}") or None
+    except Exception as e: return print(f"Error fetching image: {e}") or None
 
-        draw = ImageDraw.Draw(background)
-
-        font = ImageFont.truetype("inter.ttf", 150)
-
-        text = "18+"
-        text_color = "#F54139"
-        outline_color = "#780808"
-        outline_width = 5
-
-        draw.text((background.width/2, background.height/2), text, font=font, fill=text_color, stroke_width=outline_width, stroke_fill=outline_color, anchor="mm")
-
-        buffered = BytesIO()
+def nsfw(image):
+    background = Image.open(BytesIO(image)).filter(ImageFilter.BoxBlur(2))
+    ImageDraw.Draw(background).text(
+        (background.width / 2, background.height / 2),
+        "18+", font=ImageFont.truetype("inter.ttf", 150), fill="#F54139", stroke_width=5, stroke_fill="#780808", anchor="mm"
+    )
+    with BytesIO() as buffered:
         background.save(buffered, format="PNG")
-
         return buffered.getvalue()
-    except Exception as e:
-        print(f"Error converting image to base64: {e}")
-        return None
 
-def send_discord_notification(webhook_url, changes, author_icon_url):
-    for game in changes:
-        color = extract_dominant_color(game['thumbnail'])
-        if "NSFW" in game["genres"]:
-            base64_image = convert_image_to_base64(game['thumbnail'])
-            if base64_image is None:
-                continue
+def send_webhook_notification(webhook_url, games_data, author_image):
+    for game in games_data:
+        payload = {
+            "content": "<@&1287566531861151815>",
+            "embeds": [
+                {
+                    "description": f"**{game['subName']}**\n\n{game['description']}",
+                    "image": {"url": "attachment://image.png"},
+                    "title": game['name'],
+                    "footer": {
+                        "text": "DigitalZone",
+                        "icon_url": "https://cdn.discordapp.com/icons/1149479236302802987/8e05d2df735e49167326f43ee4faad45.webp?size=1024&format=webp&width=0&height=256"
+                    },
+                    "author": {
+                        "name": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
+                        "url": "https://digitalzone.vercel.app/games",
+                        "icon_url": author_image
+                    },
+                    "url": f"https://digitalzone.vercel.app/games#{game['id']}",
+                    "timestamp": game['dateUpdated'],
+                    "color": int(extract_dominant_color(game['thumbnail']).replace('#', ''), 16),
+                    "fields": [
+                        {
+                            "name": "Genres",
+                            "value": game['genres'],
+                            "inline": "true"
+                        },
+                        *([{"name": "CSRINRU", "value": f"[Post]({game['csrinru']})", "inline": "true"}] if game.get('csrinru') else []),
+                        *([{"name": "Game link", "value": game['link'], "inline": "true"}] if game.get('link') else [])
+                    ]
+                }
+            ],
+            "username": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
+            "avatar_url": author_image
+        }
 
-            payload_json = {
-                "content": "",
-                "tts": False,
-                "embeds": [
-                    {
-                        "description": f"**{game['subName']}**\n\n{game['description']}",
-                        "image": {"url": "attachment://image.png"},
-                        "title": game['name'],
-                        "footer": {
-                            "text": "DigitalZone",
-                            "icon_url": "https://github.com/god0654/games.json/blob/main/icon.png?raw=true"
-                        },
-                        "author": {
-                            "name": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
-                            "url": "https://digitalzone.vercel.app/games",
-                            "icon_url": author_icon_url
-                        },
-                        "url": f"https://digitalzone.vercel.app/games#{game['id']}",
-                        "timestamp": game['dateUpdated'],
-                        "color": int(color.replace('#', ''), 16)
-                    }
-                ],
-                "username": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
-                "avatar_url": author_icon_url
-            }
-
-            files = {
-                'file': ('image.png', BytesIO(base64_image), 'image/png')
-            }
-
-            response = requests.post(webhook_url, data={'payload_json': json.dumps(payload_json)}, files=files)
-            response.raise_for_status()
-        else:
-            payload = {
-                "content": "",
-                "tts": False,
-                "embeds": [
-                    {
-                        "description": f"**{game['subName']}**\n\n{game['description']}",
-                        "image": { "url": game['thumbnail'] },
-                        "title": game['name'],
-                        "footer": {
-                            "text": "DigitalZone",
-                            "icon_url": "https://cdn.discordapp.com/icons/1149479236302802987/8e05d2df735e49167326f43ee4faad45.webp?size=1024&format=webp&width=0&height=256"
-                        },
-                        "author": {
-                            "name": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
-                            "url": "https://digitalzone.vercel.app/games",
-                            "icon_url": author_icon_url
-                        },
-                        "url": f"https://digitalzone.vercel.app/games#{game['id']}",
-                        "timestamp": game['dateUpdated'],
-                        "color": int(color.replace('#', ''), 16)
-                    }
-                ],
-                "username": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
-                "avatar_url": author_icon_url
-            }
-            headers = {'Content-Type': 'application/json'}
-            response = requests.post(webhook_url, headers=headers, data=json.dumps(payload))
-            response.raise_for_status()
+        requests.post(webhook_url, data={'payload_json': json.dumps(payload)}, files={
+            'file': ('image.png', BytesIO(nsfw(get_image(game['thumbnail'])) if "NSFW" in game["genres"] else get_image(game['thumbnail'])), 'image/png')
+        }).raise_for_status()
 
 def main():
     current_file = 'games.json'
@@ -148,20 +82,18 @@ def main():
     webhook_url = os.getenv('DISCORD_WEBHOOK_URL')
     author_icon_url = os.getenv('AUTHOR_ICON_URL')
 
-    current_data = load_json(current_file)
-    previous_data = load_json(previous_file)
-
-    changes = get_changes(current_data, previous_data)
+    current_data = json.load(open(current_file, 'r'))
+    changes = get_changes(current_data, json.load(open(previous_file, 'r')))
 
     if changes:
         print(f"Changes detected: {len(changes)}")
-        send_discord_notification(webhook_url, changes, author_icon_url)
+        send_webhook_notification(webhook_url, changes, author_icon_url)
 
         with open(previous_file, 'w') as file:
             json.dump(current_data, file, indent=4)
-    else:
-        print("No changes detected.")
         sys.exit(0)
+    print("No changes detected.")
+    sys.exit(0)
 
 if __name__ == "__main__":
     main()
