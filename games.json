@@ -28647,5 +28647,29 @@
     "link": "https://store.steampowered.com/app/1796790",
     "steamID": "1796790",
     "genres": "Adventure, RPG, Simulation"
+  },
+  {
+    "name": "Tiny Glade",
+    "id": "Tiny_Glade",
+    "notes": "How to configure Vulkan (if need): Launch tiny-glade-VK_Settings.bat. \n\nHow to Play with another GPU: Launch tiny-glade-Graphics_Card_Selector.bat.",
+    "subName": "Portable V1.8.0a & Build 15795865",
+    "description": "Tiny Glade is a small diorama builder where you doodle whimsical castles, cozy cottages & romantic ruins. Explore gridless building chemistry as the game adorns your glades with procedural detail. No management, combat or goals: just kick back and turn forgotten meadows into lovable dioramas.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198150/header.jpg?t=1727109194",
+    "gameplay": "https://www.youtube.com/watch?v=9HxPwQ4tjFc",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "fonkymiaou",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127900&p=3131080&hilit=#p3131080"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127900&p=3131165&hilit=#p3131165",
+    "download": "https://filecrypt.cc/Container/AE955991A7.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-23T19:07:41.582Z",
+    "link": "https://store.steampowered.com/app/2198150",
+    "steamID": "2198150",
+    "genres": "Casual, Indie, Simulation"
   }
 ]
