@@ -28671,5 +28671,29 @@
     "link": "https://store.steampowered.com/app/2198150",
     "steamID": "2198150",
     "genres": "Casual, Indie, Simulation"
+  },
+  {
+    "name": "Class of '09: The Flip Side",
+    "id": "Class_of_09_The_Flip_Side",
+    "notes": "",
+    "subName": "Portable V23.09.2024 & Build 15569248",
+    "description": "The final chapter of the Class of '09 VN series... this time from a different perspective! Join Nicole's best friend Jecka as you help her navigate the pitfalls of post-grad life! See what 2009 was truly like in this fully voiced interactive sitcom!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2757330/header.jpg?t=1727076521",
+    "gameplay": "https://www.youtube.com/watch?v=pqsAUeUzbiI",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "syntpenh",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143361&p=3131026&hilit=#p3131026"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143361&p=3131226&hilit=#p3131226",
+    "download": "https://filecrypt.cc/Container/994FC5B9F5.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-23T21:26:34.586Z",
+    "link": "https://store.steampowered.com/app/2757330",
+    "steamID": "2757330",
+    "genres": "Casual, Indie"
   }
 ]
