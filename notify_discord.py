@@ -37,44 +37,44 @@ def nsfw(image):
         return buffered.getvalue()
 
 def send_webhook_notification(webhook_url, games_data, author_image):
+    embeds = []
+    files = {}
     for game in games_data:
-        payload = {
-            "content": "<@&1287566531861151815>",
-            "embeds": [
+        files[f"files{len(files) if len(files) != 0 else ""}"] = (f"{game["id"]}.png", BytesIO(nsfw(get_image(game['thumbnail'])) if "NSFW" in game["genres"] else get_image(game['thumbnail'])), 'image/png')
+        embeds.append({
+            "description": f"**{game['subName']}**\n\n{game['description']}",
+            "image": {"url": f"attachment://{game["id"]}.png"},
+            "title": game['name'],
+            "footer": {
+                "text": "DigitalZone",
+                "icon_url": "https://cdn.discordapp.com/icons/1149479236302802987/8e05d2df735e49167326f43ee4faad45.webp?size=1024&format=webp&width=0&height=256"
+            },
+            "author": {
+                "name": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
+                "url": "https://digitalzone.vercel.app/games",
+                "icon_url": author_image
+            },
+            "url": f"https://digitalzone.vercel.app/games#{game['id']}",
+            "timestamp": game['dateUpdated'],
+            "color": int(extract_dominant_color(game['thumbnail']).replace('#', ''), 16),
+            "fields": [
                 {
-                    "description": f"**{game['subName']}**\n\n{game['description']}",
-                    "image": {"url": "attachment://image.png"},
-                    "title": game['name'],
-                    "footer": {
-                        "text": "DigitalZone",
-                        "icon_url": "https://cdn.discordapp.com/icons/1149479236302802987/8e05d2df735e49167326f43ee4faad45.webp?size=1024&format=webp&width=0&height=256"
-                    },
-                    "author": {
-                        "name": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
-                        "url": "https://digitalzone.vercel.app/games",
-                        "icon_url": author_image
-                    },
-                    "url": f"https://digitalzone.vercel.app/games#{game['id']}",
-                    "timestamp": game['dateUpdated'],
-                    "color": int(extract_dominant_color(game['thumbnail']).replace('#', ''), 16),
-                    "fields": [
-                        {
-                            "name": "Genres",
-                            "value": game['genres'],
-                            "inline": "true"
-                        },
-                        *([{"name": "CSRINRU", "value": f"[Post]({game['csrinru']})", "inline": "true"}] if game.get('csrinru') else []),
-                        *([{"name": "Game link", "value": game['link'], "inline": "true"}] if game.get('link') else [])
-                    ]
-                }
-            ],
-            "username": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
-            "avatar_url": author_image
-        }
+                    "name": "Genres",
+                    "value": game['genres'],
+                    "inline": "true"
+                },
+                *([{"name": "CSRINRU", "value": f"[Post]({game['csrinru']})", "inline": "true"}] if game.get('csrinru') else []),
+                *([{"name": "Game link", "value": game['link'], "inline": "true"}] if game.get('link') else [])
+            ]
+        })
 
-        requests.post(webhook_url, data={'payload_json': json.dumps(payload)}, files={
-            'file': ('image.png', BytesIO(nsfw(get_image(game['thumbnail'])) if "NSFW" in game["genres"] else get_image(game['thumbnail'])), 'image/png')
-        }).raise_for_status()
+    payload = {
+        "content": "<@&1287566531861151815>",
+        "embeds": embeds,
+        "username": "⎝⎝✧GͥOͣDͫ✧⎠⎠",
+        "avatar_url": author_image
+    }
+    requests.post(webhook_url, data={'payload_json': json.dumps(payload)}, files=files).raise_for_status()
 
 def main():
     current_file = 'games.json'
