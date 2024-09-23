@@ -3401,26 +3401,26 @@
   {
     "name": "Cataclismo",
     "id": "Cataclismo",
-    "notes": "",
-    "subName": "Portable V0.18.1.2.222 – Patch 1 & Build 15162848",
+    "notes": "How to Play in DX12: Launch Cataclismo-DX12.bat in ''Cataclismo\\''.",
+    "subName": "Portable V0.20.0.14.312 (Update 2) & Build 15791954",
     "description": "Design and build fortresses brick by brick to stand against endless hordes of Horrors in this real-time strategy game with resource management, siege defense, and exploration. Lead from the ramparts, push back the darkness, and hold fast against the creatures of the Mist.",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422440/header.jpg?t=1721702066",
-    "gameplay": "https://www.youtube.com/watch?v=Cj7gFog15fI&pp=ygUTQ2F0YWNsaXNtbyBnYW1lcGxheQ%3D%3D",
+    "gameplay": "https://www.youtube.com/watch?v=l6zktiCkIzA",
     "tags": [
       "gse"
     ],
     "based": {
       "info": "basedon",
       "credits": "AR-81",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132761&p=3095497&hilit=#p3095497"
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132761&p=3130933&hilit=#p3130933"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132761&p=3097235&hilit=#p3097235",
-    "download": "https://filecrypt.cc/Container/B94010CEF2.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132761&p=3131000&hilit=#p3131000",
+    "download": "https://filecrypt.cc/Container/F45B9A3053.html",
     "achievements": true,
-    "dateUpdated": "2024-07-28T18:33:21.673Z",
+    "dateUpdated": "2024-09-23T13:55:07.094Z",
+    "link": "https://store.steampowered.com/app/1422440",
     "steamID": "1422440",
-    "genres": "Simulation, Strategy, Early Access",
-    "link": "https://store.steampowered.com/app/1422440"
+    "genres": "Simulation, Strategy, Early Access"
   },
   {
     "name": "Grocery Store Simulator",
