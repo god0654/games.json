@@ -28695,5 +28695,29 @@
     "link": "https://store.steampowered.com/app/2757330",
     "steamID": "2757330",
     "genres": "Casual, Indie"
+  },
+  {
+    "name": "Maiden Cops",
+    "id": "Maiden_Cops",
+    "notes": "",
+    "subName": "Portable V23.09.2024 + Build 15790782 & DLC Included",
+    "description": "Maiden Cops is a Beat'em Up full of classic, arcade-style action and ass kicking. Choose among the gorgeous Maiden Cops policewomen, tackle crime in Maiden City and enjoy premium-level pixel art and a breathtaking soundtrack.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2012670/header.jpg?t=1727071843",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257040379/movie480_vp9.webm?t=1725344871",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://digitalzone.vercel.app/games/Maiden_Cops"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132999&p=3131244&hilit=#p3131244",
+    "download": "https://filecrypt.cc/Container/5B2DA70B80.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-23T21:59:40.949Z",
+    "link": "https://store.steampowered.com/app/2012670",
+    "steamID": "2012670",
+    "genres": "Action, Indie, NSFW"
   }
 ]
