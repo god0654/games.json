@@ -3715,7 +3715,7 @@
     "link": "https://store.steampowered.com/app/2461850"
   },
   {
-    "name": "Marvel’s Spider-Man: Miles Morales",
+    "name": "Steatoda Nobilis: Miles Edition",
     "id": "Marvels_SpiderMan_Miles_Morales",
     "notes": "",
     "subName": "Portable V2.1012 + Build 12424782 & DLC Included",
@@ -3739,7 +3739,7 @@
     "link": "https://store.steampowered.com/app/1817190"
   },
   {
-    "name": "Marvel’s Spider-Man Remastered",
+    "name": "Steatoda Nobilis: Peter Edition",
     "id": "Marvels_SpiderMan_Remastered",
     "notes": "",
     "subName": "Portable V2.1012.0.0 + Build 12423814 & DLC Included",
@@ -17122,7 +17122,7 @@
     "link": "https://store.steampowered.com/app/1943950"
   },
   {
-    "name": "Horizon Forbidden West™ Complete Edition",
+    "name": "Legacy of the Forbidden Lands - Complete Edition",
     "id": "Horizon_Forbidden_West_Complete_Edition",
     "notes": "",
     "subName": "Portable V1.0.37.0 + Build 13801562 & DLCs Included",
@@ -21391,28 +21391,28 @@
     "link": "https://store.steampowered.com/app/858210"
   },
   {
-    "name": "Operation: Polygon Storm - Deluxe Edition",
+    "name": "Operation: Polygon Storm The Train - Deluxe Edition",
     "id": "Operation_Polygon_Storm",
     "notes": "",
-    "subName": "Portable V0.9.9.9.7.1 + Build 15343454 & DLC Included",
+    "subName": "Portable V1.2.0.0 + Build 15759200 & DLCs Included",
     "description": "A fastpaced, military tug-of-war game with minimal micromanagement. Choose and deploy from a mix of specialized military units to overwhelm the enemy. Experiment with a huge variety of unit compositions, synergies, abilities, and upgrades to lead your army to victory!",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/43751/6sibvzrphw49u1ek/header_ratio.jpg?t=1722325592",
-    "gameplay": "https://www.youtube.com/watch?v=3TBOkI8pMfY",
+    "gameplay": "https://www.youtube.com/watch?v=UKYGyzmj5Mk",
     "tags": [
-      "scene"
+      "gse"
     ],
     "based": {
       "info": "nfo",
-      "credits": "SKIDROW",
-      "link": "https://api.predb.net/nfoimg/Operation.Polygon.Storm-SKIDROW.png"
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Operation.Polygon.Storm.Deluxe.Edition-TENOKE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142627&p=3105625&hilit=#p3105625",
-    "download": "https://filecrypt.cc/Container/8AE5284219.html",
-    "achievements": false,
-    "dateUpdated": "2024-08-12T21:35:35.554Z",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142627&p=3129046&hilit=#p3129046",
+    "download": "https://filecrypt.cc/Container/9AFB081B19.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-20T01:47:39.186Z",
+    "link": "https://store.steampowered.com/app/2310160",
     "steamID": "2310160",
-    "genres": "Strategy",
-    "link": "https://store.steampowered.com/app/2310160"
+    "genres": "Strategy"
   },
   {
     "name": "Cult of the Lamb: Unholy Alliance + Pilgrim Pack - The One Who Waits Bundle",
@@ -24405,7 +24405,7 @@
     "name": "CarX Street - Deluxe Edition",
     "id": "CarX_Street",
     "notes": "How to Play: Launch steamclient_loader_x64.exe in ''CarX Street - Deluxe Edition\\''.",
-    "subName": "Portable V1.0.4 + Build 15664975 & DLC Included",
+    "subName": "Portable V1.0.5 + Build 15774196 & DLC Included",
     "description": "Conquer mountain roads, highways, and city streets. Build your dream car with detailed tuning that unleashes the potential of “CarX Technology”© physics. Take part in thrilling races, enjoying realistic gameplay and dynamic driving.",
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1114150.webp",
     "gameplay": "https://www.youtube.com/watch?v=hMm_Rkeg4wY",
@@ -24415,12 +24415,12 @@
     "based": {
       "info": "csf",
       "credits": "flaywah",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=109435&p=3125219&hilit=#p3125219"
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=109435&p=3129588&hilit=#p3129588"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=109435&p=3125306&hilit=#p3125306",
-    "download": "https://filecrypt.cc/Container/7D3B00B545.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=109435&p=3129666&hilit=#p3129666",
+    "download": "https://filecrypt.cc/Container/E3938361BB.html",
     "achievements": true,
-    "dateUpdated": "2024-09-14T14:26:54.253Z",
+    "dateUpdated": "2024-09-20T22:43:12.542Z",
     "link": "https://store.steampowered.com/app/1114150",
     "steamID": "1114150",
     "genres": "Racing, Simulation, Sports"
@@ -24502,7 +24502,7 @@
     "name": "Megaloot",
     "id": "Megaloot",
     "notes": "",
-    "subName": "Portable V1.02 & Build 15571145",
+    "subName": "Portable V1.0.5 & Build 15781189",
     "description": "Megaloot is an addictive Inventory Management Roguelike RPG, where meticulous loot management paves the way for creating diverse and powerful builds. Combine deck cards and loot strategically to craft dominating builds and become the ultimate power hunter.",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/header.jpg?t=1725030419",
     "gameplay": "https://www.youtube.com/watch?v=L2z0S7T_3LY",
@@ -24510,17 +24510,17 @@
       "gse"
     ],
     "based": {
-      "info": "info",
-      "credits": "CSF & Update of gingermatic",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142987&p=3115952&hilit=#p3115952"
+      "info": "csf",
+      "credits": "afraidium",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142987&p=3130014&hilit=#p3130014"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142987&p=3117725&hilit=#p3117725",
-    "download": "https://filecrypt.cc/Container/FCA22A9DEF.html",
-    "achievements": false,
-    "dateUpdated": "2024-09-03T00:03:03.757Z",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142987&p=3130038&hilit=#p3130038",
+    "download": "https://filecrypt.cc/Container/BD1EF5F159.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-21T16:16:12.244Z",
+    "link": "https://store.steampowered.com/app/2440380",
     "steamID": "2440380",
-    "genres": "Casual, Indie, RPG, Strategy",
-    "link": "https://store.steampowered.com/app/2440380"
+    "genres": "Casual, Indie, RPG, Strategy"
   },
   {
     "name": "Forklift Simulator",
@@ -27226,7 +27226,7 @@
     "name": "TCG Card Shop Simulator",
     "id": "TCG_Card_Shop_Simulator",
     "notes": "",
-    "subName": "Portable V0.32 & Build 15716051",
+    "subName": "Portable V0.37 (HotFix 3) & Build 15786701",
     "description": "Open your own local game store. Stock shelves with the latest booster packs, or crack them and collect the cards for yourself. Set your own prices, hire staff, host events, and expand your card shop.",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/header.jpg?t=1726399391",
     "gameplay": "https://www.youtube.com/watch?v=nA-0lImHjTE",
@@ -27236,12 +27236,12 @@
     "based": {
       "info": "csf",
       "credits": "GodPigeon",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142700&p=3126482&hilit=#p3126482"
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142700&p=3130572&hilit=#p3130572"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142700&p=3126519&hilit=#p3126519",
-    "download": "https://filecrypt.cc/Container/428D3D7F50.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142700&p=3130638&hilit=#p3130638",
+    "download": "https://filecrypt.cc/Container/40895024F2.html",
     "achievements": true,
-    "dateUpdated": "2024-09-16T16:45:41.856Z",
+    "dateUpdated": "2024-09-22T18:41:36.240Z",
     "link": "https://store.steampowered.com/app/3070070",
     "steamID": "3070070",
     "genres": "Simulation"
@@ -27997,15 +27997,16 @@
     "genres": "Action, Adventure, Casual, Indie, RPG"
   },
   {
-    "name": "God of War Ragnarok + Pre-Order Bonus - Deluxe Edition",
+    "name": "Echoes of Valhalla + Pre-Order Bonus - Deluxe Edition",
     "id": "Echoes_of_Valhalla_Deluxe_Edition",
-    "notes": "Note: Require to install PsPcSdkRuntimeInstaller.msi for proper work, need also an PSN account for login.\n\nhttps://i.imgur.com/Q37dRGP.png\n^^\n(Popup appear after press Enter)\nUnder no circumstances link your PSN account to Steam Account, the game will ask you later if you want to do this.\n\n⬐Crack Only RUNE (No Login required)↴ https://filecrypt.cc/Container/4D288AB212.html\n(Thx to NoeRin)",
+    "notes": "Note: Require to install PsPcSdkRuntimeInstaller.msi for proper work, need also an PSN account for login.\n\nhttps://i.imgur.com/Q37dRGP.png\n^^\n(Popup appear after press Enter)\nUnder no circumstances link your PSN account to Steam Account, the game will ask you later if you want to do this.\n\n⬐Crack Only RUNE (No Login required)↴ https://filecrypt.cc/Container/4D288AB212.html\n(Thx to NoeRin)\n↳ Password is: cs.rin.ru ↲",
     "subName": "Portable V19.09.2024 + Build 15752266 & DLCs Included",
     "description": "Kratos and Atreus embark on a mythic journey for answers before Ragnarök arrives – now on PC.",
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2322010.webp",
     "gameplay": "https://www.youtube.com/watch?v=_Zj6zhpVFLM",
     "tags": [
-      "gse"
+      "gse",
+      "steamless"
     ],
     "based": {
       "info": "csf",
@@ -28019,5 +28020,583 @@
     "link": "https://store.steampowered.com/app/2322010",
     "steamID": "2322010",
     "genres": "Action, Adventure, RPG"
+  },
+  {
+    "name": "Broken Sword - Shadow of the Templars: Reforged",
+    "id": "Broken_Sword_Shadow_of_the_Templars__Reforged",
+    "notes": "",
+    "subName": "Portable V1.0.0 & BuildID 57935084443672100",
+    "description": "The classic multi-award winning adventure \"Broken Sword - the Shadow of the Templars\" returns with glorious 4K visuals and iconic remastered audio, pitching intrepid American George Stobbart and fearless journalist Nico Collard into a journey of perilous adventures and ancient conspiracies.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2544110/header.jpg?t=1726752543",
+    "gameplay": "https://www.youtube.com/watch?v=sSEFshSwhQU",
+    "tags": [
+      "drmfree",
+      "gog"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "SKIDROW",
+      "link": "https://api.predb.net/nfoimg/Broken.Sword.Shadow.Of.The.Templars.Reforged-SKIDROW.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135041&p=3128962&hilit=#p3128962",
+    "download": "https://filecrypt.cc/Container/1AC36ED2B8.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-19T22:15:28.553Z",
+    "link": "https://store.steampowered.com/app/2544110",
+    "steamID": "2544110",
+    "genres": "Adventure, Casual, Indie"
+  },
+  {
+    "name": "Keylocker - Turn Based Cyberpunk Action",
+    "id": "Keylocker_Turn_Based_Cyberpunk_Action",
+    "notes": "",
+    "subName": "Portable V20.09.2024 + Build 15744848 & DLC Included",
+    "description": "In a silent world where music is outlawed, play as a singer to shatter the strings of fate and sing the melody of freedom in this unforgiving Turn Based Rhythm JRPG.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325040/header.jpg?t=1726698795",
+    "gameplay": "https://www.youtube.com/watch?v=D5Bt0tUI_pQ",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Keylocker.Turn.Based.Cyberpunk.Action-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=105977&p=3128994&hilit=#p3128994",
+    "download": "https://filecrypt.cc/Container/B34CE31FDA.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-19T23:26:48.034Z",
+    "link": "https://store.steampowered.com/app/1325040",
+    "steamID": "1325040",
+    "genres": "Adventure, Indie, RPG"
+  },
+  {
+    "name": "Machinika: Atlas",
+    "id": "Machinika_Atlas",
+    "notes": "",
+    "subName": "Portable V1.1.2.1 & Build 15743695",
+    "description": "Machinika: Atlas is an indie puzzle game and is the direct sequel to Machinika: Museum, you play as a museum researcher who just land on Atlas. Will you unravel the mysteries of the alien vessel? Solve cryptic puzzles to find out what happened!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2817620/header.jpg?t=1726735734",
+    "gameplay": "https://www.youtube.com/watch?v=0Ike9VNAM7I",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Machinika.Atlas-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143316&p=3129009&hilit=#p3129009",
+    "download": "https://filecrypt.cc/Container/A2EE74444E.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-19T23:47:59.855Z",
+    "link": "https://store.steampowered.com/app/2817620",
+    "steamID": "2817620",
+    "genres": "Adventure, Casual, Indie"
+  },
+  {
+    "name": "Water Delivery",
+    "id": "Water_Delivery",
+    "notes": "",
+    "subName": "Portable V20.09.2024 & Build 15752538",
+    "description": "Water Delivery is a first person, horror experience where you play as a water delivery boy. Ride along in the delivery truck from house to house. Deliver filled water jugs, find and return empty jugs, and collect all the payments. Will you be able to finish your final route of the evening?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3077670/header.jpg?t=1726649204",
+    "gameplay": "https://www.youtube.com/watch?v=T98eibd0njM",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Water.Delivery-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143315&p=3129013&hilit=#p3129013",
+    "download": "https://filecrypt.cc/Container/7BCA8690EA.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-20T00:07:58.382Z",
+    "link": "https://store.steampowered.com/app/3077670",
+    "steamID": "3077670",
+    "genres": "Adventure, Indie, Simulation"
+  },
+  {
+    "name": "Wild Indigo Ranch",
+    "id": "Wild_Indigo_Ranch",
+    "notes": "",
+    "subName": "Portable V1.0.42p (Full Release) + Build 15756488 & DLC Included",
+    "description": "Wild Indigo Ranch is a cozy cowboy-life RPG for 1-4 players. Start a new life on the prairie, explore the frontier, build the finest ranch in the West, and ride into the sunset.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1751350/header_alt_assets_5.jpg?t=1726657809",
+    "gameplay": "https://www.youtube.com/watch?v=LTelXyoie7k",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Wild.Indigo.Ranch-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=121910&p=3129031&hilit=#p3129031",
+    "download": "https://filecrypt.cc/Container/715377C503.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-20T01:09:04.975Z",
+    "link": "https://store.steampowered.com/app/1751350",
+    "steamID": "1751350",
+    "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "30XX: Feline Fury - Deluxe Edition",
+    "id": "30XX",
+    "notes": "",
+    "subName": "Portable V1.3.0-b10 + Build 15732578 & DLCs Included",
+    "description": "Jump, shoot, and slash your way through 30XX, the roguelike action platformer you can play with a friend! Explore lush, ever-changing worlds that mix precise platforming with fevered combat. Destroy fearsome Guardians. Master unique Powers. Rediscover the thousand years we've lost.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029210/header.jpg?t=1726757174",
+    "gameplay": "https://www.youtube.com/watch?v=GCkOcA6wpdw",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/30XX.Feline.Fury-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=103702&p=3129269&hilit=#p3129269",
+    "download": "https://filecrypt.cc/Container/376E2A94B7.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-20T11:39:44.421Z",
+    "link": "https://store.steampowered.com/app/1029210",
+    "steamID": "1029210",
+    "genres": "Action, Indie"
+  },
+  {
+    "name": "Copycat Game & OST Bundle",
+    "id": "Copycat",
+    "notes": "",
+    "subName": "Portable V1.0 & Build 15755182",
+    "description": "A poignant narrative-driven game about rejection, belonging and the meaning of home. It follows the story of a newly adopted shelter cat whose space in the home is taken by a copycat. Bring the tissues.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622350/header.jpg?t=1726831574",
+    "gameplay": "https://www.youtube.com/watch?v=xDGAwmVXaLM",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "Gh0sT73",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135623&p=3129157&hilit=#p3129157"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135623&p=3129340&hilit=#p3129340",
+    "download": "https://filecrypt.cc/Container/587790B9A3.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-20T14:24:34.493Z",
+    "link": "https://store.steampowered.com/app/1622350",
+    "steamID": "1622350",
+    "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Sera's Adventure -Cave of Destruction-",
+    "id": "Seras_Adventure_Cave_of_Destruction",
+    "notes": "",
+    "subName": "Portable V20.09.2024 & Build 15646746",
+    "description": "To gain experience, Sera ventures into the maze by her own, when suddenly the floor disappears, dropping her into an unknown place she has never seen before. There, awaiting her, will be inhumane treatment beyond imagination...",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2799940/header.jpg?t=1726819234",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257048087/movie480_vp9.webm?t=1724217414",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://digitalzone.vercel.app/games/Seras_Adventure_Cave_of_Destruction"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143329&p=3129354&hilit=#p3129354",
+    "download": "https://filecrypt.cc/Container/3680AF0140.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-20T15:02:34.730Z",
+    "link": "https://store.steampowered.com/app/2799940",
+    "steamID": "2799940",
+    "genres": "Adventure, Indie, RPG, Simulation, NSFW"
+  },
+  {
+    "name": "Agent Mirai and the Submission Machines",
+    "id": "Agent_Mirai_and_the_Submission_Machines",
+    "notes": "",
+    "subName": "Portable V4.0 & Build 15737362",
+    "description": "Secret Agent Mirai received information that a certain pharmaceutical company is conducting illegal human experiments. She headed to the company to investigate on her own but was captured. In the laboratory, there were numerous sinister-looking machines. What will become of her...!?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2652490/header.jpg?t=1726797767",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257018910/movie480_vp9.webm?t=1721889199",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://digitalzone.vercel.app/games/Agent_Mirai_and_the_Submission_Machines"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143330&p=3129388&hilit=#p3129388",
+    "download": "https://filecrypt.cc/Container/6C1B669B08.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-20T15:37:54.837Z",
+    "link": "https://store.steampowered.com/app/2652490",
+    "steamID": "2652490",
+    "genres": "Indie, Simulation, NSFW"
+  },
+  {
+    "name": "Mad Smartphone Tycoon",
+    "id": "Mad_Smartphone_Tycoon",
+    "notes": "",
+    "subName": "Portable V0.85.3.2 & Build 15756268",
+    "description": "Build Your smartphone Empire in Mad Smartphone Tycoon, your main goal in this game is to create the ultimate smartphone that combines both performance and aesthetics. Expand your company, dominate the global market, become a tycoon in the world of mobile phones!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891120/header.jpg?t=1726816913",
+    "gameplay": "https://www.youtube.com/watch?v=MCscn6Nb6Do",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "gameclamp",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143183&p=3129126&hilit=#p3129126"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143183&p=3129401&hilit=#p3129401",
+    "download": "https://filecrypt.cc/Container/E79884387C.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-20T16:00:30.360Z",
+    "link": "https://store.steampowered.com/app/2891120",
+    "steamID": "2891120",
+    "genres": "Casual, Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Welcome to Empyreum",
+    "id": "Welcome_to_Empyreum",
+    "notes": "",
+    "subName": "Portable V1.0.7 & BuildID 57937042214430295",
+    "description": "Welcome to Empyreum, the video game that will transform your gaming experience into a fun-filled party for the whole family! This exciting cooperative party game for up to 4 players immerses you in the fascinating and wild universe of Hotel Empyreum.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1807220/header.jpg?t=1726818509",
+    "gameplay": "https://www.youtube.com/watch?v=pswDk6Obifw",
+    "tags": [
+      "drmfree",
+      "gog"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "Razor1911",
+      "link": "https://api.predb.net/nfoimg/Welcome_to_Empyreum-Razor1911.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=128369&p=3129430&hilit=#p3129430",
+    "download": "https://filecrypt.cc/Container/6F1ED3E101.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-20T16:36:16.306Z",
+    "link": "https://store.steampowered.com/app/1807220",
+    "steamID": "1807220",
+    "genres": "Action, Casual, Indie, Simulation"
+  },
+  {
+    "name": "Lorn's Lure",
+    "id": "Lorns_Lure",
+    "notes": "",
+    "subName": "Portable V20.09.2024 & Build 15765771",
+    "description": "An android is led through a vast structure by a glitch in his visual system. Lorn's Lure is an atmospheric narrative first-person platformer with novel climb-anything mechanics and modernized retro 3D graphics.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1417930/header.jpg?t=1726838168",
+    "gameplay": "https://www.youtube.com/watch?v=vAa2JQM7GRM",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "TheBinaryWizard",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=130494&p=3129500&hilit=#p3129500"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=130494&p=3129642&hilit=#p3129642",
+    "download": "https://filecrypt.cc/Container/04B5A0493F.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-20T21:46:26.717Z",
+    "link": "https://store.steampowered.com/app/1417930",
+    "steamID": "1417930",
+    "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Project: AHNO's Ark - Game, Artbook & Original Soundtrack Bundle",
+    "id": "Project_AHNOs_Ark",
+    "notes": "",
+    "subName": "Portable V0.2.1065 + Build 15764133 & DLCs Included",
+    "description": "This game merges elements of tactical RPG, Go, and introduces Roguelite features. Players will need to make decisions among numerous random events and capability divergences, trying to survive in an apocalyptic game of mutual destruction.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1631670.webp",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257007637/movie480_vp9.webm?t=1711254904",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Project.AHNOs.Ark-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134647&p=3129697&hilit=#p3129697",
+    "download": "https://filecrypt.cc/Container/26CA1FF4BE.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-20T23:56:37.087Z",
+    "link": "https://store.steampowered.com/app/1631670",
+    "steamID": "1631670",
+    "genres": "Indie, RPG, Strategy, Accounting"
+  },
+  {
+    "name": "FAIRY TAIL: Beach Volleyball Havoc",
+    "id": "FAIRY_TAIL_Beach_Volleyball_Havoc",
+    "notes": "",
+    "subName": "Portable V20.09.2024 & Build 15723105",
+    "description": "The cast of Fairy Tail is ready to bring mayhem to the summertime beaches! Unleash over-the-top magic to BLAST that volleyball!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116680/header.jpg?t=1726501667",
+    "gameplay": "https://www.youtube.com/watch?v=MkBEGefObzc",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "cloudslsw",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142911&p=3129579&hilit=#p3129579"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142911&p=3129911&hilit=#p3129911",
+    "download": "https://filecrypt.cc/Container/9B9565BB17.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-21T10:54:12.961Z",
+    "link": "https://store.steampowered.com/app/2116680",
+    "steamID": "2116679",
+    "genres": "Casual, Indie, Sports"
+  },
+  {
+    "name": "Wisdom’s Lost Echo",
+    "id": "The_Legend_of_Zelda__Echoes_of_Wisdom",
+    "notes": "",
+    "subName": "Portable-Ryujinx V1.0.1",
+    "description": "In Echoes of Wisdom, Zelda sets out to save Link and the kingdom of Hyrule using the Tri Rod, a magical artifact provided by the fairy Tri, who assists in a quest.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/EchoesofWisdom.webp",
+    "gameplay": "https://www.youtube.com/watch?v=01onjjAUnOQ",
+    "tags": [
+      "switch"
+    ],
+    "based": {
+      "info": "info",
+      "credits": "Based on Ryujinx",
+      "link": "https://digitalzone.vercel.app/games/The_Legend_of_Zelda__Echoes_of_Wisdom"
+    },
+    "csrinru": "",
+    "download": "https://filecrypt.cc/Container/31004E99C7.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-21T12:04:47.045Z",
+    "link": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/The-Legend-of-Zelda-Echoes-of-Wisdom-2590490.html",
+    "steamID": "",
+    "genres": "Adventure"
+  },
+  {
+    "name": "Just a To the Moon Series Beach Episode",
+    "id": "Just_a_To_the_Moon_Series_Beach_Episode",
+    "notes": "",
+    "subName": "Portable V21.09.2024 + Build 15779082 & DLC Included",
+    "description": "The Beach Episode™ of To the Moon, Finding Paradise, and Impostor Factory. But something's off.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2159210/header.jpg?t=1726851612",
+    "gameplay": "https://www.youtube.com/watch?v=1jMne7b7FZM",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "VoriiYT",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=131698&p=3129979&hilit=#p3129979"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=131698&p=3129984&hilit=#p3129984",
+    "download": "https://filecrypt.cc/Container/9495E0E113.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-21T14:14:46.807Z",
+    "link": "https://store.steampowered.com/app/2159210",
+    "steamID": "2159210",
+    "genres": "Adventure, Indie, RPG"
+  },
+  {
+    "name": "HSS:Reload",
+    "id": "HSS_Reload",
+    "notes": "",
+    "subName": "Portable V1.065 & Build 15563883",
+    "description": "This is a very fast God's perspective roguelike shooter, the player will pilot the mech, explore the alien frontier, enjoy the \"Crimsonland + Vampire Survivors (Vampire Survivors)\" endless killing!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3158260/header.jpg?t=1726906711",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257045252/movie480_vp9.webm?t=1724321618",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "UltraShaggy",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143189&p=3129935&hilit=#p3129935"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143189&p=3130001&hilit=#p3130001",
+    "download": "https://filecrypt.cc/Container/EE4E732E42.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-21T14:50:29.780Z",
+    "link": "https://store.steampowered.com/app/3158260",
+    "steamID": "3158260",
+    "genres": "Action, Indie"
+  },
+  {
+    "name": "Eldrea: SEX Saga",
+    "id": "Eldrea__SEX_Saga",
+    "notes": "",
+    "subName": "Portable V21.09.2024 & Build 15699698",
+    "description": "Ready to dive into a world where fantasy and desire intertwine into one incredible experience? Eldrea: SEX Saga🔞 takes you on a captivating adventure where the lines between reality and virtuality blur.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3044550/header.jpg?t=1726907424",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257051790/movie480_vp9.webm?t=1725297783",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Zemax",
+      "link": "https://store.steampowered.com/app/3044550/Eldrea_SEX_Saga/"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143348&p=3130091&hilit=#p3130091",
+    "download": "https://filecrypt.cc/Container/39323230F8.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-21T18:18:57.618Z",
+    "link": "https://store.steampowered.com/app/3044550",
+    "steamID": "3044550",
+    "genres": "Adventure, Casual, RPG, NSFW"
+  },
+  {
+    "name": "Home Safety Hotline: Seasonal Worker - Deluxe Edition",
+    "id": "Home_Safety_Hotline",
+    "notes": "",
+    "subName": "Portable V22.09.2024 + Build 15766355 & DLCs Included",
+    "description": "Hearing noises? Seeing things? Call Home Safety Hotline! Our operators are standing by, waiting to give you the answers you need to protect your home from all manner of pests and household hazards.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2914730.webp",
+    "gameplay": "https://www.youtube.com/watch?v=1B08V9NPdrg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Home.Safety.Hotline.Deluxe.Edition-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137653&p=3130231&hilit=#p3130231",
+    "download": "https://filecrypt.cc/Container/99136E4AA0.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-21T23:10:50.170Z",
+    "link": "https://store.steampowered.com/app/2357910",
+    "steamID": "2357910",
+    "genres": "Casual, Indie, Simulation"
+  },
+  {
+    "name": "Spiral",
+    "id": "Spiral",
+    "notes": "",
+    "subName": "Portable V22.09.2024 + Build 15769482 & DLC Included",
+    "description": "Spiral is a third-person narrative exploration game that shares a poetic vision of cognitive degeneration. Step into the shoes of Bernard as you help him and support him while braving his unravelling mind and reliving his most treasured moments.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1579390/header.jpg?t=1726843593",
+    "gameplay": "https://www.youtube.com/watch?v=xA513vNl6rQ",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Spiral-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=112640&p=3130245&hilit=#p3130245",
+    "download": "https://filecrypt.cc/Container/E9C8B2B75B.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-21T23:43:34.249Z",
+    "link": "https://store.steampowered.com/app/1579390",
+    "steamID": "1579390",
+    "genres": "Adventure, Indie"
+  },
+  {
+    "name": "The Karate Kid: Street Rumble",
+    "id": "The_Karate_Kid_Street_Rumble",
+    "notes": "",
+    "subName": "Portable V1.1.5 & Build 15655214",
+    "description": "Dominate the dojo in The Karate Kid: Street Rumble, a pixel art beat ‘em up adventure. Grab your friends for local co-op multiplayer and dive into the classic The Karate Kid journey with retro-style gameplay, dynamic combat, and epic boss battles.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2549780/header.jpg?t=1726847995",
+    "gameplay": "https://www.youtube.com/watch?v=pF4gdv2xuPw",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "chronos",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142861&p=3130518&hilit=#p3130518"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142861&p=3130598&hilit=#p3130598",
+    "download": "https://filecrypt.cc/Container/F7A483000A.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-22T17:47:35.612Z",
+    "link": "https://store.steampowered.com/app/2549780",
+    "steamID": "2549780",
+    "genres": "Action"
+  },
+  {
+    "name": "Parking Garage Rally Circuit",
+    "id": "Parking_Garage_Rally_Circuit",
+    "notes": "How to Play in OpenGL: Launch garagerally-OpenGL.bat in ''Parking Garage Rally Circuit\\win\\''.",
+    "subName": "Portable V3.14 & Build 15723341",
+    "description": "Retro Arcade Rally Racing... in Parking Garages?!? Precision driving with tight simple controls and arcade physics, all in a Sega Saturn style presentation",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2737300/header.jpg?t=1726955621",
+    "gameplay": "https://www.youtube.com/watch?v=x2nDE0zoij0",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "smiglo5",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143332&p=3130575&hilit=#p3130575"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143332&p=3130622&hilit=#p3130622",
+    "download": "https://filecrypt.cc/Container/7812073C83.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-22T18:21:07.307Z",
+    "link": "https://store.steampowered.com/app/2737300",
+    "steamID": "2737300",
+    "genres": "Action, Indie, Racing"
+  },
+  {
+    "name": "Voids Vigil",
+    "id": "Voids_Vigil",
+    "notes": "",
+    "subName": "Portable V1.7 & Build 15786084",
+    "description": "Blast your way through robotic hordes in this auto-battler arena shooter. Use auto-firing weapons and drones, timely dashes and special abilities to reach the Void where a final Conservator Custodian awaits computational convergence. Spend your Cogs wisely among the shops to create unique builds!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2738940/header.jpg?t=1727036569",
+    "gameplay": "https://www.youtube.com/watch?v=3N8YlwPHCes",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "ScapePuppy",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143306&p=3130733&hilit=#p3130733"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143306&p=3130753&hilit=#p3130753",
+    "download": "https://filecrypt.cc/Container/AEC54FD599.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-22T22:37:26.482Z",
+    "link": "https://store.steampowered.com/app/2738940",
+    "steamID": "2738940",
+    "genres": "Action, Indie"
+  },
+  {
+    "name": "Pneumata",
+    "id": "Pneumata",
+    "notes": "",
+    "subName": "Portable V1.0 & Build 15732441",
+    "description": "Prepare to question what is reality, and what is insanity in one of the scariest psychological horrors in years. The tenants are going missing, screams echo and blood seeps through the walls of Clover Hill.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1183850/header.jpg?t=1726788339",
+    "gameplay": "https://www.youtube.com/watch?v=_tdAg1a9HQ8",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Pneumata-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=133419&p=3130774&hilit=#p3130774",
+    "download": "https://filecrypt.cc/Container/32A3958A84.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-22T23:37:56.143Z",
+    "link": "https://store.steampowered.com/app/1183850",
+    "steamID": "1183850",
+    "genres": "Action, Adventure, Indie"
   }
 ]
