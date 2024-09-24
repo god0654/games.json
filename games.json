@@ -28846,7 +28846,7 @@
   {
     "name": "Tetris® Effect: Connected",
     "id": "Tetris_Effect_Connected",
-          "notes": "How to Play in VR: Launch TetrisEffect-Steam_VR.bat or TetrisEffect-Oculus_VR.bat.",
+    "notes": "How to Play in VR: Launch TetrisEffect-Steam_VR.bat or TetrisEffect-Oculus_VR.bat.",
     "subName": "Portable V2.0.2 + Build 13299678 & VR Optional",
     "description": "Tetris® Effect: Connected adds an all-new robust multiplayer expansion to the huge variety of addictive and innovative single-player modes that Tetris Effect is known for, with all-new co-op and competitive online and local multiplayer modes!",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003590/header.jpg?t=1724972876",
@@ -28866,5 +28866,29 @@
     "link": "https://store.steampowered.com/app/1003590",
     "steamID": "1003590",
     "genres": "Casual, Indie"
+  },
+  {
+    "name": "Mickey’s Masterpiece Adventure",
+    "id": "Disney_Epic_Mickey__Rebrushed",
+    "notes": "",
+    "subName": "Portable V758579 + Build 15745129 & DLC Included",
+    "description": "Embark on a magical journey in Disney Epic Mickey: Rebrushed! Shape your adventure with the stroke of a brush and transform Wasteland as Mickey Mouse in this beautifully recreated 3D platformer.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1522160/header.jpg?t=1727183190",
+    "gameplay": "https://www.youtube.com/watch?v=uI5t2oXQSAg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "FLT",
+      "link": "https://api.predb.net/nfoimg/Disney_Epic_Mickey_Rebrushed-FLT.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138425&p=3131655&hilit=#p3131655",
+    "download": "https://filecrypt.cc/Container/25DA6A4207.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-24T15:03:58.521Z",
+    "link": "https://store.steampowered.com/app/1522160",
+    "steamID": "1522160",
+    "genres": "Action, Adventure"
   }
 ]
