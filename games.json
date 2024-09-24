@@ -28846,7 +28846,7 @@
   {
     "name": "Tetris® Effect: Connected",
     "id": "Tetris_Effect_Connected",
-    "notes": "",
+          "notes": "How to Play in VR: Launch TetrisEffect-Steam_VR.bat or TetrisEffect-Oculus_VR.bat.",
     "subName": "Portable V2.0.2 + Build 13299678 & VR Optional",
     "description": "Tetris® Effect: Connected adds an all-new robust multiplayer expansion to the huge variety of addictive and innovative single-player modes that Tetris Effect is known for, with all-new co-op and competitive online and local multiplayer modes!",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003590/header.jpg?t=1724972876",
