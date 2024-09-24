@@ -28842,5 +28842,29 @@
     "link": "https://store.steampowered.com/app/2066020",
     "steamID": "2066020",
     "genres": "Action, Indie, RPG"
+  },
+  {
+    "name": "Buy Tetris® Effect: Connected",
+    "id": "Buy_Tetris_Effect_Connected",
+    "notes": "",
+    "subName": "Portable V2.0.2 + Build 13299678 & VR Optional",
+    "description": "Tetris® Effect: Connected adds an all-new robust multiplayer expansion to the huge variety of addictive and innovative single-player modes that Tetris Effect is known for, with all-new co-op and competitive online and local multiplayer modes!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003590/header.jpg?t=1724972876",
+    "gameplay": "https://www.youtube.com/watch?v=gT2TfOoNlrs",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "nxbrew321",
+      "link": "https://store.steampowered.com/app/1003590/Tetris_Effect_Connected/"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=98513&p=3131516&hilit=#p3131516",
+    "download": "https://filecrypt.cc/Container/11EA0F3D02.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-24T11:03:03.936Z",
+    "link": "https://store.steampowered.com/app/1003590",
+    "steamID": "1003590",
+    "genres": "Casual, Indie"
   }
 ]
