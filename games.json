@@ -28719,5 +28719,78 @@
     "link": "https://store.steampowered.com/app/2012670",
     "steamID": "2012670",
     "genres": "Action, Indie, NSFW"
+  },
+  {
+    "name": "Devious Path",
+    "id": "Devious_Path",
+    "notes": "",
+    "subName": "Portable V24.09.2024 & Build 15783876",
+    "description": "You are trapped in an endless astral world. Keep a close eye on your surroundings to get out of the astral world.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2972350/header.jpg?t=1726862597",
+    "gameplay": "https://www.youtube.com/watch?v=tzcxMt55m9I",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Devious.Path-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143372&p=3131276&hilit=#p3131276",
+    "download": "https://filecrypt.cc/Container/A388A23863.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-23T22:47:35.277Z",
+    "link": "https://store.steampowered.com/app/2972350",
+    "steamID": "2972350",
+    "genres": "Adventure, Casual, Indie, Simulation"
+  },
+  {
+    "name": "Ancient Cities: Continental Biome - Kale Cultivation",
+    "id": "Ancient_Cities",
+    "notes": "",
+    "subName": "Portable V1.0.3.27 + Build 15675080 & Items Included",
+    "description": "Ancient Cities is a survival city builder based on ancient times.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/667610/header_alt_assets_4.jpg?t=1726831473",
+    "gameplay": "https://www.youtube.com/watch?v=o3BJVR_acRg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Ancient.Cities.v1.0.3.27-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=81244&p=3131286&hilit=#p3131286",
+    "download": "https://filecrypt.cc/Container/73C6F0A4AF.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-23T23:17:28.981Z",
+    "link": "https://store.steampowered.com/app/667610",
+    "steamID": "667610",
+    "genres": "Adventure, Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Wildermyth: A Farewell - Complete Edition",
+    "id": "Wildermyth",
+    "notes": "How to play Online: GoldBerg with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.",
+    "subName": "Portable V1.16.550 + Build 15654459 + DLCs Included & Online Supported",
+    "description": "Wildermyth follows heroes over their whole careers, from their pitchfork days to their powerful primes, and on into old age and memory. It’s a party-based procedural storytelling RPG where tactical combat and story decisions will alter your world and reshape your cast of characters.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763890/header.jpg?t=1712698154",
+    "gameplay": "https://www.youtube.com/watch?v=8T6wqsRa1IU",
+    "tags": [
+      "gse",
+      "ofme"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Wildermyth.v1.16.550-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=86001&p=3131307&hilit=#p3131307",
+    "download": "https://filecrypt.cc/Container/5B5EA59F5D.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-24T00:02:19.921Z",
+    "link": "https://store.steampowered.com/app/763890",
+    "steamID": "763890",
+    "genres": "Indie, RPG, Strategy"
   }
 ]
