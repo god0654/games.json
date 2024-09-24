@@ -28818,5 +28818,29 @@
     "link": "https://store.steampowered.com/app/3156770",
     "steamID": "3156770",
     "genres": "Action"
+  },
+  {
+    "name": "Soulstone Survivors - Embrace of Chaos",
+    "id": "Soulstone_Survivors",
+    "notes": "",
+    "subName": "Portable V13p & Build 15797362",
+    "description": "Face the Lords of the Void and their endless minions, collect their Soulstones and become a god! In this Action Roguelite, unveil secret spells, craft mighty weapons, unlock multiple characters, discover game-breaking synergies and conquer the power of the void.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2066020.webp",
+    "gameplay": "https://www.youtube.com/watch?v=URnCXwLxOhE",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "nxbrew321",
+      "link": "https://store.steampowered.com/app/2066020/Soulstone_Survivors/"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=126764&p=3131488&hilit=#p3131488",
+    "download": "https://filecrypt.cc/Container/0FDAD582DA.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-24T10:17:03.797Z",
+    "link": "https://store.steampowered.com/app/2066020",
+    "steamID": "2066020",
+    "genres": "Action, Indie, RPG"
   }
 ]
