@@ -28890,5 +28890,29 @@
     "link": "https://store.steampowered.com/app/1522160",
     "steamID": "1522160",
     "genres": "Action, Adventure"
+  },
+  {
+    "name": "Ara: History Untold - Deluxe Edition",
+    "id": "Ara_History_Untold",
+    "notes": "",
+    "subName": "Portable V1.0.0.316_206104 + Build 15751899 & DLCs Included",
+    "description": "Build a nation and lead your people throughout history to the pinnacles of human achievement as you explore new lands, develop arts and culture, conduct diplomacy, and go head-to-head with your rivals to prove you are the greatest ruler ever known. It's Your World Now.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2021880.webp",
+    "gameplay": "https://www.youtube.com/watch?v=1iF4gAZnZF4",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "FLT",
+      "link": "https://api.predb.net/nfoimg/Ara_History_Untold-FLT.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=123720&p=3131779&hilit=#p3131779",
+    "download": "https://filecrypt.cc/Container/BDA4BB4521.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-24T16:52:10.373Z",
+    "link": "https://store.steampowered.com/app/2021880",
+    "steamID": "2021880",
+    "genres": ""
   }
 ]
