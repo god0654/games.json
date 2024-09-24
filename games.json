@@ -28913,6 +28913,30 @@
     "dateUpdated": "2024-09-24T16:52:10.373Z",
     "link": "https://store.steampowered.com/app/2021880",
     "steamID": "2021880",
-          "genres": "Strategy"
+    "genres": "Strategy"
+  },
+  {
+    "name": "Crusader Kings III: Roads to Power - Collection Bundle",
+    "id": "Crusader_Kings_III",
+    "notes": "",
+    "subName": "Portable V1.31.0.1 + DLCs Included & Build 15810853",
+    "description": "Love, fight, scheme, and claim greatness. Determine your noble house’s legacy in the sprawling grand strategy of Crusader Kings III. Death is only the beginning as you guide your dynasty’s bloodline in the rich and larger-than-life simulation of the Middle Ages.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2671070.webp",
+    "gameplay": "https://www.youtube.com/watch?v=ueVWWXG4JRg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Crusader.Kings.III.Roads.to.Power-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=41&t=101297&p=3131849&hilit=#p3131849",
+    "download": "https://filecrypt.cc/Container/FA81044D46.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-24T18:29:08.435Z",
+    "link": "https://store.steampowered.com/app/1158310",
+    "steamID": "1158310",
+    "genres": "RPG, Simulation, Strategy"
   }
 ]
