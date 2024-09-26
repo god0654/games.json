@@ -29299,5 +29299,53 @@
     "link": "https://store.steampowered.com/app/2988290",
     "steamID": "2988290",
     "genres": "Casual, Indie, RPG, Simulation, NSFW"
+  },
+  {
+    "name": "Night Slashers: Remake",
+    "id": "Night_Slashers_Remake",
+    "notes": "",
+    "subName": "Portable V26.09.2024 & Build 15835261",
+    "description": "Night Slashers is a pulse-pounding, horror-themed beat 'em up game, in a nightmarish world filled with bloodthirsty creatures and unspeakable horrors.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2795750/header.jpg?t=1727354883",
+    "gameplay": "https://www.youtube.com/watch?v=PHG24r2hw38",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "SKIDROW",
+      "link": "https://api.predb.net/nfoimg/Night.Slashers.Remake-SKIDROW.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141223&p=3133477&hilit=#p3133477",
+    "download": "https://filecrypt.cc/Container/4F03AF6E36.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-26T21:31:07.854Z",
+    "link": "https://store.steampowered.com/app/2795750",
+    "steamID": "2795750",
+    "genres": "Action, Adventure, Casual"
+  },
+  {
+    "name": "Trials of Mana",
+    "id": "Trials_of_Mana",
+    "notes": "",
+    "subName": "Portable V18.04.2024 + Build 5736103 & DLC Included",
+    "description": "Trials of Mana is a modern revival of the 3rd game in the seminal Mana series. The game, originally released in Japan as Seiken Densetsu 3, has been fully rebuilt from the ground up in 3D.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924980/header.jpg?t=1725001720",
+    "gameplay": "https://www.youtube.com/watch?v=N3Yjysoe6zU",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Owla",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=97756&p=3035514&hilit=#p3035514"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=97756&p=3133495&hilit=#p3133495",
+    "download": "https://filecrypt.cc/Container/73A62CB8FE.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-26T21:53:05.352Z",
+    "link": "https://store.steampowered.com/app/924980",
+    "steamID": "924980",
+    "genres": "RPG"
   }
 ]
