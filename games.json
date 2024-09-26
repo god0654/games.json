@@ -29227,5 +29227,29 @@
     "link": "https://store.steampowered.com/app/669330",
     "steamID": "669330",
     "genres": "Action, Indie, Massively Multiplayer, Simulation, Strategy"
+  },
+  {
+    "name": "G.I. Joe: Wrath of Cobra",
+    "id": "G_I_Joe_Wrath_of_Cobra",
+    "notes": "",
+    "subName": "Portable V1.0 & Build 15839002",
+    "description": "Yo Joe! Cobra returns once again with its most fiendish plot yet and it's up to G.I. Joe to defeat them once more! Pick one of the real American heroes, gear up, and get straight into the fight in this retro side-scrolling beat 'em up - and make Cobra RETREAT yet again!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2516170/header.jpg?t=1727369262",
+    "gameplay": "https://www.youtube.com/watch?v=D791mp1ZE8k",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "chronos",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135044&p=3133240&hilit=#p3133240"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135044&p=3133405&hilit=#p3133405",
+    "download": "https://filecrypt.cc/Container/0B9637A6FB.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-26T19:41:09.184Z",
+    "link": "https://store.steampowered.com/app/2516170",
+    "steamID": "2516170",
+    "genres": "Action, Adventure, Indie"
   }
 ]
