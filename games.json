@@ -29202,5 +29202,30 @@
     "link": "https://store.steampowered.com/app/2071280",
     "steamID": "2071280",
     "genres": "Action, Adventure"
+  },
+  {
+    "name": "Mechabellum",
+    "id": "Mechabellum",
+    "notes": "Note: RUNE Crack is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.",
+    "subName": "Portable V1.0.0.4.1366 (Full Release) + Build 15837659 + DLCs Included & Online Supported",
+    "description": "Mechabellum is a rewarding tactical wargame where you gain victory by adapting your strategy and outthinking your opponents. Command mechanized army in a battle against humans or AI, customize your units and strategically place them on the battlefield to watch them destroy your enemies.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/669330/header.jpg?t=1727364299",
+    "gameplay": "https://www.youtube.com/watch?v=TcJoUc7NaTo",
+    "tags": [
+      "scene",
+      "ofme"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Mechabellum-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=130757&p=3133368&hilit=#p3133368",
+    "download": "https://filecrypt.cc/Container/C0ED29E3F1.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-26T18:40:24.773Z",
+    "link": "https://store.steampowered.com/app/669330",
+    "steamID": "669330",
+    "genres": "Action, Indie, Massively Multiplayer, Simulation, Strategy"
   }
 ]
