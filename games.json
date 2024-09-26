@@ -13793,29 +13793,29 @@
     "link": "https://store.steampowered.com/app/446560"
   },
   {
-    "name": "Shadows of Doubt - Sharpshooter Assassin",
+    "name": "Shadows of Doubt",
     "id": "Shadows_of_Doubt",
     "notes": "",
-    "subName": "Portable V37.07 & Build 14012251",
+    "subName": "Portable V39.07 (Full Release) & Build 15821948",
     "description": "An immersive sandbox detective stealth game set in a fully simulated sci-fi noir city of crime and corruption. Think like a private investigator and take on jobs to earn cash on your path to catching a serial killer. If you don’t catch them - they will kill again…",
-    "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/986130/header_alt_assets_1.jpg?t=1712768904",
-    "gameplay": "https://youtu.be/roO6zbPEODA",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/986130/header.jpg?t=1727366516",
+    "gameplay": "https://www.youtube.com/watch?v=3u4pizxvkEk",
     "tags": [
       "gse",
       "steamless"
     ],
     "based": {
       "info": "csf",
-      "credits": "DingusPrime",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=97534&p=3030877&hilit=#p3030877"
+      "credits": "Lopsider",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=97534&p=3133273&hilit=#p3133273"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=97534&p=3033142&hilit=#p3033142",
-    "download": "https://filecrypt.cc/Container/30BDFFB8FB.html",
-    "achievements": false,
-    "dateUpdated": "2024-07-25T13:20:11.992Z",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=97534&p=3133393&hilit=#p3133393",
+    "download": "https://filecrypt.cc/Container/E4FCE64592.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-26T19:17:12.004Z",
+    "link": "https://store.steampowered.com/app/986130",
     "steamID": "986130",
-    "genres": "Action, Adventure, Indie, RPG, Early Access",
-    "link": "https://store.steampowered.com/app/986130"
+    "genres": "Action, Adventure, Indie, RPG"
   },
   {
     "name": "Laysara: Summit Kingdom",
