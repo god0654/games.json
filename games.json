@@ -29058,5 +29058,77 @@
     "link": "https://store.steampowered.com/app/2510130",
     "steamID": "2510130",
     "genres": "Action, Indie, Simulation"
+  },
+  {
+    "name": "Worlds of Aria",
+    "id": "Worlds_of_Aria",
+    "notes": "",
+    "subName": "Portable V1.0.7 + Build 15823216 & DLC Included",
+    "description": "Lead your own adventuring party on an epic exploit inspired by tabletop role-playing games. Invite your friends to the group with the Friends Pass, or strike out on your own. Collaboration, betrayal, and the luck of the dice…what wild escapades will you and your companions embark on?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1866980/header.jpg?t=1727186644",
+    "gameplay": "https://www.youtube.com/watch?v=vyRrBVwAoxU",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "KawMow",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=119250&p=3133048&hilit=#p3133048"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=119250&p=3133095&hilit=#p3133095",
+    "download": "https://filecrypt.cc/Container/9FF6CB5A0C.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-26T13:05:12.041Z",
+    "link": "https://store.steampowered.com/app/1866980",
+    "steamID": "1866980",
+    "genres": "Adventure, RPG"
+  },
+  {
+    "name": "Seed of Heroes",
+    "id": "Seed_of_Heroes",
+    "notes": "",
+    "subName": "Portable V1.0.4 & Build 15785337",
+    "description": "Journey through the realms with your heroes party. Defeat hordes of enemies in a bullet heaven and reach Valhalla where you belong.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2942700/header.jpg?t=1726686309",
+    "gameplay": "https://www.youtube.com/watch?v=HUBmz5QwuFc",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "LzyDavd",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143050&p=3132652&hilit=#p3132652"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143050&p=3133111&hilit=#p3133111",
+    "download": "https://filecrypt.cc/Container/247EEA0D70.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-26T13:21:55.438Z",
+    "link": "https://store.steampowered.com/app/2942700",
+    "steamID": "2942700",
+    "genres": "Action, Casual, Indie"
+  },
+  {
+    "name": "#DRIVE Rally",
+    "id": "DRIVE_Rally",
+    "notes": "",
+    "subName": "Portable V0.5.1.1 & Build 15823351",
+    "description": "#DRIVE Rally is an arcade-inspired rally-driving experience set in the golden racing era of the ‘90s. Grab your co-driver and burn some rubber on iconic race-winning cars across a variety of terrains in some of the most iconic rallying locations in the world!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2494780/header.jpg?t=1727276343",
+    "gameplay": "https://www.youtube.com/watch?v=mza8OxCaSow",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "throwaway1100",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=136350&p=3132834&hilit=#p3132834"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=136350&p=3133117&hilit=#p3133117",
+    "download": "https://filecrypt.cc/Container/1AE8E323D1.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-26T13:39:17.882Z",
+    "link": "https://store.steampowered.com/app/2494780",
+    "steamID": "2494780",
+    "genres": "Action, Indie, Racing, Simulation, Sports"
   }
 ]
