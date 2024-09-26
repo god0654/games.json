@@ -29130,5 +29130,29 @@
     "link": "https://store.steampowered.com/app/2494780",
     "steamID": "2494780",
     "genres": "Action, Indie, Racing, Simulation, Sports"
+  },
+  {
+    "name": "GreedFall II: The Dying World",
+    "id": "GreedFall_II_The_Dying_World",
+    "notes": "",
+    "subName": "Portable V24.09.2024 & Build 15757967",
+    "description": "Dive back into the unique world of GreedFall again in an even deeper RPG experience. Uprooted from the island of your birth, find your freedom, explore the old continent and forge your destiny through alliances, scheming and battles!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1997660/header.jpg?t=1727184314",
+    "gameplay": "https://www.youtube.com/watch?v=QYklAgJGzlU",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "Chovka",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=122732&p=3131552&hilit=#p3131552"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=122732&p=3133154&hilit=#p3133154",
+    "download": "https://filecrypt.cc/Container/E285573C67.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-26T14:32:28.381Z",
+    "link": "https://store.steampowered.com/app/1997660",
+    "steamID": "1997660",
+    "genres": "RPG"
   }
 ]
