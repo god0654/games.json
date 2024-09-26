@@ -28938,5 +28938,125 @@
     "link": "https://store.steampowered.com/app/1158310",
     "steamID": "1158310",
     "genres": "RPG, Simulation, Strategy"
+  },
+  {
+    "name": "9th Dawn Remake",
+    "id": "9th_Dawn_Remake",
+    "notes": "",
+    "subName": "Portable | V1.07 | Build 15831555",
+    "description": "Rediscover the magic of the 9th Dawn series with this complete re-imagining of the original game. Venture into a massive 2.5D open world. Explore 45 new dungeons in single-player or online/local co-op, craft weapons, raise pets, play a deck-building card game, and take down the Castle of Maltyr!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1550180/header.jpg?t=1727278023",
+    "gameplay": "https://www.youtube.com/watch?v=3V5phV-QCf4",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "afraidium",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143407&p=3132731&hilit=#p3132731"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143407&p=3133032&hilit=#p3133032",
+    "download": "https://filecrypt.cc/Container/F7C59BC9F3.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-26T11:02:39.827Z",
+    "link": "https://store.steampowered.com/app/1550180",
+    "steamID": "1550180",
+    "genres": "Action, Adventure, RPG"
+  },
+  {
+    "name": "Echo Point Nova",
+    "id": "Echo_Point_Nova",
+    "notes": "How to Play in DX12 (Ray Tracing) or DX11 (No Ray Tracing):\n2 .bat were added to the main game folder.",
+    "subName": "Portable V1.0 & Build 15803775",
+    "description": "Echo Point Nova is an open-world FPS that offers unparalleled freedom and thrilling speed. Designed for both singleplayer and coop. From the creators of Severed Steel.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836730/header.jpg?t=1727186422",
+    "gameplay": "https://www.youtube.com/watch?v=epzLiDN5W_Q",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Echo.Point.Nova-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=133456&p=3133041&hilit=#p3133041",
+    "download": "https://filecrypt.cc/Container/74880C1975.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-26T11:26:49.628Z",
+    "link": "https://store.steampowered.com/app/1836730",
+    "steamID": "1836730",
+    "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Merchant in Dungeon",
+    "id": "Merchant_in_Dungeon",
+    "notes": "",
+    "subName": "Portable V1.0.2216 & Build 15831486",
+    "description": "This game is all about managing shops.Hercules enters Dark Gate Town solo, aiming to repay his father's debt. Starting with a store, he grows capital, hires, expands shops, and manages relationships with diverse female NPCs. Dominating the business scene? Quite a challenge!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671490/header.jpg?t=1727140608",
+    "gameplay": "https://www.youtube.com/watch?v=_7RKe4xBU_k",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Merchant.in.Dungeon-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143415&p=3133055&hilit=#p3133055",
+    "download": "https://filecrypt.cc/Container/348E9B7714.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-26T11:51:41.564Z",
+    "link": "https://store.steampowered.com/app/1671490",
+    "steamID": "1671490",
+    "genres": "Adventure, Casual, Indie, RPG, Simulation"
+  },
+  {
+    "name": "Bloomtown: A Different Story",
+    "id": "Bloomtown_A_Different_Story",
+    "notes": "",
+    "subName": "Portable V1.0.1 & Build 15807248",
+    "description": "Bloomtown: A Different Story is a narrative JRPG mixing turn-based combat, monster taming and social RPG set in a seemingly pleasant 1960s Americana world. Join Emily and her group of friends to save their cozy town from the demonic creatures that live in the hearts of its residents!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445990/header.jpg?t=1727259142",
+    "gameplay": "https://www.youtube.com/watch?v=8OVGtnFqRE0",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Bloomtown.A.Different.Story-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=133391&p=3133066&hilit=#p3133066",
+    "download": "https://filecrypt.cc/Container/D835FFFF32.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-26T12:14:22.072Z",
+    "link": "https://store.steampowered.com/app/2445990",
+    "steamID": "2445990",
+    "genres": "Adventure, Indie, RPG"
+  },
+  {
+    "name": "Auto Sale Life",
+    "id": "Auto_Sale_Life",
+    "notes": "",
+    "subName": "Portable V1.0 & Build 15748270",
+    "description": "Build an automotive empire. Buy, sell, and customize cars to create your own brands and showrooms. Become a shrewd entrepreneur in this immersive car trading and customization game.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510130/header.jpg?t=1727042415",
+    "gameplay": "https://www.youtube.com/watch?v=d-2Y6GNzCys",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "cbander",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143244&p=3132199&hilit=#p3132199"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143244&p=3133078&hilit=#p3133078",
+    "download": "https://filecrypt.cc/Container/036C4564F0.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-26T12:39:30.268Z",
+    "link": "https://store.steampowered.com/app/2510130",
+    "steamID": "2510130",
+    "genres": "Action, Indie, Simulation"
   }
 ]
