@@ -29129,5 +29129,78 @@
     "link": "https://store.steampowered.com/app/1997660",
     "steamID": "1997660",
     "genres": "RPG"
+  },
+  {
+    "name": "Dungeon Tycoon",
+    "id": "Dungeon_Tycoon",
+    "notes": "",
+    "subName": "Portable V1.0.0 + Build 15823408 & DLC Included",
+    "description": "Build your own dungeon and attract heroes from all over the realm! Grow your business by exploiting every facet of your visitors' dungeon exploration experience. Will you be able to keep your evil dungeon business going?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400770/header.jpg?t=1727347790",
+    "gameplay": "https://www.youtube.com/watch?v=U7KtueTGNZk",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "Unleashed",
+      "link": "https://predb.net/rls/Dungeon.Tycoon-Unleashed"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138272&p=3133199&hilit=#p3133199",
+    "download": "https://filecrypt.cc/Container/FF445C14DB.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-26T17:01:44.944Z",
+    "link": "https://store.steampowered.com/app/2400770",
+    "steamID": "2400770",
+    "genres": "Simulation, Strategy"
+  },
+  {
+    "name": "63 Days",
+    "id": "63_Days",
+    "notes": "",
+    "subName": "Portable V11147 & Build 15836676",
+    "description": "Coming of age as a part of the first generation born free, WWII stripped me of my family, home, and future. Now I'm left with only one choice: to get my revenge and independence, or die trying. The odds are against us: will our tactics, stealth and teamwork be enough?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202120/header.jpg?t=1727366804",
+    "gameplay": "https://www.youtube.com/watch?v=lrR5sM4zIsk",
+    "tags": [
+      "gse",
+      "steamless"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/63.Days-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=139978&p=3133278&hilit=#p3133278",
+    "download": "https://filecrypt.cc/Container/4B7EC3D6C6.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-26T17:03:06.105Z",
+    "link": "https://store.steampowered.com/app/2202120",
+    "steamID": "2202120",
+    "genres": "Indie, Strategy"
+  },
+  {
+    "name": "Ravenswatch",
+    "id": "Ravenswatch",
+    "notes": "",
+    "subName": " Portable V1.00.01.01 (Full Release) + Build 15824629 & DLCs Included",
+    "description": "Fallen heroes of old folk tales and legends: you are on the verge of a crucial battle against the Nightmare invading and corrupting your world. A roguelike action game from the creators of Curse of the Dead Gods©, playable solo or in online co-op.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/header.jpg?t=1727368330",
+    "gameplay": "https://www.youtube.com/watch?v=XBTODd0s_8s",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Ravenswatch-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=124520&p=3133312&hilit=#p3133312",
+    "download": "https://filecrypt.cc/Container/D236BC0DBD.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-26T17:53:06.337Z",
+    "link": "https://store.steampowered.com/app/2071280",
+    "steamID": "2071280",
+    "genres": "Action, Adventure"
   }
 ]
