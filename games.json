@@ -29357,7 +29357,8 @@
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3075500.webp",
     "gameplay": "https://www.youtube.com/watch?v=WXZqKal_mpY",
     "tags": [
-      "drmfree"
+      "drmfree",
+      "gog"
     ],
     "based": {
       "info": "nfo",
@@ -29405,7 +29406,8 @@
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048350/header.jpg?t=1727247383",
     "gameplay": "https://www.youtube.com/watch?v=zK_CyZm5Gfg",
     "tags": [
-      "gse"
+      "gse",
+      "steamless"
     ],
     "based": {
       "info": "csf",
@@ -29467,5 +29469,29 @@
     "link": "https://store.steampowered.com/app/1260590",
     "steamID": "1260590",
     "genres": "Indie, Strategy"
+  },
+  {
+    "name": "EARTH DEFENSE FORCE: WORLD BROTHERS 2 - DLC Bundle",
+    "id": "EARTH_DEFENSE_FORCE_WORLD_BROTHERS_2",
+    "notes": "",
+    "subName": "Portable V27.09.2024 + Build 15671599 & DLCs Included",
+    "description": "The Earth is in pieces...again! We've gotta do more to save the planet!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2370170/header.jpg?t=1727430407",
+    "gameplay": "https://www.youtube.com/watch?v=HbPDugGODm8",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Samsterrr",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143417&p=3133722&hilit=#p3133722"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143417&p=3133885&hilit=#p3133885",
+    "download": "https://filecrypt.cc/Container/3713B5CCBD.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-27T13:20:32.320Z",
+    "link": "https://store.steampowered.com/app/2370170",
+    "steamID": "2370170",
+    "genres": "Action"
   }
 ]
