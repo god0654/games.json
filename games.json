@@ -29518,5 +29518,29 @@
     "link": "https://store.steampowered.com/app/2377110",
     "steamID": "2377110",
     "genres": "Adventure, Casual, Indie, NSFW"
+  },
+  {
+    "name": "Legend of Mana",
+    "id": "Legend_of_Mana",
+    "notes": "",
+    "subName": "Portable V20.01.2024 + Build 7861397 + Controller Fix & DLC Included",
+    "description": "The HD Remaster of Legend of Mana is coming to Steam. Meet a colorful cast of characters, use the unique \"Land Make\" System to build the World Map, and square off against fearsome monsters in the vibrant world of Fa’Diel.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1175830/header.jpg?t=1718208725",
+    "gameplay": "https://www.youtube.com/watch?v=8xYT4sh2FeY",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Rui",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=111646&p=2980004&hilit=7861397%5D#p2980004"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=111646&p=3133984&hilit=#p3133984",
+    "download": "https://filecrypt.cc/Container/0B42612853.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-27T15:57:11.182Z",
+    "link": "https://store.steampowered.com/app/1175830",
+    "steamID": "1175830",
+    "genres": "Action, RPG"
   }
 ]
