@@ -27226,7 +27226,7 @@
     "name": "TCG Card Shop Simulator",
     "id": "TCG_Card_Shop_Simulator",
     "notes": "",
-    "subName": "Portable V0.37 (HotFix 3) & Build 15786701",
+    "subName": "Portable V0.40 (HotFix 2) & Build 15850968",
     "description": "Open your own local game store. Stock shelves with the latest booster packs, or crack them and collect the cards for yourself. Set your own prices, hire staff, host events, and expand your card shop.",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/header.jpg?t=1726399391",
     "gameplay": "https://www.youtube.com/watch?v=nA-0lImHjTE",
@@ -27236,12 +27236,12 @@
     "based": {
       "info": "csf",
       "credits": "GodPigeon",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142700&p=3130572&hilit=#p3130572"
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142700&p=3134032&hilit=#p3134032"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142700&p=3130638&hilit=#p3130638",
-    "download": "https://filecrypt.cc/Container/40895024F2.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142700&p=3134062&hilit=#p3134062",
+    "download": "https://filecrypt.cc/Container/C5C6D260A9.html",
     "achievements": true,
-    "dateUpdated": "2024-09-22T18:41:36.240Z",
+    "dateUpdated": "2024-09-27T18:42:44.960Z",
     "link": "https://store.steampowered.com/app/3070070",
     "steamID": "3070070",
     "genres": "Simulation"
