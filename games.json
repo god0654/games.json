@@ -29566,5 +29566,29 @@
     "link": "https://store.steampowered.com/app/2431980",
     "steamID": "2431980",
     "genres": "Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Lyndaria: Lust Adventure",
+    "id": "Lyndaria_Lust_Adventure",
+    "notes": "",
+    "subName": "Portable V0.6 & Build 15827537",
+    "description": "Lyndaria: Lust Adventure is a non-linear erotic visual novel set on a lost island inhabited by Furry tribes. The naive but courageous character - Maya is waiting for exciting adventures, dangerous and savoury!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781250/header.jpg?t=1726857860",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257054911/movie480_vp9.webm?t=1726601096",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "BaasB",
+      "link": "https://digitalzone.vercel.app/games/Lyndaria_Lust_Adventure"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143439&p=3134118&hilit=#p3134118",
+    "download": "https://filecrypt.cc/Container/8BA41E500F.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-27T20:04:51.312Z",
+    "link": "https://store.steampowered.com/app/2781250",
+    "steamID": "2781250",
+    "genres": "Adventure, Indie, Simulation, NSFW"
   }
 ]
