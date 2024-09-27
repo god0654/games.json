@@ -29590,5 +29590,29 @@
     "link": "https://store.steampowered.com/app/2781250",
     "steamID": "2781250",
     "genres": "Adventure, Indie, Simulation, NSFW"
+  },
+  {
+    "name": "ZERO PROTOCOL",
+    "id": "ZERO_PROTOCOL",
+    "notes": "",
+    "subName": "Portable V1.0 & Build 15821604",
+    "description": "In this immersive sci-fi thriller, you will experience the atmosphere of classic 3D games as you solve puzzles, follow an intriguing non-linear storyline, and engage in battles with monsters.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2840250/header.jpg?t=1727455858",
+    "gameplay": "https://www.youtube.com/watch?v=zofbj8q7Ot4",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "rostovmyhome",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143423&p=3134161&hilit=#p3134161"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143423&p=3134188&hilit=#p3134188",
+    "download": "https://filecrypt.cc/Container/BD7C261FED.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-27T21:46:24.829Z",
+    "link": "https://store.steampowered.com/app/2840250",
+    "steamID": "2840250",
+    "genres": "Action, Adventure"
   }
 ]
