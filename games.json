@@ -18639,26 +18639,26 @@
   {
     "name": "REYNATIS",
     "id": "REYNATIS",
-    "notes": "How to play 60+FPS: Launch the game and simply press F1, Ryujinx will be based on the highest Refresh Rate of your Monitor.  If you want to lock FPS use RivaTuner or similar.",
-    "subName": "Portable-Ryujinx V1.0.1 + FPS Unlock & Patch English Included",
+    "notes": "",
+    "subName": "Portable V1.0.3 + Build 15765676 & DLCs Included",
     "description": "Fantasy meets reality in Shibuya, Tokyo, where magic is something to be feared. In this action RPG, a young wizard seeks freedom through strength, and an officer seeks to control magic and restore order. When their paths cross, a darkness that will transform the world descends.",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2738750/header.jpg?t=1716997399",
-    "gameplay": "https://www.youtube.com/watch?v=miXJ8NGJwV0",
+    "gameplay": "https://www.youtube.com/watch?v=xcq6jNz6ZUQ",
     "tags": [
-      "switch"
+      "gse"
     ],
     "based": {
-      "info": "info",
-      "credits": "Ryujinx",
-      "link": "https://digitalzone.vercel.app/api/embed?game=REYNATIS"
+      "info": "nfo",
+      "credits": "FLT",
+      "link": "https://api.predb.net/nfoimg/REYNATIS-FLT.png"
     },
-    "csrinru": "",
-    "download": "https://filecrypt.cc/Container/6C6F245B11.html",
-    "achievements": false,
-    "dateUpdated": "2024-07-28T23:11:22.785Z",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138519&p=3134049&hilit=#p3134049",
+    "download": "https://filecrypt.cc/Container/4E3A8CCF86.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-27T18:16:57.498Z",
+    "link": "https://store.steampowered.com/app/2738750",
     "steamID": "2738750",
-    "genres": "Action, Adventure, RPG",
-    "link": "https://store.steampowered.com/app/2738750"
+    "genres": "Action, Adventure, RPG"
   },
   {
     "name": "Abnormal1999:Sector 49",
