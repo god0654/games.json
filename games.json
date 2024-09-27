@@ -29493,5 +29493,30 @@
     "link": "https://store.steampowered.com/app/2370170",
     "steamID": "2370170",
     "genres": "Action"
+  },
+  {
+    "name": "Pocket Waifu Rekindled",
+    "id": "Pocket_Waifu_Rekindled",
+    "notes": "",
+    "subName": "Portable V1.0.0 & BuildID 57959791279441543",
+    "description": "Imagine a world where you strike a pact with a Succubus, turning your life upside down. Overnight, you transform from a single to a babe magnet. The question remains: are you capable of satisfying them all? Discover the answer today!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2377110/header.jpg?t=1727365665",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257028191/movie480_vp9.webm?t=1717500301",
+    "tags": [
+      "drmfree",
+      "gog"
+    ],
+    "based": {
+      "info": "release",
+      "credits": "GOG-Games",
+      "link": "https://digitalzone.vercel.app/games/Pocket_Waifu_Rekindled"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143435&p=3133915&hilit=#p3133915",
+    "download": "https://filecrypt.cc/Container/C8300DDDAD.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-27T14:16:59.863Z",
+    "link": "https://store.steampowered.com/app/2377110",
+    "steamID": "2377110",
+    "genres": "Adventure, Casual, Indie, NSFW"
   }
 ]
