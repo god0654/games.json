@@ -28603,7 +28603,7 @@
     "name": "Chef RPG",
     "id": "Chef_RPG",
     "notes": "",
-    "subName": "Portable V0.5 + Build 15683145 & DLCs Included",
+    "subName": "Portable V0.5 (Patch 8 / HotFix 5) + Build 15846148 & DLCs Included",
     "description": "Craft your culinary adventure in a beautiful pixel art world. Manage your restaurants, forage and hunt for ingredients, befriend locals, and grow your culinary empire. What kind of chef will you be?",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1796790/header.jpg?t=1726149544",
     "gameplay": "https://www.youtube.com/watch?v=bKySdMKzgZ8",
@@ -28613,12 +28613,12 @@
     "based": {
       "info": "csf",
       "credits": "Dound",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=117304&p=3124251&hilit=#p3124251"
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=117304&p=3133651&hilit=#p3133651"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=117304&p=3131119&hilit=#p3131119",
-    "download": "https://filecrypt.cc/Container/49B56FB82C.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=117304&p=3133939&hilit=#p3133939",
+    "download": "https://filecrypt.cc/Container/5F44CF673F.html",
     "achievements": true,
-    "dateUpdated": "2024-09-23T17:52:12.731Z",
+    "dateUpdated": "2024-09-27T14:56:35.935Z",
     "link": "https://store.steampowered.com/app/1796790",
     "steamID": "1796790",
     "genres": "Adventure, RPG, Simulation"
