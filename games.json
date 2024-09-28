@@ -1879,25 +1879,25 @@
     "name": "Factory Outlet Simulator",
     "id": "Factory_Outlet_Simulator",
     "notes": "",
-    "subName": "Portable V0.1.3 & Build 15059739",
+    "subName": "Portable V1.0.0 & Build 15835079",
     "description": "Factory Outlet Simulator is a very comprehensive product manufacturing and selling game. You can produce the products of world famous brands in your factory and sell them. Or you can expand your business and create your own brand",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2981590/header.jpg?t=1721065873",
-    "gameplay": "https://youtu.be/QvfD9fG_ggE",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257022466/movie480_vp9.webm?t=1715411444",
     "tags": [
       "gse"
     ],
     "based": {
-      "info": "csf",
-      "credits": "voxan",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141850&p=3090785&hilit=#p3090785"
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Factory.Outlet.Simulator-TENOKE.png"
     },
-    "download": "https://filecrypt.cc/Container/EDD6442783.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141850&p=3134265&hilit=#p3134265",
+    "download": "https://filecrypt.cc/Container/BFCEB7B370.html",
     "achievements": true,
-    "dateUpdated": "2024-07-22T14:54:54.582Z",
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141850&p=3091030&hilit=#p3091030",
+    "dateUpdated": "2024-09-27T23:55:52.901Z",
+    "link": "https://store.steampowered.com/app/2981590",
     "steamID": "2981590",
-    "genres": "Indie, Simulation, Early Access",
-    "link": "https://store.steampowered.com/app/2981590"
+    "genres": "Indie, Simulation"
   },
   {
     "name": "No Man's Sky - Aquarius",
@@ -29614,5 +29614,126 @@
     "link": "https://store.steampowered.com/app/2840250",
     "steamID": "2840250",
     "genres": "Action, Adventure"
+  },
+  {
+    "name": "Flowstone Saga",
+    "id": "Flowstone_Saga",
+    "notes": "",
+    "subName": "Portable V152 & Build 15842542",
+    "description": "Master a totally unique puzzle-battle system in this 16-bit, JRPG-inspired adventure featuring an epic story, charming characters, stunning pixel art, and epic music. Follow a grand story set in the mysterious Ocean's End islands full of lost memories, ancient ruins, pirates, treasures, and frogs.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1372000/header.jpg?t=1727337579",
+    "gameplay": "https://www.youtube.com/watch?v=jMjNIQhTWA4",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Flowstone.Saga-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143179&p=3134255&hilit=#p3134255",
+    "download": "https://filecrypt.cc/Container/4EB6AB1964.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-27T23:32:24.422Z",
+    "link": "https://store.steampowered.com/app/1372000",
+    "steamID": "1372000",
+    "genres": "RPG"
+  },
+  {
+    "name": "Mouthwashing",
+    "id": "Mouthwashing",
+    "notes": "",
+    "subName": "Portable V28.09.2024 & Build 15837990",
+    "description": "The five crew members of The Tulpar are stranded in the empty reaches of space, shrouded in perpetual sunset. God is not watching.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475490/header.jpg?t=1727388833",
+    "gameplay": "https://www.youtube.com/watch?v=V699_m82YkM",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Mouthwashing-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138345&p=3134268&hilit=#p3134268",
+    "download": "https://filecrypt.cc/Container/46B0D0CCE6.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-28T00:17:03.745Z",
+    "link": "https://store.steampowered.com/app/2475490",
+    "steamID": "2475490",
+    "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Rogue Citadel",
+    "id": "Rogue_Citadel",
+    "notes": "",
+    "subName": "Portable V28.09.2024 & Build 15480494",
+    "description": "Unlock new defences, collect powerful items and create game-breaking synergies in this roguelite tower defence survivors game. Will you conquer the citadel's ever-shifting challenges and emerge victorious, or succumb to its sinister temptations?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2782540/header.jpg?t=1727376496",
+    "gameplay": "https://www.youtube.com/watch?v=n4IZWPJyKlY",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Rogue.Citadel-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143444&p=3134280&hilit=#p3134280",
+    "download": "https://filecrypt.cc/Container/A41575D903.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-28T00:49:02.580Z",
+    "link": "https://store.steampowered.com/app/2782540",
+    "steamID": "2782540",
+    "genres": "Action, Casual, Indie, RPG"
+  },
+  {
+    "name": "The Nameless: Slay Dragon",
+    "id": "The_Nameless_Slay_Dragon",
+    "notes": "",
+    "subName": "Portable V28.09.2024 & Build 15856937",
+    "description": "The Nameless: Slay Dragon is a gamebook-adventure flavored turn-based RPG In short - how to slay the immensely powerful and cunning evil dragon? You will play as a young man having a bloody feud with a dragon, and face powerful, sinister and tricky enemies with friends....",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2410170/header.jpg?t=1727368882",
+    "gameplay": "https://www.youtube.com/watch?v=xxLD6BYtBA0",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/The.Nameless.Slay.Dragon-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143418&p=3134289&hilit=#p3134289",
+    "download": "https://filecrypt.cc/Container/D894B323A2.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-28T01:06:21.271Z",
+    "link": "https://store.steampowered.com/app/2410170",
+    "steamID": "2410170",
+    "genres": "Adventure, Indie, RPG, Strategy"
+  },
+  {
+    "name": "Backpack Hero",
+    "id": "Backpack_Hero",
+    "notes": "",
+    "subName": "Portable V09.08.2024 + Build 15631088 & DLC Included",
+    "description": "The inventory management roguelike! Collect rare items, organize your backpack, and vanquish your foes!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970580/header.jpg?t=1726400194",
+    "gameplay": "https://www.youtube.com/watch?v=dFDyrQAIBDo",
+    "tags": [
+      "gse",
+      "steamless"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Backpack.Hero.v20240908-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=122574&p=3134293&hilit=#p3134293",
+    "download": "https://filecrypt.cc/Container/DDFA0EB8B6.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-28T01:28:55.961Z",
+    "link": "https://store.steampowered.com/app/1970580",
+    "steamID": "1970580",
+    "genres": ""
   }
 ]
