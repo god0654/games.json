@@ -29783,5 +29783,102 @@
     "link": "https://store.steampowered.com/app/2294160",
     "steamID": "2294160",
     "genres": "Indie, RPG, Strategy"
+  },
+  {
+    "name": "Golden Lap",
+    "id": "Golden_Lap",
+    "notes": "",
+    "subName": "Portable V240926_D889817 & Build 15850424",
+    "description": "Step into the polished shoes of a racing team manager in the heart-stirring Golden Era of motorsport where every decision can lead to glory or gravel. With sleek minimalist charm and deep strategic gameplay, Golden Lap offers a unique experience in the motorsport management genre.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052040/header.jpg?t=1727444477",
+    "gameplay": "https://www.youtube.com/watch?v=FP5FrO1Bi_g",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Wolfynator",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143420&p=3134334&hilit=#p3134334"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143420&p=3134583&hilit=#p3134583",
+    "download": "https://filecrypt.cc/Container/0F06C06402.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-28T14:49:26.934Z",
+    "link": "https://store.steampowered.com/app/2052040",
+    "steamID": "2052040",
+    "genres": "Casual, Indie, Racing, Simulation, Sports, Strategy"
+  },
+  {
+    "name": "Looney Tunes: Wacky World of Sports - Deluxe Edition",
+    "id": "Looney_Tunes_Wacky_World_of_Sports",
+    "notes": "",
+    "subName": "Portable V28.09.2024 + Build 15204638 + Controller Fix & DLCs Included",
+    "description": "Get ready for Basketball, Soccer, Golf and Tennis combined into one Looney Tunes sport game! Gain power-ups to incite chaos against your friends and family as you control your favorite Looney Tunes character in 4-player, local co-op mayhem, but watch out for falling anvils!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2330430.webp",
+    "gameplay": "https://www.youtube.com/watch?v=XeIbBikVcyY",
+    "tags": [
+      "gse",
+      "steamless"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "chronos",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143073&p=3134417&hilit=#p3134417"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143073&p=3134654&hilit=#p3134654",
+    "download": "https://filecrypt.cc/Container/2E6158D3AD.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-28T15:21:33.681Z",
+    "link": "https://store.steampowered.com/app/2330430",
+    "steamID": "2330430",
+    "genres": "Sports"
+  },
+  {
+    "name": "Realm of Ink",
+    "id": "Realm_of_Ink",
+    "notes": "",
+    "subName": "Portable V0.18.18_f66f11f962 (Patch 1) & Build 15859097",
+    "description": "Realm of Ink is an Ink-style action Roguelite game. While pursuing the Fox Demon, the swordswoman Red, unexpectedly finds that her life is dictated by the 'destiny' within the world of the book. Only by breaking free can she unveil the truth of her existence and challenge the constraints of fate.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597080/header.jpg?t=1727513272",
+    "gameplay": "https://www.youtube.com/watch?v=2YCzlw5G-D4",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "UltraShaggy",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=136409&p=2935289&hilit=#p2935289"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=136409&p=3134672&hilit=#p3134672",
+    "download": "https://filecrypt.cc/Container/2C2FEFAB33.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-28T15:48:28.479Z",
+    "link": "https://store.steampowered.com/app/2597080",
+    "steamID": "2597080",
+    "genres": "Action, Adventure, Indie, RPG"
+  },
+  {
+    "name": "Extraneum",
+    "id": "Extraneum",
+    "notes": "",
+    "subName": "Portable V1.0.2 & Build 15822716",
+    "description": "Extraneum is an old-school, sci-fi single-player first person shooter with an emphasis on exploration and secret hunting. Fight your way through biohacked monstrosities and stop their progress before they take control of the entire world.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1999140/header.jpg?t=1727380252",
+    "gameplay": "https://www.youtube.com/watch?v=COT1D6Bi78Q",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "ilker2495",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=123809&p=3134207&hilit=#p3134207"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=123809&p=3134692&hilit=#p3134692",
+    "download": "https://filecrypt.cc/Container/150A67D786.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-28T16:24:49.357Z",
+    "link": "https://store.steampowered.com/app/1999140",
+    "steamID": "1999140",
+    "genres": "Action, Indie"
   }
 ]
