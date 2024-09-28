@@ -29759,5 +29759,29 @@
     "link": "https://store.steampowered.com/app/2015240",
     "steamID": "2015240",
     "genres": " Action, Adventure, Indie, RPG"
+  },
+  {
+    "name": "Isle of Swaps",
+    "id": "Isle_of_Swaps",
+    "notes": "",
+    "subName": "Portable Vf1.035 (Full Release) & Build 15838532",
+    "description": "Grab your cards, it's time to swap! Battle your school pals in this roguelite deckbuilder where you'll trade for new cards when you win defeat them and rip open booster packs looking for rare cards. Conquer everyones dungeon decks to become Critter Champion of the Playground!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2294160/header.jpg?t=1727464892",
+    "gameplay": "https://www.youtube.com/watch?v=4MELqeLESsM",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "afraidium",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143449&p=3134381&hilit=#p3134381"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143449&p=3134516&hilit=#p3134516",
+    "download": "https://filecrypt.cc/Container/0F06C06402.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-28T11:40:54.212Z",
+    "link": "https://store.steampowered.com/app/2294160",
+    "steamID": "2294160",
+    "genres": "Indie, RPG, Strategy"
   }
 ]
