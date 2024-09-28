@@ -29735,5 +29735,29 @@
     "link": "https://store.steampowered.com/app/1970580",
     "steamID": "1970580",
     "genres": ""
+  },
+  {
+    "name": "Dwarven Realms: Season 1",
+    "id": "Dwarven_Realms",
+    "notes": "",
+    "subName": "Portable V1.0.100 + Build 15852385 & Items Included",
+    "description": "Face massive hordes of mobs and unleash chaotic abilities that paint the screen with mayhem. Dive into the largest mob density of any 3D ARPG and slay them all. Wield epic powers, create your build, and shape a world of endless possibilities in the action-packed ARPG experience.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015240/header.jpg?t=1727454716",
+    "gameplay": "https://www.youtube.com/watch?v=yadCNLul3MM",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Dwarven.Realms-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137404&p=3134487&hilit=#p3134487",
+    "download": "https://filecrypt.cc/Container/80822EE7A5.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-28T11:18:12.078Z",
+    "link": "https://store.steampowered.com/app/2015240",
+    "steamID": "2015240",
+    "genres": " Action, Adventure, Indie, RPG"
   }
 ]
