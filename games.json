@@ -29904,5 +29904,29 @@
     "link": "https://store.steampowered.com/app/2780980",
     "steamID": "2780980",
     "genres": "Action, Casual, Indie, Strategy"
+  },
+  {
+    "name": "Natsu no Sagashimono: What We Found That Summer - Uncensored",
+    "id": "Natsu_no_Sagashimono_What_We_Found_That_Summer",
+    "notes": "",
+    "subName": "Portable V1.03 + Build 15789142 & Uncensored",
+    "description": "Summer vacation is finally here, and the next few weeks promise to be anything but uneventful! Natsu has just 30 days to acclimate to life in the countryside, help the locals face their demons, find that special someone, and gain the self-confidence to return home with his head held high!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2997980/header.jpg?t=1727496078",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257052997/movie480_vp9.webm?t=1727252297",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://digitalzone.vercel.app/games/Natsu_no_Sagashimono_What_We_Found_That_Summer"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143369&p=3134865&hilit=#p3134865",
+    "download": "https://filecrypt.cc/Container/BB7B6E9C45.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-28T22:19:08.187Z",
+    "link": "https://store.steampowered.com/app/2997980",
+    "steamID": "2997980",
+    "genres": "Casual, RPG, NSFW"
   }
 ]
