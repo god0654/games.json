@@ -30072,5 +30072,77 @@
     "link": "https://store.steampowered.com/app/1765300",
     "steamID": "1765300",
     "genres": "Action, Adventure, Casual, Indie, Strategy"
+  },
+  {
+    "name": "Elmarion: The Lost Temple",
+    "id": "Elmarion_the_Lost_Temple",
+    "notes": "",
+    "subName": "Portable V30.09.2024 (Full Release) & Build 15650056",
+    "description": "“Elmarion: the Lost Temple” is a first-person party RPG. The player plays in a squad of 4 adventurers, choosing from 8 different classes. During the game, the squad explores the dungeons, clears them of monsters, and solves puzzles. Purpose of the game: to get an ancient powerful artifact.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476230/header.jpg?t=1727502334",
+    "gameplay": "https://www.youtube.com/watch?v=_va2PQP8YHc",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Elmarion.the.Lost.Temple-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=126615&p=3135436&hilit=#p3135436",
+    "download": "https://filecrypt.cc/Container/059FA66983.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-29T22:52:19.057Z",
+    "link": "https://store.steampowered.com/app/1476230",
+    "steamID": "1476230",
+    "genres": "Adventure, Indie, RPG"
+  },
+  {
+    "name": "Executive Assault 2",
+    "id": "Executive_Assault_2",
+    "notes": "",
+    "subName": "Portable V1.0.8.397a + Build 15796158 & DLC Included",
+    "description": "The RTS/FPS phenomenon has moved into space! Build your base on an asteroid, command fleets of starships for epic battles, pilot fighters, mine and trade resources, assemble robots to defend or assault other stations. Take sole command or share the glory as you fight for control of the quadrant.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/510500/header.jpg?t=1726257701",
+    "gameplay": "https://www.youtube.com/watch?v=54QVQTkwU7s",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Executive.Assault.2.v1.0.8.397a-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=93074&p=3135443&hilit=#p3135443",
+    "download": "https://filecrypt.cc/Container/2A4AFA7AD2.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-29T23:22:02.223Z",
+    "link": "https://store.steampowered.com/app/510500",
+    "steamID": "510500",
+    "genres": "Action, Indie, Strategy"
+  },
+  {
+    "name": "I HATE MY LEGS",
+    "id": "I_HATE_MY_LEGS",
+    "notes": "",
+    "subName": "Portable V30.09.2024 & Build 15869400",
+    "description": "In this difficult-to-master Foddian adventure, embark on a hilariously BRUTAL mission as Jeff, a turtle with massive human legs trying to find his father! Spin, Jump, and Zoom through the world as quickly as you can, your father awaits!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3054670/header.jpg?t=1727449337",
+    "gameplay": "https://www.youtube.com/watch?v=jFKMkSxdJiU",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/I.HATE.MY.LEGS-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143480&p=3135449&hilit=#p3135449",
+    "download": "https://filecrypt.cc/Container/FFBCB60DFF.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-29T23:47:07.269Z",
+    "link": "https://store.steampowered.com/app/3054670",
+    "steamID": "3054670",
+    "genres": "Action"
   }
 ]
