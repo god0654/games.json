@@ -30048,5 +30048,29 @@
     "link": "https://store.steampowered.com/app/2595540",
     "steamID": "2595540",
     "genres": "Action, Indie, Simulation"
+  },
+  {
+    "name": "Ultimate Zombie Defense 2",
+    "id": "Ultimate_Zombie_Defense_2",
+    "notes": "",
+    "subName": "Portable V0.6.1 & Build 15860408",
+    "description": "4-player co-op, zombie slaying, base building, boss battling mayhem! Cleanse the infected wave by wave and upgrade your base with traps & defenses in Ultimate Zombie Defense 2!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1765300/header.jpg?t=1727532147",
+    "gameplay": "https://www.youtube.com/watch?v=vRfmOoyJDrQ",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "GodPigeon",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143456&p=3134541&hilit=#p3134541"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143456&p=3135226&hilit=#p3135226",
+    "download": "https://filecrypt.cc/Container/C1CA8B71EC.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-29T14:00:50.997Z",
+    "link": "https://store.steampowered.com/app/1765300",
+    "steamID": "1765300",
+    "genres": "Action, Adventure, Casual, Indie, Strategy"
   }
 ]
