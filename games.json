@@ -30000,5 +30000,53 @@
     "link": "https://store.steampowered.com/app/2791360",
     "steamID": "2791360",
     "genres": "Adventure, Casual, Indie, Simulation"
+  },
+  {
+    "name": "The Holy Gosh Darn",
+    "id": "The_Holy_Gosh_Darn",
+    "notes": "",
+    "subName": "Portable V1.0.0.0 & Build 15849800",
+    "description": "The Holy Gosh Darn is a narrative adventure with a time-travelling twist. Time travel to jump between the past and present across Heaven, Hell, Earth and Helheim. Uncover information in one timeline to alter things in another in a bid to stop your heaven from going bang. Again.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466230/header.jpg?t=1727368048",
+    "gameplay": "https://www.youtube.com/watch?v=nXonj2JHO0c",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/The.Holy.Gosh.Darn-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135893&p=3135168&hilit=#p3135168",
+    "download": "https://filecrypt.cc/Container/8A3CF10986.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-29T12:57:49.181Z",
+    "link": "https://store.steampowered.com/app/1466230",
+    "steamID": "1466230",
+    "genres": "Adventure, Indie"
+  },
+  {
+    "name": "UBERSLAUGHTER",
+    "id": "UBERSLAUGHTER",
+    "notes": "",
+    "subName": "Portable V29.09.2024 & Build 15847162",
+    "description": "UBERSLAUGHTER is an adrenaline-pumping retro Movement Shooter that pays homage to classic FPS and zombie survival games. Embark on a gory interdimensional odyssey. Butcher your way through hordes of enemies. Accumulate vast riches. Rescue a helpless kitten. And slaughter them all.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2595540/header.jpg?t=1727599644",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257032329/movie480_vp9.webm?t=1727599634",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/UBERSLAUGHTER-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143462&p=3135156&hilit=#p3135156",
+    "download": "https://filecrypt.cc/Container/46866F64FA.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-29T12:59:36.522Z",
+    "link": "https://store.steampowered.com/app/2595540",
+    "steamID": "2595540",
+    "genres": "Action, Indie, Simulation"
   }
 ]
