@@ -29928,5 +29928,77 @@
     "link": "https://store.steampowered.com/app/2997980",
     "steamID": "2997980",
     "genres": "Casual, RPG, NSFW"
+  },
+  {
+    "name": "Axon TD: Uprising - Tower Defense",
+    "id": "Axon_TD_Uprising_Tower_Defense",
+    "notes": "",
+    "subName": "Portable + V1.0.1 (HotFix) & Build 15856555",
+    "description": "From the developers of Element TD 2 comes a Mazing Tower Defense where you expand the map layout itself. A huge arsenal of towers and a wide variety of enemies clash in a battlefield that shifts on your whims. Engage in single, cooperative, or roguelite gameplay.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2296550/header.jpg?t=1727599112",
+    "gameplay": "https://www.youtube.com/watch?v=eu9X4gEvVNs",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Axon.TD.Uprising.Tower.Defense-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=131232&p=3135146&hilit=#p3135146",
+    "download": "https://filecrypt.cc/Container/FF6BEF627C.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-29T11:24:21.814Z",
+    "link": "https://store.steampowered.com/app/2296550",
+    "steamID": "2296550",
+    "genres": "Indie, Strategy"
+  },
+  {
+    "name": "Apartment Story",
+    "id": "Apartment_Story",
+    "notes": "",
+    "subName": "Portable V29.09.2024 & Build 15849800",
+    "description": "A third-person thriller about three people and a gun in a single apartment. Navigate escalating real-time narrative events whilst managing Sims-esq stats to stay strong for an inevitable showdown. You play as Arthur, a young man trying to make it day to day before a gun turns his life upside down.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3069870/header.jpg?t=1727383219",
+    "gameplay": "https://www.youtube.com/watch?v=rBdGY3iM1A4",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Apartment.Story-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143466&p=3135177&hilit=#p3135177",
+    "download": "https://filecrypt.cc/Container/2A8280AEFE.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-29T12:13:32.192Z",
+    "link": "https://store.steampowered.com/app/3069870",
+    "steamID": "3069870",
+    "genres": "Indie, Simulation"
+  },
+  {
+    "name": "PINEAPPLE: A Bittersweet Revenge",
+    "id": "PINEAPPLE_A_Bittersweet_Revenge",
+    "notes": "",
+    "subName": "Portable V29.09.2024 & Build 15754741",
+    "description": "Pineapple is a puzzle and story-revenge-driven game where you become the hero of the school by pulling pranks on the top bully. Time to give that witch a taste of their own medicine. With a pineapple.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2791360/header.jpg?t=1727417827",
+    "gameplay": "https://www.youtube.com/watch?v=ceQ8bGY6sWU",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/PINEAPPLE.A.Bittersweet.Revenge-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143467&p=3135182&hilit=#p3135182",
+    "download": "https://filecrypt.cc/Container/CE7810CC2F.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-29T12:48:04.420Z",
+    "link": "https://store.steampowered.com/app/2791360",
+    "steamID": "2791360",
+    "genres": "Adventure, Casual, Indie, Simulation"
   }
 ]
