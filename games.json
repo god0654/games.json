@@ -30196,7 +30196,7 @@
   {
     "name": "Lust Epidemic 18+",
     "id": "Lust_Epidemic_18",
-    "notes": "",
+    "notes": "How to fix the Popup in the Game Menu that won't close: Just restart the game and it won't appear anymore.",
     "subName": "Portable V27.09.2024 & Build 15849082",
     "description": "Explore a world plagued by a weird illness and help save the kingdom in Lust Epidemic 💜 - an adult visual novel where sexual energy is not only a source of pleasure, but also the key to salvation! Will you be able to defeat the mysterious disease that has affected girls all over the kingdom?",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172860/header.jpg?t=1727116869",
@@ -30240,5 +30240,29 @@
     "link": "https://store.steampowered.com/app/1691190",
     "steamID": "1691190",
     "genres": "Action, Adventure, RPG, Strategy"
+  },
+  {
+    "name": "Lustfield: Shattered Desire - Ultimate Pleasure Edition",
+    "id": "Starfield",
+    "notes": "",
+    "subName": "Portable V1.14.70.0 + Build 15852413 & DLCs Included",
+    "description": "Starfield is the first new universe in 25 years from Bethesda Game Studios, the award-winning creators of The Elder Scrolls V: Skyrim and Fallout 4.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2721670.webp",
+    "gameplay": "https://www.youtube.com/watch?v=U4KpYy3Bs6E",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "FLT",
+      "link": "https://api.predb.net/nfoimg/Starfield_Shattered_Space-FLT.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=90077&p=3136003&hilit=#p3136003",
+    "download": "https://filecrypt.cc/Container/2C582CBF61.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-30T20:29:50.584Z",
+    "link": "https://store.steampowered.com/app/1716740",
+    "steamID": "1716740",
+    "genres": "RPG, NSFW"
   }
 ]
