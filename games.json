@@ -30168,5 +30168,29 @@
     "link": "https://store.steampowered.com/app/2218750",
     "steamID": "2218750",
     "genres": "Action, Indie, RPG"
+  },
+  {
+    "name": "SpellForce: Conquest of Eo - Weaver's Realms Bundle",
+    "id": "SpellForce_Conquest_of_Eo",
+    "notes": "",
+    "subName": "Portable V01.06.30485 + Build 15874254 & DLCs Included",
+    "description": "On a journey to great magical might, explore and control the lands of Eo in this ever-changing turn-based strategy role-playing game. Field armies and heroes in tactical combat, finish hundreds of quests, and gather spells and artefacts to become the most powerful mage of all. ",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3132660.webp",
+    "gameplay": "https://www.youtube.com/watch?v=qxabCoa44wc",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/SpellForce.Conquest.of.Eo.Weavers.Realms-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=123732&p=3135735&hilit=#p3135735",
+    "download": "https://filecrypt.cc/Container/0765968A51.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-30T14:08:54.043Z",
+    "link": "https://store.steampowered.com/app/1581770",
+    "steamID": "1581770",
+    "genres": "RPG, Strategy"
   }
 ]
