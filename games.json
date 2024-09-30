@@ -20524,7 +20524,7 @@
     "name": "Fate/stay night REMASTERED",
     "id": "Fate_stay_night_REMASTERED",
     "notes": "",
-    "subName": "Portable V20240803-232445 & Build 15259149",
+    "subName": "Portable V1.3.0.335 & Build 15831471",
     "description": "Seek the root of the Fate franchise. Return to where it all began.",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396980/header.jpg?t=1723042707",
     "gameplay": "https://www.youtube.com/watch?v=9VF7v3d-g_U",
@@ -20533,17 +20533,17 @@
       "steamless"
     ],
     "based": {
-      "info": "csf",
-      "credits": "✧GͥOͣDͫ✧",
-      "link": "https://store.steampowered.com/app/2396980/Fatestay_night_REMASTERED/"
+      "info": "basedon",
+      "credits": "emoris",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142535&p=3135598&hilit=#p3135598"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142535&p=3102568&hilit=#p3102568",
-    "download": "https://filecrypt.cc/Container/AFA72EEAB7.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142535&p=3135640&hilit=#p3135640",
+    "download": "https://filecrypt.cc/Container/E6F0982D01.html",
     "achievements": true,
-    "dateUpdated": "2024-08-07T15:40:49.212Z",
+    "dateUpdated": "2024-09-30T10:29:52.984Z",
+    "link": "https://store.steampowered.com/app/2396980",
     "steamID": "2396980",
-    "genres": "Adventure",
-    "link": "https://store.steampowered.com/app/2396980"
+    "genres": "Adventure"
   },
   {
     "name": "Creatures of Ava - Deluxe Edition",
@@ -30144,5 +30144,29 @@
     "link": "https://store.steampowered.com/app/3054670",
     "steamID": "3054670",
     "genres": "Action"
+  },
+  {
+    "name": "Halls of Torment",
+    "id": "Halls_of_Torment",
+    "notes": "How to Play in OpenGL: Launch HallsOfTorment-OpenGL.bat in ''Halls of Torment\\''.",
+    "subName": "Portable V27.09.2024 (HotFix) & Build 15848899",
+    "description": "Slay hordes of terrifying monsters in this horde survival roguelite. Descend into the Halls of Torment where the Lords of the underworld await you. Treasures, magical trinkets, and a growing cast of heroes will grant you the power to vanquish these horrors from beyond. How long can you survive?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/header.jpg?t=1727182807",
+    "gameplay": "https://www.youtube.com/watch?v=JdQweTEsOUE",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "ARMGDDNGames",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=130935&p=3135596&hilit=#p3135596"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=130935&p=3135614&hilit=#p3135614",
+    "download": "https://filecrypt.cc/Container/65D27120AE.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-30T09:51:18.943Z",
+    "link": "https://store.steampowered.com/app/2218750",
+    "steamID": "2218750",
+    "genres": "Action, Indie, RPG"
   }
 ]
