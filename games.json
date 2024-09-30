@@ -30264,5 +30264,53 @@
     "link": "https://store.steampowered.com/app/1716740",
     "steamID": "1716740",
     "genres": "RPG, NSFW"
+  },
+  {
+    "name": "Beyond Galaxyland",
+    "id": "Beyond_Galaxyland",
+    "notes": "",
+    "subName": "Portable V1.0.0.6 & Build 15744471",
+    "description": "Take to the stars in the retro-futuristic adventure-RPG, Beyond Galaxyland! Spanning the very cosmos, join Doug and his plucky, gun-toting guinea pig, Boom Boom, on an exhilarating, planet-hopping journey to save Earth itself.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543710/header.jpg?t=1727193831",
+    "gameplay": "https://www.youtube.com/watch?v=Lk6Vfz-qoas",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "chronos",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142849&p=3135937&hilit=#p3135937"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142849&p=3136036&hilit=#p3136036",
+    "download": "https://filecrypt.cc/Container/ADB136F844.html",
+    "achievements": true,
+    "dateUpdated": "2024-09-30T21:41:37.121Z",
+    "link": "https://store.steampowered.com/app/1543710",
+    "steamID": "1543710",
+    "genres": "Action, Adventure, Indie, RPG"
+  },
+  {
+    "name": "Zoochosis",
+    "id": "Zoochosis",
+    "notes": "",
+    "subName": "Portable V1.2.3 & Build 15875193",
+    "description": "Zoochosis is a bodycam horror simulation game. You’re a zookeeper. Identify infected mutant animals, make a vaccine and cure them. Will you save all of them and survive?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2458560/header.jpg?t=1727701339",
+    "gameplay": "https://www.youtube.com/watch?v=9dU2mY-rRDY",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Ntf",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137760&p=3135990&hilit=#p3135990"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137760&p=3136049&hilit=#p3136049",
+    "download": "https://filecrypt.cc/Container/4855F843B1.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-30T22:08:05.029Z",
+    "link": "https://store.steampowered.com/app/2458560",
+    "steamID": "2458560",
+    "genres": ""
   }
 ]
