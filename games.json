@@ -1975,7 +1975,7 @@
     "name": "Bo: Path of the Teal Lotus",
     "id": "Bo_Path_of_the_Teal_Lotus",
     "notes": "",
-    "subName": "Portable V1.0.6 & Build 14951100",
+    "subName": "Portable V1.1.5 & Build 15850732",
     "description": "Flow gracefully through a colorful, hand-drawn 2.5D action platformer inspired by Japanese folklore. Engage in acrobatic aerial combat, unlock powerful mystical abilities, and explore an interconnected world of myth as you seek to unravel the mysteries of your origin.",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1614440/header.jpg?t=1721228386",
     "gameplay": "https://youtu.be/2ZUTaVcvPH8",
@@ -1983,17 +1983,17 @@
       "gse"
     ],
     "based": {
-      "info": "csf",
-      "credits": "Mr E",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=114061&p=3090837&hilit=#p3090837"
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Bo.Path.of.the.Teal.Lotus.Update.v1.1.5-TENOKE.png"
     },
-    "download": "https://filecrypt.cc/Container/7548EB2EE4.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=114061&p=3135602&hilit=#p3135602",
+    "download": "https://filecrypt.cc/Container/2D5DA3ECF1.html",
     "achievements": true,
-    "dateUpdated": "2024-07-22T15:29:47.209Z",
-    "csrinru": "",
+    "dateUpdated": "2024-09-30T09:23:24.626Z",
+    "link": "https://store.steampowered.com/app/1614440",
     "steamID": "1614440",
-    "genres": "Action, Adventure, Indie",
-    "link": "https://store.steampowered.com/app/1614440"
+    "genres": "Action, Adventure, Indie"
   },
   {
     "name": "Nobody Wants to Die",
