@@ -30311,6 +30311,78 @@
     "dateUpdated": "2024-09-30T22:08:05.029Z",
     "link": "https://store.steampowered.com/app/2458560",
     "steamID": "2458560",
-    "genres": ""
+    "genres": "Simulation"
+  },
+  {
+    "name": "Anomalous",
+    "id": "Anomalous",
+    "notes": "",
+    "subName": "Portable V1.0 (Full Release) & Build 15787883",
+    "description": "A SHORT and sweet pixelated low fidelity 90s throwback hyper-fast action shooter. Survive and fight through a city overrun with manufactured monstrosities, biomass horrors, and a military authority trying to purge everything living. Featuring a heavy metal / techno soundtrack",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435970/header.jpg?t=1727539382",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257057372/movie480_vp9.webm?t=1727035554",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Anomalous-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143368&p=3136091&hilit=#p3136091",
+    "download": "https://filecrypt.cc/Container/CABA799C21.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-30T23:13:26.681Z",
+    "link": "https://store.steampowered.com/app/1435970",
+    "steamID": "1435970",
+    "genres": "Action, Indie"
+  },
+  {
+    "name": "深空七号 Deep Space 7",
+    "id": "Deep_Space_7",
+    "notes": "",
+    "subName": "Portable V0.3.1 & Build 15782128",
+    "description": "This is an independent action shooting game with a third person horror atmosphere. Facing the terrifying monsters in the space station, you must overcome the shortage of supplies, solve numerous mysteries, and successfully escape danger",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037180/header.jpg?t=1727336398",
+    "gameplay": "https://www.youtube.com/watch?v=h7L72-Xca_8",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Deep.Space.7-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143537&p=3136101&hilit=#p3136101",
+    "download": "https://filecrypt.cc/Container/C79B921453.html",
+    "achievements": false,
+    "dateUpdated": "2024-09-30T23:40:29.518Z",
+    "link": "https://store.steampowered.com/app/3037180",
+    "steamID": "3037180",
+    "genres": "Action, Indie"
+  },
+  {
+    "name": "SWORD ART ONLINE Fractured Daydream - Deluxe Edition",
+    "id": "SWORD_ART_ONLINE_Fractured_Daydream",
+    "notes": "",
+    "subName": "Portable V1.1.0 + Build Unknown & DLCs Included",
+    "description": "In this online co-op action game, enter a distorted version of the SWORD ART ONLINE world. Pick your role in the form of favorite SWORD ART ONLINE characters and team up with 20 players for raids to defeat powerful enemies.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1858630.webp",
+    "gameplay": "https://www.youtube.com/watch?v=J5nzHO22bPA",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/SWORD.ART.ONLINE.Fractured.Daydream-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138696&p=3136142&hilit=#p3136142",
+    "download": "https://filecrypt.cc/Container/411C48FACB.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-01T01:53:28.198Z",
+    "link": "https://store.steampowered.com/app/1858630",
+    "steamID": "1858630",
+    "genres": "Action, Casual, RPG"
   }
 ]
