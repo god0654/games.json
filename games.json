@@ -17025,29 +17025,29 @@
     "link": "https://store.steampowered.com/app/2738900"
   },
   {
-    "name": "Lightyear Frontier",
+    "name": "Lightyear Frontier: Animals & Neighbors - Soundtrack Bundle",
     "id": "Lightyear_Frontier",
-    "notes": "Note: To play in offline mode apply the GoldBerg Emu.",
-    "subName": "Portable V0.1.345 + Build 13743067 + DLC Included & Online Supported",
+    "notes": "Note: GoldBerg with Achievements, Stats and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.\n\nHow to Play in DX11 or DX12: 2 .bat were added to the main folder.",
+    "subName": "Portable V0.3.913 + Build 15759464 + DLCs Included & Online Supported",
     "description": "Lightyear Frontier is a peaceful open-world farming adventure on a planet at the far edge of the galaxy. Climb into your versatile mech and start your new home on a distant planet with up to 3 friends as you farm alien crops, build your own homestead, and explore the untamed wilderness of the world.",
-    "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1677110/header.jpg?t=1711104629",
-    "gameplay": "https://youtu.be/EulNmvZNXY8",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677110/header.jpg?t=1727706095",
+    "gameplay": "https://www.youtube.com/watch?v=_VNU67NywkE",
     "tags": [
       "gse",
-      "unsteam"
+      "ofme"
     ],
     "based": {
       "info": "basedon",
-      "credits": "Gh0sT73",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=115067&p=3017235&hilit=#p3017235"
+      "credits": "chronos",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=115067&p=3135932&hilit=#p3135932"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=115067&p=3019087&hilit=#p3019087",
-    "download": "https://filecrypt.cc/Container/76329BCABD.html",
-    "achievements": false,
-    "dateUpdated": "2024-07-26T12:29:26.175Z",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=115067&p=3136463&hilit=#p3136463",
+    "download": "https://filecrypt.cc/Container/C1BB3D8E90.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-01T15:41:05.270Z",
+    "link": "https://store.steampowered.com/app/1677110",
     "steamID": "1677110",
-    "genres": "Adventure, Casual, Indie, Simulation, Early Access",
-    "link": "https://store.steampowered.com/app/1677110"
+    "genres": "Adventure, Casual, Indie, Simulation"
   },
   {
     "name": "Krimson",
