@@ -17583,25 +17583,25 @@
     "name": "Grim Realms",
     "id": "Grim_Realms",
     "notes": "",
-    "subName": "Portable V1.0 + Build 13761012 & DLC Included",
+    "subName": "Portable V1.0.1.7 + Build 15872164 & DLC Included",
     "description": "A fantasy colony-survival simulator: Guide your villagers as they struggle to stay alive in a world overrun by the undead.",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1522280/header.jpg?t=1710574293",
-    "gameplay": "https://youtu.be/PNHLbF9b1pg",
+    "gameplay": "https://www.youtube.com/watch?v=O6Fh7rUfpjc",
     "tags": [
-      "scene"
+      "gse"
     ],
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Grim.Realms-TENOKE.png"
+      "link": "https://api.predb.net/nfoimg/Grim.Realms.v1.0.1.7-TENOKE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=116618&p=3015579&hilit=#p3015579",
-    "download": "https://filecrypt.cc/Container/590B7EB05F.html",
-    "achievements": false,
-    "dateUpdated": "2024-07-26T14:28:59.878Z",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=116618&p=3136715&hilit=#p3136715",
+    "download": "https://filecrypt.cc/Container/15F361759A.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-01T23:17:06.834Z",
+    "link": "https://store.steampowered.com/app/1522280",
     "steamID": "1522280",
-    "genres": "Indie, Simulation, Strategy",
-    "link": "https://store.steampowered.com/app/1522280"
+    "genres": "Indie, Simulation, Strategy"
   },
   {
     "name": "Llamasoft: The Jeff Minter Story",
