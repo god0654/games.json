@@ -30384,5 +30384,29 @@
     "link": "https://store.steampowered.com/app/1858630",
     "steamID": "1858630",
     "genres": "Action, Casual, RPG"
+  },
+  {
+    "name": "Thyria",
+    "id": "Thyria",
+    "notes": "",
+    "subName": "Portable V1.06.10 (Full Release) & Build 15873286",
+    "description": "Thyria is an RPG, a unique combination of dynamic exploration, turn-based combat and crafting. Summon and train a team of Guardians, who will accompany Thyria into the minds of the cursed villagers. Help them vanquish their nightmares.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608590/header.jpg?t=1727691571",
+    "gameplay": "https://www.youtube.com/watch?v=Y8UQbCjnQTo",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "mafia47",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=133380&p=3136533&hilit=#p3136533"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=133380&p=3136543&hilit=#p3136543",
+    "download": "https://filecrypt.cc/Container/68F537D402.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-01T17:59:11.533Z",
+    "link": "https://store.steampowered.com/app/1608590",
+    "steamID": "1608590",
+    "genres": "Indie, RPG"
   }
 ]
