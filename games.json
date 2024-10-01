@@ -30408,5 +30408,29 @@
     "link": "https://store.steampowered.com/app/1608590",
     "steamID": "1608590",
     "genres": "Indie, RPG"
+  },
+  {
+    "name": "Coin-Op Vice",
+    "id": "Coin_Op_Vice",
+    "notes": "",
+    "subName": "Portable V01.10.2024 & Build 15876864",
+    "description": "2.5D Top-Down retro action with deckbuilding and 100+ arcade mini-games. The feature of Coin-Op VICE is the variety of short mini-games that provide different weapons and enhance the hero's characteristics.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2722640/header.jpg?t=1727354423",
+    "gameplay": "https://www.youtube.com/watch?v=H-BzNyLti94",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "darthstazi",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143461&p=3136671&hilit=#p3136671"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143461&p=3136683&hilit=#p3136683",
+    "download": "https://filecrypt.cc/Container/E6839AFF05.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-01T21:55:06.918Z",
+    "link": "https://store.steampowered.com/app/2722640",
+    "steamID": "2722640",
+    "genres": "Action, Adventure, Indie"
   }
 ]
