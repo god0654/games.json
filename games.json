@@ -30432,5 +30432,53 @@
     "link": "https://store.steampowered.com/app/2722640",
     "steamID": "2722640",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Endoparasitic 2",
+    "id": "Endoparasitic_2",
+    "notes": "",
+    "subName": "Portable V02.10.2024 & Build 15897439",
+    "description": "Three limbs ripped off, infected with a deadly parasite, you must survive. Drag yourself through the hallways of an infested arcship, fight off twisted eldritch creatures, craft vaccines and ammunition, and escape to civilization.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990640/header.jpg?t=1727835917",
+    "gameplay": "https://www.youtube.com/watch?v=orbJ6-Hd0n8",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "shadowlin21",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143557&p=3136893&hilit=#p3136893"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143557&p=3136909&hilit=#p3136909",
+    "download": "https://filecrypt.cc/Container/51E4B0A395.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-02T11:03:53.597Z",
+    "link": "https://store.steampowered.com/app/2990640",
+    "steamID": "2990639",
+    "genres": "Action, Indie"
+  },
+  {
+    "name": "SEX Hospital",
+    "id": "SEX_Hospital",
+    "notes": "",
+    "subName": "Portable V02.10.2024 & Build 15866238",
+    "description": "Step into the world of medical drama and naughty secrets in SEX Hospital 💦 – an adult visual novel fantasizing about a hospital filled with steaming hot staff. Can you balance your work duties while exploring the personal lives of your colleagues and trying to solve the mystery of a new virus?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3238270/header.jpg?t=1727559643",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257059877/movie480_vp9.webm?t=1727549061",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://digitalzone.vercel.app/games/SEX_Hospital"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143558&p=3136919&hilit=#p3136919",
+    "download": "https://filecrypt.cc/Container/99A449349B.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-02T11:29:00.759Z",
+    "link": "https://store.steampowered.com/app/3238270",
+    "steamID": "3238270",
+    "genres": "Adventure, Casual, Indie, Simulation, NSFW"
   }
 ]
