@@ -30480,5 +30480,29 @@
     "link": "https://store.steampowered.com/app/3238270",
     "steamID": "3238270",
     "genres": "Adventure, Casual, Indie, Simulation, NSFW"
+  },
+  {
+    "name": "Myth of Angels: Prologue",
+    "id": "Myth_of_Angels_Prologue",
+    "notes": "",
+    "subName": "Portable V1.0.0 (Final) & Build 15890475",
+    "description": "Myth of Angels: Prologue is a cyberpunk & angelic themed adult Visual Novel. The game offers action, horror, sex, romance and a rich story. Play as the son of the Creator and face the difficulties of Fallen City.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2986640/header.jpg?t=1726577428",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257053149/movie480_vp9.webm?t=1725719445",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143559&p=3136940&hilit=#p3136940"
+    },
+    "csrinru": "https://digitalzone.vercel.app/games/Myth_of_Angels_Prologue",
+    "download": "https://filecrypt.cc/Container/44848AC4F4.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-02T12:11:12.307Z",
+    "link": "https://store.steampowered.com/app/2986640",
+    "steamID": "2986640",
+    "genres": "Indie, NSFW"
   }
 ]
