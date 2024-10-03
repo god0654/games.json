@@ -30648,5 +30648,29 @@
     "link": "https://store.steampowered.com/app/2372330",
     "steamID": "2372330",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Silence of the Siren",
+    "id": "Silence_of_the_Siren",
+    "notes": "",
+    "subName": "Portable V02.10.2024 & Build 15872684",
+    "description": "Turn-based sci-fi strategy game that combines exploration and exciting clashes on the battlefield. Take control over several different species, raise powerful armies and destroy your opponents!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2147380/header.jpg?t=1727733137",
+    "gameplay": "https://www.youtube.com/watch?v=-wUXy2DJ5QU",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "mafia47",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=126664&p=3136917&hilit=#p3136917"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=126664&p=3137306&hilit=#p3137306",
+    "download": "https://filecrypt.cc/Container/49015093B0.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-03T01:16:16.808Z",
+    "link": "https://store.steampowered.com/app/2147380",
+    "steamID": "2147380",
+    "genres": "Indie, RPG, Strategy"
   }
 ]
