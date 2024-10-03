@@ -30552,5 +30552,101 @@
     "link": "https://store.steampowered.com/app/2928520",
     "steamID": "2928518",
     "genres": "Casual, Indie, Simulation"
+  },
+  {
+    "name": "Quilts and Cats of Calico - Special Edition",
+    "id": "Quilts_and_Cats_of_Calico",
+    "notes": "",
+    "subName": "Portable V1.0.96.0927.1622 + Build 15852016 & DLC Included",
+    "description": "Quilts and Cats of Calico is a wholesome, award-winning complex puzzle game for 1 to 4 players. Meet adorable cats and sew the coziest quilts. Compete with other players in multiplayer mode, play solo, or delve into the story of a quilter sewing their way through the city of cats.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1993180.webp",
+    "gameplay": "https://www.youtube.com/watch?v=fLXGkOqXuI8",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Quilts.and.Cats.of.Calico.v1.0.96-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127880&p=3137274&hilit=#p3137274",
+    "download": "https://filecrypt.cc/Container/3FBB4E33E4.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-02T23:55:18.889Z",
+    "link": "https://store.steampowered.com/app/1993180",
+    "steamID": "1993180",
+    "genres": "Casual, Indie, Strategy"
+  },
+  {
+    "name": "Calm Skies: The Wingsuit Flying Experience",
+    "id": "Calm_Skies_The_Wingsuit_Flying_Experience",
+    "notes": "",
+    "subName": "Portable V1.0 & Build 15872973",
+    "description": "Experience the thrill and tranquility of flying in Calm Skies. Perfect your wingsuit skills as you explore diverse biomes, dodge obstacles, and perform daring tricks to complete skill-testing challenges. Customize your character and enjoy a unique blend of excitement and serenity in the skies.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3056110/header.jpg?t=1727712069",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257057854/movie480_vp9.webm?t=1727161202",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Calm.Skies.The.Wingsuit.Flying.Experience-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143574&p=3137284&hilit=#p3137284",
+    "download": "https://filecrypt.cc/Container/4CDCF7BE0A.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-03T00:29:16.906Z",
+    "link": "https://store.steampowered.com/app/3056110",
+    "steamID": "3056110",
+    "genres": "Action, Casual"
+  },
+  {
+    "name": "Daemonologie",
+    "id": "Daemonologie",
+    "notes": "",
+    "subName": "Portable V03.10.2024 & Build 15747806",
+    "description": "A short folk horror story about the Scottish witch trials. You play the role of a witch finder. Speak to the locals and sort their truths from their lies. On the last morning a witch must hang, best you know who by then.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3048140/header.jpg?t=1727787235",
+    "gameplay": "https://www.youtube.com/watch?v=9UHWV6yJJag",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Daemonologie-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143576&p=3137292&hilit=#p3137292",
+    "download": "https://filecrypt.cc/Container/84398906B0.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-03T00:33:51.357Z",
+    "link": "https://store.steampowered.com/app/3048140",
+    "steamID": "3048140",
+    "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Poetry of Blood: Eclipse",
+    "id": "Poetry_of_Blood_Eclipse",
+    "notes": "",
+    "subName": "Portable V03.10.2024 & Build 15892793",
+    "description": "Blood Poem: Eclipse of the Moon is a 2D Rogue Lite hyper-speed action-adventure game. In the game, you play as the heroine code-named Ishtar, also known as \"Moon\" exploring a post-apocalyptic world. Your mission is to defeat beautiful bosses and bring them back to your lab.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2372330/header.jpg?t=1727910364",
+    "gameplay": "https://www.youtube.com/watch?v=rBifjbpeNoY",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Poetry.of.Blood.Eclipse-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143469&p=3137301&hilit=#p3137301",
+    "download": "https://filecrypt.cc/Container/9EEAE0BB4F.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-03T00:52:09.382Z",
+    "link": "https://store.steampowered.com/app/2372330",
+    "steamID": "2372330",
+    "genres": "Action, Adventure, Indie"
   }
 ]
