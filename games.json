@@ -30769,5 +30769,29 @@
     "link": "https://store.steampowered.com/app/3097560",
     "steamID": "3097560",
     "genres": "Casual, Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Five Hearts Under One Roof",
+    "id": "Five_Hearts_Under_One_Roof",
+    "notes": "",
+    "subName": "Portable V03.10.2024 & Build 15913741",
+    "description": "Yuman’s, the player, once solitary home and routine are now invaded by five beautiful women! Each has her unique charm – the 'childhood friend of 20 years,' the 'first love and former idol,' the 'demanding boss,' the 'bold younger girl,' and the 'shy recluse.' Who will you choose?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3021100/header.jpg?t=1727938201",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257031872/movie480_vp9.webm?t=1718670721",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Lynnastic",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142466&p=3137712&hilit=#p3137712"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142466&p=3137788&hilit=#p3137788",
+    "download": "https://filecrypt.cc/Container/C0FFCA50E5.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-03T22:00:15.037Z",
+    "link": "https://store.steampowered.com/app/3021100",
+    "steamID": "3021100",
+    "genres": "Adventure, RPG, Simulation"
   }
 ]
