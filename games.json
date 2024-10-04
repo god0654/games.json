@@ -30914,5 +30914,29 @@
     "link": "https://store.steampowered.com/app/3002570",
     "steamID": "3002570",
     "genres": "Adventure, NSFW"
+  },
+  {
+    "name": "SpongeBob SquarePants™: The Patrick Star Game",
+    "id": "SpongeBob_SquarePants_The_Patrick_Star_Game",
+    "notes": "",
+    "subName": "Portable V04.10.2024 & Build 14797291",
+    "description": "Step into Patrick’s shorts and create hilarious, physics-based mayhem, as you make the open world of Bikini Bottom your playground!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322380/header.jpg?t=1728029958",
+    "gameplay": "https://www.youtube.com/watch?v=xr45U2xf7NA",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "patriks92",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142990&p=3138061&hilit=#p3138061"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142990&p=3138069&hilit=#p3138069",
+    "download": "https://filecrypt.cc/Container/9890FE17DE.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-04T09:59:16.623Z",
+    "link": "https://store.steampowered.com/app/2322380",
+    "steamID": "2322380",
+    "genres": "Action, Adventure, Casual"
   }
 ]
