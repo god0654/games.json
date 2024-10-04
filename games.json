@@ -30938,5 +30938,30 @@
     "link": "https://store.steampowered.com/app/2322380",
     "steamID": "2322380",
     "genres": "Action, Adventure, Casual"
+  },
+  {
+    "name": "Taboo University Book One",
+    "id": "Taboo_University_Book_One",
+    "notes": "",
+    "subName": "Portable V1.0.3 + BuildID 57974589572179541 & DLC Included",
+    "description": "Set before all the events of Fetish Locator, something strange happened and three girls went missing! Now you must immerse yourself in a prestigious university's depths to learn more about it. Meet new people, meet new sexy girls, and discover all the secrets hidden in this big university!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459350/header.jpg?t=1727897143",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257052638/movie480_vp9.webm?t=1725536279",
+    "tags": [
+      "drmfree",
+      "gog"
+    ],
+    "based": {
+      "info": "release",
+      "credits": "GOG-Games",
+      "link": "https://digitalzone.vercel.app/games/Taboo_University_Book_One"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143602&p=3138183&hilit=#p3138183",
+    "download": "https://filecrypt.cc/Container/244010ADDB.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-04T13:13:37.967Z",
+    "link": "https://store.steampowered.com/app/2459350",
+    "steamID": "2459350",
+    "genres": "Adventure, Casual, Indie, NSFW"
   }
 ]
