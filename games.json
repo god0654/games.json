@@ -30987,5 +30987,54 @@
     "link": "https://store.steampowered.com/app/1564600",
     "steamID": "1564600",
     "genres": "Action, Adventure, Indie, Simulation"
+  },
+  {
+    "name": "Potion Tycoon - Supporter Bundle",
+    "id": "Potion_Tycoon",
+    "notes": "",
+    "subName": "Portable V1.0.6 (Full Release) + BuildID 57922185263456561 & DLC Included",
+    "description": "Potion Tycoon is a management simulator with a witchy twist! Build and develop your very own magic shop. Manage resources, set up production lines, mix potions and sell them smartly to stay ahead of the competition. Welcome to the potion business!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1485690.webp",
+    "gameplay": "https://www.youtube.com/watch?v=PF8itYaVWrI",
+    "tags": [
+      "drmfree",
+      "gog"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "FCKDRM",
+      "link": "https://predb.net/rls/Potion.Tycoon-FCKDRM"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=114451&p=3138338&hilit=#p3138338",
+    "download": "https://filecrypt.cc/Container/1F5474F3EE.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-04T17:20:27.606Z",
+    "link": "https://store.steampowered.com/app/1485690",
+    "steamID": "1485690",
+    "genres": "Simulation, Strategy"
+  },
+  {
+    "name": "Until Dark: Forbidden Passion",
+    "id": "Until_Dawn",
+    "notes": "",
+    "subName": "Portable V04.10.2024 & Build 15896519",
+    "description": "Rebuilt and enhanced for PC – Until Dawn invites you to relive the nightmare, and immerse yourself in a gripping slasher horror where every decision can make the difference between life and death.",
+    "thumbnail": "https://img.opencritic.com/game/1832/f0la6je7.jpg",
+    "gameplay": "https://www.youtube.com/watch?v=8nApBGPy0ao",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "AR-81",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=41&t=137964&p=3138311&hilit=#p3138311"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=41&t=137964&p=3138558&hilit=#p3138558",
+    "download": "https://filecrypt.cc/Container/6A8285A718.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-04T22:32:38.049Z",
+    "link": "",
+    "steamID": "",
+    "genres": "Adventure, NSFW"
   }
 ]
