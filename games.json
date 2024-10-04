@@ -30963,5 +30963,29 @@
     "link": "https://store.steampowered.com/app/2459350",
     "steamID": "2459350",
     "genres": "Adventure, Casual, Indie, NSFW"
+  },
+  {
+    "name": "The Last Plague: Blight",
+    "id": "The_Last_Plague_Blight",
+    "notes": "",
+    "subName": "Portable V0.9.0 & Build 15918840",
+    "description": "The Last Plague: Blight is an authentic survival experience rooted in realism and immersion. Endure the hazards of a brutal open world and uncover the origins of a mysterious disease. You are humanity’s final hope in ending the Blight",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1564600/header.jpg?t=1727974797",
+    "gameplay": "https://www.youtube.com/watch?v=UkIOGWnIYsc",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "mauzao9",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=131187&p=3137800&hilit=r#p3137800"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=131187&p=3138246&hilit=#p3138246",
+    "download": "https://filecrypt.cc/Container/106E3F8F00.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-04T14:59:21.986Z",
+    "link": "https://store.steampowered.com/app/1564600",
+    "steamID": "1564600",
+    "genres": "Action, Adventure, Indie, Simulation"
   }
 ]
