@@ -30889,5 +30889,30 @@
     "link": "https://store.steampowered.com/app/2208780",
     "steamID": "2208780",
     "genres": "Adventure, Indie, Simulation"
+  },
+  {
+    "name": "Nymphomaniac - Sex Addict",
+    "id": "Nymphomaniac_Sex_Addict",
+    "notes": "",
+    "subName": "Portable V11348 & BuildID 57977815430972492",
+    "description": "A visually stunning story about a nymphomaniac who loves her body, sex and adrenaline. All this presented in a photorealistic audiovisual setting.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3002570/header.jpg?t=1727890595",
+    "gameplay": "https://www.youtube.com/watch?v=yPowg61L0pQ",
+    "tags": [
+      "drmfree",
+      "gog"
+    ],
+    "based": {
+      "info": "release",
+      "credits": "GOG-Games",
+      "link": "https://digitalzone.vercel.app/games/Nymphomaniac_Sex_Addict"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143437&p=3137925&hilit=#p3137925",
+    "download": "https://filecrypt.cc/Container/92B5500B0D.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-04T01:31:33.413Z",
+    "link": "https://store.steampowered.com/app/3002570",
+    "steamID": "3002570",
+    "genres": "Adventure, NSFW"
   }
 ]
