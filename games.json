@@ -30793,5 +30793,101 @@
     "link": "https://store.steampowered.com/app/3021100",
     "steamID": "3021100",
     "genres": "Adventure, RPG, Simulation"
+  },
+  {
+    "name": "Pinball Spire",
+    "id": "Pinball_Spire",
+    "notes": "",
+    "subName": "Portable V1.0.03 & Build 15883516",
+    "description": "Action adventure meets pinball in this one-of-a-kind pinballvania adventure. When a mysterious spire appears from thin air, it's up to an intrepid pinball to bump, spin, shoot, and flip its way to the top and solve the tower’s mysteries!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2601940/header.jpg?t=1727992392",
+    "gameplay": "https://www.youtube.com/watch?v=o4eVLrlq634",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Pinball.Spire-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143566&p=3137866&hilit=#p3137866",
+    "download": "https://filecrypt.cc/Container/A3DF86A53D.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-03T23:28:51.892Z",
+    "link": "https://store.steampowered.com/app/2601940",
+    "steamID": "2601940",
+    "genres": "Action, Adventure, Simulation"
+  },
+  {
+    "name": "Deepest Chamber: Resurrection",
+    "id": "Deepest_Chamber_Resurrection",
+    "notes": "",
+    "subName": "Portable V1.0.835 & Build 15714408",
+    "description": "Delve into the depths of Deepest Chamber: Resurrection, where card boosting is your key to survival. Employ this unique mechanic to augment your abilities, strategize your next moves and endure a series of increasingly perilous descents in this gripping rogue-lite, card-battling adventure!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1552080/header.jpg?t=1725453545",
+    "gameplay": "https://www.youtube.com/watch?v=WRFMYbufC9k",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Deepest.Chamber.Resurrection.v1.0.835-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=112048&p=3137882&hilit=#p3137882",
+    "download": "https://filecrypt.cc/Container/30FCAB159E.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-03T23:56:30.089Z",
+    "link": "https://store.steampowered.com/app/1552080",
+    "steamID": "1552080",
+    "genres": "Indie, RPG, Strategy"
+  },
+  {
+    "name": "Refuted Wind",
+    "id": "Refuted_Wind",
+    "notes": "",
+    "subName": "Portable V1.8 & Build 15891467",
+    "description": "Mysterious murders are happening in the area where Dave lives. In an attempt to draw attention to these horrific events, he decides to make a short film. As his project becomes known, frightening events begin to happen around him.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796020/header.jpg?t=1727537653",
+    "gameplay": "https://www.youtube.com/watch?v=gtFnnxmOFUE",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Refuted.Wind-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143302&p=3137893&hilit=#p3137893",
+    "download": "https://filecrypt.cc/Container/4CBA73B98C.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-04T00:18:28.855Z",
+    "link": "https://store.steampowered.com/app/2796020",
+    "steamID": "2796020",
+    "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Psycho Fear",
+    "id": "Psycho_Fear",
+    "notes": "",
+    "subName": "Portable V1.2 & Build 15903553",
+    "description": "Psycho Fear is a heart-pounding escape room puzzle where players must escape to survive. Solve challenging puzzles, overcome deadly obstacles in an intense atmosphere, nerve-wracking and dark environment will keep players on edge.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2208780/header.jpg?t=1727616686",
+    "gameplay": "https://www.youtube.com/watch?v=46uABomO_Hc",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Psycho.Fear-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138076&p=3137903&hilit=#p3137903",
+    "download": "https://filecrypt.cc/Container/49AD9C1978.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-04T00:40:34.826Z",
+    "link": "https://store.steampowered.com/app/2208780",
+    "steamID": "2208780",
+    "genres": "Adventure, Indie, Simulation"
   }
 ]
