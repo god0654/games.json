@@ -3450,13 +3450,12 @@
     "name": "V Rising - Legacy of Castlevania",
     "id": "V_Rising",
     "notes": "",
-    "subName": "Portable V1.0.9.1-r82157-b5 + Build 15880395 + DLCs with Dedicated Server Included & Online Supported",
+    "subName": "Portable V1.0.9.1-r82157-b5 + Build 15880395 & DLCs with Dedicated Server Included",
     "description": "Awaken as a Vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing, open world full of mystery. Gain allies online and conquer the land of the living.",
     "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1604030/header.jpg?t=1715169294",
     "gameplay": "https://www.youtube.com/watch?v=aB_2ZRn9F_k",
     "tags": [
-      "gse",
-      "ofme"
+      "gse"
     ],
     "based": {
       "info": "csf",
