@@ -31132,5 +31132,29 @@
     "link": "https://store.steampowered.com/app/2716940",
     "steamID": "2716940",
     "genres": "Adventure, Casual, Indie, RPG, NSFW"
+  },
+  {
+    "name": "Victory Heat Rally",
+    "id": "Victory_Heat_Rally",
+    "notes": "",
+    "subName": "Portable V05.10.2024 & Build 15913917",
+    "description": "Welcome to VHR! Unlock the secrets of speed in this turbocharged neo super scaler arcade racing experience. Dominate the track & drift your way to the finish line on the road to becoming the VHRC champion.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1594060/header.jpg?t=1727960165",
+    "gameplay": "https://www.youtube.com/watch?v=EtT82k2TSF4",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "chronos",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=128210&p=3139142&hilit=#p3139142"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=128210&p=3139206&hilit=#p3139206",
+    "download": "https://filecrypt.cc/Container/B88414403B.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-05T20:32:50.977Z",
+    "link": "https://store.steampowered.com/app/1594060",
+    "steamID": "1594060",
+    "genres": "Racing, Sports"
   }
 ]
