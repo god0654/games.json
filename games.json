@@ -3449,8 +3449,8 @@
   {
     "name": "V Rising - Legacy of Castlevania",
     "id": "V_Rising",
-    "notes": "Note: GoldBerg Emu with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in ''_CrackOnly (OFME)'' folder, open Steam before launch.",
-    "subName": "Portable V1.0.9.0 (HotFix 9) + Build 15720080 + DLCs with Dedicated Server Included & Online Supported",
+    "notes": "",
+    "subName": "Portable V1.0.9.1-r82157-b5 + Build 15880395 + DLCs with Dedicated Server Included & Online Supported",
     "description": "Awaken as a Vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing, open world full of mystery. Gain allies online and conquer the land of the living.",
     "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1604030/header.jpg?t=1715169294",
     "gameplay": "https://www.youtube.com/watch?v=aB_2ZRn9F_k",
@@ -3463,10 +3463,10 @@
       "credits": "✧GͥOͣDͫ✧",
       "link": "https://store.steampowered.com/app/1604030/V_Rising/"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=113132&p=3128081&hilit=#p3128081",
-    "download": "https://filecrypt.cc/Container/A06ECDFFA5.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=113132&p=3138935&hilit=#p3138935",
+    "download": "https://filecrypt.cc/Container/25F20D10F9.html",
     "achievements": true,
-    "dateUpdated": "2024-09-18T17:56:54.635Z",
+    "dateUpdated": "2024-10-05T12:02:54.950Z",
     "link": "https://store.steampowered.com/app/1604030",
     "steamID": "1604030",
     "genres": "Action, Adventure"
@@ -30792,7 +30792,7 @@
     "dateUpdated": "2024-10-03T22:00:15.037Z",
     "link": "https://store.steampowered.com/app/3021100",
     "steamID": "3021100",
-    "genres": "Adventure, RPG, Simulation"
+    "genres": "Adventure, RPG, Simulation, NSFW"
   },
   {
     "name": "Pinball Spire",
@@ -31036,5 +31036,53 @@
     "link": "",
     "steamID": "",
     "genres": "Adventure, NSFW"
+  },
+  {
+    "name": "Diplomacy is Not an Option",
+    "id": "Diplomacy_is_Not_an_Option",
+    "notes": "",
+    "subName": "Portable V1.0.3-r (Full Release) Build 15933532 & DLCs Included",
+    "description": "Diplomacy is Not an Option is a strategy game set in a medieval fantasy world. Build your town and defenses, raise huge armies and fight against massive hordes of enemies. How long can you survive?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272320/header.jpg?t=1728128973",
+    "gameplay": "https://www.youtube.com/watch?v=mbAG9VMXIxY",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Diplomacy.is.Not.an.Option-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=116243&p=3138971&hilit=#p3138971",
+    "download": "https://filecrypt.cc/Container/5755D46FAA.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-05T13:01:20.984Z",
+    "link": "https://store.steampowered.com/app/1272320",
+    "steamID": "1272320",
+    "genres": "Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Maid Harem With Futa",
+    "id": "Maid_Harem_With_Futa",
+    "notes": "",
+    "subName": "Portable V05.10.2024 & Build 15927371",
+    "description": "As a young rich man with a harem of maids, you start to pursue some \"different\" entertainments- such as transforming your maids into Futa and then back again...This game focuses on Maid and Futa fantasies, with tons of erotic scenes, and the goal is to unlock all the plots",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1828970/header.jpg?t=1728036109",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/256913915/movie480_vp9.webm?t=1667613353",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://digitalzone.vercel.app/games/Maid_Harem_With_Futa"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143625&p=3138984&hilit=#p3138984",
+    "download": "https://filecrypt.cc/Container/531ED56725.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-05T13:26:53.789Z",
+    "link": "https://store.steampowered.com/app/1828970",
+    "steamID": "1828970",
+    "genres": "Casual, Simulation, NSFW"
   }
 ]
