@@ -31228,5 +31228,29 @@
     "link": "https://store.steampowered.com/app/2911280",
     "steamID": "2911280",
     "genres": "Casual, Simulation, Strategy"
+  },
+  {
+    "name": "Sultry Hill 2: Secret Whispers",
+    "id": "Silent_Hill_2_Remake",
+    "notes": "",
+    "subName": "Portable V1.1.236.114 + Build 15917889 & DLCs Included",
+    "description": "Investigating a letter from his late wife, James returns to where they made so many memories - Silent Hill. What he finds is a ghost town, prowled by disturbing monsters and cloaked in deep fog. Confront the monsters, solve puzzles, and search for traces of your wife in this remake of SILENT HILL 2.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/SH2Remake.webp",
+    "gameplay": "https://www.youtube.com/watch?v=xRShSWXFDFA",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "✧GͥOͣDͫ✧",
+      "link": "https://store.steampowered.com/app/2124490/SILENT_HILL_2/"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127007&p=3139371&hilit=#p3139371",
+    "download": "https://filecrypt.cc/Container/7090838C65.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-06T05:42:30.338Z",
+    "link": "https://store.steampowered.com/app/2124490",
+    "steamID": "2124490",
+    "genres": "Action, Adventure, NSFW"
   }
 ]
