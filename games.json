@@ -31156,5 +31156,77 @@
     "link": "https://store.steampowered.com/app/1594060",
     "steamID": "1594060",
     "genres": "Racing, Sports"
+  },
+  {
+    "name": "Halluci Sabbat of Koishi - Touhou Koishi Fan Bundle",
+    "id": "Halluci_Sabbat_of_Koishi",
+    "notes": "",
+    "subName": "Portable V1.0.2 (Full Release) + Build 15876679 & DLCs Included",
+    "description": "Touhou Project, Komeiji Koishi's Action Game, with collision between sword and magic! Help Marisa hold a Sabbat of witches, and explore the way of treasure hunt with wisdom and strength. On the day of the war, there is the glory of death and no shame of life.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1684100/header.jpg?t=1727662952",
+    "gameplay": "https://www.youtube.com/watch?v=BuvsOy1NpNM",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Halluci-Sabbat.of.Koishi-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=118759&p=3139289&hilit=#p3139289",
+    "download": "https://filecrypt.cc/Container/2F54100E6A.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-05T23:58:24.417Z",
+    "link": "https://store.steampowered.com/app/1684100",
+    "steamID": "1684100",
+    "genres": "Action, Adventure, Indie, RPG"
+  },
+  {
+    "name": "Exovoid Carnage",
+    "id": "Exovoid_Carnage",
+    "notes": "",
+    "subName": "Portable V06.10.2024 & Build 15894114",
+    "description": "This HEART-POUNDING WAVE-BASED ARENA SHOOTER catapults you into an alien-infested space station. SHOOT, SHRED, and SURVIVE as you crush enemy hordes, dodge chaos, and challenge yourself to set a new record. The battle escalates with every second—GET IN THERE and FIGHT!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102800/header.jpg?t=1728060478",
+    "gameplay": "https://www.youtube.com/watch?v=y5JyltgXni0",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Exovoid.Carnage-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143634&p=3139302&hilit=#p3139302",
+    "download": "https://filecrypt.cc/Container/3F2CBF8828.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-06T00:23:43.879Z",
+    "link": "https://store.steampowered.com/app/3102800",
+    "steamID": "3102800",
+    "genres": "Action, Indie"
+  },
+  {
+    "name": "Master of Love",
+    "id": "Master_of_Love",
+    "notes": "",
+    "subName": "Portable V06.10.2024 & Build 15926179",
+    "description": "Single and unemployed, 33-year-old Jun-Ho finds himself transported back in time ten years. He takes the chance to romance five women from his past – and get it right this time. Unlock five unique endings in Master of Love, an FMV game that offers the ultimate K-drama experience.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2911280/header.jpg?t=1727713244",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257028439/movie480_vp9.webm?t=1725034391",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Master.of.Love-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142997&p=3139314&hilit=#p3139314",
+    "download": "https://filecrypt.cc/Container/54F23DD11E.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-06T01:20:50.309Z",
+    "link": "https://store.steampowered.com/app/2911280",
+    "steamID": "2911280",
+    "genres": "Casual, Simulation, Strategy"
   }
 ]
