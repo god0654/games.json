@@ -31252,5 +31252,29 @@
     "link": "https://store.steampowered.com/app/2124490",
     "steamID": "2124490",
     "genres": "Action, Adventure, NSFW"
+  },
+  {
+    "name": "OneShot: World Machine Edition",
+    "id": "OneShot_World_Machine_Edition",
+    "notes": "",
+    "subName": "Portable V1.24.10.5.0 + Controller Fix & Build 15938696",
+    "description": "A completely self-contained portable version of one of the highest user-rated games. Built on an entirely new engine with new UI, support for Steam Deck, & more. Features world-bending puzzles, intriguing denizens, surreal environments, and a captivating story about the truth of the game's reality.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915460/header.jpg?t=1727843999",
+    "gameplay": "https://www.youtube.com/watch?v=UebHbhV5kBs",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Owla",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143565&p=3139101&hilit=#p3139101"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143565&p=3139623&hilit=#p3139623",
+    "download": "https://filecrypt.cc/Container/0C0AE2AFA4.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-06T13:44:02.987Z",
+    "link": "https://store.steampowered.com/app/2915460",
+    "steamID": "2915460",
+    "genres": "Adventure, Casual, Indie"
   }
 ]
