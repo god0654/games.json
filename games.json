@@ -31300,5 +31300,29 @@
     "link": "https://store.steampowered.com/app/908360",
     "steamID": "908360",
     "genres": "Action, Adventure, Indie, RPG"
+  },
+  {
+    "name": "The Killing Antidote",
+    "id": "The_Killing_Antidote",
+    "notes": "",
+    "subName": "Portable V0.5 & Build 15944107",
+    "description": "This is a TPS game. Shooting, fighting, dress-up, puzzle solving, and more. In the future, a special germ causes humans to be constantly infected and mutated. The protagonist, Jodi, is a brave journalist who goes on her way to find the legendary antidote and is in danger.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254890/header.jpg?t=1728228660",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257059345/movie480_vp9.webm?t=1727400050",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "imeanyeah",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134309&p=3139884&hilit=#p3139884"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134309&p=3139894&hilit=#p3139894",
+    "download": "https://filecrypt.cc/Container/DF966FF784.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-06T23:04:51.849Z",
+    "link": "https://store.steampowered.com/app/2254890",
+    "steamID": "2254890",
+    "genres": "Action, Adventure, Indie, RPG"
   }
 ]
