@@ -29010,12 +29010,12 @@
     "genres": "Action, Indie, Simulation"
   },
   {
-    "name": "Worlds of Aria",
+    "name": "Worlds of Aria - Supporters Edition",
     "id": "Worlds_of_Aria",
     "notes": "",
-    "subName": "Portable V1.0.7 + Build 15823216 & DLC Included",
+    "subName": "Portable V1.0.15 + Build 15930498 & DLC Included",
     "description": "Lead your own adventuring party on an epic exploit inspired by tabletop role-playing games. Invite your friends to the group with the Friends Pass, or strike out on your own. Collaboration, betrayal, and the luck of the dice…what wild escapades will you and your companions embark on?",
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1866980/header.jpg?t=1727186644",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1866980.webp",
     "gameplay": "https://www.youtube.com/watch?v=vyRrBVwAoxU",
     "tags": [
       "gse"
@@ -29023,12 +29023,12 @@
     "based": {
       "info": "csf",
       "credits": "KawMow",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=119250&p=3133048&hilit=#p3133048"
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=119250&p=3138265&hilit=#p3138265"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=119250&p=3133095&hilit=#p3133095",
-    "download": "https://filecrypt.cc/Container/9FF6CB5A0C.html",
-    "achievements": false,
-    "dateUpdated": "2024-09-26T13:05:12.041Z",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=119250&p=3139945&hilit=#p3139945",
+    "download": "https://filecrypt.cc/Container/16A16A65D4.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-07T02:19:14.963Z",
     "link": "https://store.steampowered.com/app/1866980",
     "steamID": "1866980",
     "genres": "Adventure, RPG"
@@ -31324,5 +31324,77 @@
     "link": "https://store.steampowered.com/app/2254890",
     "steamID": "2254890",
     "genres": "Action, Adventure, Indie, RPG"
+  },
+  {
+    "name": "Sparky: Hills of Death",
+    "id": "Sparky_Hills_of_Death",
+    "notes": "",
+    "subName": "Portable V1.2-Fix & Build 15867647",
+    "description": "Hito Corporation immerses players in a dark universe where the monster, Sparky, comes to life in a sinister way, blurring the boundaries between reality and game. While cyber security expert Zac and his girlfriend Marina face strange events both in the game and in real life.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2960610/header.jpg?t=1728082466",
+    "gameplay": "https://www.youtube.com/watch?v=qLV7N0xZe14",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/Sparky.Hills.of.Death-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143648&p=3139938&hilit=#p3139938",
+    "download": "https://filecrypt.cc/Container/DE438FCCC5.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-07T01:14:00.126Z",
+    "link": "https://store.steampowered.com/app/2960610",
+    "steamID": "2960610",
+    "genres": "Action, Adventure, Indie, Strategy"
+  },
+  {
+    "name": "HorrorVale",
+    "id": "HorrorVale",
+    "notes": "",
+    "subName": "Portable V1.0.1 (Full Release) + Build 15942691 & DLC Included",
+    "description": "HorrorVale: A spooky, horror themed RPG adventure!\n",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114650/header.jpg?t=1727784394",
+    "gameplay": "https://www.youtube.com/watch?v=Rz-lS_FRqzU",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/HorrorVale-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=98361&p=3139916&hilit=#p3139916",
+    "download": "https://filecrypt.cc/Container/57132A7FDE.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-07T01:17:17.228Z",
+    "link": "https://store.steampowered.com/app/1114650",
+    "steamID": "1114650",
+    "genres": "Adventure, Indie, RPG"
+  },
+  {
+    "name": "The Strongest TOFU",
+    "id": "The_Strongest_TOFU",
+    "notes": "",
+    "subName": "Portable V07.10.2024 & Build 15932927",
+    "description": "Be The TOFU. The one and only Tofu action game created by a real Tofu Meister. You choose one of three varieties, and in its endless journey it gradually softens, crumbles, stews, and acquires bittern to become TOFU.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2408680/header.jpg?t=1727794858",
+    "gameplay": "https://www.youtube.com/watch?v=9xUkxaQVSjE",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://api.predb.net/nfoimg/The.Strongest.TOFU-TENOKE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143548&p=3139957&hilit=#p3139957",
+    "download": "https://filecrypt.cc/Container/6FCBB580C0.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-07T02:19:03.594Z",
+    "link": "https://store.steampowered.com/app/2408680",
+    "steamID": "2408680",
+    "genres": "Action, Indie"
   }
 ]
