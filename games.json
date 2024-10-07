@@ -31420,5 +31420,29 @@
     "link": "https://store.steampowered.com/app/763180",
     "steamID": "763179",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Dragon Heat: Sparking! ZERO - Ultimate Edition",
+    "id": "DRAGON_BALL_Sparking_ZERO",
+    "notes": "",
+    "subName": "Portable V1003.003.003.003.002 + Build 15903122 & DLCs Included",
+    "description": "DRAGON BALL: Sparking! ZERO takes the legendary gameplay of the Budokai Tenkaichi series and raises it to whole new levels. Make yours the destructive power of the strongest fighters ever to appear in DRAGON BALL!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/DHSZ.webp",
+    "gameplay": "https://www.youtube.com/watch?v=gL6Mx6bHnPc",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "FLT",
+      "link": "https://predb.net/rls/DRAGON_BALL_Sparking_ZERO-FLT"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137092&p=3140624&hilit=#p3140624",
+    "download": "https://filecrypt.cc/Container/D8D2C6A9AF.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-07T23:41:17.283Z",
+    "link": "",
+    "steamID": "",
+    "genres": "Action"
   }
 ]
