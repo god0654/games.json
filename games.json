@@ -31396,5 +31396,29 @@
     "link": "https://store.steampowered.com/app/2408680",
     "steamID": "2408680",
     "genres": "Action, Indie"
+  },
+  {
+    "name": "Anima Flux",
+    "id": "Anima_Flux",
+    "notes": "",
+    "subName": "Portable V1.0.7 & Build 15951066",
+    "description": "Anima Flux is a co-op metroidvania with two genetically enhanced soldiers, special agents of a theocratic dictatorial regime. Fight your way through swarms of mutants through a desolate, dystopian space city and save humanity's last stronghold, if, of course, anyone is still alive...",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763180/header.jpg?t=1728294492",
+    "gameplay": "https://www.youtube.com/watch?v=PXBMozKjzjA",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Anima.Flux-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=93986&p=3140120&hilit=#p3140120",
+    "download": "https://filecrypt.cc/Container/1FE6C621BC.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-07T11:21:43.893Z",
+    "link": "https://store.steampowered.com/app/763180",
+    "steamID": "763179",
+    "genres": "Action, Adventure, Indie"
   }
 ]
