@@ -11009,28 +11009,29 @@
     "link": "https://store.steampowered.com/app/2662810"
   },
   {
-    "name": "Outbreak The Fedora Files: What Lydia Knows",
+    "name": "Anno 2205™ : Frontiers - Ultimate Edition",
     "id": "",
     "notes": "",
-    "subName": "Portable V06.05.2024 & Build 14259270",
-    "description": "Something is foul in the city of Cypress Ridge. Uncover the truth in this narrative rich visual novel taking place just moments before a full blown undead epidemic.",
-    "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2587130/header.jpg?t=1714752164",
-    "gameplay": "https://youtu.be/ecBgSxfOVZ8",
+    "subName": "Portable V08.10.2024 + Build 10985393 & DLCs Included",
+    "description": "In Anno 2205™, you join humankind‘s next step into the future with the promise to build a better tomorrow. You conquer Earth, establishing rich, bustling cities and grand industrial complexes, but to secure the prosperity of your people, you must travel into space.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/526040.webp",
+    "gameplay": "https://www.youtube.com/watch?v=shEtC2y2m_k",
     "tags": [
-      "scene"
+      "scene",
+      "denuvo"
     ],
     "based": {
       "info": "nfo",
-      "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Outbreak.The.Fedora.Files.What.Lydia.Knows-TENOKE.png"
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Anno.2205.Frontiers-RUNE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140367&p=3046002&hilit=#p3046002",
-    "download": "https://filecrypt.cc/Container/96D85D8A03.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=68164&p=3141153&hilit=#p3141153",
+    "download": "https://filecrypt.cc/Container/A57DC8133C.html",
     "achievements": false,
-    "dateUpdated": "2024-07-24T19:23:25.183Z",
-    "steamID": "2587130",
-    "genres": "Adventure, Casual, Indie, RPG",
-    "link": "https://store.steampowered.com/app/2587130"
+    "dateUpdated": "2024-10-08T17:18:42.246Z",
+    "link": "https://store.steampowered.com/app/375910",
+    "steamID": "375910",
+    "genres": "Simulation, Strategy"
   },
   {
     "name": "Meta-Ghost: The Breaking Show",
