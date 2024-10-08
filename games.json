@@ -31444,5 +31444,101 @@
     "link": "",
     "steamID": "",
     "genres": "Action, NSFW"
+  },
+  {
+    "name": "Gwihyang : Homecoming",
+    "id": "Gwihyang__Homecoming",
+    "notes": "",
+    "subName": "Portable V08.10.2024 & Build 15787053",
+    "description": "\"Gwihyang\" captures the traditional image of Korea, giving it a new experience. A tense adventure unfolds in which you escape the threat of monsters in the changing space and use items to escape. Hope you can enjoy fear and fun at the same time through this \"Gwihyang\" with Korean sentiment.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3060970/header.jpg?t=1726412438",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257032610/movie480_vp9.webm?t=1718980077",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Gwihyang.Homecoming-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143659&p=3140692&hilit=#p3140692",
+    "download": "https://filecrypt.cc/Container/D019A46E60.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-08T01:12:55.548Z",
+    "link": "https://store.steampowered.com/app/3060970",
+    "steamID": "3060970",
+    "genres": "Indie"
+  },
+  {
+    "name": "Left to Rot - Trinity Bundle",
+    "id": "Left_to_Rot",
+    "notes": "",
+    "subName": "Portable V1.0.1 + Build 15894734 & DLCs Included",
+    "description": "Left to Rot is a walking simulator psychological horror game. You take on the role of Luca, a young man caught up in a horrific mystery. If you make noise... It's game over! (You will need a Microphone)!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2020840.webp",
+    "gameplay": "https://www.youtube.com/watch?v=2J1FSo8SKDQ",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Left.to.Rot-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143662&p=3140704&hilit=#p3140704",
+    "download": "https://filecrypt.cc/Container/DFBE3B1070.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-08T01:41:40.917Z",
+    "link": "https://store.steampowered.com/app/2020840",
+    "steamID": "2020840",
+    "genres": "Action, Indie"
+  },
+  {
+    "name": "Tails Noir: Rebel Rush",
+    "id": "Tails_Noir_Rebel_Rush",
+    "notes": "",
+    "subName": "Portable V3.3.6 + Build 15831489 & DLC Included",
+    "description": "Rebel Rush is a single-player speedrunning driving platformer where you sacrifice himbos for hideous carkour moves.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001200/header.jpg?t=1727959454",
+    "gameplay": "https://www.youtube.com/watch?v=r2N5TEw6e1g",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Tails.Noir.Rebel.Rush-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143254&p=3140716&hilit=#p3140716",
+    "download": "https://filecrypt.cc/Container/925FEC83D2.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-08T02:02:56.762Z",
+    "link": "https://store.steampowered.com/app/3001200",
+    "steamID": "3001200",
+    "genres": "Action, Indie, Racing"
+  },
+  {
+    "name": "The Little Girl in Red: The Tag-Along - Soundtrack Bundle",
+    "id": "THE_TAG_ALONG_OBSESSION",
+    "notes": "",
+    "subName": "Portable V1.0.0.3 + Build 15927793 & DLC Included",
+    "description": "《THE TAG-ALONG OBSESSION》 is a first-person horror puzzle game. You will play Hui Ting and enter the long-abandoned resort to explore the truth of everything. The props survive as much as possible and solve all the mysteries and connections to her own past.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2957670/header.jpg?t=1726814200",
+    "gameplay": "https://www.youtube.com/watch?v=ybvb8S3UkjY",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/THE.TAG-ALONG.OBSESSION-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143253&p=3140729&hilit=#p3140729",
+    "download": "https://filecrypt.cc/Container/C9DEC3FFB2.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-08T02:39:24.103Z",
+    "link": "https://store.steampowered.com/app/2957670",
+    "steamID": "2957670",
+    "genres": "Adventure, RPG"
   }
 ]
