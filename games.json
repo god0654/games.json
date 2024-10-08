@@ -31540,5 +31540,54 @@
     "link": "https://store.steampowered.com/app/2957670",
     "steamID": "2957670",
     "genres": "Adventure, RPG"
+  },
+  {
+    "name": "Beloved Rapture",
+    "id": "Beloved_Rapture",
+    "notes": "",
+    "subName": "Portable V1.0 & BuildID 57992055069443698",
+    "description": "Beloved Rapture is an indie jRPG inspired by the classics. Explore beautiful landscapes, fight in turn-based battles, and uncover many secrets. This mid-length adventure balances both an intimate coming of age story, and larger threats looming over the troubled kingdom.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2017620/header.jpg?t=1728321401",
+    "gameplay": "https://www.youtube.com/watch?v=S6chq5WCi4Q",
+    "tags": [
+      "drmfree",
+      "gog"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "DINOByTES",
+      "link": "https://predb.net/rls/Beloved_Rapture-DINOByTES"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143657&p=3140940&hilit=#p3140940",
+    "download": "https://filecrypt.cc/Container/89EC7D1546.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-08T12:18:24.064Z",
+    "link": "https://store.steampowered.com/app/2017620",
+    "steamID": "2017620",
+    "genres": "Adventure, Indie, RPG"
+  },
+  {
+    "name": "Sex & Blood: Vampires",
+    "id": "Sex_and_Blood_Vampires",
+    "notes": "",
+    "subName": "Portable V08.10.2024 & Build 15938943",
+    "description": "You’re a hot futa girl trying to settle old scores - you’ll have to navigate the enigmatic city to fight and bang hot vampires, find their queen and investigate the disappearance of your friend in the gritty, cyberpunk-themed visual novel packed with RPG combat elements - Sex & Blood: Vampires!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2657030/header.jpg?t=1728245739",
+    "gameplay": "https://www.youtube.com/watch?v=s3spYp1faiM",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://digitalzone.vercel.app/games/Sex_and_Blood_Vampires"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143669&p=3140962&hilit=#p3140962",
+    "download": "https://filecrypt.cc/Container/E8BB4D722D.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-08T12:45:27.160Z",
+    "link": "https://store.steampowered.com/app/2657030",
+    "steamID": "2657030",
+    "genres": "Action, Adventure, Casual, Simulation, NSFW"
   }
 ]
