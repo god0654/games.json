@@ -31638,5 +31638,30 @@
     "link": "https://store.steampowered.com/app/2666550",
     "steamID": "2666550",
     "genres": "Indie, Strategy"
+  },
+  {
+    "name": "Anno 2205™ : Frontiers - Ultimate Edition",
+    "id": "Anno_2205",
+    "notes": "",
+    "subName": "Portable V08.10.2024 + Build 10985393 & DLCs Included",
+    "description": "In Anno 2205™, you join humankind‘s next step into the future with the promise to build a better tomorrow. You conquer Earth, establishing rich, bustling cities and grand industrial complexes, but to secure the prosperity of your people, you must travel into space.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/526040.webp",
+    "gameplay": "https://www.youtube.com/watch?v=shEtC2y2m_k",
+    "tags": [
+      "scene",
+      "denuvo"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://api.predb.net/nfoimg/Anno.2205.Frontiers-RUNE.png"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=68164&p=3141153&hilit=#p3141153",
+    "download": "https://filecrypt.cc/Container/A57DC8133C.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-08T17:30:01.577Z",
+    "link": "https://store.steampowered.com/app/375910",
+    "steamID": "375910",
+    "genres": "Simulation, Strategy"
   }
 ]
