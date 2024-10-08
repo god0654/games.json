@@ -31638,5 +31638,29 @@
     "link": "https://store.steampowered.com/app/375910",
     "steamID": "375910",
     "genres": "Simulation, Strategy"
+  },
+  {
+    "name": "LEGO® Harry Potter™ Collection",
+    "id": "LEGO_Harry_Potter_Collection",
+    "notes": "How to Play: Launch LHPC.exe in ''LEGO Harry Potter Collection\\'' to play the game.",
+    "subName": "Portable V08.10.2024 & Build 15890240",
+    "description": "The LEGO® Harry Potter™: Collection brings LEGO® Harry Potter™: Years 1-4 and LEGO® Harry Potter™: Years 5-7 together in one game, now remastered with enhanced graphics.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950340/header.jpg?t=1728406570",
+    "gameplay": "https://www.youtube.com/watch?v=jn49ov_aEwQ",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Masquerade!",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143026&p=3141163&hilit=#p3141163"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143026&p=3141338&hilit=#p3141338",
+    "download": "https://filecrypt.cc/Container/E3D37B3993.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-08T23:22:33.891Z",
+    "link": "https://store.steampowered.com/app/2950340",
+    "steamID": "2950340",
+    "genres": "Action, Adventure, Casual"
   }
 ]
