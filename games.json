@@ -30507,8 +30507,8 @@
   {
     "name": "Recycling Center Simulator",
     "id": "Recycling_Center_Simulator",
-    "notes": "How to Play in DX11, DX12, Vulkan or OpenGL: 4 .bat were added to the main folder.\n",
-    "subName": "Portable V1.0.5 & Build 15772463",
+    "notes": "How to Play in DX11, Vulkan or OpenGL: 3 .bat were added to the main folder.\n",
+    "subName": "Portable V1.0.7 & Build 15964381",
     "description": "Recycling Center Simulator is a business simulator game with a first person view. Make money from garbage, collect raw materials for your recycling center from different locations, recycle them, make money by producing new products and improve your factory.",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928520/header.jpg?t=1727874593",
     "gameplay": "https://www.youtube.com/watch?v=tXXebMCLiB8",
@@ -30517,13 +30517,13 @@
     ],
     "based": {
       "info": "csf",
-      "credits": "cbander",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143448&p=3134358&hilit=#p3134358"
+      "credits": "Naveenlemmer",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143448&p=3141074&hilit=#p3141074"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143448&p=3137190&hilit=#p3137190",
-    "download": "https://filecrypt.cc/Container/3CD73BED89.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143448&p=3141361&hilit=#p3141361",
+    "download": "https://filecrypt.cc/Container/66D79B2584.html",
     "achievements": false,
-    "dateUpdated": "2024-10-02T20:08:25.747Z",
+    "dateUpdated": "2024-10-09T00:15:55.481Z",
     "link": "https://store.steampowered.com/app/2928520",
     "steamID": "2928518",
     "genres": "Casual, Indie, Simulation"
@@ -31642,7 +31642,7 @@
   {
     "name": "LEGO® Harry Potter™ Collection",
     "id": "LEGO_Harry_Potter_Collection",
-    "notes": "How to Play: Launch LHPC.exe in ''LEGO Harry Potter Collection\\'' to play the game.",
+    "notes": "How to Play: Launch LHPC.exe in ''LEGO Harry Potter Collection\\''.",
     "subName": "Portable V08.10.2024 & Build 15890240",
     "description": "The LEGO® Harry Potter™: Collection brings LEGO® Harry Potter™: Years 1-4 and LEGO® Harry Potter™: Years 5-7 together in one game, now remastered with enhanced graphics.",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950340/header.jpg?t=1728406570",
