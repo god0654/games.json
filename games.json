@@ -14422,7 +14422,7 @@
   {
     "name": "The Planet Crafter: Planet Humble - The Galactic Terraformer Edition",
     "id": "The_Planet_Crafter",
-    "notes": "",
+    "notes": "Note: GoldBerg with Achievements, .dll Original by RUNE and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.\n\nTPC_Fix_Repair_Steam_Generic: Password is always digitalzone, forgot to edit the README.txt.",
     "subName": "Portable V1.310.14_1651 + Build 15978553 + DLCs Included & Online Supported",
     "description": "A space survival open world terraforming crafting game. Transform the ecosystem of a hostile planet to make it livable for humans. Survive, collect, build your base then create oxygen, heat and pressure to make a brand new biosphere.",
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3142540.webp",
