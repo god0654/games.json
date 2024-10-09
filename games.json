@@ -14420,28 +14420,29 @@
     "link": "https://store.steampowered.com/app/1993450"
   },
   {
-    "name": "The Planet Crafter",
+    "name": "The Planet Crafter: Planet Humble - The Galactic Terraformer Edition",
     "id": "The_Planet_Crafter",
     "notes": "",
-    "subName": "Portable V1.0 & Build 14007608",
+    "subName": "Portable V1.310.14_1651 + Build 15978553 + DLCs Included & Online Supported",
     "description": "A space survival open world terraforming crafting game. Transform the ecosystem of a hostile planet to make it livable for humans. Survive, collect, build your base then create oxygen, heat and pressure to make a brand new biosphere.",
-    "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1284190/header_alt_assets_5.jpg?t=1712757293",
-    "gameplay": "https://youtu.be/96tIJhk9G7Q",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3142540.webp",
+    "gameplay": "https://www.youtube.com/watch?v=iu2VkUgUH2I",
     "tags": [
-      "scene"
+      "gse",
+      "ofme"
     ],
     "based": {
       "info": "nfo",
       "credits": "RUNE",
-      "link": "https://api.predb.net/nfoimg/The.Planet.Crafter-RUNE.png"
+      "link": "https://api.predb.net/nfoimg/The.Planet.Crafter.Planet.Humble-RUNE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=115024&p=3030673&hilit=#p3030673",
-    "download": "https://filecrypt.cc/Container/E8EFC729F6.html",
-    "achievements": false,
-    "dateUpdated": "2024-07-25T16:22:46.532Z",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=115024&p=3141667&hilit=#p3141667",
+    "download": "https://filecrypt.cc/Container/72A0466737.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-09T14:00:48.079Z",
+    "link": "https://store.steampowered.com/app/1284190",
     "steamID": "1284190",
-    "genres": "Adventure",
-    "link": "https://store.steampowered.com/app/1284190"
+    "genres": "Adventure"
   },
   {
     "name": "Ereban: Shadow Legacy",
