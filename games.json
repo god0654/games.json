@@ -31833,5 +31833,53 @@
     "link": "https://store.steampowered.com/app/1404090",
     "steamID": "1404090",
     "genres": "Casual, Strategy"
+  },
+  {
+    "name": "Meiji Tokyo Renka Full Moon",
+    "id": "Meiji_Tokyo_Renka_Full_Moon",
+    "notes": "",
+    "subName": "Portable V09.10.2024 & Build 15584938",
+    "description": "“Meiji Tokyo Renka Full Moon” (also known as “Meikoi”) is a historical romance fantasy game in which the main character travels back in time to the Meiji era and meets and falls in love with the great figures of history. Having ability changes her relationship with them....",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779890/header.jpg?t=1727917607",
+    "gameplay": "https://www.youtube.com/watch?v=fL04Ovw3AiE",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "Anime-Sharing",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143593&p=3141378&hilit=#p3141378"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143593&p=3142007&hilit=#p3142007",
+    "download": "https://filecrypt.cc/Container/1F2BFBA461.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-10T01:35:56.246Z",
+    "link": "https://store.steampowered.com/app/2779890",
+    "steamID": "2779890",
+    "genres": "Adventure"
+  },
+  {
+    "name": "Tarnished Blood",
+    "id": "Tarnished_Blood",
+    "notes": "",
+    "subName": "Portable Vff0160ec0 & Build 15968545",
+    "description": "Serve the ancient Protector Tree, as you slay gigantic beasts and harvest their essence in this turn-based roguelite RPG with a truly unique, time-bending battle mechanic! Can you help a group of hunters survive in the cruel world under the Dome…?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291700/header.jpg?t=1728308678",
+    "gameplay": "https://www.youtube.com/watch?v=i4zpvyILcQ0",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "SebastionGray",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138080&p=3141832&hilit=#p3141832"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138080&p=3142015&hilit=#p3142015",
+    "download": "https://filecrypt.cc/Container/2BA57D5DB7.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-10T01:56:25.626Z",
+    "link": "https://store.steampowered.com/app/2291700",
+    "steamID": "2291700",
+    "genres": "RPG, Strategy"
   }
 ]
