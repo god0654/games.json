@@ -31891,7 +31891,8 @@
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1909750.webp",
     "gameplay": "https://www.youtube.com/watch?v=MwlYQLa2Js8",
     "tags": [
-      "gse"
+      "gse",
+      "steamless"
     ],
     "based": {
       "info": "csf",
@@ -31929,5 +31930,29 @@
     "link": "https://store.steampowered.com/app/2501600",
     "steamID": "2501600",
     "genres": "Casual, Indie, Strategy"
+  },
+  {
+    "name": "Tipston Salvage",
+    "id": "Tipston_Salvage",
+    "notes": "",
+    "subName": "Portable V10.10.2024 & Build 15995008",
+    "description": "Operate dysfunctional junkyards together with your friends in this knockabout couch co-op game for 2-4 players. Tipston Salvage is all about cooperation, communication and hard work!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1358790/header.jpg?t=1728572142",
+    "gameplay": "https://www.youtube.com/watch?v=iME-vml-0Nk",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Dound",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143700&p=3142299&hilit=#p3142299"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143700&p=3142323&hilit=#p3142323",
+    "download": "https://filecrypt.cc/Container/EDE80F302A.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-10T16:17:32.040Z",
+    "link": "https://store.steampowered.com/app/1358790",
+    "steamID": "1358790",
+    "genres": "Indie, Racing, Strategy"
   }
 ]
