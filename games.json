@@ -32037,7 +32037,8 @@
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1742360/header.jpg?t=1727960449",
     "gameplay": "https://www.youtube.com/watch?v=ndvHDh8x3Q8",
     "tags": [
-      "gse"
+      "gse",
+      "steamless"
     ],
     "based": {
       "info": "csf",
@@ -32051,5 +32052,53 @@
     "link": "https://store.steampowered.com/app/1742360",
     "steamID": "1742360",
     "genres": "Indie, RPG, Simulation, Sports, Strategy"
+  },
+  {
+    "name": "Storage Hunter Simulator",
+    "id": "Storage_Hunter_Simulator",
+    "notes": "",
+    "subName": "Portable V9664 & Build 15952429",
+    "description": "Play as one of the bidders for abandoned warehouses and uncover hidden treasures! Storage Hunter is a garage auction simulation game. Bid, win, and sell for profit! Become the king of storage auction.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442430/header.jpg?t=1728577856",
+    "gameplay": "https://www.youtube.com/watch?v=8t95WMDsoGk",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "cbander",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143701&p=3142354&hilit=#p3142354"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143701&p=3142495&hilit=#p3142495",
+    "download": "https://filecrypt.cc/Container/217C5AAAD5.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-10T20:11:33.862Z",
+    "link": "https://store.steampowered.com/app/1442430",
+    "steamID": "1442430",
+    "genres": "Casual, Indie, Simulation"
+  },
+  {
+    "name": "Timberborn - Wonders of Water",
+    "id": "Timberborn",
+    "notes": "",
+    "subName": "Portable V0.6.8.4-e18214b-sw + Build 15964785 & DLC Included",
+    "description": "Humans are long gone. In a world struck by droughts and toxic waste, will your lumberpunk beavers do any better? A city-building game featuring ingenious animals, vertical architecture, water physics, and terraforming. Contains high amounts of wood.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/header_alt_assets_5.jpg?t=1728569824",
+    "gameplay": "https://www.youtube.com/watch?v=GjzjEc5NvAo",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "SJB",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=102510&p=3142266&hilit=#p3142266"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=102510&p=3142521&hilit=#p3142521",
+    "download": "https://filecrypt.cc/Container/F7279802B0.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-10T20:54:11.000Z",
+    "link": "https://store.steampowered.com/app/1062090",
+    "steamID": "1062090",
+    "genres": "Indie, Simulation, Strategy"
   }
 ]
