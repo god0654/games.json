@@ -3182,28 +3182,28 @@
     "link": "https://store.steampowered.com/app/2822030"
   },
   {
-    "name": "Vault of the Void - Developer Supporter Pack",
+    "name": "Vault of the Void - Nightmare",
     "id": "Vault_of_the_Void",
-    "notes": "Updates applied: Vault.of.the.Void.Update.v2.4.12.0/v2.5.22.0-TENOKE.",
-    "subName": "Portable V2.5.22.0 + Build 14970851 & DLCs Included",
+    "notes": "",
+    "subName": "Portable V2.6.15.0 + Build 15943268 & DLCs Included",
     "description": "Vault of the Void is a fast-paced roguelike deckbuilder where the power is in your hands. Continuously customise your deck, crafting powerful combos and ingenious strategies. Upgrade your cards with Void Stones, infusing them with new abilities to help defeat the minions of The Void!",
-    "thumbnail": "https://god0654.github.io/DigitalZone/Images/Vault%20of%20the%20Void%20-%20Developer%20Supporter%20Pack.webp",
-    "gameplay": "https://youtu.be/eKcoH3fLts0",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135810/header.jpg?t=1719706996",
+    "gameplay": "https://www.youtube.com/watch?v=c6KP_7c0U58",
     "tags": [
       "gse"
     ],
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Vault.of.the.Void.Update.v2.5.22.0-TENOKE.png"
+      "link": "https://predb.net/rls/Vault.of.the.Void.v2.6.15.0-TENOKE"
     },
-    "download": "https://filecrypt.cc/Container/4DD4C488A2.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=109298&p=3141968&hilit=#p3141968",
+    "download": "https://filecrypt.cc/Container/A6BB1B9C6A.html",
     "achievements": true,
-    "dateUpdated": "2024-07-23T11:23:15.910Z",
-    "csrinru": "",
+    "dateUpdated": "2024-10-10T00:18:10.748Z",
+    "link": "",
     "steamID": "",
-    "genres": "",
-    "link": ""
+    "genres": ""
   },
   {
     "name": "The Rogue Prince of Persia - Weapons Within",
@@ -14423,7 +14423,7 @@
     "name": "The Planet Crafter: Planet Humble - The Galactic Terraformer Edition",
     "id": "The_Planet_Crafter",
     "notes": "Note: GoldBerg with Achievements, .dll Original by RUNE and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.\n\nTPC_Fix_Repair_Steam_Generic: Password is always digitalzone, forgot to edit the README.txt.",
-    "subName": "Portable V1.310.14_1651 + Build 15978553 + DLCs Included & Online Supported",
+    "subName": "Portable V1.310.4_65 + Build 15978553 + DLCs Included & Online Supported",
     "description": "A space survival open world terraforming crafting game. Transform the ecosystem of a hostile planet to make it livable for humans. Survive, collect, build your base then create oxygen, heat and pressure to make a brand new biosphere.",
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3142540.webp",
     "gameplay": "https://www.youtube.com/watch?v=iu2VkUgUH2I",
@@ -31761,5 +31761,77 @@
     "link": "https://store.steampowered.com/app/2058150",
     "steamID": "2058150",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Extra Coin",
+    "id": "Extra_Coin",
+    "notes": "",
+    "subName": "Portable V1.2.0 & Build 15964893",
+    "description": "Extra Coin is a story-rich life sim set between the real world and a virtual utopia: explore the city, do activities, and face your opponents. Would you rather respect the Loop or break it to find your lost parents?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290980/header.jpg?t=1728403619",
+    "gameplay": "https://www.youtube.com/watch?v=Zm9RwdtSbyg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Extra.Coin-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=109866&p=3141938&hilit=#p3141938",
+    "download": "https://filecrypt.cc/Container/F8FB3E90E2.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-09T23:00:42.209Z",
+    "link": "https://store.steampowered.com/app/1290980",
+    "steamID": "1290980",
+    "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Placid Plastic Duck: Rooftop One Percent - More Ducks Everywhere Bundle",
+    "id": "Placid_Plastic_Duck",
+    "notes": "",
+    "subName": "Portable V10.10.2024 + Build 15965651 & DLCs Included",
+    "description": "The ultimate high-tech rubber duck simulation, Placid Plastic Duck brings you dangerous levels of relaxation. With chill music, dreamy 3D graphics, and many different happy ducks, your only priority is to float around. Zero Ducks given.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1999360/header.jpg?t=1728056800",
+    "gameplay": "https://www.youtube.com/watch?v=dDZ8sA-c_yA",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Placid.Plastic.Duck.Rooftop.One.Percent-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=124506&p=3141951&hilit=#p3141951",
+    "download": "https://filecrypt.cc/Container/8082597BA0.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-09T23:34:22.535Z",
+    "link": "https://store.steampowered.com/app/1999360",
+    "steamID": "1999360",
+    "genres": "Casual, Simulation"
+  },
+  {
+    "name": "Trivia Tricks",
+    "id": "Trivia_Tricks",
+    "notes": "",
+    "subName": "Portable V1.0.0 (Full Release) & Build 15965510",
+    "description": "Trivia Tricks is a quiz game featuring 8-player online where friends play free with Friend Pass! Play competitively against your friends or team up to take on trivia bosses in Co-Op! Pick from a ton of categories including user-created Quiz Packs in Steam Workshop!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404090/header.jpg?t=1728399317",
+    "gameplay": "https://www.youtube.com/watch?v=uTIJnR-sZTw",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Trivia.Tricks-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=112133&p=3141965&hilit=#p3141965",
+    "download": "https://filecrypt.cc/Container/6AE9711AF1.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-09T23:54:51.545Z",
+    "link": "https://store.steampowered.com/app/1404090",
+    "steamID": "1404090",
+    "genres": "Casual, Strategy"
   }
 ]
