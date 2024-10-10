@@ -32003,5 +32003,29 @@
     "link": "https://store.steampowered.com/app/1204040",
     "steamID": "1204040",
     "genres": "Action, Indie"
+  },
+  {
+    "name": "Shady Knight",
+    "id": "Shady_Knight",
+    "notes": "",
+    "subName": "Portable V0450.101024 & Build 15996601",
+    "description": "Shady Knight is a first-person skill-driven melee action game centered around swift swordplay, acrobatic archery, and fluid platforming that seamlessly blends combat and parkour skills into a stylish dance of death full of creative chaos.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155650/header.jpg?t=1728552261",
+    "gameplay": "https://www.youtube.com/watch?v=ZYAPLUpCkq8",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "broombab",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143611&p=3142296&hilit=#p3142296"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143611&p=3142436&hilit=#p3142436",
+    "download": "https://filecrypt.cc/Container/C4AC913C6B.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-10T18:41:46.533Z",
+    "link": "https://store.steampowered.com/app/1155650",
+    "steamID": "1155650",
+    "genres": "Action, Indie"
   }
 ]
