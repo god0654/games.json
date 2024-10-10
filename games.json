@@ -32100,5 +32100,30 @@
     "link": "https://store.steampowered.com/app/1062090",
     "steamID": "1062090",
     "genres": "Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Plague: London 1665",
+    "id": "Plague_London_1665",
+    "notes": "",
+    "subName": "Portable V1.0.2 & BuildID 57977661027704927",
+    "description": "Plague: London 1665 is an RPG with pixel art graphics set in 1665's during the Bubonic Plague outbreak in overcrowded and polluted London. As a body collector, graveyard keeper, and family provider, avoid the disease while clearing the streets. Will you survive the outbreak or become another victim?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2225010/header.jpg?t=1728540968",
+    "gameplay": "https://www.youtube.com/watch?v=CaAmgJkjh-o",
+    "tags": [
+      "drmfree",
+      "gog"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TiNYiSO",
+      "link": "https://predb.net/rls/Plague.London.1665-TiNYiSO"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143706&p=3142553&hilit=#p3142553",
+    "download": "https://filecrypt.cc/Container/CE5517C648.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-10T21:34:13.753Z",
+    "link": "https://store.steampowered.com/app/2225010",
+    "steamID": "2225010",
+    "genres": "Adventure, Indie, RPG, Simulation"
   }
 ]
