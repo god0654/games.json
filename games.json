@@ -31881,5 +31881,29 @@
     "link": "https://store.steampowered.com/app/2291700",
     "steamID": "2291700",
     "genres": "RPG, Strategy"
+  },
+  {
+    "name": "Last Time I Saw You - OST Bundle",
+    "id": "Last_Time_I_Saw_You",
+    "notes": "",
+    "subName": "Portable V10.10.2024 & Build 15600890",
+    "description": "First loves. Family issues. Yokai. 'Last Time I Saw You' is a coming-of-age adventure set in 1980s Japan. Explore a haunted forest hiding a terrible secret, and interact with a vast cast of friendly and deceitful characters in this beautifully hand-drawn story with some light action elements.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1909750.webp",
+    "gameplay": "https://www.youtube.com/watch?v=MwlYQLa2Js8",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Pegasus1010",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=123693&p=3142231&hilit=#p3142231"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=123693&p=3142240&hilit=#p3142240",
+    "download": "https://filecrypt.cc/Container/E4C79E8325.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-10T14:17:19.354Z",
+    "link": "https://store.steampowered.com/app/1909750",
+    "steamID": "1909750",
+    "genres": "Adventure, Casual, Indie"
   }
 ]
