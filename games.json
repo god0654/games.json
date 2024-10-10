@@ -31905,5 +31905,29 @@
     "link": "https://store.steampowered.com/app/1909750",
     "steamID": "1909750",
     "genres": "Adventure, Casual, Indie"
+  },
+  {
+    "name": "DICEOMANCER",
+    "id": "DICEOMANCER",
+    "notes": "",
+    "subName": "Portable V1.0.9 & Build 15993161",
+    "description": "DICEOMANCER is a roguelike deck-building game. Though you long for a peaceful life, you're forced to embark on an adventure. In this world of swords, magic, and guns, make good use of your dice and deck to find a way back to tranquility! What can the dice be used for? To change... anything.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2501600/header.jpg?t=1728572258",
+    "gameplay": "https://www.youtube.com/watch?v=74hhKz-rkuA",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "broombab",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135527&p=3142298&hilit=#p3142298"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135527&p=3142306&hilit=#p3142306",
+    "download": "https://filecrypt.cc/Container/D15C986E95.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-10T15:56:56.787Z",
+    "link": "https://store.steampowered.com/app/2501600",
+    "steamID": "2501600",
+    "genres": "Casual, Indie, Strategy"
   }
 ]
