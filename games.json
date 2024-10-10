@@ -31954,5 +31954,29 @@
     "link": "https://store.steampowered.com/app/1358790",
     "steamID": "1358790",
     "genres": "Indie, Racing, Strategy"
+  },
+  {
+    "name": "Backyard Baseball '97",
+    "id": "Backyard_Baseball_97",
+    "notes": "",
+    "subName": "Portable V10.10.2024 + Controller Fix & Build 15825580",
+    "description": "Rediscover the joy of the original Backyard Baseball 1997, now updated for modern systems! Build your roster from among the iconic Backyard Kids, aim for those home runs, and various game modes. Relive the magic of this classic baseball game!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3170540/header.jpg?t=1728567268",
+    "gameplay": "https://www.youtube.com/watch?v=KYbHFPLBRJw",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Wayne!",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143699&p=3142278&hilit=#p3142278"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143699&p=3142349&hilit=#p3142349",
+    "download": "https://filecrypt.cc/Container/FB14E8CE2A.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-10T16:40:48.506Z",
+    "link": "https://store.steampowered.com/app/3170540",
+    "steamID": "3170540",
+    "genres": "Casual, Sports"
   }
 ]
