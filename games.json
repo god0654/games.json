@@ -32174,5 +32174,77 @@
     "link": "https://store.steampowered.com/app/1351240",
     "steamID": "1351240",
     "genres": "Simulation"
+  },
+  {
+    "name": "Garage Flipper",
+    "id": "Garage_Flipper",
+    "notes": "",
+    "subName": "Portable V11.10.2024 & Build 15968276",
+    "description": "Become a builder and renovator of garages and car repair shops. Your task is to complete jobs and build up your empire by buying and restoring old facilities. Grab your hammer, your mortar, and get to work!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1764270/header.jpg?t=1728553574",
+    "gameplay": "https://www.youtube.com/watch?v=7ku3xgoaLLo",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Garage.Flipper-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135635&p=3142835&hilit=#p3142835",
+    "download": "https://filecrypt.cc/Container/F904E105E1.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-11T09:39:32.476Z",
+    "link": "https://store.steampowered.com/app/1764270",
+    "steamID": "1764270",
+    "genres": "Adventure, Indie, Racing, Simulation"
+  },
+  {
+    "name": "Kvark",
+    "id": "Kvark",
+    "notes": "",
+    "subName": "Portable V1.0.5.0 (Full Release) & Build 15930723",
+    "description": "Kvark is an FPS game set in a fictional version of the 80s Czech Republic. The player finds themselves in an underground facility that is falling apart as they travel through it. They will have to navigate through dark tunnels and will encounter many obstacles and enemies that will test their skills",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319390/header.jpg?t=1727942692",
+    "gameplay": "https://www.youtube.com/watch?v=cecgiyGs-TU",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Kvark-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132215&p=3142859&hilit=#p3142859",
+    "download": "https://filecrypt.cc/Container/5BB4C20E42.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-11T10:19:05.462Z",
+    "link": "https://store.steampowered.com/app/2319390",
+    "steamID": "2319390",
+    "genres": "Action, Indie"
+  },
+  {
+    "name": "Astrea: Six-Sided Oracles - Deluxe Edition",
+    "id": "Astrea_Six_Sided_Oracles",
+    "notes": "",
+    "subName": "Portable V1.2.78 + Build 15847024 & DLCs Included",
+    "description": "Astrea is a DICE-deck-building roguelike that flips the script on deckbuilders by using dice instead of cards and a unique dual “damage” system: Purification vs Corruption. Build a dice pool strong enough to purify Astrea's out-of-control corruption and save the Star System.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/header.jpg?t=1726667631",
+    "gameplay": "https://www.youtube.com/watch?v=Hs6bwDJA4JM",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Astrea.Six-Sided.Oracles.v1.2.78-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=118725&p=3142881&hilit=#p3142881",
+    "download": "https://filecrypt.cc/Container/B47290FEC0.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-11T10:46:08.423Z",
+    "link": "https://store.steampowered.com/app/1755830",
+    "steamID": "1755830",
+    "genres": "Casual, Indie, Strategy"
   }
 ]
