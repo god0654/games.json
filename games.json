@@ -32246,5 +32246,53 @@
     "link": "https://store.steampowered.com/app/1755830",
     "steamID": "1755830",
     "genres": "Casual, Indie, Strategy"
+  },
+  {
+    "name": "Endless Forest Dream",
+    "id": "Endless_Forest_Dream",
+    "notes": "",
+    "subName": "Portable V11.10.2024 & Build 15996585",
+    "description": "Survive in the arena against the tentacles and monsters. Gain new items every time you defeat a wave of enemies. Combine various items to find the build that suits you best and crush these depraved aliens in one fell swoop.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2650590/header.jpg?t=1728612519",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/256992643/movie480_vp9.webm?t=1728576672",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "emoris",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143714&p=3142987&hilit=#p3142987"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143714&p=3142987&hilit=#p3142987",
+    "download": "https://filecrypt.cc/Container/CD679D6480.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-11T13:42:48.859Z",
+    "link": "https://store.steampowered.com/app/2650590",
+    "steamID": "2650590",
+    "genres": "Action, Casual, NSFW"
+  },
+  {
+    "name": "TRANSFORMERS: Galactic Trials",
+    "id": "TRANSFORMERS_Galactic_Trials",
+    "notes": "How to Play: Launch steamclient_loader_x64.exe in ''TRANSFORMERS - Galactic Trials\\''.",
+    "subName": "Portable V11.10.2024 & Build 15799430",
+    "description": "Roll out for intense arcade racing and robot combat, fused together in a battle for the lost Prime Relics. Cybertron’s future depends on you!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2324210/header.jpg?t=1728635642",
+    "gameplay": "https://www.youtube.com/watch?v=0Wsy2qUv6SE",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "SKIDROW",
+      "link": "https://predb.net/rls/TRANSFORMERS.Galactic.Trials-SKIDROW"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143553&p=3143005&hilit=#p3143005",
+    "download": "https://filecrypt.cc/Container/288F608EC5.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-11T14:16:19.770Z",
+    "link": "https://store.steampowered.com/app/2324210",
+    "steamID": "2324210",
+    "genres": "Action, Adventure, Racing"
   }
 ]
