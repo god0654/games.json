@@ -32318,5 +32318,29 @@
     "link": "https://store.steampowered.com/app/2214880",
     "steamID": "2214880",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Scarmonde",
+    "id": "Scarmonde",
+    "notes": "",
+    "subName": "Portable V11.10.2024 & Build 15986713",
+    "description": "8-Bit Styled dungeon-crawler wherein you assemble a party from 12 Classes to brave The Depths in search of the Dragon God's Sacred Treasures!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2769210/header.jpg?t=1728513112",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257057764/movie480_vp9.webm?t=1727130742",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "lanternjoe",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143654&p=3143165&hilit=#p3143165"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143654&p=3143208&hilit=#p3143208",
+    "download": "https://filecrypt.cc/Container/A2D8EB04C3.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-11T19:25:31.078Z",
+    "link": "https://store.steampowered.com/app/2769210",
+    "steamID": "2769210",
+    "genres": "Adventure, Indie, RPG"
   }
 ]
