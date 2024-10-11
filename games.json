@@ -702,29 +702,30 @@
     "link": ""
   },
   {
-    "name": "PowerWash Simulator - Alice’s Adventures Special",
+    "name": "PowerWash Simulator - Shrek",
     "id": "PowerWash_Simulator",
     "notes": "Note: GoldBerg with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.",
-    "subName": "Portable V1.8 + Build 14242684 + DLCs Included & Online Supported",
+    "subName": "Portable V1.9 + Build 15516732 + DLCs Included & Online Supported",
     "description": "Release the Pressure with PowerWash Simulator! Wash away your worries with the soothing sounds of high-pressure water. Fire up your power washer and blast away every speck of dirt and grime you can find, all with the simple satisfaction of power-washing to a sparkling finish.",
-    "thumbnail": "https://god0654.github.io/DigitalZone/Images/PowerWash%20Simulator%20Alices%20Adventures%20Special.webp",
-    "gameplay": "https://youtu.be/sX6AXLPixRI",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2983890.webp",
+    "gameplay": "https://www.youtube.com/watch?v=5MKww4rx1ao",
     "tags": [
       "gse",
-      "ofme"
+      "ofme",
+      "steamless"
     ],
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/PowerWash.Simulator.Alices.Adventures.Special.Pack-TENOKE.png"
+      "link": "https://predb.net/rls/PowerWash.Simulator.Shrek.Special.Pack-TENOKE"
     },
-    "download": "https://filecrypt.cc/Container/846739996B.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=107595&p=3142776&hilit=#p3142776",
+    "download": "https://filecrypt.cc/Container/0C7F431477.html",
     "achievements": true,
-    "dateUpdated": "2024-07-23T15:28:02.245Z",
-    "csrinru": "",
-    "steamID": "",
-    "genres": "",
-    "link": ""
+    "dateUpdated": "2024-10-11T08:01:30.704Z",
+    "link": "https://store.steampowered.com/app/1290000",
+    "steamID": "1290000",
+    "genres": "Casual, Indie, Simulation"
   },
   {
     "name": "Suzerain: Kingdom of Rizia - Supporter Edition",
@@ -32125,5 +32126,53 @@
     "link": "https://store.steampowered.com/app/2225010",
     "steamID": "2225010",
     "genres": "Adventure, Indie, RPG, Simulation"
+  },
+  {
+    "name": "Amber Isle - Gold Edition",
+    "id": "Amber_Isle",
+    "notes": "",
+    "subName": "Portable V11.10.2024 + Build 15966376 & DLCs Included",
+    "description": "Welcome to Amber Isle - a quaint, friendly village of prehistoric residents who are in need of a new shopkeep... That’s you! Craft and sell items, upgrade your shop, befriend your Paleofolk neighbours and customise the island to bring the village back to life and welcome even more prehistoric pals!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1663040.webp",
+    "gameplay": "https://www.youtube.com/watch?v=b_fcJTrall8",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Amber.Isle-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=113859&p=3142756&hilit=#p3142756",
+    "download": "https://filecrypt.cc/Container/B09DCA3BBD.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-11T07:23:30.139Z",
+    "link": "https://store.steampowered.com/app/1663040",
+    "steamID": "1663040",
+    "genres": "Adventure, Casual, Indie, RPG, Simulation"
+  },
+  {
+    "name": "Taxi Life A City Driving Simulator: Summer Cosmetic - Supporter Edition",
+    "id": "Taxi_Life_A_City_Driving_Simulator",
+    "notes": "",
+    "subName": "Portable V11.10.2024 + Build 15823093 & DLCs Included",
+    "description": "Climb into the driver's seat of your car and your business, transport passengers across Barcelona and grow your company! Can you help relieve the transportation challenges of a city that never sleeps?",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1351240.webp",
+    "gameplay": "https://www.youtube.com/watch?v=VQsLkTUkHes",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Taxi.Life.Summer.Cosmetic.Pack-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=120344&p=3142796&hilit=#p3142796",
+    "download": "https://filecrypt.cc/Container/9F9C65E255.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-11T08:49:50.966Z",
+    "link": "https://store.steampowered.com/app/1351240",
+    "steamID": "1351240",
+    "genres": "Simulation"
   }
 ]
