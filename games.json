@@ -32438,5 +32438,29 @@
     "link": "https://store.steampowered.com/app/2239150",
     "steamID": "2239150",
     "genres": "Action, Indie, Strategy"
+  },
+  {
+    "name": "Wild Party Jamboree: Unleashed Fun Edition",
+    "id": "Super_Mario_Party_Jamboree",
+    "notes": "",
+    "subName": "Portable-Ryujinx V1.1.0",
+    "description": "The biggest Mario Party yet!\n\nJoin a jam-packed celebration in Super Mario Party Jamboree.\nGrab family and friends and get moving and grooving on seven new and returning boards. Battle it out in more minigames than ever before, and slice, dice, and assemble in new motion-based game modes!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/Jamboree.webp",
+    "gameplay": "https://www.youtube.com/watch?v=YKR6sdcO4ac",
+    "tags": [
+      "switch"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "Ryujinx",
+      "link": "https://digitalzone.vercel.app/games/Super_Mario_Party_Jamboree"
+    },
+    "csrinru": "",
+    "download": "https://filecrypt.cc/Container/8901B4AEC4.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-12T16:03:31.955Z",
+    "link": "",
+    "steamID": "",
+    "genres": "Board Game, Party, NSFW"
   }
 ]
