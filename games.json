@@ -32342,5 +32342,77 @@
     "link": "https://store.steampowered.com/app/2769210",
     "steamID": "2769210",
     "genres": "Adventure, Indie, RPG"
+  },
+  {
+    "name": "Sky Oceans: Wings for Hire",
+    "id": "Sky_Oceans_Wings_for_Hire",
+    "notes": "",
+    "subName": " Portable V1.0.0_0.9.157b & Build 15971569",
+    "description": "Sky Oceans: Wings For Hire is a homage to JRPG classics! Set in the open skies, experience adrenaline-filled turn-based dogfights as you take the role of captain and unite a party of rag-tag sky pirates setting upon an unforgettable, touching journey.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1691750/header.jpg?t=1728652320",
+    "gameplay": "https://www.youtube.com/watch?v=EFHazY90IVQ",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Sky.Oceans.Wings.for.Hire-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=129685&p=3143333&hilit=#p3143333",
+    "download": "https://filecrypt.cc/Container/28E7721C3F.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-11T23:00:32.196Z",
+    "link": "https://store.steampowered.com/app/1691750",
+    "steamID": "1691750",
+    "genres": "RPG"
+  },
+  {
+    "name": "Decline's Drops",
+    "id": "Decline_s_Drops",
+    "notes": "",
+    "subName": "Portable V1.0.1 & Build 15994452",
+    "description": "Grab your punching gloves, put your clogs on and smash your way in the world of Decline's Drops, a fully hand-drawn platform-brawler full of weird frogs, bizarre chickens and odd hydras! Avenge your destroyed garden and defeat the 6 heads of the Eternal Corp.! If you can, that is.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500180/header.jpg?t=1728645574",
+    "gameplay": "https://www.youtube.com/watch?v=W1eT3q-ADiI",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Declines.Drops-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132773&p=3143343&hilit=#p3143343",
+    "download": "https://filecrypt.cc/Container/B18970D45A.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-11T23:25:05.021Z",
+    "link": "https://store.steampowered.com/app/1500180",
+    "steamID": "1500180",
+    "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Simulakros",
+    "id": "Simulakros",
+    "notes": "",
+    "subName": "Portable V10.10.2024 & Build 15994628",
+    "description": "Fight the evil CORP from the inside. Confront deadly robots in this fast-paced third person shooter with rogue-lite elements.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067160/header.jpg?t=1728635783",
+    "gameplay": "https://www.youtube.com/watch?v=4rHDsV69OZQ",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Simulakros-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134858&p=3143356&hilit=#p3143356",
+    "download": "https://filecrypt.cc/Container/B499338248.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-12T00:10:31.572Z",
+    "link": "https://store.steampowered.com/app/2067160",
+    "steamID": "2067160",
+    "genres": "Action"
   }
 ]
