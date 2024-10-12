@@ -32414,5 +32414,29 @@
     "link": "https://store.steampowered.com/app/2067160",
     "steamID": "2067160",
     "genres": "Action"
+  },
+  {
+    "name": "Thronefall",
+    "id": "Thronefall",
+    "notes": "",
+    "subName": "Portable V2.03-HotFix (Full Release) & Build 16011073",
+    "description": "A minimalist game about building and defending your little kingdom.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/header.jpg?t=1728664220",
+    "gameplay": "https://www.youtube.com/watch?v=-3EK6fbkAH4",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "✧GͥOͣDͫ✧",
+      "link": "https://store.steampowered.com/app/2239150/Thronefall/"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=128018&p=3143370&hilit=#p3143370",
+    "download": "https://filecrypt.cc/Container/034C5F6E8B.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-12T00:40:46.729Z",
+    "link": "https://store.steampowered.com/app/2239150",
+    "steamID": "2239150",
+    "genres": "Action, Indie, Strategy"
   }
 ]
