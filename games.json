@@ -32445,7 +32445,7 @@
     "notes": "",
     "subName": "Portable-Ryujinx V1.1.0",
     "description": "The biggest Mario Party yet!\n\nJoin a jam-packed celebration in Super Mario Party Jamboree.\nGrab family and friends and get moving and grooving on seven new and returning boards. Battle it out in more minigames than ever before, and slice, dice, and assemble in new motion-based game modes!",
-    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/Jamboree.webp",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/MarioJambore.webp",
     "gameplay": "https://www.youtube.com/watch?v=YKR6sdcO4ac",
     "tags": [
       "switch"
@@ -32458,7 +32458,7 @@
     "csrinru": "",
     "download": "https://filecrypt.cc/Container/8901B4AEC4.html",
     "achievements": false,
-    "dateUpdated": "2024-10-12T16:03:31.955Z",
+    "dateUpdated": "2024-10-12T20:28:43.902Z",
     "link": "",
     "steamID": "",
     "genres": "Board Game, Party, NSFW"
