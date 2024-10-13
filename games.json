@@ -32534,5 +32534,29 @@
     "link": "https://store.steampowered.com/app/1035990",
     "steamID": "1035990",
     "genres": "Casual, Indie"
+  },
+  {
+    "name": "Guild Saga: Vanished Worlds",
+    "id": "Guild_Saga_Vanished_Worlds",
+    "notes": "",
+    "subName": "Portable V0.4.43 & Build 16001426",
+    "description": "On your maiden voyage with the Heroes Guild, your ship was capsized by an enigmatic maelstrom, stranding your party on Respite Island. Navigate your way through pirates, ferocious beasts, and shady alchemists as you unravel its mysteries.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2184350/header.jpg?t=1728749387",
+    "gameplay": "https://www.youtube.com/watch?v=sujVglhnmn8",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "sfas",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=130626&p=3144097&hilit=#p3144097"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=130626&p=3144097&hilit=removed#p3144097",
+    "download": "https://filecrypt.cc/Container/EC09C1B47E.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-13T11:52:45.080Z",
+    "link": "https://store.steampowered.com/app/2184350",
+    "steamID": "2184350",
+    "genres": "Adventure, Indie, RPG, Strategy"
   }
 ]
