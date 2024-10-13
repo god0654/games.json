@@ -32582,5 +32582,29 @@
     "link": "https://store.steampowered.com/app/3205080",
     "steamID": "3205080",
     "genres": "Adventure, Indie"
+  },
+  {
+    "name": "LAST HAREM",
+    "id": "LAST_HAREM",
+    "notes": "",
+    "subName": "Portable V12.10.2024 & Build 15967679",
+    "description": "The protagonist, awakened from cryosleep, is guided by Nina from the Bits organization and asked to engage in sexual activities in a harem. To save humanity, the protagonist must impregnate many women; it is the only way left.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2819180/header.jpg?t=1728702035",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257002538/movie480_vp9.webm?t=1712977013",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://digitalzone.vercel.app/games/LAST_HAREM"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143737&p=3144206&hilit=#p3144206",
+    "download": "https://filecrypt.cc/Container/FA63C19FE2.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-13T12:56:04.883Z",
+    "link": "https://store.steampowered.com/app/2819180",
+    "steamID": "2819180",
+    "genres": "Action, Adventure, Indie, RPG, Simulation, NSFW"
   }
 ]
