@@ -26169,25 +26169,25 @@
     "name": "Tech Store Simulator",
     "id": "Tech_Store_Simulator",
     "notes": "",
-    "subName": "Portable V1.0.8 & Build 15620208",
+    "subName": "Portable V1.1 (Full Release) & Build 16005376",
     "description": "Run your own electronic shop! Stock shelves with the latest tech gadgets, set prices to attract customers, handle payments, hire and manage staff, and customize your store layout.Create the ultimate tech shopping experience in your Tech Shop Simulator!",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3076400/header.jpg?t=1725006364",
     "gameplay": "https://www.youtube.com/watch?v=It1EOzKD-MY",
     "tags": [
-      "drmfree"
+      "scene"
     ],
     "based": {
-      "info": "csf",
-      "credits": "Zulux91",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143002&p=3122679&hilit=#p3122679"
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Tech.Store.Simulator-TENOKE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143002&p=3122689&hilit=#p3122689",
-    "download": "https://filecrypt.cc/Container/C227495113.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143002&p=3143948&hilit=#p3143948",
+    "download": "https://filecrypt.cc/Container/5BD9A9EE48.html",
     "achievements": false,
-    "dateUpdated": "2024-09-10T22:43:59.473Z",
+    "dateUpdated": "2024-10-13T00:35:56.126Z",
+    "link": "https://store.steampowered.com/app/3076400",
     "steamID": "3076400",
-    "genres": "Casual, Indie, Simulation, Strategy",
-    "link": "https://store.steampowered.com/app/3076400"
+    "genres": "Casual, Indie, Simulation, Strategy"
   },
   {
     "name": "Fantasy Match -Make a H match with cute young woman-",
@@ -32486,5 +32486,53 @@
     "link": "https://store.steampowered.com/app/2400160",
     "steamID": "2400160",
     "genres": "Action, Indie, Strategy"
+  },
+  {
+    "name": "Soulbind: Tales Of The Underworld",
+    "id": "Soulbind_Tales_Of_The_Underworld",
+    "notes": "",
+    "subName": "Portable V13.10.2024 (Full Release) & Build 16012337",
+    "description": "It's up to you to become the Endless, a mysterious skeleton, and embark on a perilous journey. Collect monster body parts to enhance your character and use a variety of abilities. Explore sinister locations, fight mythical creatures and uncover the secrets of the Underworld.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2468470/header.jpg?t=1728665189",
+    "gameplay": "https://www.youtube.com/watch?v=2ZAv2-vitLs",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Soulbind.Tales.Of.The.Underworld-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143732&p=3143954&hilit=#p3143954",
+    "download": "https://filecrypt.cc/Container/DB17731991.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-13T01:01:20.316Z",
+    "link": "https://store.steampowered.com/app/2468470",
+    "steamID": "2468470",
+    "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Dialtown: Phone Dating Sim - Roger's Route",
+    "id": "Dialtown_Phone_Dating_Sim",
+    "notes": "",
+    "subName": "Portable V13.10.2024 + Build 16013054 & DLCs Included",
+    "description": "If you've ever wanted to romantically pursue a phone, then hot DARN, do I have just the game for you.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1035990/header.jpg?t=1657075127",
+    "gameplay": "https://www.youtube.com/watch?v=32eUwx4itp0",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Dialtown.Phone.Dating.Sim-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=96121&p=3143967&hilit=#p3143967",
+    "download": "https://filecrypt.cc/Container/6062B893C1.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-13T01:26:10.146Z",
+    "link": "https://store.steampowered.com/app/1035990",
+    "steamID": "1035990",
+    "genres": "Casual, Indie"
   }
 ]
