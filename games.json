@@ -32726,5 +32726,29 @@
     "link": "https://store.steampowered.com/app/2969160",
     "steamID": "2969160",
     "genres": "Action, Adventure"
+  },
+  {
+    "name": "WEBFISHING",
+    "id": "WEBFISHING",
+    "notes": "",
+    "subName": "Portable V1.07 & Build 16030473",
+    "description": "WEBFISHING a multiplayer chatroom-focused fishing game! Relax and fish (on the web!)",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146520/header.jpg?t=1728673229",
+    "gameplay": "https://www.youtube.com/watch?v=iKb4l-X5f4w",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "IceColdOldMan",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143746&p=3144522&hilit=#p3144522"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143746&p=3144549&hilit=#p3144549",
+    "download": "https://filecrypt.cc/Container/ECFB56330A.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-14T02:00:11.926Z",
+    "link": "https://store.steampowered.com/app/3146520",
+    "steamID": "3146520",
+    "genres": "Casual, Indie"
   }
 ]
