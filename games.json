@@ -32702,5 +32702,29 @@
     "link": "https://store.steampowered.com/app/968800",
     "steamID": "968800",
     "genres": "Casual, RPG, Strategy"
+  },
+  {
+    "name": "CHUXIE",
+    "id": "CHUXIE",
+    "notes": "",
+    "subName": "Portable V0.5.2 & Build 16017667",
+    "description": "除邪(CHUXIE) is a surreal first person horror shooting game developed using Unreal Engine 5. With the powerful capabilities of Unreal Engine 5, players will experience stunning realistic visual effects, smooth game controls, and intense battles with terrifying monsters.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2969160/header.jpg?t=1728712358",
+    "gameplay": "https://www.youtube.com/watch?v=1yN1PMdlA0U",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/CHUXIE.Update.v0.5.2-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142373&p=3144541&hilit=#p3144541",
+    "download": "https://filecrypt.cc/Container/787A722534.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-14T01:29:18.062Z",
+    "link": "https://store.steampowered.com/app/2969160",
+    "steamID": "2969160",
+    "genres": "Action, Adventure"
   }
 ]
