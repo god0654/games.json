@@ -8044,10 +8044,10 @@
     "link": "https://store.steampowered.com/app/2191710"
   },
   {
-    "name": "Reus 2 - Supporter Edition",
+    "name": "Reus 2 - Atlantic Forest",
     "id": "Reus_2",
     "notes": "",
-    "subName": "Portable V29.05.2024 + Build 14519042 & DLC Included",
+    "subName": "Portable V1.3.2 (HotfFix) + Build 16006783 & DLC Included",
     "description": "Shape worlds with your godly titans. Make symbiotic ecosystems and inspire humanity with your creations. Their achievements unlock new possibilities. Make different planets for different human spirits, and fill the universe with life!",
     "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1875060/header.jpg?t=1716904891",
     "gameplay": "https://youtu.be/27wF-GvK5Z0",
@@ -8057,15 +8057,15 @@
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Reus.2-TENOKE.png"
+      "link": "https://predb.net/rls/Reus.2.v1.3.2-TENOKE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132538&p=3060800&hilit=#p3060800",
-    "download": "https://filecrypt.cc/Container/D140BFF061.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132538&p=3144512&hilit=#p3144512",
+    "download": "https://filecrypt.cc/Container/5F5155DBB3.html",
     "achievements": true,
-    "dateUpdated": "2024-07-24T15:52:23.939Z",
+    "dateUpdated": "2024-10-14T00:53:03.373Z",
+    "link": "https://store.steampowered.com/app/1875060",
     "steamID": "1875060",
-    "genres": "Indie, Simulation, Strategy",
-    "link": "https://store.steampowered.com/app/1875060"
+    "genres": "Indie, Simulation, Strategy"
   },
   {
     "name": "Nine Sols",
@@ -32606,5 +32606,101 @@
     "link": "https://store.steampowered.com/app/2819180",
     "steamID": "2819180",
     "genres": "Action, Adventure, Indie, RPG, Simulation, NSFW"
+  },
+  {
+    "name": "Kitten Burst - Ogma's Temple + Soundtrack Bundle",
+    "id": "Kitten_Burst",
+    "notes": "",
+    "subName": "Portable V4.04c & Build 15988686",
+    "description": "Kitten Burst is an Adventure/Racing Game about a Flying Cat set in the year 200X. Explore Sites on the Web, Race through Circuits, & Battle Bullet Hell Bosses to Save Cyberspace.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592360/header.jpg?t=1726884332",
+    "gameplay": "https://www.youtube.com/watch?v=IYdsYjU2z48",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Kitten.Burst.v4.04c-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137833&p=3144523&hilit=#p3144523",
+    "download": "https://filecrypt.cc/Container/5851AAC669.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-14T00:35:39.018Z",
+    "link": "https://store.steampowered.com/app/1592360",
+    "steamID": "1592360",
+    "genres": "Adventure, Indie, Racing, RPG"
+  },
+  {
+    "name": "Alice's Lullaby",
+    "id": "Alice_s_Lullaby",
+    "notes": "",
+    "subName": "Portable V1.0.1 & Build 15949493",
+    "description": "Embark on a surreal, psychedelic adventure to travel back and forth through time and rescue young Alice, helping her escape the uncanny, macabre and treacherous world of Styx. Unravel the metaphysical mystery of the grandchild cult and find out why they call you the monster!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205190/header.jpg?t=1728360179",
+    "gameplay": "https://www.youtube.com/watch?v=nHSfNL70FDQ",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Alices.Lullaby-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143740&p=3144518&hilit=#p3144518",
+    "download": "https://filecrypt.cc/Container/0B81296B5B.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-14T00:46:10.673Z",
+    "link": "https://store.steampowered.com/app/3205190",
+    "steamID": "3205190",
+    "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Creepy Creepy Love",
+    "id": "Creepy_Creepy_Love",
+    "notes": "",
+    "subName": "Portable V14.10.2024 & Build 16014754",
+    "description": "Rose Akuma is in love with her childhood friend, Samon Ribasa. Rosa loves him so much that she is ready to defend her love with her fists, challenging all her rivals to a brutal duel.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2810170/header.jpg?t=1728682278",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257029110/movie480_vp9.webm?t=1717878255",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Creepy.Creepy.Love-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143741&p=3144497&hilit=#p3144497",
+    "download": "https://filecrypt.cc/Container/018E01870F.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-14T00:45:26.988Z",
+    "link": "https://store.steampowered.com/app/2810170",
+    "steamID": "2810170",
+    "genres": "Action, Adventure, Indie, RPG, Sports"
+  },
+  {
+    "name": "Necro Story - Soundtrack Edition",
+    "id": "Necro_Story",
+    "notes": "",
+    "subName": "Portable V6043 & Build 15976443",
+    "description": "Necro Story is a creature-collection RPG where you play as a (kind of) evil necromancer more into undead shenanigans than saving the world! Command quirky minions, outsmart foes, and snag their souls to power up your team. Expect strategic combat, laughs, and plenty of mischief.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968800/header.jpg?t=1728725765",
+    "gameplay": "https://www.youtube.com/watch?v=zEvcxA3ijn8",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Necro.Story-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=107910&p=3144503&hilit=#p3144503",
+    "download": "https://filecrypt.cc/Container/8CC01A2ECE.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-14T00:57:47.606Z",
+    "link": "https://store.steampowered.com/app/968800",
+    "steamID": "968800",
+    "genres": "Casual, RPG, Strategy"
   }
 ]
