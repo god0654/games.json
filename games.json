@@ -32896,5 +32896,29 @@
     "link": "https://store.steampowered.com/app/1585180",
     "steamID": "1585180",
     "genres": "Action, Adventure, Indie, RPG"
+  },
+  {
+    "name": "TRAILCAM",
+    "id": "TRAILCAM",
+    "notes": "",
+    "subName": "Portable V1.01 & Build 16032573",
+    "description": "In TRAILCAM, you are a wildlife investigator called to the Appalachian Mountains to solve mysterious missing person cases. Using trail cameras from your watchtower, you’ll uncover a sinister truth, navigating a non-linear plot full of twists. Can you solve the mystery?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3242230/header.jpg?t=1729010136",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257057094/movie480_vp9.webm?t=1726908136",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TiNYiSO",
+      "link": "https://predb.net/rls/TRAILCAM-TiNYiSO"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143816&p=3145641&hilit=#p3145641",
+    "download": "https://filecrypt.cc/Container/9A2483798A.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-15T18:14:01.599Z",
+    "link": "https://store.steampowered.com/app/3242230",
+    "steamID": "3242230",
+    "genres": "Simulation"
   }
 ]
