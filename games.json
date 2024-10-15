@@ -5750,29 +5750,29 @@
     "link": "https://store.steampowered.com/app/2774190"
   },
   {
-    "name": "Police Simulator: Patrol Officers - Highway Patrol Expansion / Gold Edition",
+    "name": "Police Simulator Patrol Officers: The Fast Pursuit Vehicle - Gold Edition",
     "id": "Police_Simulator_Patrol_Officers",
-    "notes": "Note: RUNE Crack is applied after extraction, if you need play Online apply the contents in ''_CrackOnly (OFME)'' folder and open Steam before launch.",
-    "subName": "Portable V13.5.3 & Build 14510441 + DLCs Included & Online Supported",
+    "notes": "Note: GoldBerg with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.",
+    "subName": "Portable V15.1.4 & Build 15851450 + DLCs Included & Online Supported",
     "description": "Welcome to Brighton! Join the police force of this fictitious American city and experience the day to day life of a police officer.",
-    "thumbnail": "https://god0654.github.io/DigitalZone/Images/Police%20Simulator%20Patrol%20Officers%20-%20Highway%20Patrol%20Expansion%20Gold%20Edition.webp",
-    "gameplay": "https://youtu.be/7p-ZWIx2PJE",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/997010.webp",
+    "gameplay": "https://www.youtube.com/watch?v=G48aL8TMWsI",
     "tags": [
       "scene",
       "ofme"
     ],
     "based": {
       "info": "nfo",
-      "credits": "RUNE (Real-Proper-Release)",
-      "link": "https://api.predb.net/nfoimg/Police.Simulator.Patrol.Officers.Highway.Patrol.Expansion.REAL.PROPER-RUNE.png"
+      "credits": "RUNE",
+      "link": "https://predb.net/rls/Police.Simulator.Patrol.Officers.v15.1.4-RUNE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=113890&p=3073152&hilit=#p3073152",
-    "download": "https://filecrypt.cc/Container/52FC6CB097.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=113890&p=3145770&hilit=#p3145770",
+    "download": "https://filecrypt.cc/Container/8A7FC0D1E9.html",
     "achievements": false,
-    "dateUpdated": "2024-07-24T12:44:51.942Z",
-    "steamID": "",
-    "genres": "",
-    "link": ""
+    "dateUpdated": "2024-10-15T21:49:08.835Z",
+    "link": "https://store.steampowered.com/app/3167630",
+    "steamID": "3167630",
+    "genres": "Simulation"
   },
   {
     "name": "El Dorado: The Golden City Builder",
