@@ -32848,5 +32848,53 @@
     "link": "https://store.steampowered.com/app/244850",
     "steamID": "244850",
     "genres": "Action, Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Neva",
+    "id": "Neva",
+    "notes": "",
+    "subName": "Portable V15.10.2024 & Build 16038876",
+    "description": "Experience the moving tale of a young woman and her lifelong bond with a magnificent wolf as they embark on a thrilling adventure through a rapidly dying world.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/header.jpg?t=1729007517",
+    "gameplay": "https://www.youtube.com/watch?v=gWHZnszr6bs",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "TheLeaker",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132914&p=3144993&hilit=#p3144993"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132914&p=3145595&hilit=#p3145595",
+    "download": "https://filecrypt.cc/Container/7750F13992.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-15T16:52:59.383Z",
+    "link": "https://store.steampowered.com/app/2420660",
+    "steamID": "2420660",
+    "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Drova - Forsaken Kin",
+    "id": "Drova_Forsaken_Kin",
+    "notes": "How to Play: Launch steamclient_loader_x64.exe in ''Drova - Forsaken Kin\\''",
+    "subName": "Portable V1.0.1 & Build 16052316",
+    "description": "Drova is an Action-RPG that marries the dark grim tones of its genre with the mysticism of Celtic mythology. Encounter a society where ancient restless spirits and divided factions battle for dominance. Uncover forgotten abilities and unravel the secrets of a past shrouded in mystery.",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585180/header.jpg?t=1729002224",
+    "gameplay": "https://www.youtube.com/watch?v=G5Ajqe1UC5Q",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "SKIDROW",
+      "link": "https://predb.net/rls/Drova.Forsaken.Kin-SKIDROW"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=113185&p=3145623&hilit=#p3145623",
+    "download": "https://filecrypt.cc/Container/E6DFF38F8A.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-15T17:52:25.669Z",
+    "link": "https://store.steampowered.com/app/1585180",
+    "steamID": "1585180",
+    "genres": "Action, Adventure, Indie, RPG"
   }
 ]
