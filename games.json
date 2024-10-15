@@ -5758,9 +5758,10 @@
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/997010.webp",
     "gameplay": "https://www.youtube.com/watch?v=G48aL8TMWsI",
     "tags": [
-      "scene",
-      "ofme"
-    ],
+                "scene",
+                "ofme",
+               "steamless"
+           ],
     "based": {
       "info": "nfo",
       "credits": "RUNE",
