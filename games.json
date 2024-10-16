@@ -32993,5 +32993,29 @@
     "link": "https://store.steampowered.com/app/3151830",
     "steamID": "3151830",
     "genres": "Casual, Indie, Simulation"
+  },
+  {
+    "name": "Glitchpunk",
+    "id": "Glitchpunk",
+    "notes": "",
+    "subName": "Portable V1.0.7 (Full Release) & Build 14803902",
+    "description": "Inspired by classic top-down action games, Glitchpunk lets you brawl, shoot and drive your way through a dystopian future. As an android bounty hunter in a brutal world of gangs, cults and corporations there’s plenty of work for you. Lock and load, let her rip!",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1459960/header.jpg?t=1729089976",
+    "gameplay": "https://www.youtube.com/watch?v=Bg_52Jo0jLc",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://predb.net/rls/Glitchpunk-RUNE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=111450&p=3146256&hilit=#p3146256",
+    "download": "https://filecrypt.cc/Container/A23497C950.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-16T16:09:30.501Z",
+    "link": "https://store.steampowered.com/app/1459960",
+    "steamID": "1459960",
+    "genres": "Action, Indie"
   }
 ]
