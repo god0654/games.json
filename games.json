@@ -25659,29 +25659,29 @@
     "link": "https://store.steampowered.com/app/770810"
   },
   {
-    "name": "Ember Knights: Ember Cat and Astral Ascent - Soundtrack Edition",
+    "name": "Ember Knights: Wrath of the Architect - Soundtrack Edition",
     "id": "Ember_Knights",
-    "notes": "How to play Online: GoldBerg with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.",
-    "subName": "Portable + V1.5.2_b4383 + Build 15594073 & Online Supported",
+    "notes": "Note: GoldBerg with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.",
+    "subName": "Portable V2.0.0_b4510 + Build 16048579 + DLCs Included & Online Supported",
     "description": "Ember Knights is an action rogue-lite for 1-4 players where you play as legendary knights, the last spark of hope against the mad sorcerer Praxis and his hordes of unwavering fiends. Wield weapons & skills, build synergies with game-changing relics and free the universe of Praxis’ corruption.",
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1135230.webp",
-    "gameplay": "https://www.youtube.com/watch?v=preR0s1DZJw",
+    "gameplay": "https://www.youtube.com/watch?v=rTHypBA6EHo",
     "tags": [
       "gse",
       "ofme"
     ],
     "based": {
-      "info": "nfo",
-      "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Ember.Knights.v1.5.2-TENOKE.png"
+      "info": "csf",
+      "credits": "SuperdestroyerI",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=106192&p=3145855&hilit=#p3145855"
     },
     "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=106192&p=3121561&hilit=#p3121561",
-    "download": "https://filecrypt.cc/Container/01B358E5B7.html",
+    "download": "https://filecrypt.cc/Container/A16EE4A71A.html",
     "achievements": true,
-    "dateUpdated": "2024-09-09T01:32:02.967Z",
+    "dateUpdated": "2024-10-16T11:00:08.929Z",
+    "link": "https://store.steampowered.com/app/1135230",
     "steamID": "1135230",
-    "genres": "Action, Adventure, RPG",
-    "link": "https://store.steampowered.com/app/1135230"
+    "genres": "Action, Adventure, RPG"
   },
   {
     "name": "DiRT 5 - Year One Edition",
