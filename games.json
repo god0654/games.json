@@ -5758,10 +5758,10 @@
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/997010.webp",
     "gameplay": "https://www.youtube.com/watch?v=G48aL8TMWsI",
     "tags": [
-                "scene",
-                "ofme",
-               "steamless"
-           ],
+      "scene",
+      "ofme",
+      "steamless"
+    ],
     "based": {
       "info": "nfo",
       "credits": "RUNE",
@@ -9350,28 +9350,28 @@
     "link": "https://store.steampowered.com/app/2008920"
   },
   {
-    "name": "Cobalt Core",
+    "name": "Cobalt Core & Original Soundtrack Bundle",
     "id": "Cobalt_Core",
     "notes": "",
-    "subName": "Portable V1.0.7 + Build 14378354 & DLC Included",
+    "subName": "Portable V1.2.4 + Build 16041114 & DLC Included",
     "description": "A sci-fi roguelike deckbuilder with a deep new single-axis spin on tactics games! Dodge missiles, line up your cannons, and blast 'em out of the sky... Then get to the bottom of these time loops, before it's too late!",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/2179850/header.jpg?t=1708203829",
-    "gameplay": "https://youtu.be/OE8_dfMhlfo",
+    "gameplay": "https://www.youtube.com/watch?v=OE8_dfMhlfo",
     "tags": [
       "gse"
     ],
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Cobalt.Core.v1.0.7-TENOKE.png"
+      "link": "https://predb.net/rls/Cobalt.Core.v1.2.4-TENOKE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=136359&p=3053424&hilit=#p3053424",
-    "download": "https://filecrypt.cc/Container/9CDB657D30.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=136359&p=3145835&hilit=#p3145835",
+    "download": "https://filecrypt.cc/Container/80A5D56BF1.html",
     "achievements": true,
-    "dateUpdated": "2024-07-24T17:04:57.535Z",
+    "dateUpdated": "2024-10-16T09:15:37.603Z",
+    "link": "https://store.steampowered.com/app/2179850",
     "steamID": "2179850",
-    "genres": "Indie, Strategy",
-    "link": "https://store.steampowered.com/app/2179850"
+    "genres": "Indie, Strategy"
   },
   {
     "name": "Arctic Eggs",
@@ -32921,5 +32921,53 @@
     "link": "https://store.steampowered.com/app/3242230",
     "steamID": "3242230",
     "genres": "Simulation"
+  },
+  {
+    "name": "NovaMundi",
+    "id": "NovaMundi",
+    "notes": "",
+    "subName": "Portable V1.0.0 (Full Release) & Build 1602278",
+    "description": "NovaMundi is an open world procedural exploration game with tactical combat. Lead a group of adventurers in the dangerous lands of the Andes in the XVI Century. Build your reputation to recruit people in towns, and barter for supplies to survive and unite the people to stand against the invaders.",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1370940/header.jpg?t=1728774328",
+    "gameplay": "https://www.youtube.com/watch?v=GbkcOWRY_xk",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/NovaMundi-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=109882&p=3145824&hilit=#p3145824",
+    "download": "https://filecrypt.cc/Container/CC978FB796.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-16T09:14:07.763Z",
+    "link": "https://store.steampowered.com/app/1370940",
+    "steamID": "1370940",
+    "genres": "Indie, RPG, Strategy"
+  },
+  {
+    "name": "Loot Stack - Relics Hunter",
+    "id": "Loot_Stack_Relics_Hunter",
+    "notes": "",
+    "subName": "Portable V1.0.0f2 & Build 16040816",
+    "description": "Explore ancient dungeons, uncover hidden treasures, and master the art of inventory management as you organize, stack, and collect precious relics in 25 scenarios. Can you find them all?",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3160710/header.jpg?t=1728915907",
+    "gameplay": "https://www.youtube.com/watch?v=9xocqOxwEY0",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Loot.Stack.Relics.Hunter-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143823&p=3145833&hilit=#p3145833",
+    "download": "https://filecrypt.cc/Container/B971E97DBC.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-16T09:17:13.426Z",
+    "link": "https://store.steampowered.com/app/3160710",
+    "steamID": "3160710",
+    "genres": "Casual, Indie"
   }
 ]
