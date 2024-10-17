@@ -33114,5 +33114,30 @@
     "link": "",
     "steamID": "",
     "genres": "Action, Adventure, RPG, NSFW"
+  },
+  {
+    "name": "A Quiet Place: The Road Ahead",
+    "id": "A_Quiet_Place_The_Road_Ahead",
+    "notes": "",
+    "subName": "Portable V1.0.0 & Build 16069459",
+    "description": "A Quiet Place: The Road Ahead is a single-player horror adventure game inspired by the critically acclaimed blockbuster movie franchise. Survive in silence.",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2233120/header.jpg?t=1729170167",
+    "gameplay": "https://www.youtube.com/watch?v=dillWbL4SCA",
+    "tags": [
+      "gse",
+      "steamless"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://predb.net/rls/A.Quiet.Place.The.Road.Ahead-RUNE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141603&p=3146989&hilit=#p3146989",
+    "download": "https://filecrypt.cc/Container/7E8AB7688F.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-17T18:06:48.297Z",
+    "link": "https://store.steampowered.com/app/2233120",
+    "steamID": "2233120",
+    "genres": "Action, Adventure"
   }
 ]
