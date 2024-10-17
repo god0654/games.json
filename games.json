@@ -33089,5 +33089,29 @@
     "link": "https://store.steampowered.com/app/2922980",
     "steamID": "2922980",
     "genres": "Adventure"
+  },
+  {
+    "name": "Forbidden Realms: ReFantazio - Anniversary Edition",
+    "id": "Metaphor_ReFantazio",
+    "notes": "Note: There is no guarantee that Achievements will unlocked.\n_______________________________________________________________\nHow to keep your own saves:\nDelete save0000.sav and rename save_demo0000.sav to save0000.sav.\n↓\nAppData\\Roaming\\SEGA\\METAPHOR\\Steam\\76561199769227501.\n\nSteamID may change if you have used another Emu such as CODEX.\n_______________________________________________________________\nPatched .exe v2 - Notes:\n• Does not show that you are playing the demo.\n• Game use retail saves.\n• No more need Cheat Engine for SoftLock.\n",
+    "subName": "Portable V1.02 + Build 15893497 / Build 15936182 + Patched .exe v2 & DLCs Included",
+    "description": "The throne sits empty after the king’s assassination. With no heirs, the will of the late king decrees that the next monarch will be elected by the people, & thus begins your fight for the throne..",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/ForbiddenRealmsReFa.webp",
+    "gameplay": "https://www.youtube.com/watch?v=v2d4nyTpwpw",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "Masquerade! / Anonymous",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=41&t=138587&p=3144426&hilit=#p3144426"
+    },
+    "csrinru": "",
+    "download": "https://filecrypt.cc/Container/C4EF00B83A.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-17T13:34:53.079Z",
+    "link": "",
+    "steamID": "",
+    "genres": "Action, Adventure, RPG, NSFW"
   }
 ]
