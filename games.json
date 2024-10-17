@@ -10673,28 +10673,28 @@
     "link": "https://store.steampowered.com/app/2812240"
   },
   {
-    "name": "Journey to the West - Dark Invasion",
+    "name": "Journey to the West - Full Collection & OST Bundle",
     "id": "Journey_to_the_West",
     "notes": "",
-    "subName": "Portable V1.14.20b + Build 14266991 & DLCs Included",
+    "subName": "Portable V1.14.31b + Build 15920730 & DLCs Included",
     "description": "A challenging rogue-like deck building game about a legendary adventure in the Realm of Divinity. Lead your team, build your unique deck, gather powerful relics and consumables to confront legendary creatures and eventually discover the truth behind the omen of darkness.",
-    "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1449070/header.jpg?t=1715099589",
-    "gameplay": "https://youtu.be/HMjZIyEBXr8",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1449070.webp",
+    "gameplay": "https://video.fastly.steamstatic.com/store_trailers/256944318/movie480_vp9.webm?t=1684455617",
     "tags": [
       "gse"
     ],
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Journey.to.the.West.Dark.Invasion-TENOKE.png"
+      "link": "https://predb.net/rls/Journey.to.the.West.v1.14.31b-TENOKE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=120477&p=3047126&hilit=#p3047126",
-    "download": "https://filecrypt.cc/Container/6D736D397F.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=120477&p=3146520&hilit=#p3146520",
+    "download": "https://filecrypt.cc/Container/3105926D19.html",
     "achievements": true,
-    "dateUpdated": "2024-07-24T19:05:24.768Z",
+    "dateUpdated": "2024-10-17T11:06:19.730Z",
+    "link": "https://store.steampowered.com/app/1449070",
     "steamID": "1449070",
-    "genres": "Adventure, Indie, RPG, Strategy",
-    "link": "https://store.steampowered.com/app/1449070"
+    "genres": "Adventure, Indie, RPG, Strategy"
   },
   {
     "name": "Farm Together 2",
@@ -33017,5 +33017,77 @@
     "link": "https://store.steampowered.com/app/1459960",
     "steamID": "1459960",
     "genres": "Action, Indie"
+  },
+  {
+    "name": "My Dream Setup: Halloween - Complete Edition",
+    "id": "My_Dream_Setup",
+    "notes": "",
+    "subName": "Portable V17.10.2024 + Build 16019053 & DLCs Included",
+    "description": "My Dream Setup is a simulation game about building the room you've always dreamed of. A huge selection of furniture, computers and their accessories, posters, pictures, plants, and other interior details await you. Try all of them and create your dream setup.",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2200780/header.jpg?t=1726297874",
+    "gameplay": "https://www.youtube.com/watch?v=dlBkdkwsF3Y",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/My.Dream.Setup.Halloween-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=129809&p=3146506&hilit=#p3146506",
+    "download": "https://filecrypt.cc/Container/7D46DB8EDB.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-17T11:00:30.183Z",
+    "link": "https://store.steampowered.com/app/2200780",
+    "steamID": "2200780",
+    "genres": "Casual, Indie, Simulation"
+  },
+  {
+    "name": "Westale Peelgrimage: Damsels of Divinity - Advanced Edition",
+    "id": "Westale_Peelgrimage",
+    "notes": "How to change language: You can do this in the game settings. (Reselect English again and apply)",
+    "subName": "Portable V1.4.1 + Build 16052484 & DLC Included",
+    "description": "Westale: Peelgrimage is an ink-style survivor-like game. Player can evolve their characters in the game, use marvelous magical treasures, experience the mysterious 72 transformations, and synthesize artifacts. Let's get into this Journey-to-the-West world and experience addictive combat.",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1141760/header.jpg?t=1728960201",
+    "gameplay": "https://video.fastly.steamstatic.com/store_trailers/256989626/movie480_vp9.webm?t=1702867854",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Westale.Peelgrimage-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137323&p=3146495&hilit=#p3146495",
+    "download": "https://filecrypt.cc/Container/29AE0B7539.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-17T11:02:02.239Z",
+    "link": "https://store.steampowered.com/app/1141760",
+    "steamID": "1141760",
+    "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Arsene Lupin - Once a Thief",
+    "id": "Arsene_Lupin_Once_a_Thief",
+    "notes": "",
+    "subName": "Portable V17.10.2024 & Build 16011735",
+    "description": "Discover the youth of a legend - Experience the transformation of Arsene Lupin, from whimsical thief to legendary hero, in 'Arsene Lupin - Once a Thief', an adventure and investigation game freely adapted from the works of Maurice Leblanc, with its events unfolding in the early 20th century.",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2922980/header.jpg?t=1729152219",
+    "gameplay": "https://www.youtube.com/watch?v=QHWM4Bvd1NA",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "FLT",
+      "link": "https://predb.net/rls/Arsene_Lupin_Once_a_Thief-FLT"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143846&p=3146710&hilit=#p3146710",
+    "download": "https://filecrypt.cc/Container/49831A4E58.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-17T11:07:41.621Z",
+    "link": "https://store.steampowered.com/app/2922980",
+    "steamID": "2922980",
+    "genres": "Adventure"
   }
 ]
