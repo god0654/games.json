@@ -33290,7 +33290,7 @@
   {
     "name": "Teenage Mutant Ninja Turtles: Mutants Unleashed - Deluxe Edition",
     "id": "Teenage_Mutant_Ninja_Turtles_Mutants_Unleashed",
-    "notes": "",
+    "notes": "How to Play:\nLaunch steamclient_loader_x64.exe in ''Teenage Mutant Ninja Turtles Mutants Unleashed - Deluxe Edition\\''.",
     "subName": "Portable V18.10.2024 + Build 16053537 & DLCs Included",
     "description": "Join the Turtle brothers straight from the sewers and slide into this new adventure of shell-shocking proportions!",
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2460130.webp",
@@ -33335,5 +33335,53 @@
     "link": "https://store.steampowered.com/app/2015620",
     "steamID": "2015620",
     "genres": "Action, Indie"
+  },
+  {
+    "name": "Dead-End City Blues OD Edition",
+    "id": "Dead_End_City_Blues_OD_Edition",
+    "notes": "",
+    "subName": "Portable V1.2.0 & Build 16064868",
+    "description": "In the slums of a futuristic city, a girl sets out to track down the drug that has taken it over. Strengthen your deck and defeat your foes in this card battling RPG.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2756380/header.jpg?t=1729217537",
+    "gameplay": "https://video.cloudflare.steamstatic.com/store_trailers/257031657/movie480_vp9.webm?t=1718958414",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://digitalzone.vercel.app/games/Dead_End_City_Blues_OD_Edition"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143873&p=3147708&hilit=#p3147708",
+    "download": "https://filecrypt.cc/Container/62CB51DDBF.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-18T17:02:27.365Z",
+    "link": "https://store.steampowered.com/app/2756380",
+    "steamID": "2756380",
+    "genres": "Indie, NSFW"
+  },
+  {
+    "name": "Eden Crafters",
+    "id": "Eden_Crafters",
+    "notes": "",
+    "subName": "Portable V0.45h & Build 16093893",
+    "description": "Embark on a journey of survival, crafting, and automation in Eden Crafters, a solo and co-op open-world game that challenges you to turn a hostile planet into a habitable haven for humanity. Temper the climate, create a breathable atmosphere, and turn toxic lakes into water: shape a new world!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2570210/header.jpg?t=1729087207",
+    "gameplay": "https://www.youtube.com/watch?v=3BrjkESsfEA",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "gorre9090",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=139456&p=3146164&hilit=#p3146164"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=139456&p=3147719&hilit=#p3147719",
+    "download": "https://filecrypt.cc/Container/EDB846F66E.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-18T17:48:20.730Z",
+    "link": "https://store.steampowered.com/app/2570210",
+    "steamID": "2570210",
+    "genres": "Adventure, Indie, Simulation, Strategy"
   }
 ]
