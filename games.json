@@ -3255,28 +3255,28 @@
     "link": "https://store.steampowered.com/app/2224640"
   },
   {
-    "name": "Dungeon Defenders: Warping Core Challenge Mission Pack II – Ultimate Collection",
+    "name": "Dungeon Defenders: Jester's Spooktacular - Ultimate Collection",
     "id": "Dungeon_Defenders",
     "notes": "",
-    "subName": "Portable V9.5.0 + Build 15077992 & DLCs Included",
+    "subName": "Portable V9.6.1 + Build 16070426 & DLCs Included",
     "description": "Create a hero from one of four classes to save Etheria in this 4-player coop Tower Defense Action-RPG. Includes Steam exclusive Portal gun & TF2 familiars!",
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/15481/header_ratio.jpg?t=1625164602",
-    "gameplay": "https://youtu.be/8KhaA279thk",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/65800.webp",
+    "gameplay": "https://www.youtube.com/watch?v=8KhaA279thk",
     "tags": [
       "gse"
     ],
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Dungeon.Defenders.Warping.Core.Challenge.Mission.Pack.II-TENOKE.png"
+      "link": "https://predb.net/rls/Dungeon.Defenders.Jesters.Spooktacular-TENOKE"
     },
-    "download": "https://filecrypt.cc/Container/0EFFECA3DC.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=60524&p=3147557&hilit=#p3147557",
+    "download": "https://filecrypt.cc/Container/721D6BB026.html",
     "achievements": true,
-    "dateUpdated": "2024-07-23T11:32:00.368Z",
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=60524&p=3093837&hilit=#p3093837",
-    "steamID": "",
-    "genres": "",
-    "link": ""
+    "dateUpdated": "2024-10-18T12:16:00.596Z",
+    "link": "https://store.steampowered.com/app/65800",
+    "steamID": "65800",
+    "genres": "Action, Indie, RPG, Strategy"
   },
   {
     "name": "Xeno Runners",
@@ -33188,5 +33188,53 @@
     "link": "",
     "steamID": "",
     "genres": "Action, Adventure, NSFW"
+  },
+  {
+    "name": "DRAGON QUEST MONSTERS: The Dark Prince",
+    "id": "DRAGON_QUEST_MONSTERS_The_Dark_Prince",
+    "notes": "",
+    "subName": "Portable V1.0.1 & Build 15884629",
+    "description": "DRAGON QUEST MONSTERS: The Dark Prince comes to Steam®! Recruit monsters from the DQ series, synthesize new creatures and compose your ideal team.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2175540/header.jpg?t=1727341060",
+    "gameplay": "https://www.youtube.com/watch?v=UPH_JzZe1l4",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/DRAGON.QUEST.MONSTERS.The.Dark.Prince-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142933&p=3147517&hilit=#p3147517",
+    "download": "https://filecrypt.cc/Container/84E8CDDC61.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-18T11:11:18.247Z",
+    "link": "https://store.steampowered.com/app/2175540",
+    "steamID": "2175540",
+    "genres": "RPG"
+  },
+  {
+    "name": "Citadelum + Original Soundtrack Bundle",
+    "id": "Citadelum",
+    "notes": "",
+    "subName": "Portable V1.0.0.0 & Build 16078282",
+    "description": "Citadelum is a city builder set in legendary Ancient Rome. Build your own settlement, gather resources and evolve it into a magnificent city. Explore the world, trade and lead your mighty legions in epic tactical battles. Earn the favor of the Gods or challenge them, if you dare.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2603020.webp",
+    "gameplay": "https://www.youtube.com/watch?v=0RnC0l85QmU",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Citadelum-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137982&p=3147534&hilit=#p3147534",
+    "download": "https://filecrypt.cc/Container/2DC06827AE.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-18T11:46:14.101Z",
+    "link": "https://store.steampowered.com/app/2603020",
+    "steamID": "2603020",
+    "genres": "Indie, Simulation, Strategy"
   }
 ]
