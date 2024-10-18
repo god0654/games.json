@@ -33286,5 +33286,54 @@
     "link": "https://store.steampowered.com/app/2374190",
     "steamID": "",
     "genres": "Action, Adventure"
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles: Mutants Unleashed - Deluxe Edition",
+    "id": "Teenage_Mutant_Ninja_Turtles_Mutants_Unleashed",
+    "notes": "",
+    "subName": "Portable V18.10.2024 + Build 16053537 & DLCs Included",
+    "description": "Join the Turtle brothers straight from the sewers and slide into this new adventure of shell-shocking proportions!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2460130.webp",
+    "gameplay": "https://www.youtube.com/watch?v=j4StLLRzlJk",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "Unleashed",
+      "link": "https://predb.net/rls/Teenage.Mutant.Ninja.Turtles.Mutants.Unleashed.1987.Animated.Series.Pack.DLC.Unlocker-SKIDROW"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143868&p=3147665&hilit=#p3147665",
+    "download": "https://filecrypt.cc/Container/B98E59505B.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-18T15:30:33.893Z",
+    "link": "https://store.steampowered.com/app/2460130",
+    "steamID": "2460130",
+    "genres": "Action, Adventure"
+  },
+  {
+    "name": "Valkyrie of Phantasm",
+    "id": "Valkyrie_of_Phantasm",
+    "notes": "",
+    "subName": "Portable V1.00 (Full Release) & Build 16076941",
+    "description": "Control characters from the Touhou Project series in this shooting action game featuring high-speed aerial versus combat! Danmaku battles faster than you've ever seen will unfold in the skies of Gensokyo as you use your mobility to dodge countless bullets flying at you with a variety of spells.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2015620/header.jpg?t=1729234969",
+    "gameplay": "https://www.youtube.com/watch?v=u7uT35qcA1U",
+    "tags": [
+      "gse",
+      "steamless"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "SKIDROW",
+      "link": "https://predb.net/rls/Valkyrie.Of.Phantasm-SKIDROW"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=126439&p=3147696&hilit=#p3147696",
+    "download": "https://filecrypt.cc/Container/199DA3E867.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-18T16:37:44.147Z",
+    "link": "https://store.steampowered.com/app/2015620",
+    "steamID": "2015620",
+    "genres": "Action, Indie"
   }
 ]
