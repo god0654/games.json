@@ -33237,5 +33237,54 @@
     "link": "https://store.steampowered.com/app/2603020",
     "steamID": "2603020",
     "genres": "Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Kakenuke★Forward to Our Sparking Youth!",
+    "id": "Kakenuke_Forward_to_Our_Sparking_Youth",
+    "notes": "“Malformed exe/dll detected” popup:\nPress “Cancel” or “X” and it will launch the game.",
+    "subName": "Portable V18.10.2024 & Build 16090315",
+    "description": "What does \"youth\" mean to you? Is it a time in your life meant for having fun? For devoting yourself to a cause? For Yuu Tono, it's meant earning money and studying to build a brighter future for him and his family. But maybe the new (or maybe old?) friend who's come into his life will change that.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3027620/header.jpg?t=1729245595",
+    "gameplay": "https://www.youtube.com/watch?v=kRzwfIP4rZ8",
+    "tags": [
+      "gse",
+      "steamless"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Pegasus1010",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143869&p=3147510&hilit=#p3147510"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143869&p=3147591&hilit=#p3147591",
+    "download": "https://filecrypt.cc/Container/91878F72F7.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-18T13:12:14.626Z",
+    "link": "https://store.steampowered.com/app/3027620",
+    "steamID": "3027620",
+    "genres": "Adventure, Casual"
+  },
+  {
+    "name": "Nikoderiko: The Magical World",
+    "id": "Nikoderiko_The_Magical_World",
+    "notes": "",
+    "subName": "Portable-Ryujinx V1.0.1",
+    "description": "Join Niko and Luna on their quest in Nikoderiko, a vibrant platform adventure. With family-friendly design, couch co-op, and various gameplay themes such as minecarts, chase levels, expansive 3D areas and underwater adventures, Nikoderiko promises a magical journey for all ages!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2374190/header.jpg?t=1728045397",
+    "gameplay": "https://www.youtube.com/watch?v=mt08_d8e2oI",
+    "tags": [
+      "switch"
+    ],
+    "based": {
+      "info": "info",
+      "credits": "Based on Ryujinx",
+      "link": "https://digitalzone.vercel.app/games/Nikoderiko_The_Magical_World"
+    },
+    "csrinru": "",
+    "download": "https://filecrypt.cc/Container/A77980ED90.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-18T13:58:55.018Z",
+    "link": "https://store.steampowered.com/app/2374190",
+    "steamID": "",
+    "genres": "Action, Adventure"
   }
 ]
