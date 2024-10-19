@@ -33407,5 +33407,30 @@
     "link": "https://store.steampowered.com/app/2389570",
     "steamID": "2389570",
     "genres": "Action, Indie"
+  },
+  {
+    "name": "Hot Wheels Monster Trucks: Stunt Mayhem™ - Deluxe Edition",
+    "id": "Hot_Wheels_Monster_Trucks_Stunt_Mayhem",
+    "notes": "",
+    "subName": "Portable V19.10.2024 + Build 15774265 & DLC Included",
+    "description": "Hot Wheels™ Monster Trucks are ready to catch some wild air and perform insane stunts while smashing and bashing through fantastical arenas in a new game that brings your favorite monster trucks to your fingertips!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2468400.webp",
+    "gameplay": "https://www.youtube.com/watch?v=uUX668R2-Y0",
+    "tags": [
+      "gse",
+      "steamless"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "SKIDROW",
+      "link": "https://predb.net/rls/Hot.Wheels.Monster.Trucks.Stunt.Mayhem-SKIDROW"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143885&p=3148164&hilit=#p3148164",
+    "download": "https://filecrypt.cc/Container/928A199DC1.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-19T12:10:11.494Z",
+    "link": "https://store.steampowered.com/app/2468400",
+    "steamID": "2468400",
+    "genres": "Action, Racing"
   }
 ]
