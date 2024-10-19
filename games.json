@@ -33432,5 +33432,29 @@
     "link": "https://store.steampowered.com/app/2468400",
     "steamID": "2468400",
     "genres": "Action, Racing"
+  },
+  {
+    "name": "Sex Summer Camp",
+    "id": "Sex_Summer_Camp",
+    "notes": "",
+    "subName": "Portable V19.10.2024 + Build 16035447 & DLC Included",
+    "description": "Sex Summer Camp is a visual novel where you have to go to a summer camp to meet girls and get lots of sex.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3263950/header.jpg?t=1729254484",
+    "gameplay": "https://video.cloudflare.steamstatic.com/store_trailers/257062236/movie480_vp9.webm?t=1728215504",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://digitalzone.vercel.app/games/Sex_Summer_Camp"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143888&p=3148177&hilit=#p3148177",
+    "download": "https://filecrypt.cc/Container/52362827FD.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-19T12:37:17.665Z",
+    "link": "https://store.steampowered.com/app/3263950",
+    "steamID": "3263950",
+    "genres": "Indie, NSFW"
   }
 ]
