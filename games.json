@@ -33480,5 +33480,54 @@
     "link": "https://store.steampowered.com/app/2158030",
     "steamID": "2158030",
     "genres": "Action, Adventure"
+  },
+  {
+    "name": "A Hero's Rest: An RPG Town Simulator",
+    "id": "A_Hero_s_Rest_An_RPG_Town_Simulator",
+    "notes": "",
+    "subName": "Portable V1.0 (Full Release) & Build 16081719",
+    "description": "Build shops, craft items with hundreds of customization options, and manage your resources wisely to lead your Heroes to success. Immerse yourself as proprietor of a medieval fantasy town in a world abounding with Heroes and Monsters.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2016080/header.jpg?t=1729273396",
+    "gameplay": "https://www.youtube.com/watch?v=i7qLWw1GyNg",
+    "tags": [
+      "gse",
+      "steamless"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/A.Heros.Rest.An.RPG.Town.Simulator-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=125978&p=3148474&hilit=#p3148474",
+    "download": "https://filecrypt.cc/Container/40CDE9662F.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-20T00:11:01.422Z",
+    "link": "https://store.steampowered.com/app/2016080",
+    "steamID": "2016080",
+    "genres": "Indie, RPG, Simulation, Strategy"
+  },
+  {
+    "name": "Half Billion: Love Choice",
+    "id": "Half_Billion_Love_Choice",
+    "notes": "",
+    "subName": "Portable V10.18 + Build 16091702 & DLC Included",
+    "description": "\"Half Billion\" is a surreal simulation business interactive game, where you will complete the entrepreneurial journey with a start-up capital of half billion. Six beauty enter your life. How will you balance the relationship? Note that \"wealth\" and \"likability\" will jointly determine the your story.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3173890/header.jpg?t=1729219234",
+    "gameplay": "https://video.cloudflare.steamstatic.com/store_trailers/257056820/movie480_vp9.webm?t=1726819135",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Half.Billion.Love.Choice-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143363&p=3148502&hilit=#p3148502",
+    "download": "https://filecrypt.cc/Container/95658B6D57.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-20T01:45:49.727Z",
+    "link": "https://store.steampowered.com/app/3173890",
+    "steamID": "3173890",
+    "genres": "Adventure, Casual, Indie, RPG, Simulation, Strategy"
   }
 ]
