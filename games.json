@@ -33700,5 +33700,30 @@
     "link": "https://store.steampowered.com/app/470310",
     "steamID": "470310",
     "genres": "Casual, Indie, RPG, Strategy"
+  },
+  {
+    "name": "Factorio: Space Age",
+    "id": "Factorio",
+    "notes": "",
+    "subName": "Portable V2.0.7_79385 | Build 16121131 + DLCs Included & Online Supported",
+    "description": "Factorio is a game about building and creating automated factories to produce items of increasing complexity, within an infinite 2D world. Use your imagination to design your factory, combine simple elements into ingenious structures, and finally protect it from the creatures who don't really like you.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/645390.webp",
+    "gameplay": "https://www.youtube.com/watch?v=OiczN-8QKDA",
+    "tags": [
+      "gse",
+      "ofme"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "IceColdOldMan",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=70722&p=3114162#p3114162"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=41&t=70722&p=3149324&hilit=#p3149324",
+    "download": "https://filecrypt.cc/Container/51B059DEAE.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-21T13:55:39.839Z",
+    "link": "https://store.steampowered.com/app/427520",
+    "steamID": "427520",
+    "genres": "Casual, Indie, Simulation, Strategy"
   }
 ]
