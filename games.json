@@ -33704,7 +33704,7 @@
   {
     "name": "Factorio: Space Age",
     "id": "Factorio",
-    "notes": "",
+    "notes": "--Note--\nGoldBerg with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.\n\n--How to Play Online--\nCreate a new game -> Continue -> Next In the Visibility field, leave only Steam , and also uncheck the Confirm identity box -> Play -> Open Steam-Overlay (Shift + TAB) and invite friends.\n\nClick on CSRINRU Button and download the Factorio_Fix_Repair_Steam_V6_Generic.rar on attachments.",
     "subName": "Portable V2.0.7_79385 + Build 16121131 + DLCs Included & Online Supported",
     "description": "Factorio is a game about building and creating automated factories to produce items of increasing complexity, within an infinite 2D world. Use your imagination to design your factory, combine simple elements into ingenious structures, and finally protect it from the creatures who don't really like you.",
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/645390.webp",
