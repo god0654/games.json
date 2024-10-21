@@ -21011,7 +21011,7 @@
     "name": "Depersonalization",
     "id": "Depersonalization",
     "notes": "",
-    "subName": "Portable V2.0.13-7930 & Build 15392801",
+    "subName": "Portable V2.0.28_7501 & Build 16093527",
     "description": "Dice! Tabletop role-playing games! Cthulhu! Diverse story modules! Rich branching narratives! We are prisoners of fate, but sometimes we also roll the dice and create miracles!",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477070/header.jpg?t=1723192346",
     "gameplay": "https://www.youtube.com/watch?v=z88x93AzxKs",
@@ -21021,15 +21021,15 @@
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Depersonalization.Update.v2.0.13-TENOKE.png"
+      "link": "https://predb.net/rls/Depersonalization.v2.0.28-TENOKE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=123805&p=3109508&hilit=#p3109508",
-    "download": "https://filecrypt.cc/Container/30C73A3B74.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=123805&p=3149054&hilit=#p3149054",
+    "download": "https://filecrypt.cc/Container/24E432193C.html",
     "achievements": true,
-    "dateUpdated": "2024-08-19T16:05:27.182Z",
+    "dateUpdated": "2024-10-21T08:36:41.898Z",
+    "link": "https://store.steampowered.com/app/1477070",
     "steamID": "1477070",
-    "genres": "Adventure, Casual, Indie, RPG, Strategy",
-    "link": "https://store.steampowered.com/app/1477070"
+    "genres": "Adventure, Casual, Indie, RPG, Strategy"
   },
   {
     "name": "myPOPGOES",
@@ -33603,5 +33603,29 @@
     "link": "https://store.steampowered.com/app/2358720",
     "steamID": "2358720",
     "genres": "Action, Adventure, RPG"
+  },
+  {
+    "name": "Granny Remake",
+    "id": "Granny_Remake",
+    "notes": "",
+    "subName": "Portable V18.09.2024 & Build 15740984",
+    "description": "Granny Remake is a gripping horror game where you must escape from a sinister house chased by a cunning and relentless Granny. Choose from multiple escape routes: drive away in a car, call the police, or unlock the main door",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2110820/header.jpg?t=1728510267",
+    "gameplay": "https://www.youtube.com/watch?v=fQW9KUXpPIY",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Granny.Remake.v20240918-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134236&p=3149061&hilit=#p3149061",
+    "download": "https://filecrypt.cc/Container/776FF8D04F.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-21T08:38:23.162Z",
+    "link": "https://store.steampowered.com/app/2110820",
+    "steamID": "2110820",
+    "genres": "Action, Adventure, Indie"
   }
 ]
