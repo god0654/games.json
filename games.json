@@ -33775,5 +33775,29 @@
     "link": "https://store.steampowered.com/app/2807150",
     "steamID": "2807150",
     "genres": "Simulation, Strategy"
+  },
+  {
+    "name": "Railroad Corporation 2",
+    "id": "Railroad_Corporation_2",
+    "notes": "",
+    "subName": "Portable V0.8.10807 + Build 16124066 & DLC Included",
+    "description": "The 20th century heralds the new age of electrification for the railroad, and a new opportunity to make your fortune. Build your corporation carefully, as you deploy modern electric and diesel locomotives, lay new tracks, transport goods and passengers, and stay ahead of the competition.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1677970/header.jpg?t=1729523534",
+    "gameplay": "https://www.youtube.com/watch?v=FICsxeKvEh0",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Dound",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=116626&p=3149380&hilit=#p3149380"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=116626&p=3149448&hilit=#p3149448",
+    "download": "https://filecrypt.cc/Container/B37AD12772.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-21T16:58:34.186Z",
+    "link": "https://store.steampowered.com/app/1677970",
+    "steamID": "1677970",
+    "genres": "Simulation, Strategy"
   }
 ]
