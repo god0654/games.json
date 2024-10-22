@@ -33823,5 +33823,77 @@
     "link": "https://store.steampowered.com/app/1449780",
     "steamID": "1449780",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "The Fox Hare Disaster: Chapter One",
+    "id": "The_Fox_Hare_Disaster",
+    "notes": "",
+    "subName": "Portable V1.04 & Build 16041276",
+    "description": "Prepare to explore an abandoned mall from the 90’s in this first-person, psychological horror! Tackle puzzles and come face to face with the haunting creatures that lurk inside. Will you be able to make it out alive, or will you suffer the same fate as those who came before you…?",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3214910/header.jpg?t=1729540652",
+    "gameplay": "https://www.youtube.com/watch?v=r9yjn6M36Pw",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/The.Fox.Hare.Disaster.Chapter.One-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143941&p=3149703&hilit=#p3149703",
+    "download": "https://filecrypt.cc/Container/FB33E0638B.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-22T00:07:41.935Z",
+    "link": "https://store.steampowered.com/app/3214910",
+    "steamID": "3214910",
+    "genres": "Casual, Indie, Simulation"
+  },
+  {
+    "name": "Elven City Simulator",
+    "id": "Elven_City_Simulator",
+    "notes": "",
+    "subName": "Portable V22.10.2024 & Build 16115105",
+    "description": "Revive civilization and save it from mysterious darkness. Story-oriented colony simulator with elvish flavor and indirect control.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2261150/header.jpg?t=1729531476",
+    "gameplay": "https://www.youtube.com/watch?v=AdxbYXtSXMc",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Elven.City.Simulator-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141424&p=3149694&hilit=#p3149694",
+    "download": "https://filecrypt.cc/Container/A3C47A56B7.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-22T00:10:54.594Z",
+    "link": "https://store.steampowered.com/app/2261150",
+    "steamID": "2261150",
+    "genres": "Indie, Simulation, Strategy"
+  },
+  {
+    "name": "GRING×GRIND",
+    "id": "GRINGxGRIND",
+    "notes": "",
+    "subName": "Portable V22.10.2024 & Build 15701731",
+    "description": "GRIND×GRIND is a dynamic arena shooter where players control Hiro, a slime on a quest to regain his human form. Battle through six arenas, using a variety of weapons like piercing shots, ricocheting attacks, and melee strikes. Upgrade gear, earn coins, and customize your playstyle!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3233650/header.jpg?t=1728318313",
+    "gameplay": "https://video.cloudflare.steamstatic.com/store_trailers/257055024/movie480_vp9.webm?t=1726958801",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/GRING.GRIND-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143942&p=3149685&hilit=#p3149685",
+    "download": "https://filecrypt.cc/Container/A2E5231404.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-22T00:10:35.107Z",
+    "link": "https://store.steampowered.com/app/3233650",
+    "steamID": "3233650",
+    "genres": "Action, Adventure, Casual, Indie"
   }
 ]
