@@ -33899,7 +33899,7 @@
   {
     "name": "Wayfinder",
     "id": "Wayfinder",
-    "notes": "",
+    "notes": "--Fix don't load game--\nThe game will redirect you back to the Menu once you start the game, it is highly recommended that you replace the GSE with RUNE\n⭣\nWayfinder\\_CrackOnly (RUNE)\\ and copy the two folder in Wayfinder\\Paste_Here and replace.\n",
     "subName": "Portable V201773 (Full Release) + Build 16106176 & DLCs Included",
     "description": "Become a Wayfinder, and unlock their powers as you choose your path and playstyle while pushing back a hostile force that has overtaken your world. A Co-Op ARPG where you directly shape and customize the endless adventures you go on with friends, because Wayfinders are stronger together.",
     "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1171690/header.jpg?t=1729533419",
