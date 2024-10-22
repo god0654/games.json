@@ -33895,5 +33895,29 @@
     "link": "https://store.steampowered.com/app/3233650",
     "steamID": "3233650",
     "genres": "Action, Adventure, Casual, Indie"
+  },
+  {
+    "name": "Wayfinder",
+    "id": "Wayfinder",
+    "notes": "",
+    "subName": "Portable V201773 (Full Release) + Build 16106176 & DLCs Included",
+    "description": "Become a Wayfinder, and unlock their powers as you choose your path and playstyle while pushing back a hostile force that has overtaken your world. A Co-Op ARPG where you directly shape and customize the endless adventures you go on with friends, because Wayfinders are stronger together.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1171690/header.jpg?t=1729533419",
+    "gameplay": "https://www.youtube.com/watch?v=FdQcr1GYJhY",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://predb.net/rls/Wayfinder-RUNE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127944&p=3149745&hilit=#p3149745",
+    "download": "https://filecrypt.cc/Container/78CAB27128.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-22T02:00:12.395Z",
+    "link": "https://store.steampowered.com/app/1171690",
+    "steamID": "1171690",
+    "genres": "Action, Adventure, RPG"
   }
 ]
