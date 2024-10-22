@@ -6791,28 +6791,29 @@
     "link": "https://store.steampowered.com/app/1866320"
   },
   {
-    "name": "Alan Wake 2: Night Springs - Deluxe Edition",
+    "name": "Alan Wake 2: The Lake House - Deluxe Edition",
     "id": "Alan_Wake_2",
-    "notes": "",
-    "subName": "Portable V1.1.0 & DLCs Included",
+    "notes": "--Note--\nIt is based on my old release v1.1.0 ([CLICK HERE](https://cs.rin.ru/forum/viewtopic.php?f=38&t=117848&p=3067215&hilit=#p3067215)), updated to the latest version 1.2.2 with the new DLC.",
+    "subName": "Portable V1.2.2 & DLCs Included",
     "description": "Saga Anderson arrives to investigate ritualistic murders in a small town. Alan Wake pens a dark story to shape the reality around him. These two heroes are somehow connected. Can they become the heroes they need to be?",
-    "thumbnail": "https://god0654.github.io/DigitalZone/Images/Alan%20Wake%202%20Night%20Springs%20-%20Deluxe%20Edition.webp",
-    "gameplay": "https://youtu.be/cMSG5r2mklA",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/AW2.webp",
+    "gameplay": "https://www.youtube.com/watch?v=591RFRnhNEY",
     "tags": [
-      "scene"
+      "scene",
+      "epic"
     ],
     "based": {
-      "info": "nfo",
-      "credits": "RUNE",
-      "link": "https://api.predb.net/nfoimg/Alan.Wake.2.Night.Springs-RUNE.png"
+      "info": "info",
+      "credits": "Update ElAmigos (1.1.1) + Update zhangjianjin23 with DLC (1.2.2)",
+      "link": "https://digitalzone.vercel.app/games/Alan_Wake_2"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=38&t=117848&p=3067215&hilit=#p3067215",
-    "download": "https://filecrypt.cc/Container/EE93E15DF0.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=38&t=117848&p=3150196&hilit=#p3150196",
+    "download": "https://filecrypt.cc/Container/02D9011DED.html",
     "achievements": false,
-    "dateUpdated": "2024-07-24T14:23:36.617Z",
+    "dateUpdated": "2024-10-22T18:47:09.665Z",
+    "link": "https://store.epicgames.com/en-US/p/alan-wake-2",
     "steamID": "",
-    "genres": "",
-    "link": ""
+    "genres": "Action, Adventure, Horror, Shooter"
   },
   {
     "name": "House Flipper 2: Fairytale - Deluxe Edition",
