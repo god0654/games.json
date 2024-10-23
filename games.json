@@ -34138,5 +34138,29 @@
     "link": "https://store.steampowered.com/app/1782120",
     "steamID": "1782120",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Exploding Kittens® 2: Mystic Mayhem - Cat-Astrophic Edition",
+    "id": "Exploding_Kittens_2",
+    "notes": "--Note--\nOpen Steam before launch.",
+    "subName": "Portable V674993-0.0.17 + Build 16068094 + DLCs Included & Online Supported",
+    "description": "Live your best and most chaotic kitty life! Take a deep whiff of burning furballs, draw a card and pray for victory (and look stylish all the while, thanks to oodles of customisation options for your own adorable avatar).",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2999030.webp",
+    "gameplay": "https://www.youtube.com/watch?v=rHy0flai5ek",
+    "tags": [
+      "ofme"
+    ],
+    "based": {
+      "info": "release",
+      "credits": "Online-Fix.me",
+      "link": "https://online-fix.me/games/adventures/17615-exploding-kittens-2-po-seti.html"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143987&p=3150891&hilit=#p3150891",
+    "download": "https://filecrypt.cc/Container/C20F824B48.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-23T20:21:52.211Z",
+    "link": "https://store.steampowered.com/app/2999030",
+    "steamID": "2999030",
+    "genres": "Casual, Indie, Simulation, Strategy"
   }
 ]
