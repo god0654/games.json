@@ -33920,5 +33920,102 @@
     "link": "https://store.steampowered.com/app/1171690",
     "steamID": "1171690",
     "genres": "Action, Adventure, RPG"
+  },
+  {
+    "name": "Kong: Survivor Instinct",
+    "id": "Kong_Survivor_Instinct",
+    "notes": "",
+    "subName": "Portable V1.0.2 & Build 16096420",
+    "description": "When giant monsters fight, no one’s safe. Embark on a thrilling quest of survival in a city that’s become a battleground for Titans. Use the lethal strength of Kong and other monsters to your own advantage in this official Monsterverse game set shortly after the events of Godzilla vs. Kong.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2769080/header.jpg?t=1729605538",
+    "gameplay": "https://www.youtube.com/watch?v=wVktTKzCaBk",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://predb.net/rls/Kong.Survivor.Instinct-RUNE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142748&p=3150373&hilit=#p3150373",
+    "download": "https://filecrypt.cc/Container/B63644F248.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-23T00:32:16.551Z",
+    "link": "https://store.steampowered.com/app/2769080",
+    "steamID": "2769080",
+    "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "AWAKEN - Astral Blade",
+    "id": "AWAKEN_Astral_Blade",
+    "notes": "",
+    "subName": "Portable V202410222004 + Build 16136109 & DLC Included",
+    "description": "Weave your own story in this dark fairy tale. In the mysterious ancient ruins, you will adventure with Tania to reveal her origins and fate. Is there any chance of survival in the darkest and desperate place?",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1716310/header.jpg?t=1729620221",
+    "gameplay": "https://www.youtube.com/watch?v=9gc5HQ5IjRw",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "SKIDROW",
+      "link": "https://predb.net/rls/AWAKEN.Astral.Blade.Golden.Scale.Set.DLC.Unlocker-SKIDROW"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=118426&p=3150378&hilit=#p3150378",
+    "download": "https://filecrypt.cc/Container/2B62635445.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-23T00:57:04.919Z",
+    "link": "https://store.steampowered.com/app/1716310",
+    "steamID": "1716310",
+    "genres": "Action, Adventure, Indie, RPG"
+  },
+  {
+    "name": "FALL",
+    "id": "FALL",
+    "notes": "",
+    "subName": "Portable V0.0.2 (HotFix 1) & Build 16126742",
+    "description": "In the past, the world was almost invaded by zombies.You will play the commander of the remaining survivor camp, searching for hope for the last surviving companions, forming and assigning your special police squad to explore this post-apocalyptic world filled with zombies!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2705230/header.jpg?t=1729430174",
+    "gameplay": "https://video.cloudflare.steamstatic.com/store_trailers/257059861/movie480_vp9.webm?t=1729352325",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/FALL-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143921&p=3150389&hilit=#p3150389",
+    "download": "https://filecrypt.cc/Container/88E8DA93FF.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-23T01:28:02.239Z",
+    "link": "https://store.steampowered.com/app/2705230",
+    "steamID": "2705230",
+    "genres": "Action, Adventure, Indie, RPG, Simulation, Strategy"
+  },
+  {
+    "name": "Son of a Gun",
+    "id": "Son_of_a_Gun",
+    "notes": "",
+    "subName": "Portable V1.0.2-v6 & BuildID 58032987956899424",
+    "description": "A retro-inspired, action packed, twin-stick shooter full of bullets, blood and explosions. Collect and manage your guns to exterminate jungle zombies, swarming bugs, heavy robots, slimy monsters and even space ghosts.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2288600/header.jpg?t=1729612143",
+    "gameplay": "https://www.youtube.com/watch?v=TOzU4zIkiOk",
+    "tags": [
+      "drmfree",
+      "gog"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "FCKDRM",
+      "link": "https://predb.net/rls/Son.of.a.Gun-FCKDRM"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143953&p=3150398&hilit=#p3150398",
+    "download": "https://filecrypt.cc/Container/D74A3F614D.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-23T01:57:59.507Z",
+    "link": "https://store.steampowered.com/app/2288600",
+    "steamID": "2288600",
+    "genres": "Action"
   }
 ]
