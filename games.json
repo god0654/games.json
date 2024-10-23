@@ -34162,5 +34162,29 @@
     "link": "https://store.steampowered.com/app/2999030",
     "steamID": "2999030",
     "genres": "Casual, Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Age of History 3",
+    "id": "Age_of_History_3",
+    "notes": "",
+    "subName": "Portable V1.01 & Build 16141556",
+    "description": "Grand strategy wargame where the destiny of Civilizations rests in your hands - will they stand united under your leadership or fall divided in conflict? Journey through the entire saga of human civilization, from its earliest days to the futuristic era, crafting your legacy age by age.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2772750/header.jpg?t=1729677833",
+    "gameplay": "https://www.youtube.com/watch?v=W_K51cUIbEM",
+    "tags": [
+      "p2p"
+    ],
+    "based": {
+      "info": "info",
+      "credits": "CSF Dound & Crack by Dozy_ENG ",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=41&t=142210&p=3150564&hilit=#p3150564"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=41&t=142210&p=3150964&hilit=#p3150964",
+    "download": "https://filecrypt.cc/Container/4AD16DB495.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-23T20:50:47.036Z",
+    "link": "https://store.steampowered.com/app/2772750",
+    "steamID": "2772750",
+    "genres": "Simulation, Strategy"
   }
 ]
