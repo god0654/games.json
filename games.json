@@ -34017,5 +34017,29 @@
     "link": "https://store.steampowered.com/app/2288600",
     "steamID": "2288600",
     "genres": "Action"
+  },
+  {
+    "name": "Potionomics: Boss Finn - Deluxe Edition",
+    "id": "Potionomics",
+    "notes": "",
+    "subName": "Portable V23.10.2024 + Build 16130516 & DLCs Included",
+    "description": "You’ve inherited your uncle’s potion shop—and a huge debt. Better get brewing! Customize your store, hire heroes to gather ingredients, befriend (or romance) fellow vendors to learn new haggling strategies, and go head-to-head with competitors in this narrative-driven, deck-building shop simulator.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1874490.webp",
+    "gameplay": "https://www.youtube.com/watch?v=WMnTjky60f4",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Potionomics.Boss.Finn.Content.Pack-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=106123&p=3150570&hilit=#p3150570",
+    "download": "https://filecrypt.cc/Container/96A5CB3DB1.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-23T11:13:23.743Z",
+    "link": "https://store.steampowered.com/app/1874490",
+    "steamID": "1874490",
+    "genres": "Indie, RPG, Simulation, Strategy"
   }
 ]
