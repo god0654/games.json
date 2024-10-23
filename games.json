@@ -34065,5 +34065,54 @@
     "link": "",
     "steamID": "",
     "genres": "Action, Adventure, RPG, NSFW"
+  },
+  {
+    "name": "Stargate: Timekeepers - Part 2",
+    "id": "Stargate_Timekeepers",
+    "notes": "",
+    "subName": "Portable V1.02.59 & Build 16149576",
+    "description": "Stargate: Timekeepers is a real-time tactics game where you lead a team of specialists through a story-driven campaign set in the SG-1 universe. Sneak your characters behind enemy lines, use their unique skills, craft the perfect plan to unravel a timeloop mystery, and defeat the Goa’uld threat.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1523650/header.jpg?t=1729693400",
+    "gameplay": "https://www.youtube.com/watch?v=XnECzX8exC8",
+    "tags": [
+      "gse",
+      "steamless"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://predb.net/rls/Stargate.Timekeepers.Part.2-RUNE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=117960&p=3150769&hilit=#p3150769",
+    "download": "https://filecrypt.cc/Container/94FABA4B82.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-23T17:50:22.399Z",
+    "link": "https://store.steampowered.com/app/1523650",
+    "steamID": "1523650",
+    "genres": "Strategy"
+  },
+  {
+    "name": "Terraformers: Megastructures – Deluxe Edition",
+    "id": "Terraformers",
+    "notes": "",
+    "subName": "Portable V1.5.30 + Build 16152674 & DLCs Included",
+    "description": "Terraform Mars in this turn-based colony builder and resource management game with roguelike elements. Explore the planet, develop spectacular cities, spread life and turn the Red Planet into a green one!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2779050.webp",
+    "gameplay": "https://www.youtube.com/watch?v=olomX8JtaFk",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://predb.net/rls/Terraformers.Megastructures-RUNE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=115960&p=3150837&hilit=#p3150837",
+    "download": "https://filecrypt.cc/Container/189DD9DCF8.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-23T17:50:03.635Z",
+    "link": "https://store.steampowered.com/app/1244800",
+    "steamID": "1244800",
+    "genres": "Strategy"
   }
 ]
