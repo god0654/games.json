@@ -34041,5 +34041,29 @@
     "link": "https://store.steampowered.com/app/1874490",
     "steamID": "1874490",
     "genres": "Indie, RPG, Simulation, Strategy"
+  },
+  {
+    "name": "Brothership: Secret Quest",
+    "id": "Mario_Luigi_Brothership",
+    "notes": "",
+    "subName": "Portable-Suyu V1.0.0",
+    "description": "When the Uni-Tree is destroyed and the world of Concordia is broken apart, they must try to reconnect a fractured world, one island at a time.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/BrothershipSecretQuest.webp",
+    "gameplay": "https://www.youtube.com/watch?v=TJIqNy4TdOQ",
+    "tags": [
+      "switch"
+    ],
+    "based": {
+      "info": "info",
+      "credits": "Based on Suyu",
+      "link": "https://digitalzone.vercel.app/games/Mario_Luigi_Brothership"
+    },
+    "csrinru": "",
+    "download": "https://filecrypt.cc/Container/7A641B311D.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-23T12:27:48.056Z",
+    "link": "",
+    "steamID": "",
+    "genres": "Action, Adventure, RPG, NSFW"
   }
 ]
