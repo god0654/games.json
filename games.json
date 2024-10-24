@@ -34450,5 +34450,53 @@
     "link": "https://store.steampowered.com/app/416000",
     "steamID": "416000",
     "genres": "Adventure, Casual, Indie, RPG, Simulation"
+  },
+  {
+    "name": "SINce Memories: Off The Starry Sky",
+    "id": "SINce_Memories_Off_The_Starry_Sky",
+    "notes": "",
+    "subName": "Portable V23.10.2024 & Build 15963712",
+    "description": "Follow the story of Junya, lost in his own world but soft-hearted and ready to help those in need, his close friends try to keep him grounded following the tragic loss of his brother. Trying to move on from his grief, focusing on his studies and his work, he loses himself in trying to help others.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2838360/header.jpg?t=1729698383",
+    "gameplay": "https://www.youtube.com/watch?v=8flF0vaMuh4",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Pegasus1010",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143947&p=3150756&hilit=#p3150756"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143947&p=3151718&hilit=#p3151718",
+    "download": "https://filecrypt.cc/Container/8E45F4610C.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-24T19:53:31.935Z",
+    "link": "https://store.steampowered.com/app/2838360",
+    "steamID": "2838360",
+    "genres": "Action, Adventure, Casual"
+  },
+  {
+    "name": "Forgive Me Father 2",
+    "id": "Forgive_Me_Father_2",
+    "notes": "",
+    "subName": "Portable V1.0.0.38f (Full Release) & Build 16168486",
+    "description": "Embark on a journey into the darkest nightmares to restore your sanity. Blast your way through hordes of possessed enemies, unlock an arsenal of deadly weapons and unearthly abilities, and get ready to face even more Lovecraftian madness in this action-packed FPS sequel.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2272250/header.jpg?t=1729789422",
+    "gameplay": "https://www.youtube.com/watch?v=cOD2ObevyxU",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Apocalypse",
+      "link": "https://digitalzone.vercel.app/games/Forgive_Me_Father_2"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=131391&p=3151738&hilit=#p3151738",
+    "download": "https://filecrypt.cc/Container/76C83E43DD.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-24T20:26:36.398Z",
+    "link": "https://store.steampowered.com/app/2272250",
+    "steamID": "2272250",
+    "genres": "Action, Indie"
   }
 ]
