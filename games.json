@@ -33092,10 +33092,10 @@
     "genres": "Adventure"
   },
   {
-    "name": "Forbidden Realms: ReFantazio - Anniversary Edition",
+    "name": "Forbidden Realms: ReFantazio - Atlus 35th Anniversary Edition",
     "id": "Metaphor_ReFantazio",
-    "notes": "Note: There is no guarantee that Achievements will unlocked.\n_______________________________________________________________\nREAD THIS FOR NOT LOSE YOUR SAVES\n\nDownload the Patched .exe V1 below and replace V2. (V2 does not allow you to load your saves)\n\n⬐Download Link⬎\nhttps://datanodes.to/3jibo19rsyb6/METAPHOR_FIX_V1.rar\n_______________________________________________________________\nPatched .exe v1 - Notes:\n• No more need Cheat Engine for SoftLock.\n",
-    "subName": "Portable V1.02 + Build 15893497 / Build 15936182 + Patched .exe v1 + Save Fix & DLCs Included",
+    "notes": "--How to obtain DLCs in-game--\nIf you are new you can get the additional content by unlocking the Akademia and opening the gold chest as shown in the image instead if you have played previously, loading your save will get the popup that additional content has been detected, go to Akademia and open the gold chest.\n⭣\nhttps://i.imgur.com/EiHikPg.png\n\n--Can i use my saves or do I have to start over?--\nThe answer is yes the saves are usable, i edited in configs.user.ini the SteamID from my configuration when you launch the game you can continue your saves instead if you use CODEX Emu just replace the SteamID with 76561197960267366 and you are ready to go.",
+    "subName": "Portable V1.02 + Build 15936182 + DLCs Included (ALSO MISSING ONE) & Patched EXE V5",
     "description": "The throne sits empty after the king’s assassination. With no heirs, the will of the late king decrees that the next monarch will be elected by the people, & thus begins your fight for the throne..",
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/ForbiddenRealmsReFa.webp",
     "gameplay": "https://www.youtube.com/watch?v=v2d4nyTpwpw",
@@ -33109,9 +33109,9 @@
       "link": "https://cs.rin.ru/forum/viewtopic.php?f=41&t=138587&p=3144426&hilit=#p3144426"
     },
     "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=41&t=138587&p=3146821&hilit=#p3146821",
-    "download": "https://filecrypt.cc/Container/C4EF00B83A.html",
+    "download": "https://filecrypt.cc/Container/F6781923F2.html",
     "achievements": true,
-    "dateUpdated": "2024-10-17T14:55:35.134Z",
+    "dateUpdated": "2024-10-24T00:18:58.120Z",
     "link": "",
     "steamID": "",
     "genres": "Action, Adventure, RPG, NSFW"
