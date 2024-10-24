@@ -34498,5 +34498,29 @@
     "link": "https://store.steampowered.com/app/2272250",
     "steamID": "2272250",
     "genres": "Action, Indie"
+  },
+  {
+    "name": "Distant Worlds 2: Return of the Shakturi",
+    "id": "Distant_Worlds_2",
+    "notes": "",
+    "subName": "Portable V1.2.6.7 + Build 16120820 & DLCs Included",
+    "description": "Distant Worlds 2 is a vast, pausable real-time 4X space strategy game.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2926560.webp",
+    "gameplay": "https://www.youtube.com/watch?v=8TwHNOndvf4",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://predb.net/rls/Distant.Worlds.2.Return.of.the.Shakturi.PROPER-RUNE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=111391&p=3151790&hilit=#p3151790",
+    "download": "https://filecrypt.cc/Container/75FBB1EE0C.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-24T22:01:37.334Z",
+    "link": "https://store.steampowered.com/app/1531540",
+    "steamID": "1531540",
+    "genres": "Simulation, Strategy"
   }
 ]
