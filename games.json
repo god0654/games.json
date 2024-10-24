@@ -34186,5 +34186,77 @@
     "link": "https://store.steampowered.com/app/2772750",
     "steamID": "2772750",
     "genres": "Simulation, Strategy"
+  },
+  {
+    "name": "Amanda the Adventurer 2",
+    "id": "Amanda_the_Adventurer_2",
+    "notes": "",
+    "subName": "Portable V1.0.2 & Build 16143138",
+    "description": "In Amanda the Adventurer 2, the story continues as Riley encounters a mysterious masked figure after destroying the TV in the attic. Travel to the Kensdale Public Library and dig deeper into the mystery of Amanda the Adventurer.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2826800/header.jpg?t=1729639963",
+    "gameplay": "https://www.youtube.com/watch?v=Q0wIaeO1pbw",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Amanda.the.Adventurer.2-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141404&p=3151081&hilit=#p3151081",
+    "download": "https://filecrypt.cc/Container/E755CCBDDB.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-24T01:16:59.538Z",
+    "link": "https://store.steampowered.com/app/2826800",
+    "steamID": "2826800",
+    "genres": "Adventure, Indie"
+  },
+  {
+    "name": "ArkCraft: The Rebirth of the World",
+    "id": "ArkCraft_The_Rebirth_of_the_World",
+    "notes": "",
+    "subName": "Portable V24.10.2024 & Build 16146651",
+    "description": "In this open-world crafting and building game, you explore an ancient world full of dangers and secrets. Collect animals and plants, build bases and master the craft as you build your ark and save civilization from destruction by the flood and then rebuild it.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2869610/header.jpg?t=1729598471",
+    "gameplay": "https://www.youtube.com/watch?v=xh8IARYwvmg",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/ArkCraft.The.Rebirth.of.the.World-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143948&p=3151088&hilit=#p3151088",
+    "download": "https://filecrypt.cc/Container/DAC142C855.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-24T01:39:48.715Z",
+    "link": "https://store.steampowered.com/app/2869610",
+    "steamID": "2869610",
+    "genres": "Adventure, Casual, RPG"
+  },
+  {
+    "name": "ROMANCE OF THE THREE KINGDOMS 8 REMAKE",
+    "id": "ROMANCE_OF_THE_THREE_KINGDOMS_8_REMAKE",
+    "notes": "--How to Play--\nLaunch steamclient_loader_x64/32.exe in ''ROMANCE OF THE THREE KINGDOMS 8 REMAKE\\''.",
+    "subName": "Portable V1.0.1 + Build 15633724 & DLCs Included",
+    "description": "Theater of war, infinite drama. A masterpiece of historical simulation \"ROMANCE OF THE THREE KINGDOMS 8\" is revived after 20 years. Enjoy the greatest military drama in the Three Kingdoms series, with the largest number of officers and scenarios!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2288150/header.jpg?t=1729732789",
+    "gameplay": "https://www.youtube.com/watch?v=Febv7UPopIw",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/ROMANCE.OF.THE.THREE.KINGDOMS.8.REMAKE-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135632&p=3151110&hilit=#p3151110",
+    "download": "https://filecrypt.cc/Container/B23508F605.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-24T02:51:25.238Z",
+    "link": "https://store.steampowered.com/app/2288150",
+    "steamID": "2288150",
+    "genres": "Simulation, Strategy"
   }
 ]
