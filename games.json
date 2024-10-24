@@ -34330,5 +34330,29 @@
     "link": "https://store.steampowered.com/app/3207400",
     "steamID": "3207400",
     "genres": "Simulation"
+  },
+  {
+    "name": "Cities Skylines: Mountain Village - Collection Bundle",
+    "id": "Cities_Skylines",
+    "notes": "",
+    "subName": "Portable V1.18.1-f3 + Build 15573808 & DLCs Included",
+    "description": "Cities: Skylines is a modern take on the classic city simulation. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2955870.webp",
+    "gameplay": "https://www.youtube.com/watch?v=xnRAABxg0QU",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://predb.net/rls/Cities.Skylines.Mountain.Village-RUNE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=65297&p=3151523&hilit=#p3151523",
+    "download": "https://filecrypt.cc/Container/75DA995ADB.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-24T15:55:54.638Z",
+    "link": "https://store.steampowered.com/app/255710",
+    "steamID": "255710",
+    "genres": "Simulation, Strategy"
   }
 ]
