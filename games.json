@@ -34282,5 +34282,53 @@
     "link": "https://store.steampowered.com/app/1407450",
     "steamID": "1407450",
     "genres": "Indie, RPG, Strategy"
+  },
+  {
+    "name": "While We Wait Here",
+    "id": "While_We_Wait_Here",
+    "notes": "",
+    "subName": "Portable V21.10.2024 & Build 16124632",
+    "description": "Share thoughts and hot food with your last ever clients, as you wait for the world to end.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2213120/header.jpg?t=1729699983",
+    "gameplay": "https://www.youtube.com/watch?v=epqiMyrpzyo",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "yoshinatsu",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=129717&p=3151161&hilit=#p3151161"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=129717&p=3151363&hilit=#p3151363",
+    "download": "https://filecrypt.cc/Container/D653A0DA89.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-24T12:36:50.661Z",
+    "link": "https://store.steampowered.com/app/2213120",
+    "steamID": "2213120",
+    "genres": "Adventure, Casual, Simulation"
+  },
+  {
+    "name": "Silent Still",
+    "id": "Silent_Still",
+    "notes": "",
+    "subName": "Portable V22.10.2024 & Build 15611278",
+    "description": "Silent Still is a first-person psychological horror game that delves into the terrifying experience of sleep paralysis and nightmares. You will feel the true horror that sleep paralysis can bring and the overwhelming fear it instills in a person.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3207400/header.jpg?t=1726758279",
+    "gameplay": "https://www.youtube.com/watch?v=cWpT2ERa0zU",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "GAMEDRIVE.ORG",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143998&p=3151142&hilit=#p3151142"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143998&p=3151379&hilit=#p3151379",
+    "download": "https://filecrypt.cc/Container/97B1CA9A4C.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-24T13:05:01.626Z",
+    "link": "https://store.steampowered.com/app/3207400",
+    "steamID": "3207400",
+    "genres": "Simulation"
   }
 ]
