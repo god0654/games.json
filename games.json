@@ -34354,5 +34354,29 @@
     "link": "https://store.steampowered.com/app/255710",
     "steamID": "255710",
     "genres": "Simulation, Strategy"
+  },
+  {
+    "name": "Seduction of the Seven",
+    "id": "Romancing_SaGa_2_Revenge_of_the_Seven",
+    "notes": "",
+    "subName": "Portable-Ryujinx V1.0.1 & FPS Unlocked",
+    "description": "In this non-linear RPG, rule and expand the Empire of Varennes across multiple generations. Discover a vast array of story experiences as you fight the Seven Heroes in an epic battle that plays out over thousands of years.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2455640/header.jpg?t=1729785678",
+    "gameplay": "https://www.youtube.com/watch?v=wCloP3y0LnY",
+    "tags": [
+      "switch"
+    ],
+    "based": {
+      "info": "info",
+      "credits": "Based on Ryujinx",
+      "link": "https://digitalzone.vercel.app/games/Romancing_SaGa_2_Revenge_of_the_Seven"
+    },
+    "csrinru": "",
+    "download": "https://filecrypt.cc/Container/4239B4281C.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-24T16:52:20.421Z",
+    "link": "",
+    "steamID": "",
+    "genres": "RPG, NSFW"
   }
 ]
