@@ -34378,5 +34378,75 @@
     "link": "",
     "steamID": "",
     "genres": "RPG, NSFW"
+  },
+  {
+    "name": "Feudal Baron: King's Land",
+    "id": "Feudal_Baron_King_s_Land",
+    "notes": "",
+    "subName": "Portable V0.9.20241024.666 & Build 16166124",
+    "description": "Turn a humble settlement into a medieval city! In Feudal Baron: King’s Land, you build houses, craftsmanship workshops or churches, fight battles, and create supply chains mightier than swords to satisfy your fussy citizens – or to squeeze them to the last penny.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1674530/header.jpg?t=1729701624",
+    "gameplay": "https://www.youtube.com/watch?v=yUI7OK6raT0",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "Mart1z",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135618&p=3151078&hilit=#p3151078"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135618&p=3151630&hilit=#p3151630",
+    "download": "https://filecrypt.cc/Container/54FB7974CF.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-24T18:04:45.362Z",
+    "link": "https://store.steampowered.com/app/1674530",
+    "steamID": "1674530",
+    "genres": "Indie, Strategy"
+  },
+  {
+    "name": "Card-en-Ciel",
+    "id": "Card_en_Ciel",
+    "notes": "--How to Play--\nLaunch steamclient_loader_x64.exe in ''Card-en-Ciel\\''.",
+    "subName": "Portable V1.0.5 & Build 16149283",
+    "description": "Card-en-Ciel is a roguelite card-battling RPG featuring over 300 different cards and 50 unique vocal songs! Play as Neon, the \"Gaming Chair Detective\" famous for solving net-crimes, as he encounters a strange new case when he dives into an in-development game world.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2730540/header.jpg?t=1729734035",
+    "gameplay": "https://www.youtube.com/watch?v=iwI3Al25LJo",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "chronos",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143063&p=3151307&hilit=#p3151307"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143063&p=3151662&hilit=#p3151662",
+    "download": "https://filecrypt.cc/Container/817FCB8CD2.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-24T18:53:41.461Z",
+    "link": "https://store.steampowered.com/app/2730540",
+    "steamID": "2730540",
+    "genres": "RPG"
+  },
+  {
+    "name": "Orange Season",
+    "id": "Orange_Season",
+    "notes": "",
+    "subName": "Portable V1.0 & Build 16156825",
+    "description": "Make your farmer’s dream come true in Orange Season. With your parent’s help, you’ve finally saved enough money to buy a plot of land in the charming farmer’s village of Orange Town. Build a thriving farm as you grow crops, raise animals, fish, and mine materials to establish your farm in town.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/416000/header.jpg?t=1729760398",
+    "gameplay": "https://www.youtube.com/watch?v=gU0GZIJBqQk",
+    "tags": [],
+    "based": {
+      "info": "csf",
+      "credits": "Dound",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=79947&p=3151422&hilit=#p3151422"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=79947&p=3151693&hilit=#p3151693",
+    "download": "https://filecrypt.cc/Container/22128AD676.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-24T19:30:40.722Z",
+    "link": "https://store.steampowered.com/app/416000",
+    "steamID": "416000",
+    "genres": "Adventure, Casual, Indie, RPG, Simulation"
   }
 ]
