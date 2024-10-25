@@ -17871,28 +17871,28 @@
     "link": "https://store.steampowered.com/app/2000960"
   },
   {
-    "name": "Ys X: Nordics",
+    "name": "Ys X: Nordics - Launch Edition",
     "id": "Ys_X:_Nordics",
     "notes": "",
-    "subName": "Portable V14.03.2024 + Build 13736953 & DLCs Included",
-    "description": "The story takes place in the northern sea Obelia Bay, a bay filled with countless islands of all sizes. Ys X: Nordics depicts a brand-new adventure in the northern sea Obelia Bay, featuring the young adventurer, Adol Christin, as its protagonist!",
-    "thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/2570810/header.jpg?t=1710344377",
-    "gameplay": "https://youtu.be/23jfNpkTB1w",
+    "subName": "Portable V1.0.7 + Build 16161593 & DLCs Included",
+    "description": "Explore uncharted islands, engage in fast-paced action combat, and experience the high seas adventures of unlikely allies Adol and Karja in Ys X: Nordics!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2731870/header.jpg?t=1729875676",
+    "gameplay": "https://www.youtube.com/watch?v=AJhKyc3Mbcg",
     "tags": [
       "gse"
     ],
     "based": {
-      "info": "info",
-      "credits": "3DM Files & Update of zhangjianjin23",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137903&p=3013567&hilit=#p3013567"
+      "info": "nfo",
+      "credits": "FLT",
+      "link": "https://predb.net/rls/Ys_X_Nordics-FLT"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137903&p=3013894&hilit=#p3013894",
-    "download": "https://filecrypt.cc/Container/D0DCAFCF23.html",
-    "achievements": false,
-    "dateUpdated": "2024-07-26T14:47:43.649Z",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138306&p=3152433&hilit=#p3152433",
+    "download": "https://filecrypt.cc/Container/5CA7AE470E.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-25T18:29:11.724Z",
+    "link": "https://store.steampowered.com/app/2570810",
     "steamID": "2570810",
-    "genres": "Action, RPG",
-    "link": "https://store.steampowered.com/app/2570810"
+    "genres": "Action, RPG, Adventure"
   },
   {
     "name": "Thief Simulator 2",
@@ -34718,5 +34718,53 @@
     "link": "https://store.steampowered.com/app/1942280",
     "steamID": "1942280",
     "genres": "Action, Casual, Indie, RPG"
+  },
+  {
+    "name": "Hypnosis Card 2 Happy Life",
+    "id": "Hypnosis_Card_2_Happy_Life",
+    "notes": "",
+    "subName": "Portable V1.0 & Build 16176554",
+    "description": "\"Hypnosis Card 2 Happy Life\" is a card battle game with deck building, introducing a new concept of body parts. Players can interact and battle with many girls through cards of different genres.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3085640/header.jpg?t=1729851133",
+    "gameplay": "https://video.cloudflare.steamstatic.com/store_trailers/257068297/movie480_vp9.webm?t=1729851126",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://digitalzone.vercel.app/games/Hypnosis_Card_2_Happy_Life"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144042&p=3152386&hilit=#p3152386",
+    "download": "https://filecrypt.cc/Container/2DA36DD973.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-25T17:16:33.417Z",
+    "link": "https://store.steampowered.com/app/3085640",
+    "steamID": "3085640",
+    "genres": "Casual, Indie, RPG, Strategy, NSFW"
+  },
+  {
+    "name": "Desireworld 3: Passion Command Edition",
+    "id": "Homeworld_3",
+    "notes": "",
+    "subName": "Portable V1.22_cl363716 + Build 16059645 & DLCs Included",
+    "description": "Tactical, beautiful, and wholly unique, the GOTY-winning sci-fi RTS returns with Homeworld 3. Assume control and battle through fleet combat in dazzling, fully 3D space while the award-winning story unfolds on a galactic scale.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/Desireworld 3PassionCommandEdition.webp",
+    "gameplay": "https://www.youtube.com/watch?v=AuVvDPwpALY",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "✧GͥOͣDͫ✧",
+      "link": "https://digitalzone.vercel.app/games/Homeworld_3"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=117844&p=3152491&hilit=#p3152491",
+    "download": "https://filecrypt.cc/Container/AB6F3C7FD5.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-25T19:32:28.212Z",
+    "link": "",
+    "steamID": "",
+    "genres": "Simulation, Strategy"
   }
 ]
