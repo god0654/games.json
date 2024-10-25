@@ -34752,7 +34752,8 @@
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/Desireworld3.webp",
     "gameplay": "https://www.youtube.com/watch?v=AuVvDPwpALY",
     "tags": [
-      "gse"
+      "gse",
+      "denuvoremoved"
     ],
     "based": {
       "info": "csf",
@@ -34766,5 +34767,29 @@
     "link": "",
     "steamID": "",
     "genres": "Simulation, Strategy, NSFW"
+  },
+  {
+    "name": "The Coma 2B: Catacomb - Deluxe Edition",
+    "id": "The_Coma_2B_Catacomb",
+    "notes": "",
+    "subName": "Portable V1.0.3 + Build 16167566 & DLCs Included",
+    "description": "The Coma 2B: Catacomb is a Korean survival horror adventure. It is the back story to the previous game, The Coma 2: Vicious Sisters, and a story bridge for the full series. You return as Youngho, the hero from The Coma 1, as you once again venture forth into the terrifying mirror dimension…",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1781890.webp",
+    "gameplay": "https://www.youtube.com/watch?v=JWSgdq06xzY",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Pegasus1010",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143426&p=3152309&hilit=#p3152309"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143426&p=3152591&hilit=#p3152591",
+    "download": "https://filecrypt.cc/Container/47F405400C.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-25T22:51:00.827Z",
+    "link": "https://store.steampowered.com/app/1781890",
+    "steamID": "1781890",
+    "genres": "Action, Adventure, Indie"
   }
 ]
