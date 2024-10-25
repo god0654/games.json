@@ -34644,5 +34644,54 @@
     "link": "https://store.steampowered.com/app/3152540",
     "steamID": "3152540",
     "genres": "Indie, Simulation"
+  },
+  {
+    "name": "Windblown",
+    "id": "Windblown",
+    "notes": "--How to Play Online--\nGoldBerg with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CreamAPI (Online)\" and open Steam before launch.",
+    "subName": "Portable V0.1.0-e68643d3 + Build 16162898 & Online Supported",
+    "description": "Brave the Vortex and dash your way to greatness in this lightning-fast action roguelite for 1-3 players from the crafters of Dead Cells. Absorb the powers of fallen warriors, rebuild their weapons, and WIPE THE FLOOR with those Sentinels in search of that perfect run!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1911610/header.jpg?t=1729843299",
+    "gameplay": "https://www.youtube.com/watch?v=N3Yqw8wLRKo",
+    "tags": [
+      "gse",
+      "creamapi"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "samsterrz",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137087&p=3151651&hilit=#p3151651"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137087&p=3152213&hilit=#p3152213",
+    "download": "https://filecrypt.cc/Container/437F90D6CF.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-25T15:04:38.704Z",
+    "link": "https://store.steampowered.com/app/1911610",
+    "steamID": "1911610",
+    "genres": "Action, Indie"
+  },
+  {
+    "name": "Orebound",
+    "id": "Orebound",
+    "notes": "",
+    "subName": "Portable V0.0.0.46r & Build 16168574",
+    "description": "Journey on a quest to find the Emberstone. Lost in the depths of time. The king has tasked you to find it buried in the mountains. Dig deep and automate mining in the mountains before you. Craft, discover runes, send precious metals and gems back to your kingdom. Grow, mine and find the Emberstone.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2467810/header.jpg?t=1729867117",
+    "gameplay": "https://www.youtube.com/watch?v=i5A9U1KNUIk",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "gmax17",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142881&p=3151632&hilit=#p3151632"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142881&p=3152301&hilit=#p3152301",
+    "download": "https://filecrypt.cc/Container/996396953B.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-25T15:27:56.045Z",
+    "link": "https://store.steampowered.com/app/2467810",
+    "steamID": "2467810",
+    "genres": "Action, Adventure, Casual, Simulation"
   }
 ]
