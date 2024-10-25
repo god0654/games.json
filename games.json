@@ -34524,5 +34524,125 @@
     "link": "https://store.steampowered.com/app/1531540",
     "steamID": "1531540",
     "genres": "Simulation, Strategy"
+  },
+  {
+    "name": "BeatRider",
+    "id": "BeatRider",
+    "notes": "",
+    "subName": "Portable V0.7.1 & Build 16148973",
+    "description": "Mioi and the others, as apprentice Tuners, embarked on a six-month investigation in Baixiang City. As their mission progressed, the city's normalcy began to unravel, with dissonance and disturbances growing increasingly frequent and severe.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1833680/header.jpg?t=1729656886",
+    "gameplay": "https://www.youtube.com/watch?v=WK-aYsdS7gU",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/BeatRider-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=120639&p=3152083&hilit=#p3152083",
+    "download": "https://filecrypt.cc/Container/BD768E9C0E.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-25T11:15:49.907Z",
+    "link": "https://store.steampowered.com/app/1833680",
+    "steamID": "1833680",
+    "genres": "Indie, RPG"
+  },
+  {
+    "name": "Arisen Force: HeroTest",
+    "id": "Arisen_Force_HeroTest",
+    "notes": "",
+    "subName": "Portable V1.0.65.20241023 & Build 16164031",
+    "description": "Join the exquisite pixel world of \"HeroTest,\" team up with heroes across time and space, and engage in thrilling battles against the 「Void」!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2951840/header.jpg?t=1729844794",
+    "gameplay": "https://www.youtube.com/watch?v=BrUH9n1qwUg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Arisen.Force.HeroTest-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143932&p=3152093&hilit=#p3152093",
+    "download": "https://filecrypt.cc/Container/0D5E5F3E15.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-25T11:17:09.735Z",
+    "link": "https://store.steampowered.com/app/2951840",
+    "steamID": "2951840",
+    "genres": "Action, Adventure, Indie, RPG"
+  },
+  {
+    "name": "Fight To The Death",
+    "id": "Fight_To_The_Death",
+    "notes": "",
+    "subName": "Portable V1.0.0.1 (HotFix 1) & Build 16165306",
+    "description": "Fight To The Death is a roguelite game where you enter an arena filled with hundreds or even thousands of monsters. Utilizing each character's unique skills, collecting powerful items, crafting your own playstyle, and striving to be the last one standing.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2620200/header.jpg?t=1729692628",
+    "gameplay": "https://video.cloudflare.steamstatic.com/store_trailers/257017395/movie480_vp9.webm?t=1713665909",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Fight.To.The.Death-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141581&p=3152100&hilit=#p3152100",
+    "download": "https://filecrypt.cc/Container/D1D3D67141.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-25T11:18:52.582Z",
+    "link": "https://store.steampowered.com/app/2620200",
+    "steamID": "2620200",
+    "genres": "Action, Casual, Indie, RPG"
+  },
+  {
+    "name": "Ash & Adam's GOBSMACKED",
+    "id": "Ash_Adam_s_GOBSMACKED",
+    "notes": "",
+    "subName": "Portable V2024.10.21.1515w & Build 16122219",
+    "description": "You are a goblin gladiator in this mini-FPS roguelite. Fight your way through the Arenas. Wreck junkbots. Delight the crowd. Get paid. Cause chaos.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2769410/header.jpg?t=1729687689",
+    "gameplay": "https://www.youtube.com/watch?v=sSsTOEYTxQg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Ash.And.Adams.GOBSMACKED-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144027&p=3152106&hilit=#p3152106",
+    "download": "https://filecrypt.cc/Container/A79EA454DA.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-25T11:20:07.046Z",
+    "link": "https://store.steampowered.com/app/2769410",
+    "steamID": "2769410",
+    "genres": "Action, Indie"
+  },
+  {
+    "name": "Hydroponics Farm & Store Simulator",
+    "id": "Hydroponics_Farm_and_Store_Simulator",
+    "notes": "",
+    "subName": "Portable V2024.43.4.13.9048f2f & Build 16170462",
+    "description": "Transform your passion into profit with Hydroponics Farm & Store Simulator! Design, build, and manage your own sustainable hydroponics system. Experiment with different plants and fish, customize your setup, and harvest your success. Dive into the future of farming today!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3152540/header.jpg?t=1729801303",
+    "gameplay": "https://www.youtube.com/watch?v=NshNOgtpmCA",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Dound",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143894&p=3151520&hilit=#p3151520"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143894&p=3152120&hilit=#p3152120",
+    "download": "https://filecrypt.cc/Container/69C8E2BA1B.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-25T11:50:00.736Z",
+    "link": "https://store.steampowered.com/app/3152540",
+    "steamID": "3152540",
+    "genres": "Indie, Simulation"
   }
 ]
