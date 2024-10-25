@@ -34657,7 +34657,7 @@
       "gse",
       "creamapi",
       "ofme"
-  ],
+    ],
     "based": {
       "info": "csf",
       "credits": "samsterrz",
@@ -34694,5 +34694,29 @@
     "link": "https://store.steampowered.com/app/2467810",
     "steamID": "2467810",
     "genres": "Action, Adventure, Casual, Simulation"
+  },
+  {
+    "name": "Brotato: Abyssal Terrors + Local Co-Op - Supporter Bundle",
+    "id": "Brotato",
+    "notes": "",
+    "subName": "Portable V1.1.0.0-rc18 + Build 16180390 & DLCs Included",
+    "description": "Brotato is a top-down arena shooter roguelite where you play a potato wielding up to 6 weapons at a time to fight off hordes of aliens. Choose from a variety of traits and items to create unique builds and survive until help arrives.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2868390.webp",
+    "gameplay": "https://www.youtube.com/watch?v=olFpXy-8BBc",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "emoris",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=123813&p=3152148&hilit=#p3152148"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=123813&p=3152345&hilit=#p3152345",
+    "download": "https://filecrypt.cc/Container/F3DF2C24CA.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-25T16:33:54.867Z",
+    "link": "https://store.steampowered.com/app/1942280",
+    "steamID": "1942280",
+    "genres": "Action, Casual, Indie, RPG"
   }
 ]
