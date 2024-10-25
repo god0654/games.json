@@ -993,13 +993,13 @@
     "link": "https://store.steampowered.com/app/2556990"
   },
   {
-    "name": "Granblue Fantasy Versus Rising: Versusia - Deluxe Edition",
+    "name": "Granblue Fantasy Versus Rising: Vikala - Deluxe Edition",
     "id": "Granblue_Fantasy_Versus_Rising",
     "notes": "Note: GoldBerg with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.",
-    "subName": "Portable V1.50 + Build 15361371 + DLCs Included & Online Supported",
+    "subName": "Portable V1.61 + Build 16068810 + DLCs Included & Online Supported",
     "description": "Rise to the challenge in Granblue Fantasy Versus: Rising! This powered up, revamped sequel to GBVS is more enjoyable and accessible than ever before. With simplified input options, even newcomers can engage in thrilling and strategic matches!",
-    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2720400.webp",
-    "gameplay": "https://www.youtube.com/watch?v=U2OoiGWYFUk",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2157560/header_alt_assets_11.jpg?t=1729819805",
+    "gameplay": "https://www.youtube.com/watch?v=8yQxrR9Mtc4",
     "tags": [
       "gse",
       "ofme",
@@ -1008,15 +1008,15 @@
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Granblue.Fantasy.Versus.Rising.Versusia-TENOKE.png"
+      "link": "https://predb.net/rls/Granblue.Fantasy.Versus.Rising.Vikala-TENOKE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134584&p=3110017&hilit=#p3110017",
-    "download": "https://filecrypt.cc/Container/6841CDF124.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134584&p=3152175&hilit=#p3152175",
+    "download": "https://filecrypt.cc/Container/7F5E43BEB4.html",
     "achievements": true,
-    "dateUpdated": "2024-08-20T10:58:45.066Z",
+    "dateUpdated": "2024-10-25T12:52:27.362Z",
+    "link": "https://store.steampowered.com/app/2720400",
     "steamID": "2720400",
-    "genres": "Action",
-    "link": "https://store.steampowered.com/app/2720400"
+    "genres": "Action"
   },
   {
     "name": "DAVE THE DIVER - Deluxe Edition",
