@@ -34840,5 +34840,31 @@
     "link": "",
     "steamID": "",
     "genres": "Action, NSFW"
+  },
+  {
+    "name": "Final Fantasy XVI - Complete Edition (Denuvo Offline Activation)",
+    "id": "Final_Fantasy_XVI",
+    "notes": "--Note for Blind Users--\nusually available for free, but you may need to wait for your turn.\nIf you’d prefer faster access and don’t want to wait, you have the option to donate to speed up the process. (This is entirely optional!)\n\nThe game is not cracked. You'll need to follow this guide in order to activate it. \n\n--Guide--\n\nDownload CSF\nAT THE END OF THIS DETAILS\n➥ FileCrypt.cc Button\n\n- Join the Discord Group:\n[CLICK HERE](https://discord.gg/4jrF9V4h5h)\n\n- Log into your Discord account and complete the verification process. Once verified, you’ll be able to access the server.\n\n⚠️\nAs a new member, you’ll need to wait 24 hours before requesting your first game.\n⚠️\n\n--Rules--\nAfter joining, head to the #read-first channel for the server rules. You can also visit the #review-panel to see user feedback about the server and activation process.\n\n--Get Your Tools Ready--\nBefore requesting games, ensure you have all necessary tools. Find downloaders in the #tools-closet thread.\n\nCategories:\n\n- Free Category: Request games for free here.\n\n- Donor Category: Donate to get your game faster. (Optional, only if you don’t have patience)\n\n--Don't break your Activation--\n- Never launch the game from Steam. > breaks activation.\n\n- Never update your windows! > breaks activation (Use this to permanently disable windows updates, it's dangerous to keep it completely disabled, so ONLY use it until you finish the game, then RESTORE windows updates.)\n[CLICK HERE](https://torrent.cybar.xyz/Y2024/1/Wub.zip)\n\n- Never move the game folders > breaks activation.\n\n- \"Never update or alter/overclock/remove overclock/undervolt, etc from bios\" > breaks activation.\n\n- Never change your hardware > breaks activation.\n\n--Donation Info--\nSkip the 24-Hour Wait: You can bypass the wait time by donating.\nPriority for New Games: Donors get first access to newly added games, while free users may need to wait a week or longer.",
+    "subName": "Portable V1.02 + Build 16074714 & DLCs Included",
+    "description": "An epic dark fantasy where fates are decided by mighty Eikons and the Dominants who wield them. This is the tale of Clive Rosfield, a tragic warrior who swears revenge on the Dark Eikon Ifrit, a mysterious entity that leaves naught but calamity in its wake.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2515020.webp",
+    "gameplay": "https://www.youtube.com/watch?v=jCB-ZYUk5Qk",
+    "tags": [
+      "antidenuvosanctuary",
+      "denuvoofflineactivation",
+      "offlineonly"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Anti-Denuvo Sanctuary",
+      "link": "https://digitalzone.vercel.app/games/Final_Fantasy_XVI"
+    },
+    "csrinru": "",
+    "download": "https://filecrypt.cc/Container/CABB615AB3.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-26T11:48:28.998Z",
+    "link": "https://store.steampowered.com/app/2515020",
+    "steamID": "2515020",
+    "genres": "Action, RPG"
   }
 ]
