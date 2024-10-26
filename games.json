@@ -3207,28 +3207,28 @@
     "genres": ""
   },
   {
-    "name": "The Rogue Prince of Persia - Weapons Within",
+    "name": "The Rogue Prince of Persia - Risks and Rewards",
     "id": "The_Rogue_Prince_of_Persia",
     "notes": "",
-    "subName": "Portable V0.8.0 : 956bc9071 & Build 15603753",
+    "subName": "Portable V0.9.1_db73029e6 & Build 16166281",
     "description": "Jump into this action roguelite installment in the Prince of Persia series as you flow between death-defying platforming and acrobatic combat as the Prince himself. Battle through the capital city again and again with one goal – find a way to save Persia from a Hun invasion wielding dark magic.",
-    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2717880.webp",
-    "gameplay": "https://www.youtube.com/watch?v=o3-4Y39bAvA",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2717880/header_alt_assets_4.jpg?t=1729613307",
+    "gameplay": "https://www.youtube.com/watch?v=qoyBDock7GY",
     "tags": [
       "gse"
     ],
     "based": {
       "info": "csf",
-      "credits": "UltraShaggy",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140003&p=3060045&hilit=#p3060045"
+      "credits": "Tao",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140003&p=3151424&hilit=#p3151424"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140003&p=3119967&hilit=#p3119967",
-    "download": "https://filecrypt.cc/Container/121996576D.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140003&p=3153159&hilit=#p3153159",
+    "download": "https://filecrypt.cc/Container/E20004A7B9.html",
     "achievements": true,
-    "dateUpdated": "2024-09-06T13:55:31.457Z",
+    "dateUpdated": "2024-10-26T18:16:00.795Z",
+    "link": "https://store.steampowered.com/app/2717880",
     "steamID": "2717880",
-    "genres": "Action, Adventure",
-    "link": "https://store.steampowered.com/app/2717880"
+    "genres": "Action, Adventure"
   },
   {
     "name": "Artisan TD",
