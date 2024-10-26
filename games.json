@@ -34938,5 +34938,53 @@
     "link": "https://store.steampowered.com/app/2969060",
     "steamID": "2969060",
     "genres": "Casual, Indie, Simulation"
+  },
+  {
+    "name": "Connection: The Nightmare Within",
+    "id": "Connection_The_Nightmare_Within",
+    "notes": "",
+    "subName": "Portable V26.10.2024 & Build 16187772",
+    "description": "Inspired by the classics such as Resident Evil, Silent Hill and Alone In the Dark: Detective Stone investigates a shadow conspiracy. Explore atmospheric levels, fight monsters, and solve puzzles. Unravel a story of twists and turns. Choose classic fixed camera, or over-the-shoulder.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2463620/header.jpg?t=1729880104",
+    "gameplay": "https://www.youtube.com/watch?v=si8J6aJx2j0",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "Gh0sT73",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143813&p=3152997&hilit=#p3152997"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143813&p=3153264&hilit=#p3153264",
+    "download": "https://filecrypt.cc/Container/A25BBCA559.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-26T21:04:46.337Z",
+    "link": "https://store.steampowered.com/app/2463620",
+    "steamID": "2463620",
+    "genres": "Action, Adventure"
+  },
+  {
+    "name": "Super Mining Mechs - Supporter Bundle",
+    "id": "Super_Mining_Mechs",
+    "notes": "",
+    "subName": "Portable V1.00.72b-st + Build 16191647 & DLC Included",
+    "description": "Build your own Super Mining Mech and explore the underground in search of new natural resources. Customize your mech with unlockable parts to dig deeper than ever - by yourself or with up to 7 friends in online co-op multiplayer! So, what are you waiting for? There’s mining to be done!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2830150/header.jpg?t=1729856248",
+    "gameplay": "https://www.youtube.com/watch?v=JxYx6X54ffo",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "afraidium",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144044&p=3152453&hilit=#p3152453"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144044&p=3153283&hilit=#p3153283",
+    "download": "https://filecrypt.cc/Container/6DFD1C9FE8.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-26T21:48:09.554Z",
+    "link": "https://store.steampowered.com/app/2830150",
+    "steamID": "2830150",
+    "genres": "Adventure, Casual, Indie"
   }
 ]
