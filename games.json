@@ -654,28 +654,28 @@
     "link": "https://store.steampowered.com/app/2593370"
   },
   {
-    "name": "Slay the Princess - Collector's Edition",
+    "name": "Slay the Princess: The Pristine Cut - Deluxe Edition",
     "id": "Slay_the_Princess",
-    "notes": "Updates applied: Slay.the.Princess.Update.v20240326\\v20240508-TENOKE",
-    "subName": "Portable V08.05.2024 + Build 14306808 & DLC Included",
+    "notes": "",
+    "subName": "Portable V26.10.2024 + Build 16185806 & DLC Included",
     "description": "You're here to slay the princess. Don't believe her lies.",
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/header.jpg?t=1718210733",
-    "gameplay": "https://youtu.be/HvRls1tCFVM",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1989270/header.jpg?t=1729863144",
+    "gameplay": "https://www.youtube.com/watch?v=Q55z9zrR_Xg",
     "tags": [
       "gse"
     ],
     "based": {
-      "info": "",
-      "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Slay.the.Princess.Update.v20240508-TENOKE.png"
+      "info": "basedon",
+      "credits": "emoris",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135237&p=3152915&hilit=#p3152915"
     },
-    "download": "https://filecrypt.cc/Container/DDE38F2463.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135237&p=3153007&hilit=#p3153007",
+    "download": "https://filecrypt.cc/Container/09B326B6DA.html",
     "achievements": true,
-    "dateUpdated": "2024-07-23T15:25:29.373Z",
-    "csrinru": "",
+    "dateUpdated": "2024-10-26T14:14:01.220Z",
+    "link": "https://store.steampowered.com/app/1989270",
     "steamID": "1989270",
-    "genres": "Adventure, Indie, RPG, Simulation",
-    "link": "https://store.steampowered.com/app/1989270"
+    "genres": "Adventure, Indie, RPG, Simulation"
   },
   {
     "name": "Super Monkey Ball Banana Rumble - Deluxe Edition",
@@ -33732,7 +33732,7 @@
   {
     "name": "It's Only Money - Founders Edition",
     "id": "It_s_Only_Money",
-    "notes": "--How to Play Online--\nGoldBerg with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.\n",
+    "notes": "--Note--\nGoldBerg with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.\n\n--How to Play Online--\nOFME use an old location for steam_api64.dll so you can fix in this way: ...\\Engine\\Binaries\\ThirdParty\\Steamworks\\Steamv151\\ copy steam_api64.dll, paste in ...\\Engine\\Binaries\\ThirdParty\\Steamworks\\Steamv153\\ and replace.\nNow your Status on Steam become Spacewar and you can play Online.\n\nWhen you copy that .dll you can remove Steamv151 folder, no need.\n",
     "subName": "Portable V1.0.0-9254 (Full Release) + Build 16116923 + DLC Included & Online Supported",
     "description": "The mayor of Rockhaven threw you down a hole into the Undercity. Why? Net worth too low. In this open-world simulation, you and up to 3 pals will steal, fight, and scheme to reclaim the city. Customise your rides, buy businesses, and take on the Mayor’s forces. Rockhaven is yours for the taking!",
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1415220.webp",
