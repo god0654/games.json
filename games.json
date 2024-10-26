@@ -34866,5 +34866,77 @@
     "link": "https://store.steampowered.com/app/2515020",
     "steamID": "2515020",
     "genres": "Action, RPG"
+  },
+  {
+    "name": "Rivals of Aether II",
+    "id": "Rivals_of_Aether_II",
+    "notes": "",
+    "subName": "Portable V10.24.2024-11643 & Build 16162691",
+    "description": "Rivals of Aether II is the sequel to the hit indie fighting game, Rivals of Aether. Play as both new and returning elemental fighters in the next generation of platform fighters.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2217000/header.jpg?t=1729714502",
+    "gameplay": "https://www.youtube.com/watch?v=83cu7cs5aM0",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Fax Machine",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=121068&p=3152529&hilit=#p3152529"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=121068&p=3153073&hilit=#p3153073",
+    "download": "https://filecrypt.cc/Container/34CBD2A51D.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-26T16:43:39.447Z",
+    "link": "https://store.steampowered.com/app/2217000",
+    "steamID": "2217000",
+    "genres": "Action, Indie"
+  },
+  {
+    "name": "Forsaken Frontiers",
+    "id": "Forsaken_Frontiers",
+    "notes": "",
+    "subName": "Portable V1094 & Build 16159768",
+    "description": "Step into the frozen unknown in Forsaken Frontiers, a cooperative analog horror adventure set in the unforgiving embrace of an everlasting winter.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2810780/header.jpg?t=1729551620",
+    "gameplay": "https://www.youtube.com/watch?v=tez81QCiOkQ",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Worminator_0009",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143801&p=3152439&hilit=#p3152439"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143801&p=3153128&hilit=#p3153128",
+    "download": "https://filecrypt.cc/Container/D91AE01FC1.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-26T17:38:02.551Z",
+    "link": "https://store.steampowered.com/app/2810780",
+    "steamID": "2810780",
+    "genres": "Action, Adventure, Indie, RPG"
+  },
+  {
+    "name": "Casino Island Simulator",
+    "id": "Casino_Island_Simulator",
+    "notes": "",
+    "subName": "Portable V1.0.2.1 & Build 16130382",
+    "description": "Run your own casino. Buy new gambling games, take payments, hire employees, expand and design your casino. Slots, blackjack, roulette, poker, baccarat, craps and more...",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2969060/header.jpg?t=1729605604",
+    "gameplay": "https://www.youtube.com/watch?v=TgIwaPvduAo",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "cbander",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144033&p=3151852&hilit=#p3151852"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144033&p=3153134&hilit=#p3153134",
+    "download": "https://filecrypt.cc/Container/68585DD7B7.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-26T17:41:22.312Z",
+    "link": "https://store.steampowered.com/app/2969060",
+    "steamID": "2969060",
+    "genres": "Casual, Indie, Simulation"
   }
 ]
