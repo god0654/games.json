@@ -35034,5 +35034,29 @@
     "link": "https://store.steampowered.com/app/2331070",
     "steamID": "2331070",
     "genres": "Adventure, Casual, Indie"
+  },
+  {
+    "name": "HumanitZ: Bunkers & Jumpers",
+    "id": "HumanitZ",
+    "notes": "",
+    "subName": "Portable V0.913.h & Build 16181414",
+    "description": "HumanitZ is a co-op, isometric, open world survival game in a world ended by the zombie outbreak. As one of the few human survivors, try to last as long as “humanly” possible. The past can’t be changed, but you can make a difference today for the future of humanity.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1766060/header_alt_assets_6.jpg?t=1729870396",
+    "gameplay": "https://www.youtube.com/watch?v=mjneBIxzGmc",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "insane18",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=123607&p=3152572&hilit=#p3152572"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=123607&p=3153398&hilit=#p3153398",
+    "download": "https://filecrypt.cc/Container/FF7C3D2423.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-27T02:23:37.002Z",
+    "link": "https://store.steampowered.com/app/1766060",
+    "steamID": "1766060",
+    "genres": "Action, Adventure, RPG"
   }
 ]
