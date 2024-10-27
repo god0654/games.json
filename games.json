@@ -35058,5 +35058,53 @@
     "link": "https://store.steampowered.com/app/1766060",
     "steamID": "1766060",
     "genres": "Action, Adventure, RPG"
+  },
+  {
+    "name": "Finding Frankie",
+    "id": "Finding_Frankie",
+    "notes": "--How to Play--\nLaunch steamclient_loader_x64.exe in ''Finding Frankie\\''.",
+    "subName": "Portable V1.0.0 & Build 16192411",
+    "description": "Finding Frankie invites YOU to a true experience of terror as you compete in a terrifyingly twisted parkour show. Stealthily navigate around horrifying characters and swing through challenging parkour courses. This is one game show you won’t want to miss!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2597970/header.jpg?t=1729860998",
+    "gameplay": "https://www.youtube.com/watch?v=jnQow-0nvlg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "yotoprules",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141216&p=3153391&hilit=#p3153391"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141216&p=3153618&hilit=#p3153618",
+    "download": "https://filecrypt.cc/Container/58DA62D365.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-27T11:59:12.438Z",
+    "link": "https://store.steampowered.com/app/2597970",
+    "steamID": "2597970",
+    "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "COVEN",
+    "id": "COVEN",
+    "notes": "",
+    "subName": "Portable V14b & Build 16175319",
+    "description": "COVEN is a hyper-violent retro FPS where your path of vengeance will take you across time and space. Destroy your enemies and eat their flesh.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1785940/header.jpg?t=1729895180",
+    "gameplay": "https://www.youtube.com/watch?v=bWTH1IrnmlI",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "deadite",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=126498&p=3153247&hilit=#p3153247"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=126498&p=3153636&hilit=#p3153636",
+    "download": "https://filecrypt.cc/Container/E9B8796A44.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-27T12:43:31.791Z",
+    "link": "https://store.steampowered.com/app/1785940",
+    "steamID": "1785940",
+    "genres": "Action, Adventure, Indie"
   }
 ]
