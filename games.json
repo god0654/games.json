@@ -1469,10 +1469,10 @@
     "link": "https://store.steampowered.com/app/2096030"
   },
   {
-    "name": "Hades II - The Olympic",
+    "name": "Hades II: Patch 6 - The Olympic",
     "id": "Hades_II",
     "notes": "",
-    "subName": "Portable V0.102198 & Build 16082624",
+    "subName": "Portable V0.102933 & Build 16184516",
     "description": "Battle beyond the Underworld using dark sorcery to take on the Titan of Time in this bewitching sequel to the award-winning rogue-like dungeon crawler. ",
     "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145350/header_alt_assets_0.jpg?t=1729095672",
     "gameplay": "https://www.youtube.com/watch?v=WH3jT53hIYM",
@@ -1485,10 +1485,10 @@
       "credits": "nxbrew321",
       "link": "https://store.steampowered.com/app/1145350/Hades_II/"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127940&p=3147886&hilit=#p3147886",
-    "download": "https://filecrypt.cc/Container/5491F6042B.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127940&p=3153339&hilit=#p3153339",
+    "download": "https://filecrypt.cc/Container/3A81E85F92.html",
     "achievements": false,
-    "dateUpdated": "2024-10-18T22:56:05.473Z",
+    "dateUpdated": "2024-10-26T23:34:19.924Z",
     "link": "https://store.steampowered.com/app/1145350",
     "steamID": "1145350",
     "genres": "Action, Indie, RPG"
@@ -11232,12 +11232,12 @@
     "link": "https://store.steampowered.com/app/2054740"
   },
   {
-    "name": "The Lost Village",
+    "name": "The Lost Village: Monster Sect - Sect Revival Bundle",
     "id": "The_Lost_Village",
-    "notes": "Note: You can activate DLCs from menu.",
-    "subName": "Portable V1.16 + Build 14220479 & DLCs Included",
+    "notes": "--Note--\nYou can activate DLCs from menu.",
+    "subName": "Portable V1.2.8 + Build 16163413 & DLCs Included",
     "description": "Once there was a prosperous village of Martials, now none of it remains. As the son of the former Master, you will lead your followers to rebuild this village. Recruit followers and enter the mysterious illusional domain, acquire lost wonders. Will you see the rebirth of ancestors’ glory again?",
-    "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1963040/header.jpg?t=1712559824",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3227480.webp",
     "gameplay": "https://youtu.be/KfH9cCz6oY0",
     "tags": [
       "gse"
@@ -11245,15 +11245,15 @@
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/The.Lost.Village.v1.16-TENOKE.png"
+      "link": "https://predb.net/rls/The.Lost.Village.Monster.Sect-TENOKE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=124740&p=3044887&hilit=#p3044887",
-    "download": "https://filecrypt.cc/Container/6A5E24D136.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=124740&p=3153356&hilit=#p3153356",
+    "download": "https://filecrypt.cc/Container/B920A0B8F7.html",
     "achievements": true,
-    "dateUpdated": "2024-07-24T19:45:38.437Z",
+    "dateUpdated": "2024-10-27T00:25:31.287Z",
+    "link": "https://store.steampowered.com/app/1963040",
     "steamID": "1963040",
-    "genres": "Adventure, Indie, RPG, Simulation, Strategy",
-    "link": "https://store.steampowered.com/app/1963040"
+    "genres": "Adventure, Indie, RPG, Simulation, Strategy"
   },
   {
     "name": "Surmount: A Mountain Climbing Adventure",
@@ -34985,6 +34985,54 @@
     "dateUpdated": "2024-10-26T21:48:09.554Z",
     "link": "https://store.steampowered.com/app/2830150",
     "steamID": "2830150",
+    "genres": "Adventure, Casual, Indie"
+  },
+  {
+    "name": "Voidwrought - Deluxe Edition",
+    "id": "Voidwrought",
+    "notes": "",
+    "subName": "Portable V0.27.56 + Build 16140649 & DLC Included",
+    "description": "Voidwrought is a 2D action-platformer set in a hand-drawn world of cosmic horrors. Explore the thawing ruins of the First Civilisation and strike down the gods that dwell there. Grow your powers, uncover ancient artifacts, and expand your shrine amid the wreckage.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2014550.webp",
+    "gameplay": "https://www.youtube.com/watch?v=yRfM5O4fsH0",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Voidwrought-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143615&p=3153368&hilit=#p3153368",
+    "download": "https://filecrypt.cc/Container/37CB14C39E.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-27T00:50:43.085Z",
+    "link": "https://store.steampowered.com/app/2014550",
+    "steamID": "2014550",
+    "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Vasilisa and Baba Yaga",
+    "id": "Vasilisa_and_Baba_Yaga",
+    "notes": "",
+    "subName": "Portable V27.10.2024 & Build 16166362",
+    "description": "An adventure game based on the Russian folktale \"Vasilisa the Beautiful\". A scary story about the journey to the mistress of the forbidden forest for magical powers.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2331070/header.jpg?t=1729805951",
+    "gameplay": "https://www.youtube.com/watch?v=YcOhdr0mF7o",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Vasilisa.and.Baba.Yaga-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144092&p=3153378&hilit=#p3153378",
+    "download": "https://filecrypt.cc/Container/7D586F0B0B.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-27T01:10:50.614Z",
+    "link": "https://store.steampowered.com/app/2331070",
+    "steamID": "2331070",
     "genres": "Adventure, Casual, Indie"
   }
 ]
