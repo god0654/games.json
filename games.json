@@ -35105,5 +35105,53 @@
     "link": "https://store.steampowered.com/app/1785940",
     "steamID": "1785940",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Mound of Music",
+    "id": "Mound_of_Music",
+    "notes": "",
+    "subName": "Portable V28.10.2024 & Build 16178932",
+    "description": "“Mound of Music” a game that blends storytelling with music. Test your skills by mimicking real instrument performances, matching rhythm and pitch to bring classic tunes to life. Journey through global music and uncover the truth behind humanity's end.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2911340/header.jpg?t=1729857859",
+    "gameplay": "https://video.cloudflare.steamstatic.com/store_trailers/257056952/movie480_vp9.webm?t=1728884287",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Mound.of.Music-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=140143&p=3153954&hilit=#p3153954",
+    "download": "https://filecrypt.cc/Container/7E2CE015A9.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-27T23:23:44.102Z",
+    "link": "https://store.steampowered.com/app/2911340",
+    "steamID": "2911340",
+    "genres": "Adventure, Casual, Indie"
+  },
+  {
+    "name": "King's Orders",
+    "id": "King_s_Orders",
+    "notes": "",
+    "subName": "Portable V1.0.1 & Build 16183721",
+    "description": "King's Orders is a simplified historical strategy game with an important innovation. You command your armies by sending letters with orders. Messengers with these letters travel the land and can be lost or intercepted. Generals execute orders upon receipt and send you reports the same dangerous way.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1369690/header.jpg?t=1729867836",
+    "gameplay": "https://www.youtube.com/watch?v=ZyaY1bBbaZk",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Kings.Orders-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144115&p=3153963&hilit=#p3153963",
+    "download": "https://filecrypt.cc/Container/B53171C1F5.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-27T23:41:11.271Z",
+    "link": "https://store.steampowered.com/app/1369690",
+    "steamID": "1369690",
+    "genres": "Indie, Simulation, Strategy"
   }
 ]
