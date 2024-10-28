@@ -35153,5 +35153,77 @@
     "link": "https://store.steampowered.com/app/1369690",
     "steamID": "1369690",
     "genres": "Indie, Simulation, Strategy"
+  },
+  {
+    "name": "[REDACTED]",
+    "id": "REDACTED",
+    "notes": "",
+    "subName": "Portable V28.10.2024 & Build 16195963",
+    "description": "In [REDACTED], a fast-action isometric roguelike, a shadowy agent watches Black Iron Prison spiral into chaos. As one of the last guards, fight through monsters, rivals, and reanimated corpses of your fellow guards to escape the penitentiary alive.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2229940/header.jpg?t=1730087157",
+    "gameplay": "https://www.youtube.com/watch?v=4QwJWGHHJ6k",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://predb.net/rls/REDACTED-RUNE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142816&p=3154181&hilit=#p3154181",
+    "download": "https://filecrypt.cc/Container/95B7FD6E5E.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-28T12:08:55.272Z",
+    "link": "https://store.steampowered.com/app/2229940",
+    "steamID": "2229940",
+    "genres": "Action"
+  },
+  {
+    "name": "The Black Grimoire: Cursebreaker",
+    "id": "The_Black_Grimoire_Cursebreaker",
+    "notes": "",
+    "subName": "Portable V1.0 (Full Release) & Build 16199836",
+    "description": "A story driven solo RPG inspired by oldschool games like RuneScape and Ultima Online! Explore a sprawling medieval fantasy world full of npcs with dialogue, level skills, fight varied monsters and uncover the story of Rothar Aercrest – the cursed lord to the remote woodlands of Imberthale.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1189290/header.jpg?t=1730044990",
+    "gameplay": "https://www.youtube.com/watch?v=D-K2UzRLRos",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/The.Black.Grimoire.Cursebreaker-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=130712&p=3154214&hilit=#p3154214",
+    "download": "https://filecrypt.cc/Container/CA5FC8E3BF.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-28T13:44:22.666Z",
+    "link": "https://store.steampowered.com/app/1189290",
+    "steamID": "1189290",
+    "genres": "Adventure, Indie, RPG"
+  },
+  {
+    "name": "The Apocalypse Sacrifice",
+    "id": "The_Apocalypse_Sacrifice",
+    "notes": "",
+    "subName": "Portable V1.031 & Build 16126806",
+    "description": "As an adventurer, you have unintentionally uncovered a horrifying secret hidden in the town for years. Every choice you make will shape the story and become part of your personality test. Will you be the hero who saves the villagers, or will you sacrifice them to create your own legend?",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2776600/header.jpg?t=1730098762",
+    "gameplay": "https://www.youtube.com/watch?v=51CUePgTh0M",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/The.Black.Grimoire.Cursebreaker-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144116&p=3154239&hilit=#p3154239",
+    "download": "https://filecrypt.cc/Container/921BFAC091.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-28T13:45:46.999Z",
+    "link": "https://store.steampowered.com/app/2776600",
+    "steamID": "2776600",
+    "genres": "Adventure, Indie"
   }
 ]
