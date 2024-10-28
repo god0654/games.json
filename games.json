@@ -6816,13 +6816,13 @@
     "genres": "Action, Adventure, Horror, Shooter"
   },
   {
-    "name": "House Flipper 2 + Co-Op PlayTest - Deluxe Edition",
+    "name": "House Flipper 2: Bewitching Renovations + Co-Op PlayTest - Deluxe Edition",
     "id": "House_Flipper_2",
     "notes": "--How to Play Online--\nGoldBerg with Achievements, Stats and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.",
-    "subName": "Portable V14.10.2024 + Build 16033158 + DLCs Included & Online Supported",
+    "subName": "Portable V28.10.2024 + Build 16191891 + DLCs Included & Online Supported",
     "description": "It's time to dust off your hammer - House Flipper is back in a brand-new fashion! Buy and renovate run-down houses! Or maybe you want to build new ones? Now you can! Start as a rookie Flipper and make a fortune by helping out the community of the charming town of Pinnacove.",
-    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1190970/header.jpg?t=1726826221",
-    "gameplay": "https://www.youtube.com/watch?v=pYkLylSAyRs",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1190970/header_alt_assets_4.jpg?t=1730122488",
+    "gameplay": "https://www.youtube.com/watch?v=r_7kfjKhA_c",
     "tags": [
       "gse"
     ],
@@ -6831,10 +6831,10 @@
       "credits": "Apocalypse",
       "link": "https://store.steampowered.com/app/1190970/House_Flipper_2/"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=126556&p=3151833&hilit=#p3151833",
-    "download": "https://filecrypt.cc/Container/D190D381AB.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=126556&p=3154367&hilit=#p3154367",
+    "download": "https://filecrypt.cc/Container/7F3EC14709.html",
     "achievements": true,
-    "dateUpdated": "2024-10-24T23:26:20.073Z",
+    "dateUpdated": "2024-10-28T17:05:04.876Z",
     "link": "https://store.steampowered.com/app/1190970",
     "steamID": "1190970",
     "genres": "Casual, Indie, Simulation"
@@ -35225,5 +35225,30 @@
     "link": "https://store.steampowered.com/app/2776600",
     "steamID": "2776600",
     "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Don't Be Afraid 2",
+    "id": "Dont_Be_Afraid_2",
+    "notes": "",
+    "subName": "Portable V1.0.1 & BuildID 58038667240777603",
+    "description": "Descend deep into the nightmare that seamlessly blends with reality in this uncanny horror escape room game. Can you find your way out of the horrid mansion or will you succumb to your fears? Can you face and overcome your past, or will it break you?",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2631880/header.jpg?t=1730129252",
+    "gameplay": "https://www.youtube.com/watch?v=LTCSiI1A3lo",
+    "tags": [
+      "drmfree",
+      "gog"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "Razor1911",
+      "link": "https://predb.net/rls/Dont_Be_Afraid_2-Razor1911"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143698&p=3154398&hilit=#p3154398",
+    "download": "https://filecrypt.cc/Container/7A5E4EB82A.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-28T17:48:42.466Z",
+    "link": "https://store.steampowered.com/app/2631880",
+    "steamID": "2631880",
+    "genres": "Action, Adventure, Indie"
   }
 ]
