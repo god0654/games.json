@@ -35275,5 +35275,29 @@
     "link": "https://store.steampowered.com/app/2794610",
     "steamID": "2794610",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Moon Mystery",
+    "id": "Moon_Mystery",
+    "notes": "",
+    "subName": "Portable V28.10.2024 & Build 16192982",
+    "description": "The Moon's haunted - and when an astronaut loses contact with Earth, the adventure begins in full. Fill up your oxygen, load up the guns, and set out on an interstellar FPS adventure across the stars, filled with puzzles, fights, exploration, and strange secrets of the universe.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1933840/header.jpg?t=1730141892",
+    "gameplay": "https://www.youtube.com/watch?v=2MGRwdzZbIg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "Gh0sT73",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=122775&p=3154352&hilit=#p3154352"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=122775&p=3154515&hilit=#p3154515",
+    "download": "https://filecrypt.cc/Container/6128955D85.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-28T19:56:46.641Z",
+    "link": "https://store.steampowered.com/app/1933840",
+    "steamID": "1933840",
+    "genres": "Action, Adventure, Casual"
   }
 ]
