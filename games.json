@@ -35250,5 +35250,30 @@
     "link": "https://store.steampowered.com/app/2631880",
     "steamID": "2631880",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Massacre At The Mirage",
+    "id": "Massacre_At_The_Mirage",
+    "notes": "",
+    "subName": "Portable V1.0 & BuildID 58033083144774112",
+    "description": "For less than the price of a movie ticket, experience your very own horror-fueled slasher flick in Massacre at the Mirage. Step into The Mirage cinema and face a chilling nightmare, where staff and patrons must survive a masked killer's rampage.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2794610/header_alt_assets_0.jpg?t=1730124242",
+    "gameplay": "https://www.youtube.com/watch?v=OgBkQ4YAt4g",
+    "tags": [
+      "drmfree",
+      "gog"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "FCKDRM",
+      "link": "https://predb.net/rls/Massacre.At.The.Mirage-FCKDRM"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143680&p=3154452&hilit=#p3154452",
+    "download": "https://filecrypt.cc/Container/70E7AA26FE.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-28T18:45:17.696Z",
+    "link": "https://store.steampowered.com/app/2794610",
+    "steamID": "2794610",
+    "genres": "Action, Adventure, Indie"
   }
 ]
