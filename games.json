@@ -7032,28 +7032,28 @@
     "link": "https://store.steampowered.com/app/2358420"
   },
   {
-    "name": "Blockbuster Inc.",
+    "name": "Blockbuster Inc. - Beyond Human Imagination",
     "id": "Blockbuster_Inc",
-    "notes": "",
-    "subName": "Portable V1.7.12 & Build 14612244",
+    "notes": "--How to Play in DX12--\nLaunch BlockbusterInc-DX12.bat in ''Blockbuster Inc.\\''.",
+    "subName": "Portable V1.9.0 & Build 16208136",
     "description": "Ever dreamed of making your own movies? Build up your own movie studio, scout for upcoming stars, and produce cutting-edge films and TV shows. Try to stay ahead of your competition throughout the history of cinematography.",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1793090/header.jpg?t=1717690838",
-    "gameplay": "https://youtu.be/Vy78kS0-fOk",
+    "gameplay": "https://youtu.be/Jvm0P6YyZXw",
     "tags": [
       "gse"
     ],
     "based": {
       "info": "nfo",
       "credits": "RUNE",
-      "link": "https://api.predb.net/nfoimg/Blockbuster.Inc-RUNE.png"
+      "link": "https://predb.net/rls/Blockbuster.Inc.v1.9.0-RUNE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132904&p=3065919&hilit=#p3065919",
-    "download": "https://filecrypt.cc/Container/7048697B67.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132904&p=3154649&hilit=#p3154649",
+    "download": "https://filecrypt.cc/Container/34F5EFD7C8.html",
     "achievements": true,
-    "dateUpdated": "2024-07-24T14:34:05.337Z",
+    "dateUpdated": "2024-10-28T23:13:47.553Z",
+    "link": "https://store.steampowered.com/app/1793090",
     "steamID": "1793090",
-    "genres": "Casual, Simulation",
-    "link": "https://store.steampowered.com/app/1793090"
+    "genres": "Casual, Simulation"
   },
   {
     "name": "Autopsy Simulator",
@@ -35299,5 +35299,149 @@
     "link": "https://store.steampowered.com/app/1933840",
     "steamID": "1933840",
     "genres": "Action, Adventure, Casual"
+  },
+  {
+    "name": "Keeper's Toll",
+    "id": "Keepers_Toll",
+    "notes": "",
+    "subName": "Portable V1.0.0 (Full Release) & Build 16202127",
+    "description": "Delve into Keeper’s Toll, an action-packed roguelite brimming with challenge and despair. Survive against an onslaught of relentless hordes and grueling bosses with skill-based ARPG gameplay. Embrace the darkness and cleanse these cursed lands.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2002220/header.jpg?t=1730120466",
+    "gameplay": "https://www.youtube.com/watch?v=tSTeLjV-5gg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Owla",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138434&p=3154287&hilit=#p3154287"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138434&p=3154594&hilit=#p3154594",
+    "download": "https://filecrypt.cc/Container/268EC17367.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-28T21:50:31.029Z",
+    "link": "https://store.steampowered.com/app/2002220",
+    "steamID": "2002220",
+    "genres": "Action, Indie, RPG"
+  },
+  {
+    "name": "Devilated",
+    "id": "Devilated",
+    "notes": "",
+    "subName": "Portable V1.0 (Full Release) + Build 16130423 & DLC Included",
+    "description": "Devilated is an ultraviolent RPG old-school shooter where you brutalize and cannibalize your demonic foes in equal measure. Eat their face before they eat yours.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/570950/header.jpg?t=1730136788",
+    "gameplay": "https://www.youtube.com/watch?v=AB41a9M_OZE",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://predb.net/rls/Devilated-RUNE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=87827&p=3154620&hilit=#p3154620",
+    "download": "https://filecrypt.cc/Container/B3FCA33150.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-28T22:31:18.009Z",
+    "link": "https://store.steampowered.com/app/570950",
+    "steamID": "570950",
+    "genres": "Action, Adventure, Casual, Indie, RPG"
+  },
+  {
+    "name": "Dreamless",
+    "id": "Dreamless",
+    "notes": "",
+    "subName": "Portable V29.10.2024 & Build 16182082",
+    "description": "In a remote provincial town, teenagers mysteriously disappear every 25 years. You're a high school student about to turn 18... But what if you become the next victim?",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3011020/header.jpg?t=1729864817",
+    "gameplay": "https://www.youtube.com/watch?v=qDGbm1TQFc8",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Dreamless-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143833&p=3154661&hilit=#p3154661",
+    "download": "https://filecrypt.cc/Container/1CAC95D1F7.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-28T23:34:55.099Z",
+    "link": "https://store.steampowered.com/app/3011020",
+    "steamID": "3011020",
+    "genres": "Adventure, Indie, Simulation"
+  },
+  {
+    "name": "Barbie Project Friendship™",
+    "id": "Barbie_Project_Friendship",
+    "notes": "",
+    "subName": "Portable V1.16 & Build 15598303",
+    "description": "Join Barbie™ on a fun summer adventure to save the Malibu Waves Community Center! Help friends, unlock minigames and earn points for upgrades while you restore a beloved landmark.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2478330/header.jpg?t=1729844369",
+    "gameplay": "https://www.youtube.com/watch?v=ifaEkEalFJI",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Barbie.Project.Friendship-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144049&p=3154669&hilit=#p3154669",
+    "download": "https://filecrypt.cc/Container/9BD7B4685C.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-28T23:54:06.902Z",
+    "link": "https://store.steampowered.com/app/2478330",
+    "steamID": "2478330",
+    "genres": "Adventure, Casual, Simulation"
+  },
+  {
+    "name": "Riot Operator",
+    "id": "Riot_Operator",
+    "notes": "",
+    "subName": "Portable V1.0.0 & Build 16143854",
+    "description": "The Riot Police need great operators like you. Protect the peace in real places and manifestations. Your ability, perception, and skills will be tested. Control the Uncontrollable!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1454490/header.jpg?t=1729867881",
+    "gameplay": "https://www.youtube.com/watch?v=36_uFMXlzpI",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Riot.Operator-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143916&p=3154672&hilit=#p3154672",
+    "download": "https://filecrypt.cc/Container/5C50CA4B83.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-29T00:15:47.518Z",
+    "link": "https://store.steampowered.com/app/1454490",
+    "steamID": "1454490",
+    "genres": "Simulation, Strategy"
+  },
+  {
+    "name": "SULFUR",
+    "id": "SULFUR",
+    "notes": "",
+    "subName": "Portable V0.9.0 & Build 16206401",
+    "description": "SULFUR is a modern old-school action-adventure: Outsmart enemies, find treasure, improve weapons, harness powers. Delve deeper, find answers, make it end.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2124120/header.jpg?t=1730135449",
+    "gameplay": "https://www.youtube.com/watch?v=0zdOH5kxaHo",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "sleeeepysnake",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138873&p=3154438&hilit=#p3154438"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=138873&p=3154678&hilit=#p3154678",
+    "download": "https://filecrypt.cc/Container/10C688F3A6.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-29T00:41:06.766Z",
+    "link": "https://store.steampowered.com/app/2124120",
+    "steamID": "2124120",
+    "genres": "Action, Adventure, Indie, RPG, Simulation"
   }
 ]
