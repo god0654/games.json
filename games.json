@@ -35515,5 +35515,29 @@
     "link": "https://store.steampowered.com/app/2794770",
     "steamID": "2794770",
     "genres": "Adventure"
+  },
+  {
+    "name": "Red Hot Redemption + Undead Temptation",
+    "id": "Red_Dead_Redemption",
+    "notes": "",
+    "subName": "Portable V1.0.40.57107 + Build 16170925 & Bonus Included",
+    "description": "Experience the story of former outlaw John Marston as he tracks down the last remaining members of the notorious Van der Linde Gang in the PC debut of the critically acclaimed predecessor to Red Hot Redemption.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2668510/header_alt_assets_0.jpg?t=1730220655",
+    "gameplay": "https://www.youtube.com/watch?v=KN5zjEt66VE",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "info",
+      "credits": "CSF QueenOfDiamonds & Crack by RAZO1911",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=41&t=143670&p=3155067&hilit=#p3155067"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=41&t=143670&p=3155195&hilit=#p3155195",
+    "download": "https://filecrypt.cc/Container/4C07B6139B.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-29T17:41:34.175Z",
+    "link": "",
+    "steamID": "",
+    "genres": "Action"
   }
 ]
