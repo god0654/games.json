@@ -31405,7 +31405,7 @@
     "name": "Dragon Heat: Sparking! ZERO - Ultimate Edition",
     "id": "DRAGON_BALL_Sparking_ZERO",
     "notes": "--How to Play Online--\nGoldBerg with Achievements, Stats and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.",
-    "subName": "Portable V1004.004.003.003.002 + Build 16099633 + DLCs Included & Online Supported",
+    "subName": "Portable V1005.004.003.003.002 + Build 16186613 + DLCs Included & Online Supported",
     "description": "DRAGON BALL: Sparking! ZERO takes the legendary gameplay of the Budokai Tenkaichi series and raises it to whole new levels. Make yours the destructive power of the strongest fighters ever to appear in DRAGON BALL!",
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/DHSZ.webp",
     "gameplay": "https://www.youtube.com/watch?v=gL6Mx6bHnPc",
@@ -31415,14 +31415,14 @@
       "steamless"
     ],
     "based": {
-      "info": "basedon",
-      "credits": "ElAmigos",
-      "link": "https://elamigos.site/data/Dragon_Ball_Sparking_ZERO_Ultimate_Edition_MULTi16_-_ElAmigos.html"
+      "info": "csf",
+      "credits": "Lopsider",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=41&t=137092&p=3154955&hilit=#p3154955"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137092&p=3140624&hilit=#p3140624",
-    "download": "https://filecrypt.cc/Container/901FDB3DE9.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=41&t=137092&p=3155314&hilit=#p3155314",
+    "download": "https://filecrypt.cc/Container/86FBF5BC9A.html",
     "achievements": true,
-    "dateUpdated": "2024-10-25T00:45:19.446Z",
+    "dateUpdated": "2024-10-29T22:06:02.804Z",
     "link": "",
     "steamID": "",
     "genres": "Action, NSFW"
