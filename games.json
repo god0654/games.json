@@ -35491,5 +35491,29 @@
     "link": "https://store.steampowered.com/app/2497900",
     "steamID": "2497900",
     "genres": "Casual, Indie, Simulation"
+  },
+  {
+    "name": "Clock Tower: Rewind",
+    "id": "Clock_Tower_Rewind",
+    "notes": "",
+    "subName": "Portable V29.10.2024 & Build 16150714",
+    "description": "The 16-bit nightmare returns. Survive, hide, and avoid the deadly Scissorman in this legendary horror classic.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2794770/header.jpg?t=1730174510",
+    "gameplay": "https://www.youtube.com/watch?v=U0zbAPIxJBc",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "chronos",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141228&p=3154922&hilit=#p3154922"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141228&p=3155018&hilit=#p3155018",
+    "download": "https://filecrypt.cc/Container/296558650B.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-29T14:06:54.710Z",
+    "link": "https://store.steampowered.com/app/2794770",
+    "steamID": "2794770",
+    "genres": "Adventure"
   }
 ]
