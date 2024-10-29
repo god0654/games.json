@@ -20936,29 +20936,29 @@
     "link": "https://store.steampowered.com/app/2396240"
   },
   {
-    "name": "Deathbound",
+    "name": "Deathbound: Accepted by Death - Cult of Life Edition",
     "id": "Deathbound",
     "notes": "",
-    "subName": "Portable V1.1.3 & Build 15264607",
+    "subName": "Portable V1.1.8f1 + Build 16068130 & DLCs Included",
     "description": "Deathbound is a one-of-a-kind party-based soulslike set in a callous world where Faith and Science clash. Dynamically transform between fallen warriors all with their own unique skill sets, combat styles, and rich history. Conquer a brutal reality where Life and Death were never more conflicted.",
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1277130/header.jpg?t=1723131474",
-    "gameplay": "https://www.youtube.com/watch?v=-dEKuNJsDXY",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2936870.webp",
+    "gameplay": "https://www.youtube.com/watch?v=4aeqmcCxg-4",
     "tags": [
       "gse",
       "steamless"
     ],
     "based": {
       "info": "nfo",
-      "credits": "FLT",
-      "link": "https://api.predb.net/nfoimg/Deathbound-FLT.png"
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Deathbound.Ultimate.Edition-TENOKE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134590&p=3103184&hilit=#p3103184",
-    "download": "https://filecrypt.cc/Container/B42B2D8E8B.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134590&p=3154933&hilit=#p3154933",
+    "download": "https://filecrypt.cc/Container/993EFFD7DB.html",
     "achievements": true,
-    "dateUpdated": "2024-08-08T17:03:17.638Z",
+    "dateUpdated": "2024-10-29T12:10:24.005Z",
+    "link": "https://store.steampowered.com/app/1277130",
     "steamID": "1277130",
-    "genres": "Action, Adventure, Indie, RPG",
-    "link": "https://store.steampowered.com/app/1277130"
+    "genres": "Action, Adventure, Indie, RPG"
   },
   {
     "name": "DOOM + DOOM II",
@@ -35443,5 +35443,53 @@
     "link": "https://store.steampowered.com/app/2124120",
     "steamID": "2124120",
     "genres": "Action, Adventure, Indie, RPG, Simulation"
+  },
+  {
+    "name": "Pure Rock Crawling",
+    "id": "Pure_Rock_Crawling",
+    "notes": "",
+    "subName": "Portable V1.0 (Full Release) & Build 16199242",
+    "description": "Pure Rock Crawling is a physics based off-road simulator. Featuring soft body tires, suspension customization that affects your handling, true to life drivetrain simulation and visual addons. Explore a variety of trails in free roam with multiple challenges.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/824720/header.jpg?t=1730138442",
+    "gameplay": "https://www.youtube.com/watch?v=dJgYwuTZ2sk",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Pure.Rock.Crawling-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=88231&p=3154902&hilit=#p3154902",
+    "download": "https://filecrypt.cc/Container/370EF60032.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-29T11:42:30.778Z",
+    "link": "https://store.steampowered.com/app/824720",
+    "steamID": "824720",
+    "genres": "Simulation"
+  },
+  {
+    "name": "DON'T SCREAM",
+    "id": "DONT_SCREAM",
+    "notes": "--How to Play--\nLaunch steamclient_loader_x64.exe in ''DON'T SCREAM\\''.",
+    "subName": "Portable V1.0 (Full Release) & Build 16207888",
+    "description": "If you scream, you restart. An Unreal Engine 5 short horror experience. The challenge: explore the forest for 18 minutes without screaming. The catch? Time only ticks when you move. It’s the perfect game to scare the pants off your friends and family. MICROPHONE REQUIRED!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2497900/header.jpg?t=1730166992",
+    "gameplay": "https://www.youtube.com/watch?v=184n8M6DnXE",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/DONT.SCREAM-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135920&p=3154974&hilit=#p3154974",
+    "download": "https://filecrypt.cc/Container/5470D016D6.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-29T13:17:46.882Z",
+    "link": "https://store.steampowered.com/app/2497900",
+    "steamID": "2497900",
+    "genres": "Casual, Indie, Simulation"
   }
 ]
