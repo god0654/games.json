@@ -35519,7 +35519,7 @@
   {
     "name": "Red Hot Redemption + Undead Temptation",
     "id": "Red_Dead_Redemption",
-    "notes": "",
+    "notes": "--How to change language--\nRight click on desktop shortcut and in then properties in Target field add the line – rglLanguage=fr-FR (en_US, it_IT, de_DE, es_ES, ko_KR, zh_CN, es-419, zh_TW, ja_JP, pl_PL, ru-RU, pt_BR).\n\n- Thanks to DODI for the Guide.\n",
     "subName": "Portable V1.0.40.57107 + Build 16170925 & Bonus Included",
     "description": "Experience the story of former outlaw John Marston as he tracks down the last remaining members of the notorious Van der Linde Gang in the PC debut of the critically acclaimed predecessor to Red Hot Redemption.",
     "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2668510/header_alt_assets_0.jpg?t=1730220655",
