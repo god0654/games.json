@@ -10722,29 +10722,29 @@
     "link": "https://store.steampowered.com/app/2418520"
   },
   {
-    "name": "Stellaris: Cosmic Storms - Season 8 Expansion",
+    "name": "Stellaris: Grand Archive - Ultimate Bundle",
     "id": "Stellaris",
-    "notes": "How to play Online: FLT Crack is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.",
-    "subName": "Portable V3.13.0_e62b + Build 15579162 + DLCs Included & Online Supported",
+    "notes": "--How to play Online--\nGoldBerg with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.",
+    "subName": "Portable V3.14.1 + Build  16138636 + DLCs Included & Online Supported",
     "description": "Explore a galaxy full of wonders in this sci-fi grand strategy game from Paradox Development Studios. Interact with diverse alien races, discover strange new worlds with unexpected events and expand the reach of your empire. Each new adventure holds almost limitless possibilities.",
-    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2863060.webp",
-    "gameplay": "https://www.youtube.com/watch?v=mpf0Jh0bb2o",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2863080.webp",
+    "gameplay": "https://www.youtube.com/watch?v=aGwAtYBuMQM",
     "tags": [
-      "scene",
+      "gse",
       "ofme"
     ],
     "based": {
       "info": "nfo",
       "credits": "FLT",
-      "link": "https://api.predb.net/nfoimg/Stellaris_Cosmic_Storms-FLT.png"
+      "link": "https://predb.net/rls/Stellaris_Grand_Archive-FLT"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=68551&p=3122502&hilit=#p3122502",
-    "download": "https://filecrypt.cc/Container/629FD25BA1.html",
-    "achievements": false,
-    "dateUpdated": "2024-09-10T17:32:40.602Z",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=68551&p=3155403&hilit=#p3155403",
+    "download": "https://filecrypt.cc/Container/12085268AB.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-29T23:31:08.085Z",
+    "link": "https://store.steampowered.com/app/2863060",
     "steamID": "2863060",
-    "genres": "Simulation, Strategy",
-    "link": "https://store.steampowered.com/app/2863060"
+    "genres": "Simulation, Strategy"
   },
   {
     "name": "Heading Out",
@@ -35539,5 +35539,101 @@
     "link": "",
     "steamID": "",
     "genres": "Action, NSFW"
+  },
+  {
+    "name": "Fruitbus - Fine Dining Edition",
+    "id": "Fruitbus",
+    "notes": "",
+    "subName": "Portable V30.10.2024 + Build 16220565 & DLC Included",
+    "description": "A journey of flavors and friendships awaits you in your cozy, customisable food truck! Forage for fresh ingredients to create your own menu, then feed tummies and souls with home-cooked meals. Change the world, one apple at a time.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2484130.webp",
+    "gameplay": "https://www.youtube.com/watch?v=CTsOH7vV0JY",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Fruitbus-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134186&p=3155425&hilit=#p3155425",
+    "download": "https://filecrypt.cc/Container/5630506B30.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-30T00:14:25.043Z",
+    "link": "https://store.steampowered.com/app/2484130",
+    "steamID": "2484130",
+    "genres": "Adventure, Casual, Indie, Simulation"
+  },
+  {
+    "name": "Liminalcore",
+    "id": "Liminalcore",
+    "notes": "",
+    "subName": "Portable V30.10.2024 & Build 16213582",
+    "description": "Explore and admire while navigate through eerie, surreal environments inspired by the Backrooms lore. Explore this uncanny world lost in time and get lost in the otherworldly architecture in a world where reality bends and your sanity is tested.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3107900/header.jpg?t=1730126278",
+    "gameplay": "https://video.cloudflare.steamstatic.com/store_trailers/257045284/movie480_vp9.webm?t=1723381801",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Liminalcore-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144174&p=3155435&hilit=#p3155435",
+    "download": "https://filecrypt.cc/Container/525BC190BC.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-30T00:27:25.088Z",
+    "link": "https://store.steampowered.com/app/3107900",
+    "steamID": "3107900",
+    "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Skulltide",
+    "id": "Skulltide",
+    "notes": "",
+    "subName": "Portable V1.0 (Full Release) & Build 16215755",
+    "description": "Skeletal mischief reigns as the Skulltide begins! Join the undead in co-op adventures as the skeleton of your dreams, or lead them yourself, and hunt down the necromancers who reanimated you. Build, throw, and enchant your bones... but try not to misplace them along the way!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2814060/header.jpg?t=1730144780",
+    "gameplay": "https://www.youtube.com/watch?v=OFkb6deeuv8",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Skulltide-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144175&p=3155450&hilit=#p3155450",
+    "download": "https://filecrypt.cc/Container/6D2A959AF2.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-30T01:00:46.044Z",
+    "link": "https://store.steampowered.com/app/2814060",
+    "steamID": "2814060",
+    "genres": "Action, Adventure, Casual, Indie, RPG"
+  },
+  {
+    "name": "Tostchu",
+    "id": "Tostchu",
+    "notes": "",
+    "subName": "Portable V1.01 (HotFix) & Build 16208415",
+    "description": "A slow-burn atmospheric horror game about managing a toast shop in a desolate location in Central Anatolia, Turkey. Make toasts for customers, cash in, buy more ingredients, and witness strange events unfolding.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2221500/header.jpg?t=1730124471",
+    "gameplay": "https://www.youtube.com/watch?v=PCNmwRBMEbw",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Tostchu-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144057&p=3155453&hilit=#p3155453",
+    "download": "https://filecrypt.cc/Container/7E3415CCA5.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-30T01:43:22.085Z",
+    "link": "https://store.steampowered.com/app/2221500",
+    "steamID": "2221500",
+    "genres": "Adventure, Indie, Simulation"
   }
 ]
