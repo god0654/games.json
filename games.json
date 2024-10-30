@@ -35683,5 +35683,125 @@
     "link": "https://store.steampowered.com/app/2462520",
     "steamID": "2462520",
     "genres": "Indie"
+  },
+  {
+    "name": "Bad 2 Bad: Apocalypse",
+    "id": "Bad_2_Bad_Apocalypse",
+    "notes": "",
+    "subName": "Portable V10 + Build 16216555 & DLC Included",
+    "description": "The open-world survival role-playing game \"Bad 2 Bad: Apocalypse\" tells the story of Delta Team and his comrades as they work to rebuild a world devastated by humans and their race turned into zombies.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2782610/header.jpg?t=1730247339",
+    "gameplay": "https://www.youtube.com/watch?v=nIWfHsJK5lM",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "chronos",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144099&p=3155850&hilit=#p3155850"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144099&p=3155977&hilit=#p3155977",
+    "download": "https://filecrypt.cc/Container/28244C9FF4.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-30T22:34:06.166Z",
+    "link": "https://store.steampowered.com/app/2782610",
+    "steamID": "2782610",
+    "genres": "Action, Indie, RPG"
+  },
+  {
+    "name": "Laundromat Simulator",
+    "id": "Laundromat_Simulator",
+    "notes": "",
+    "subName": "Portable V1.0.0 & Build 16207883",
+    "description": "Furnish, Manage, and Maintain multiple stores in Laundromat Simulator! Collect and Count your hard-earned pennies and improve your stores to keep customers happy and maximize your profits. Expand your business, improve customer experience, and make your laundromat the best in town!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3169070/header.jpg?t=1730261543",
+    "gameplay": "https://www.youtube.com/watch?v=a3-YDKu_crs",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Laundromat.Simulator-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144245&p=3155995&hilit=#p3155995",
+    "download": "https://filecrypt.cc/Container/9BAD8AC39D.html",
+    "achievements": false,
+    "dateUpdated": "2024-10-30T22:59:10.967Z",
+    "link": "https://store.steampowered.com/app/3169070",
+    "steamID": "3169070",
+    "genres": "Casual, Indie, Simulation"
+  },
+  {
+    "name": "Monster High™ Skulltimate Secrets™",
+    "id": "Monster_High_Skulltimate_Secrets",
+    "notes": "",
+    "subName": "Portable V1.12 & Build 15593201",
+    "description": "Save Monster High and join the Boo Crew by creating your authentic monster self in this spooktacular mystery adventure!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2322340/header.jpg?t=1730192659",
+    "gameplay": "https://www.youtube.com/watch?v=PcnPmZmOPwA",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Monster.High.Skulltimate.Secrets-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144249&p=3156002&hilit=#p3156002",
+    "download": "https://filecrypt.cc/Container/302305F563.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-30T23:17:54.213Z",
+    "link": "https://store.steampowered.com/app/2322340",
+    "steamID": "2322340",
+    "genres": "Action, Adventure"
+  },
+  {
+    "name": "Quarterstaff",
+    "id": "Quarterstaff",
+    "notes": "",
+    "subName": "Portable V1.0.0_5db267 (Full Release) & Build 16215510",
+    "description": "Often outnumbered, never outmatched – carefully plan your moves to single-handedly save a besieged fantasy realm from the clutches of a sorcerous conqueror.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2134060/header.jpg?t=1730179923",
+    "gameplay": "https://video.cloudflare.steamstatic.com/store_trailers/257069295/movie480_vp9.webm?t=1730179916",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Quarterstaff-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144247&p=3156010&hilit=#p3156010",
+    "download": "https://filecrypt.cc/Container/8D87D4CBEC.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-30T23:37:16.025Z",
+    "link": "https://store.steampowered.com/app/2134060",
+    "steamID": "2134060",
+    "genres": "Action, Adventure, Casual, Indie, Strategy"
+  },
+  {
+    "name": "Quadrober Simulator",
+    "id": "Quadrober_Simulator",
+    "notes": "--How to change language--\nYou can do this in the game settings.",
+    "subName": "Portable V1.02 & Build 16180912",
+    "description": "Are you a quadrober?",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3268080/header.jpg?t=1730193647",
+    "gameplay": "https://www.youtube.com/watch?v=625fz9sXKrI",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Quadrober.Simulator-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144246&p=3156018&hilit=#p3156018",
+    "download": "https://filecrypt.cc/Container/61BED78F5F.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-30T23:56:32.597Z",
+    "link": "https://store.steampowered.com/app/3268080",
+    "steamID": "3268080",
+    "genres": "Action, Adventure, Casual, Indie, RPG, Simulation, Strategy"
   }
 ]
