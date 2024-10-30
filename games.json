@@ -26530,10 +26530,10 @@
     "genres": "Casual, Indie, Racing, Simulation, Sports"
   },
   {
-    "name": "REKA",
+    "name": "REKA: The Witching Hour",
     "id": "REKA",
     "notes": "",
-    "subName": "Portable V0.1.83.18780b & Build 15630221",
+    "subName": "Portable V0.3.4.e3733f & Build 16180996",
     "description": "Channel your inner witch! Build your cozy chicken-legged hut, practice witchcraft, and forage for ingredients in autumnal woodlands. Solve quests & uncover the great mysteries of the legendary witch Baba Jaga…",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/header.jpg?t=1726141650",
     "gameplay": "https://www.youtube.com/watch?v=A7MljC6aZ0o",
@@ -26542,13 +26542,13 @@
     ],
     "based": {
       "info": "csf",
-      "credits": "Dound",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=123440&p=3123512&hilit=#p3123512"
+      "credits": "gizmo_o",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=123440&p=3154725&hilit=#p3154725"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=123440&p=3124115&hilit=#p3124115",
-    "download": "https://filecrypt.cc/Container/EB384F5415.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=123440&p=3155660&hilit=#p3155660",
+    "download": "https://filecrypt.cc/Container/1ADC4F3654.html",
     "achievements": false,
-    "dateUpdated": "2024-09-12T23:22:42.419Z",
+    "dateUpdated": "2024-10-30T12:09:09.351Z",
     "link": "https://store.steampowered.com/app/1737870",
     "steamID": "1737870",
     "genres": "Adventure, Casual, Indie, RPG"
@@ -35635,5 +35635,53 @@
     "link": "https://store.steampowered.com/app/2221500",
     "steamID": "2221500",
     "genres": "Adventure, Indie, Simulation"
+  },
+  {
+    "name": "The Scourge | Tai Ương",
+    "id": "The_Scourge",
+    "notes": "",
+    "subName": "Portable V0.3.20 (HotFix 5) & Build 16196765",
+    "description": "The Scourge game tells stories revolving around urban legends from the 1990s in Saigon, Vietnam. The male protagonist is trapped by past sins caused by his and his family's mistakes. Now, he must confront and overcome the consequences to find a path to redemption, and you are him.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2456350/header.jpg?t=1730176325",
+    "gameplay": "https://www.youtube.com/watch?v=tX61ibg2Vcc",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "fsnaix",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143718&p=3155038&hilit=#p3155038"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143718&p=3155670&hilit=#p3155670",
+    "download": "https://filecrypt.cc/Container/9BC968F173.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-30T12:34:50.500Z",
+    "link": "https://store.steampowered.com/app/2456350",
+    "steamID": "2456350",
+    "genres": "Adventure, Indie, RPG"
+  },
+  {
+    "name": "I'm on Observation Duty 7",
+    "id": "I_m_on_Observation_Duty_7",
+    "notes": "",
+    "subName": "Portable V1.0 & Build 16198969",
+    "description": "As an employee of a mysterious organization your job is to monitor live surveillance camera footage and spot anomalies using your sharp eyes and good memory. Can you survive the entire night shift or will you succumb into paranoia?",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2462520/header.jpg?t=1729713905",
+    "gameplay": "https://www.youtube.com/watch?v=iz4Bjxf8H-M",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "LuminosityNova",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144198&p=3155485&hilit=#p3155485"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144198&p=3155693&hilit=#p3155693",
+    "download": "https://filecrypt.cc/Container/1B9A20B0E0.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-30T13:09:40.016Z",
+    "link": "https://store.steampowered.com/app/2462520",
+    "steamID": "2462520",
+    "genres": "Indie"
   }
 ]
