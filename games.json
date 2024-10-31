@@ -35899,5 +35899,29 @@
     "link": "https://store.steampowered.com/app/3243190",
     "steamID": "3243190",
     "genres": "Action, Adventure"
+  },
+  {
+    "name": "Age of Desire: The Veilguard - Deluxe Edition",
+    "id": "Dragon_Age_The_Veilguard",
+    "notes": "",
+    "subName": "Portable V31.10.2024 + Build 16179329 & DLCs Included",
+    "description": "Unite the Veilguard and defy the gods in Dragon Age™: The Veilguard, an immersive single-player RPG where you become the leader others believe in.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/AgeofDesire.webp",
+    "gameplay": "https://www.youtube.com/watch?v=NdtmtuzICOI",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "✧GͥOͣDͫ✧",
+      "link": "https://digitalzone.vercel.app/games/Dragon_Age_The_Veilguard"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137019&p=3156559&hilit=#p3156559",
+    "download": "https://filecrypt.cc/Container/0083B56621.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-31T18:10:26.178Z",
+    "link": "",
+    "steamID": "",
+    "genres": "Action, Adventure, RPG, Strategy, NSFW"
   }
 ]
