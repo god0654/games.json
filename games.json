@@ -22066,25 +22066,25 @@
     "link": "https://store.steampowered.com/app/2856030"
   },
   {
-    "name": "Vampire Survivors - Game + All DLC + OST Bundle",
+    "name": "Vampire Survivors: Ode to Castlevania - Game + All DLC + OST Bundle",
     "id": "Vampire_Survivors",
     "notes": "",
-    "subName": "Portable V1.11.111 + Build 15728851 & DLCs Included",
+    "subName": "Portable V1.12.105 + Build 16249406 & DLCs Included",
     "description": "Mow down thousands of night creatures and survive until dawn! Vampire Survivors is a gothic horror casual game with rogue-lite elements, where your choices can allow you to quickly snowball against the hundreds of monsters that get thrown at you.",
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/header.jpg?t=1725465014",
-    "gameplay": "https://www.youtube.com/watch?v=ZY-SoV-A39s",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3210350.webp",
+    "gameplay": "https://www.youtube.com/watch?v=RnzmiDonN2E",
     "tags": [
       "gse"
     ],
     "based": {
-      "info": "basedon",
-      "credits": "emoris",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=118200&p=3128583&hilit=#p3128583"
+      "info": "csf",
+      "credits": "IceColdOldMan",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=118200&p=2992665&hilit=#p2992665"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=118200&p=3131468&hilit=#p3131468",
-    "download": "https://filecrypt.cc/Container/46D3525660.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=118200&p=3156299&hilit=#p3156299",
+    "download": "https://filecrypt.cc/Container/29384F44B3.html",
     "achievements": true,
-    "dateUpdated": "2024-09-24T09:26:23.720Z",
+    "dateUpdated": "2024-10-31T12:20:06.349Z",
     "link": "https://store.steampowered.com/app/1794680",
     "steamID": "1794680",
     "genres": "Action, Casual, Indie, RPG"
