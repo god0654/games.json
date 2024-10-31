@@ -35827,5 +35827,29 @@
     "link": "https://store.steampowered.com/app/2649480",
     "steamID": "2649480",
     "genres": "Adventure, RPG, Strategy, NSFW"
+  },
+  {
+    "name": "Vampire Hunters",
+    "id": "Vampire_Hunters",
+    "notes": "",
+    "subName": "Portable V1.0.0-cl11343 (Full Release) & Build 16206490",
+    "description": "To hunt vampires, you'll need guns. Lots of guns. Mow down hordes of undead creatures by stacking your guns into absurd, over-the-top builds. Unleash your firepower and survive the mayhem in this Roguelite Survivors FPS.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2206270/header_alt_assets_1.jpg?t=1730307518",
+    "gameplay": "https://www.youtube.com/watch?v=HTBGXwI0X5I",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Vampire.Hunters-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=130688&p=3156250&hilit=#p3156250",
+    "download": "https://filecrypt.cc/Container/6DE3EA4851.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-31T10:53:35.435Z",
+    "link": "https://store.steampowered.com/app/2206270",
+    "steamID": "2206270",
+    "genres": "Action, Indie"
   }
 ]
