@@ -35803,5 +35803,29 @@
     "link": "https://store.steampowered.com/app/3268080",
     "steamID": "3268080",
     "genres": "Action, Adventure, Casual, Indie, RPG, Simulation, Strategy"
+  },
+  {
+    "name": "Spirit Valley",
+    "id": "Spirit_Valley",
+    "notes": "",
+    "subName": "Portable V1.0.0-EA & Build 16120304",
+    "description": "Spirit Valley is an erotic creature collecting game. Explore the open world, battle horny spirit girls, build your team, and fuck them all!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2649480/header.jpg?t=1730313832",
+    "gameplay": "https://video.cloudflare.steamstatic.com/store_trailers/257042253/movie480_vp9.webm?t=1722429811",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://digitalzone.vercel.app/games/Spirit_Valley"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144252&p=3156027&hilit=#p3156027",
+    "download": "https://filecrypt.cc/Container/01347E80F0.html",
+    "achievements": true,
+    "dateUpdated": "2024-10-31T00:22:54.230Z",
+    "link": "https://store.steampowered.com/app/2649480",
+    "steamID": "2649480",
+    "genres": "Adventure, RPG, Strategy, NSFW"
   }
 ]
