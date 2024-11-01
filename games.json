@@ -36020,5 +36020,101 @@
     "link": "https://store.steampowered.com/app/2793950",
     "steamID": "2793950",
     "genres": "Action, Adventure"
+  },
+  {
+    "name": "HELLSEED + All Chapters",
+    "id": "HELLSEED",
+    "notes": "",
+    "subName": "Portable V01.11.2024 & Build 16248842",
+    "description": "Be careful and don't panic, someone will try to catch you and take you to hell...",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1168690/header.jpg?t=1730382915",
+    "gameplay": "https://www.youtube.com/watch?v=WM-HDp6x-3g",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "net$$ump",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127702&p=3156553&hilit=#p3156553"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127702&p=3157204&hilit=#p3157204",
+    "download": "https://filecrypt.cc/Container/A1A8AC9912.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-01T16:37:39.477Z",
+    "link": "https://store.steampowered.com/app/1168690",
+    "steamID": "1168690",
+    "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Tlatoani: Aztec Cities",
+    "id": "Tlatoani_Aztec_Cities",
+    "notes": "",
+    "subName": "Portable V1.4.1d & Build 16256029",
+    "description": "Give rise to wonders of the Aztec Civilization as you build your own magnificent metropolis in this ancient city builder. From humble beginnings build, trade, manage and conquer to become Tlatoani (Emperor).",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3161270/header.jpg?t=1730449440",
+    "gameplay": "https://www.youtube.com/watch?v=u1YBUN9eAY8",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Perlyyy",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143667&p=3157146&hilit=#p3157146"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143667&p=3157222&hilit=16256029%5D#p3157222",
+    "download": "https://filecrypt.cc/Container/321FC3F1E8.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-01T17:03:37.852Z",
+    "link": "https://store.steampowered.com/app/3161270",
+    "steamID": "3161270",
+    "genres": "Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Elin",
+    "id": "Elin",
+    "notes": "",
+    "subName": "Portable V23.11 & Build 16261713",
+    "description": "Successor to the roguelike RPG \"Elona\". Adventure, survival, crafting, home-building, myths passed down, and stories of humans and Elea spun. What scars will you leave on the land of Ylva?",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2135150/header.jpg?t=1730447205",
+    "gameplay": "https://video.cloudflare.steamstatic.com/store_trailers/257049048/movie480_vp9.webm?t=1724910123",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "dwithh23",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137363&p=3156916&hilit=#p3156916"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137363&p=3157246&hilit=#p3157246",
+    "download": "https://filecrypt.cc/Container/882088F8D8.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-01T18:05:16.302Z",
+    "link": "https://store.steampowered.com/app/2135150",
+    "steamID": "2135150",
+    "genres": "Indie, RPG, Simulation, Strategy"
+  },
+  {
+    "name": "Raiden NOVA",
+    "id": "Raiden_NOVA",
+    "notes": "",
+    "subName": "Portable V1.0.1 & Build 15610467",
+    "description": "\"Raiden\" unites! Get ready to blast into a thrilling new dimension like never before!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2842710/header.jpg?t=1730394430",
+    "gameplay": "https://www.youtube.com/watch?v=QFmKK48lXB8",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "chronos",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144100&p=3156919&hilit=#p3156919"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144100&p=3157290&hilit=#p3157290",
+    "download": "https://filecrypt.cc/Container/7036B427EC.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-01T18:58:15.240Z",
+    "link": "https://store.steampowered.com/app/2842710",
+    "steamID": "2842710",
+    "genres": "Action"
   }
 ]
