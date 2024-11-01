@@ -35918,7 +35918,7 @@
     },
     "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137019&p=3156559&hilit=#p3156559",
     "download": "https://filecrypt.cc/Container/0083B56621.html",
-    "achievements": true,
+    "achievements": false,
     "dateUpdated": "2024-10-31T18:10:26.178Z",
     "link": "",
     "steamID": "",
@@ -35972,5 +35972,53 @@
     "link": "https://store.steampowered.com/app/892970",
     "steamID": "892970",
     "genres": "Action, Adventure, Indie, RPG"
+  },
+  {
+    "name": "Karate Survivor",
+    "id": "Karate_Survivor",
+    "notes": "",
+    "subName": "Portable V1.0.0.199 & Build 16252326",
+    "description": "Become a martial arts master in this survivor-like roguelite inspired by action movies of the ‘80s. Use your fists, feet, and the environment to fight off relentless thugs. Master powerful combos, enhance your skills, and remember: everything around you is a weapon!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3027930/header.jpg?t=1730467971",
+    "gameplay": "https://www.youtube.com/watch?v=NgwHucpI7L8",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Titeuf",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143018&p=3156943&hilit=#p3156943"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143018&p=3157125&hilit=#p3157125",
+    "download": "https://filecrypt.cc/Container/3E3D03A887.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-01T14:38:20.381Z",
+    "link": "https://store.steampowered.com/app/3027930",
+    "steamID": "3027930",
+    "genres": "Action, Casual, Indie"
+  },
+  {
+    "name": "Totally Spies! - Cyber Mission",
+    "id": "Totally_Spies_Cyber_Mission",
+    "notes": "",
+    "subName": "Portable V01.11.2024 & Build 16167756",
+    "description": "Get ready for an electrifying 2.0 adventure! The Spies are back into action in a brand-new story set in the lively city of Singapore. Brace yourself for the return of high-tech gadgets, ecstatic missions, old friends, and the signature humor of the animated series.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2793950/header.jpg?t=1730383925",
+    "gameplay": "https://www.youtube.com/watch?v=QfwB3kbCXU0",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "chronos",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144255&p=3156963&hilit=#p3156963"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144255&p=3157141&hilit=#p3157141",
+    "download": "https://filecrypt.cc/Container/904EF39474.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-01T14:57:29.857Z",
+    "link": "https://store.steampowered.com/app/2793950",
+    "steamID": "2793950",
+    "genres": "Action, Adventure"
   }
 ]
