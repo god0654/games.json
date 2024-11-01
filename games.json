@@ -35947,5 +35947,30 @@
     "link": "",
     "steamID": "",
     "genres": "Action, Adventure, RPG, NSFW"
+  },
+  {
+    "name": "Valheim: The Bog Witch - Soundtrack Bundle",
+    "id": "Valheim",
+    "notes": "",
+    "subName": "Portable V0.219.14 + Build 16223075 & Online Supported",
+    "description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture. Battle, build, and conquer your way to a saga worthy of Odin’s patronage!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/892970/header_alt_assets_4.jpg?t=1730188784",
+    "gameplay": "https://www.youtube.com/watch?v=lQiLPwV_8sY",
+    "tags": [
+      "gse",
+      "ofme"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "flashybunny",
+      "link": "https://digitalzone.vercel.app/games/Valheim"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=97899&p=3157027&hilit=#p3157027",
+    "download": "https://filecrypt.cc/Container/613FE0760E.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-01T11:58:50.446Z",
+    "link": "https://store.steampowered.com/app/892970",
+    "steamID": "892970",
+    "genres": "Action, Adventure, Indie, RPG"
   }
 ]
