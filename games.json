@@ -36116,5 +36116,29 @@
     "link": "https://store.steampowered.com/app/2842710",
     "steamID": "2842710",
     "genres": "Action"
+  },
+  {
+    "name": "Lutnak·Quest ",
+    "id": "Lutnak_Quest",
+    "notes": "",
+    "subName": "Portable V01.11.2024 & Build 16259852",
+    "description": "In order to challenge more difficult missions, she even sold her body in exchange for powerful equipment! Will she be promoted to an S-rank adventurer first, or will she become No. 1 in the brothel?",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2766940/header.jpg?t=1730448036",
+    "gameplay": "https://video.cloudflare.steamstatic.com/store_trailers/257003988/movie480_vp9.webm?t=1709175390",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "✧GͥOͣDͫ✧",
+      "link": "https://digitalzone.vercel.app/games/Lutnak_Quest"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144274&p=3157333&hilit=#p3157333",
+    "download": "https://filecrypt.cc/Container/B5A393665F.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-01T19:34:19.477Z",
+    "link": "https://store.steampowered.com/app/2766940",
+    "steamID": "2766940",
+    "genres": "Adventure, Casual, Indie, RPG, NSFW"
   }
 ]
