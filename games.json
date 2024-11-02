@@ -36213,5 +36213,29 @@
     "link": "https://store.steampowered.com/app/3106340",
     "steamID": "3106340",
     "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Farmagia - Deluxe Edition",
+    "id": "Farmagia",
+    "notes": "",
+    "subName": "Portable V1.0.1 + Build 14932159 & DLCs Included",
+    "description": "Command an army of monsters in this all-new action game featuring character designs by famed manga artist Hiro Mashima. Take a stand to free the people of Felicidad as a Farmagia named Ten when monster farming, adventure, and hectic battles come together in an epic tale of rebellion and friendship.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2508770.webp",
+    "gameplay": "https://www.youtube.com/watch?v=5LoSIYjgJFw",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Farmagia-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141667&p=3157501&hilit=#p3157501",
+    "download": "https://filecrypt.cc/Container/3BAAA23A58.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-02T02:08:23.580Z",
+    "link": "https://store.steampowered.com/app/2508770",
+    "steamID": "2508770",
+    "genres": "Action, RPG"
   }
 ]
