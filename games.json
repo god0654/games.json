@@ -17128,25 +17128,25 @@
     "name": "Magicraft",
     "id": "Magicraft",
     "notes": "",
-    "subName": "Portable V0.80.30 & Build 13792586",
+    "subName": "Portable V1.0.40f1 (Full Release) & Build 16274038",
     "description": "\"Magicraft\" is a Roguelike game that uses a variety of spells to match unimaginable spell effects, and the construction of ultra-high degrees of freedom cannot even be exhausted by developers.",
-    "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2103140/header.jpg?t=1710435868",
-    "gameplay": "https://youtu.be/SkxHpjJiHZ4",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2103140/header.jpg?t=1730532435",
+    "gameplay": "https://www.youtube.com/watch?v=IV-wlQkZIM8",
     "tags": [
       "gse"
     ],
     "based": {
       "info": "csf",
-      "credits": "gmy77",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=136234&p=3017301&hilit=#p3017301"
+      "credits": "flashybunny",
+      "link": "https://digitalzone.vercel.app/games/Magicraft"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=136234&p=3017998&hilit=#p3017998",
-    "download": "https://filecrypt.cc/Container/43B7921990.html",
-    "achievements": false,
-    "dateUpdated": "2024-07-26T12:34:40.649Z",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=136234&p=3157924&hilit=#p3157924",
+    "download": "https://filecrypt.cc/Container/150D6BA5A6.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-02T17:48:59.611Z",
+    "link": "https://store.steampowered.com/app/2103140",
     "steamID": "2103140",
-    "genres": "Action, Adventure, Indie, RPG, Early Access",
-    "link": "https://store.steampowered.com/app/2103140"
+    "genres": "Action, Adventure, Indie, RPG"
   },
   {
     "name": "LEAD - Rally",
