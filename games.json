@@ -36285,5 +36285,53 @@
     "link": "https://store.steampowered.com/app/3091390",
     "steamID": "3091390",
     "genres": "Action, Indie, Simulation"
+  },
+  {
+    "name": "Farm Manager 2021: Autumn",
+    "id": "Farm_Manager_2021",
+    "notes": "",
+    "subName": "Portable V1.1.20241030.529 + Build 16251459 & DLCs Included",
+    "description": "Farm Manager 2021 is an indie game that lets you relax and immerse yourself in farm management. A casual but grounded builder game that combines management and farm maintenance in one package. Grow and expand your farm into a thriving estate or enjoy it as a delightful escape from everyday life.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1123830/header.jpg?t=1730378835",
+    "gameplay": "https://www.youtube.com/watch?v=xv49Ts3fKOE",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "SKIDROW",
+      "link": "https://predb.net/rls/Farm.Manager.2021.Autumn-SKIDROW"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=104149&p=3158056&hilit=#p3158056",
+    "download": "https://filecrypt.cc/Container/2A5CD04024.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-02T21:25:20.206Z",
+    "link": "https://store.steampowered.com/app/1123830",
+    "steamID": "1123830",
+    "genres": "Casual, Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Blackthorn Arena: Reforged",
+    "id": "Blackthorn_Arena_Reforged",
+    "notes": "",
+    "subName": "Portable V2.01a + Build 16275683 & DLC Included",
+    "description": "Re-experience the thrill and challenges of managing a Gladiator arena in this management/simulation game. With new content, new graphics, Quality of Life updates, and all DLCs packed into this new experience, this is how Blackthorn Arena was meant to be experienced.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3168260/header.jpg?t=1730567266",
+    "gameplay": "https://www.youtube.com/watch?v=ddQ2r4ia_oM",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://predb.net/rls/Blackthorn.Arena.Reforged-RUNE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143975&p=3158077&hilit=#p3158077",
+    "download": "https://filecrypt.cc/Container/D4D075CDDC.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-02T22:14:43.418Z",
+    "link": "https://store.steampowered.com/app/3168260",
+    "steamID": "3168260",
+    "genres": "Simulation, Strategy"
   }
 ]
