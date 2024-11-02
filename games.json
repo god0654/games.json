@@ -36140,5 +36140,78 @@
     "link": "https://store.steampowered.com/app/2766940",
     "steamID": "2766940",
     "genres": "Adventure, Casual, Indie, RPG, NSFW"
+  },
+  {
+    "name": "Car For Sale Simulator 2023",
+    "id": "Car_For_Sale_Simulator_2023",
+    "notes": "",
+    "subName": "Portable V1.0 (Full Release) & Build 16265697",
+    "description": "Car For Sale Simulator 2023 - Developed for car enthusiasts, grow your own car sales business by buying and selling different car models. Drive the purchased cars as you wish, repair them, modify them, and sell them to customers at affordable prices.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2248760/header.jpg?t=1730479105",
+    "gameplay": "https://www.youtube.com/watch?v=lof5FW12ePM",
+    "tags": [
+      "gse",
+      "ofme"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "flashybunny",
+      "link": "https://digitalzone.vercel.app/games/Car_For_Sale_Simulator_2023"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132754&p=3157454&hilit=#p3157454",
+    "download": "https://filecrypt.cc/Container/96E8ABCBDB.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-01T23:52:01.654Z",
+    "link": "https://store.steampowered.com/app/2248760",
+    "steamID": "2248760",
+    "genres": "Indie, Simulation"
+  },
+  {
+    "name": "Slime 3K: Rise Against Despot",
+    "id": "Slime_3K_Rise_Against_Despot",
+    "notes": "",
+    "subName": "Portable V1.0.3 (Full Release) & Build 16238887",
+    "description": "Welcome to Slime 3K, an unhinged roguelite bullet-heaven set in the Despot’s Game universe! Build a deck of crazy weapons, grow stronger and devour hordes of pink puny humans as a murderous jelly blob on a warpath of death, violence and pretzels.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2348610/header.jpg?t=1730390298",
+    "gameplay": "https://www.youtube.com/watch?v=9C4jy6Xz128",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "flashybunny",
+      "link": "https://digitalzone.vercel.app/games/Slime_3K_Rise_Against_Despot"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=117235&p=3157469&hilit=#p3157469",
+    "download": "https://filecrypt.cc/Container/FA8E5021F8.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-02T00:23:50.467Z",
+    "link": "https://store.steampowered.com/app/2348610",
+    "steamID": "2348610",
+    "genres": "Action, Indie, RPG"
+  },
+  {
+    "name": "Aquarium at August 32nd",
+    "id": "Aquarium_at_August_32nd",
+    "notes": "",
+    "subName": "Portable V1.0 (Full Release) & Build 16248374",
+    "description": "The rumor says that strange events will come to those who recite the words to regret their summer vacation. On 32nd of August, you will become part of an urban myth. A mysterious day at the curious aquarium awaits you.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3106340/header.jpg?t=1730358015",
+    "gameplay": "https://video.cloudflare.steamstatic.com/store_trailers/257040883/movie480_vp9.webm?t=1723192692",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Aquarium.at.August.32nd-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144283&p=3157476&hilit=#p3157476",
+    "download": "https://filecrypt.cc/Container/6B052FBEF2.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-02T01:02:53.592Z",
+    "link": "https://store.steampowered.com/app/3106340",
+    "steamID": "3106340",
+    "genres": "Adventure, Indie"
   }
 ]
