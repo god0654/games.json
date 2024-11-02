@@ -18739,27 +18739,27 @@
   {
     "name": "Palworld + Original Soundtrack Bundle",
     "id": "Palworld",
-    "notes": "Note: GoldBerg with Achievements, Items and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.",
-    "subName": "Portable V0.3.5.57289 + Build 15305453 + DLC with Items Included & Online Supported",
+    "notes": "--How to Play Online--\nGoldBerg with Achievements, Items and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.",
+    "subName": "Portable V0.3.10.61184 + Build 16232804 + DLC with Items Included & Online Supported",
     "description": "Fight, farm, build and work alongside mysterious creatures called \"Pals\" in this completely new multiplayer, open world survival and crafting game!",
     "thumbnail": "https://god0654.github.io/DigitalZone/Images/Palworld%20Sakurajima.webp",
-    "gameplay": "https://youtu.be/-Eoe7rnzgOk",
+    "gameplay": "https://www.youtube.com/watch?v=4fNWYXgGJ6E",
     "tags": [
       "gse",
       "ofme"
     ],
     "based": {
-      "info": "info",
-      "credits": "CSF SJB & Patch Kirigiri",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=113728&p=3106220&hilit=#p3106220"
+      "info": "csf",
+      "credits": "flashybunny",
+      "link": "https://digitalzone.vercel.app/games/Palworld"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=113728&p=3108574&hilit=#p3108574",
-    "download": "https://filecrypt.cc/Container/63D6949BD5.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=113728&p=3157647&hilit=#p3157647",
+    "download": "https://filecrypt.cc/Container/E5DCB252D4.html",
     "achievements": true,
-    "dateUpdated": "2024-08-17T20:41:24.529Z",
+    "dateUpdated": "2024-11-02T10:17:37.707Z",
+    "link": "https://store.steampowered.com/app/1623730",
     "steamID": "1623730",
-    "genres": "Action, Adventure, Indie, RPG",
-    "link": "https://store.steampowered.com/app/1623730"
+    "genres": "Action, Adventure, Indie, RPG"
   },
   {
     "name": "STRETCHER MEN",
