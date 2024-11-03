@@ -36431,5 +36431,29 @@
     "link": "https://store.steampowered.com/app/550",
     "steamID": "550",
     "genres": "Action"
+  },
+  {
+    "name": "Nightmare Knight ~Sacred Maiden & Fallen Magic~",
+    "id": "Nightmare_Knight_Sacred_Maiden_Fallen_Magic",
+    "notes": "",
+    "subName": "Portable V2.01 + Build 16246559 & Uncensored",
+    "description": "The young girl Rain, who became the sacred knight of the kingdom, was entrusted by Jas, the leader of the sacred knights and her lover, to investigate the disturbances occurring in a distant town named \"Hakudeti\".",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2630020/header.jpg?t=1730528954",
+    "gameplay": "https://video.cloudflare.steamstatic.com/store_trailers/257054419/movie480_vp9.webm?t=1730382821",
+    "tags": [
+      "drmfree"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://digitalzone.vercel.app/games/Nightmare_Knight_Sacred_Maiden_Fallen_Magic"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144315&p=3158450&hilit=#p3158450",
+    "download": "https://filecrypt.cc/Container/DB855763E7.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-03T14:07:18.654Z",
+    "link": "https://store.steampowered.com/app/2630020",
+    "steamID": "2630020",
+    "genres": "Adventure, Indie, RPG, NSFW"
   }
 ]
