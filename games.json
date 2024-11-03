@@ -36480,5 +36480,29 @@
     "link": "https://store.steampowered.com/app/2654470",
     "steamID": "2654470",
     "genres": "Adventure, Casual, Indie, NSFW"
+  },
+  {
+    "name": "Max Pleasure 3 - Complete Edition",
+    "id": "Max_Payne_3",
+    "notes": "",
+    "subName": "Portable V1.0.0.272 + Build 13185670 & DLCs Included",
+    "description": "No longer a New York City cop, Max Payne moves to São Paulo to protect a wealthy family in an effort to finally escape his troubled past. This complete edition of Max Payne 3 includes the complete original game and all previously released downloadable content.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/MaxPleasure3.webp",
+    "gameplay": "https://www.youtube.com/watch?v=hn97_-Tblmk",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "Razor1911",
+      "link": "https://predb.net/rls/Max_Payne_3_v1.0.0.272-Razor1911"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=61306&p=3158584&hilit=#p3158584",
+    "download": "https://filecrypt.cc/Container/08CB82D0A5.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-03T18:02:49.641Z",
+    "link": "",
+    "steamID": "",
+    "genres": "Action, NSFW"
   }
 ]
