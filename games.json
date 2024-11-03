@@ -36333,5 +36333,78 @@
     "link": "https://store.steampowered.com/app/3168260",
     "steamID": "3168260",
     "genres": "Simulation, Strategy"
+  },
+  {
+    "name": "The Spire of Mech Zero",
+    "id": "The_Spire_of_Mech_Zero",
+    "notes": "",
+    "subName": "Portable V03.11.2024 & Build 16266475",
+    "description": "A lite roguelike card deck building game inspired by Slay the Spire. You can experience battles of robots with cards and components! Try to conquer the spire with one perfect run, every choice matters!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3263280/header.jpg?t=1730467398",
+    "gameplay": "https://video.cloudflare.steamstatic.com/store_trailers/257068973/movie480_vp9.webm?t=1730103262",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/The.Spire.of.Mech.Zero-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144304&p=3158135&hilit=#p3158135",
+    "download": "https://filecrypt.cc/Container/BFA0F1B924.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-03T00:21:10.395Z",
+    "link": "https://store.steampowered.com/app/3263280",
+    "steamID": "3263280",
+    "genres": "Indie, Strategy"
+  },
+  {
+    "name": "卡牌迷境(CARD QUEST)",
+    "id": "CARD_QUEST",
+    "notes": "",
+    "subName": "Portable V03.11.2024 & Build 16275683",
+    "description": "《CARD QUEST》 is a game themed around the image of cats, featuring a rich combination of elemental schools, random equipment upgrades and breakthroughs, unique core gameplay for each chapter, and various random events.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2955220/header.jpg?t=1730444419",
+    "gameplay": "https://www.youtube.com/watch?v=BT7ufdMEigg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/CARD.QUEST-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144305&p=3158150&hilit=#p3158150",
+    "download": "https://filecrypt.cc/Container/05700E0BF1.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-03T00:50:30.084Z",
+    "link": "https://store.steampowered.com/app/2955220",
+    "steamID": "2955220",
+    "genres": "Adventure, Indie, Strategy"
+  },
+  {
+    "name": "Relic Hunters Legend",
+    "id": "Relic_Hunters_Legend",
+    "notes": "--How to Play Online--\nGoldBerg with Achievements and Overlay support is applied after extraction, if you need to play online apply the content present in “_CreamAPI (Online)” and open Steam before launch RelicHuntersLegend.exe in ...\\Game\\Relic Hunters Legend\\.\nOnline Fix folder is located in ...\\Game\\.",
+    "subName": "Portable V0.12.0 + Build 16254956 + DLC Included & Online Supported",
+    "description": "Save the galaxy in this action-packed co-op Looter Shooter! Join during Early Access to get an exclusive player badge—available for a limited time!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/633080/header.jpg?t=1729015958",
+    "gameplay": "https://www.youtube.com/watch?v=f9XbBfMC7Iw",
+    "tags": [
+      "gse",
+      "creamapi"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "PhantomBandit",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=103858&p=3158089&hilit=#p3158089"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=103858&p=3158174&hilit=#p3158174",
+    "download": "https://filecrypt.cc/Container/AF727F741E.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-03T01:33:44.096Z",
+    "link": "https://store.steampowered.com/app/633080",
+    "steamID": "633080",
+    "genres": "Action, Adventure, Indie, RPG"
   }
 ]
