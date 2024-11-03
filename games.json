@@ -36406,5 +36406,30 @@
     "link": "https://store.steampowered.com/app/633080",
     "steamID": "633080",
     "genres": "Action, Adventure, Indie, RPG"
+  },
+  {
+    "name": "Left 4 Dead 2",
+    "id": "Left_4_Dead_2",
+    "notes": "--How to Play Online--\nGoldBerg with Achievements, Stats and Overlay support is applied after extraction, if you need to play online apply the content present in “_Crack Only (OFME)” and open Steam before launch Launcher.exe in ...\\Game\\Left 4 Dead 2\\.\nOnline Fix folder is located in ...\\Game\\.\n\n--Guide--\nCampaign -> Playing with friends -> New Lobby - Campaign -> We configure everything as we wish, the parameter should remain Official highlighted -> Create a lobby -> We are waiting for all players to connect.\nEdit game settings -> Set the server type to Local server and launch the game.",
+    "subName": "Portable V03.11.2024 + Build 16169696 + DLCs Included & Online Supported",
+    "description": "Set in the zombie apocalypse, Left 4 Dead 2 (L4D2) is the highly anticipated sequel to the award-winning Left 4 Dead, the #1 co-op game of 2008. This co-operative action horror FPS takes you and your friends through the cities, swamps and cemeteries of the Deep South, from Savannah to New Orleans across five expansive campaigns.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/550/header.jpg?t=1729702523",
+    "gameplay": "https://www.youtube.com/watch?v=3o3_5GmnebI",
+    "tags": [
+      "gse",
+      "ofme"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "ARMGDDNGames",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=76079&p=3158111&hilit=#p3158111"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=76079&p=3158410&hilit=#p3158410",
+    "download": "https://filecrypt.cc/Container/66D81F6850.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-03T12:53:34.119Z",
+    "link": "https://store.steampowered.com/app/550",
+    "steamID": "550",
+    "genres": "Action"
   }
 ]
