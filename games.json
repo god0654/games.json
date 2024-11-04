@@ -36576,5 +36576,31 @@
     "link": "https://store.steampowered.com/app/2171880",
     "steamID": "2171880",
     "genres": "Adventure, RPG, Simulation"
+  },
+  {
+    "name": "EA SPORTS FC™ 25 (Denuvo Offline Activation)",
+    "id": "EA_SPORTS_FC_25",
+    "notes": "--Note for Blind Users--\nusually available for free, but you may need to wait for your turn.\n\nIn the case of FC25, only one free activation per week is guaranteed. Donators are exempt from this restriction.\n\n--Guide--\n\nDownload CSF\nAT THE END OF THIS DETAILS\n➥ FileCrypt.cc Button\n\n- Join the Discord Group:\n[CLICK HERE](https://discord.gg/4jrF9V4h5h)\n\n- Log into your Discord account and complete the verification process. Once verified, you’ll be able to access the server.\n\n⚠️\nAs a new member, you’ll need to wait 24 hours before requesting your first game.\n⚠️\n\n--Rules--\nAfter joining, head to the #read-first channel for the server rules. You can also visit the #review-panel to see user feedback about the server and activation process.\n\n--Get Your Tools Ready--\nBefore requesting games, ensure you have all necessary tools. Find downloaders in the #tools-closet thread.\n\nCategories:\n\n- Free Category: Request games for free here.\n\n- Donor Category: Donate to get your game faster. (Optional, only if you don’t have patience)\n\n--Don't break your Activation--\n- Never launch the game from Steam. > breaks activation.\n\n- Never update your windows! > breaks activation (Use this to permanently disable windows updates, it's dangerous to keep it completely disabled, so ONLY use it until you finish the game, then RESTORE windows updates.)\n[CLICK HERE](https://torrent.cybar.xyz/Y2024/1/Wub.zip)\n\n- Never move the game folders > breaks activation.\n\n- \"Never update or alter/overclock/remove overclock/undervolt, etc from bios\" > breaks activation.\n\n- Never change your hardware > breaks activation.\n\n--Donation Info--\nSkip the 24-Hour Wait: You can bypass the wait time by donating.\nPriority for New Games: Donors get first access to newly added games, while free users may need to wait a week or longer.",
+    "subName": "Portable V1.0.116.27276 & Build 15994012",
+    "description": "EA SPORTS FC™ 25 gives you more ways to win for the club. Team up with friends in your favourite modes with the new 5v5 Rush, and manage your club to victory as FC IQ delivers more tactical control than ever before.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2669320/header.jpg?t=1729643957",
+    "gameplay": "https://www.youtube.com/watch?v=RefXbk1_taI",
+    "tags": [
+      "antidenuvosanctuary",
+      "denuvoofflineactivation",
+      "offlineonly"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Anti-Denuvo Sanctuary",
+      "link": "https://digitalzone.vercel.app/games/EA_SPORTS_FC_25"
+    },
+    "csrinru": "",
+    "download": "https://filecrypt.cc/Container/DEE20AA062.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-04T02:36:25.584Z",
+    "link": "https://store.steampowered.com/app/2669320",
+    "steamID": "2669320",
+    "genres": "Simulation, Sports"
   }
 ]
