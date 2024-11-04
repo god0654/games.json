@@ -36504,5 +36504,53 @@
     "link": "",
     "steamID": "",
     "genres": "Action, NSFW"
+  },
+  {
+    "name": "Zero-Sum Heart - Deluxe Edition",
+    "id": "Zero_Sum_Heart",
+    "notes": "",
+    "subName": "Portable V1.0.5 + Build 16217039 & DLCs Included",
+    "description": "\"I\" make a deal with the witch to give up my heart, in exchange for love— from everyone. Is it worth it if losing my heart means gaining *his*?\nIn this short visual novel, make choices and answer the question: is love a zero-sum game?",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2954920.webp",
+    "gameplay": "https://www.youtube.com/watch?v=VHYciZw_Fnk",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Zero-Sum.Heart-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144337&p=3158774&hilit=#p3158774",
+    "download": "https://filecrypt.cc/Container/C96C36451A.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-03T23:55:35.976Z",
+    "link": "https://store.steampowered.com/app/2954920",
+    "steamID": "2954920",
+    "genres": "Adventure, Casual, Indie, RPG, Simulation"
+  },
+  {
+    "name": "Idle Calibur：Zero（选王之剑：零) - Deluxe Edition",
+    "id": "Idle_Calibur_Zero",
+    "notes": "",
+    "subName": "Portable V04.11.2024 + Build 16281953 & DLC Included",
+    "description": "A game that seamlessly integrates TRPG, SLG,Gacha, Idle,Rogue,anime style. Crafted by genuine players, Prepare to embark on a journey that showcases the full extent of my intellect, imagination, and sincerity. Gather your strength, forge bonds, and ascend to the throne of kingship—",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2919560/header.jpg?t=1730441717",
+    "gameplay": "https://video.cloudflare.steamstatic.com/store_trailers/257057715/movie480_vp9.webm?t=1727137915",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Idle.Calibur.Zero-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144016&p=3158786&hilit=#p3158786",
+    "download": "https://filecrypt.cc/Container/100BD123E9.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-04T00:24:25.276Z",
+    "link": "https://store.steampowered.com/app/2919560",
+    "steamID": "2919560",
+    "genres": "Indie, RPG, Simulation, Strategy"
   }
 ]
