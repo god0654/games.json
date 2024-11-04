@@ -36626,5 +36626,29 @@
     "link": "https://store.steampowered.com/app/2347940",
     "steamID": "2347940",
     "genres": "Action, Adventure, Casual, Indie"
+  },
+  {
+    "name": "Empire of the Ants - Deluxe Edition",
+    "id": "Empire_of_the_Ants",
+    "notes": "",
+    "subName": "Portable V1.02.19732 + Build 16281268 & DLC Included",
+    "description": "Conquer enemy nests and lead your colony through the perils of the forest in this groundbreaking RTS. Empire of the Ants is a photorealistic, third-person real-time strategy game where you command your insect legions in epic battles.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2287330.webp",
+    "gameplay": "https://www.youtube.com/watch?v=xJDlwPZqv28",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://predb.net/rls/Empire.of.the.Ants-RUNE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=129293&p=3159124&hilit=#p3159124",
+    "download": "https://filecrypt.cc/Container/777622AD35.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-04T15:41:41.808Z",
+    "link": "https://store.steampowered.com/app/2287330",
+    "steamID": "2287330",
+    "genres": "Strategy"
   }
 ]
