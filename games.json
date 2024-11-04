@@ -36552,5 +36552,29 @@
     "link": "https://store.steampowered.com/app/2919560",
     "steamID": "2919560",
     "genres": "Indie, RPG, Simulation, Strategy"
+  },
+  {
+    "name": "Albatroz",
+    "id": "Albatroz",
+    "notes": "",
+    "subName": "Portable V04.11.2024 & Build 16281184",
+    "description": "Albatroz is a backpacking adventure RPG that will take you through majestic landscapes in search of your lost sibling. A tale about knowing when to let go and start over.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2171880/header.jpg?t=1730448017",
+    "gameplay": "https://www.youtube.com/watch?v=JkQI_XsClpo",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Albatroz-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134976&p=3158825&hilit=#p3158825",
+    "download": "https://filecrypt.cc/Container/A0D8CCFF61.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-04T02:12:34.726Z",
+    "link": "https://store.steampowered.com/app/2171880",
+    "steamID": "2171880",
+    "genres": "Adventure, RPG, Simulation"
   }
 ]
