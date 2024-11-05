@@ -36794,5 +36794,29 @@
     "link": "https://store.steampowered.com/app/1254320",
     "steamID": "1254320",
     "genres": "Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Lost Eidolons: Veil of the Witch",
+    "id": "Lost_Eidolons_Veil_of_the_Witch",
+    "notes": "",
+    "subName": "Portable V0.05.005 & Build 16299067",
+    "description": "From the world of \"Lost Eidolons\" comes an all-new roguelite tactical RPG! Stranded on a mysterious island with scattered memories, your only means of survival is to fight. Recruit allies, undertake a perilous journey, and battle to reclaim what you've lost... no matter how many deaths it takes.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2530490/header.jpg?t=1730821626",
+    "gameplay": "https://www.youtube.com/watch?v=jMdWttWSjZo",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Dound",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134556&p=3159751&hilit=#p3159751"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134556&p=3159871&hilit=#p3159871",
+    "download": "https://filecrypt.cc/Container/70DB3CEF4C.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-05T19:23:09.910Z",
+    "link": "https://store.steampowered.com/app/2530490",
+    "steamID": "2530490",
+    "genres": "Indie, RPG, Strategy"
   }
 ]
