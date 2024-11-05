@@ -36144,8 +36144,8 @@
   {
     "name": "Car For Sale Simulator 2023",
     "id": "Car_For_Sale_Simulator_2023",
-    "notes": "--How to Play Online--\nGoldBerg with Achievements, Stats and Overlay support is applied after extraction, if you need play Online apply the contents in \"_CrackOnly (OFME)\" and open Steam before launch.\n\n--Crash Fix--\nDownload ➭ [CLICK HERE](https://datanodes.to/1uh6lbslsiio)\n- Fixed the problem of crashing whenever sleeping.\n\nLaunch from steamclient_loader_x64.exe.",
-    "subName": "Portable V1.0 (Full Release) + Build 16265697 & Crash Fix",
+    "notes": "--How to Play Online--\nApply the content present in “_CrackOnly (OFME)” and open Steam before launch Car For Sale Simulator 2023.exe in ...\\Game\\Car For Sale Simulator 2023\\.\n\nOnline Fix folder is located in ...\\Game\\.\n\n--Crash Fix--\nAlready applied after extraction.",
+    "subName": "Portable V1.0.1 (HotFix) + Build 16265697 + Crash Fix & Online Supported",
     "description": "Car For Sale Simulator 2023 - Developed for car enthusiasts, grow your own car sales business by buying and selling different car models. Drive the purchased cars as you wish, repair them, modify them, and sell them to customers at affordable prices.",
     "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2248760/header.jpg?t=1730479105",
     "gameplay": "https://www.youtube.com/watch?v=lof5FW12ePM",
@@ -36158,10 +36158,10 @@
       "credits": "flashybunny",
       "link": "https://digitalzone.vercel.app/games/Car_For_Sale_Simulator_2023"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132754&p=3157454&hilit=#p3157454",
-    "download": "https://filecrypt.cc/Container/96E8ABCBDB.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132754&p=3159597&hilit=#p3159597",
+    "download": "https://filecrypt.cc/Container/244C72D950.html",
     "achievements": true,
-    "dateUpdated": "2024-11-01T23:52:01.654Z",
+    "dateUpdated": "2024-11-05T10:42:45.507Z",
     "link": "https://store.steampowered.com/app/2248760",
     "steamID": "2248760",
     "genres": "Indie, Simulation"
@@ -36699,5 +36699,29 @@
     "link": "https://store.steampowered.com/app/2473710",
     "steamID": "2473710",
     "genres": "Adventure"
+  },
+  {
+    "name": "Casino Simulator 2024",
+    "id": "Casino_Simulator_2024",
+    "notes": "",
+    "subName": "Portable V05.11.2024 & Build 15141070",
+    "description": "Casino Simulator: Build, manage, and expand your own casino from scratch. Hire staff, design your casino, and delight customers by offering the most popular games. Enjoy the thrill of the casino experience!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2836450/header.jpg?t=1726915915",
+    "gameplay": "https://www.youtube.com/watch?v=o8YxevFKWW4",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Dound",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144338&p=3159511&hilit=#p3159511"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144338&p=3159606&hilit=#p3159606",
+    "download": "https://filecrypt.cc/Container/F1F04F7675.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-05T11:17:29.848Z",
+    "link": "https://store.steampowered.com/app/2836450",
+    "steamID": "2836450",
+    "genres": "Casual, Simulation"
   }
 ]
