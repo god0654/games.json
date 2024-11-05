@@ -8989,8 +8989,8 @@
   {
     "name": "Rabbit and Steel",
     "id": "Rabbit_and_Steel",
-    "notes": "How to Play Online: GoldBerg Emu, with Achievements and Overlay support, is applied after extraction if you need play Online apply the contents in ''_CrackOnly (OFME)'' folder and open Steam before launch.",
-    "subName": "Portable V1.0.0.8 + Build 14432012 + DLC Included & Online Supported",
+    "notes": "--How to Play Online--\nGoldBerg with Achievements and Overlay support is applied after extraction, if you need to play online apply the content present in “_CrackOnly (OFME)” and open Steam before launch RabbitSteel.exe in ...\\Game\\Rabbit and Steel\\.\n\nOnline Fix folder is located in ...\\Game\\.",
+    "subName": "Portable V1.0.4.1 + Build 16163666 + DLC Included & Online Supported",
     "description": "RABBIT & STEEL is a co-op action roguelike that recreates the essence of high-level MMO raiding in a randomized, simplified, bunny-sized package. Choose your class, gather your rabbit-eared companions and battle your way to the Moonlit Pinnacle!",
     "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2132850/header.jpg?t=1715270179",
     "gameplay": "https://youtu.be/mZfcz9XtYVQ",
@@ -9001,15 +9001,15 @@
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Rabbit.and.Steel-TENOKE.png"
+      "link": "https://predb.net/rls/Rabbit.and.Steel.v1.0.4.1-TENOKE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135863&p=3055935&hilit=#p3055935",
-    "download": "https://filecrypt.cc/Container/EF32936F66.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135863&p=3159427&hilit=#p3159427",
+    "download": "https://filecrypt.cc/Container/0F3D5003F7.html",
     "achievements": true,
-    "dateUpdated": "2024-07-24T16:48:00.170Z",
+    "dateUpdated": "2024-11-04T23:48:09.148Z",
+    "link": "https://store.steampowered.com/app/2132850",
     "steamID": "2132850",
-    "genres": "Action, Adventure, Indie, RPG",
-    "link": "https://store.steampowered.com/app/2132850"
+    "genres": "Action, Adventure, Indie, RPG"
   },
   {
     "name": "Synergy",
@@ -20649,7 +20649,7 @@
     "name": "Five Nights at Freddy's: Into the Pit",
     "id": "Five_Nights_at_Freddy_s_Into_the_Pit",
     "notes": "",
-    "subName": "Portable V1.0.4.5 & Build 15475796",
+    "subName": "Portable V1.0.9.0 & Build 15810175",
     "description": "Survive five nights of terror in this chilling adventure game. Travel between time periods to solve puzzles, gather clues, and outrun the threat relentlessly pursuing you. Move swiftly and stay hidden, and you may just survive. But be careful—it's not just your own life that’s on the line this time.",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638370/header.jpg?t=1723065423",
     "gameplay": "https://www.youtube.com/watch?v=2pTYUVB6-zM",
@@ -20659,15 +20659,15 @@
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Five.Nights.at.Freddys.Into.the.Pit.Update.v1.0.4.5-TENOKE.png"
+      "link": "https://predb.net/rls/Five.Nights.at.Freddys.Into.the.Pit.v1.0.9.0-TENOKE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141235&p=3112669&hilit=#p3112669",
-    "download": "https://filecrypt.cc/Container/245ECD167D.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141235&p=3159422&hilit=#p3159422",
+    "download": "https://filecrypt.cc/Container/D994E26E57.html",
     "achievements": true,
-    "dateUpdated": "2024-08-24T22:59:48.543Z",
+    "dateUpdated": "2024-11-04T23:19:19.843Z",
+    "link": "https://store.steampowered.com/app/2638370",
     "steamID": "2638370",
-    "genres": "Action, Adventure, Indie",
-    "link": "https://store.steampowered.com/app/2638370"
+    "genres": "Action, Adventure, Indie"
   },
   {
     "name": "Homeless",
@@ -36675,5 +36675,29 @@
     "link": "https://store.steampowered.com/app/2835570",
     "steamID": "2835570",
     "genres": "Action, Indie, Simulation"
+  },
+  {
+    "name": "Abyss School",
+    "id": "Abyss_School",
+    "notes": "",
+    "subName": "Portable V1.6.6 & Build 16286735",
+    "description": "Solve hidden items and puzzles while avoiding abyssal zombies and traps at school.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2473710/header.jpg?t=1716817087",
+    "gameplay": "https://www.youtube.com/watch?v=IAnIWeGJICg",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Abyss.School.v1.6.6-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137831&p=3159434&hilit=#p3159434",
+    "download": "https://filecrypt.cc/Container/FCF8E814B6.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-05T00:15:23.841Z",
+    "link": "https://store.steampowered.com/app/2473710",
+    "steamID": "2473710",
+    "genres": "Adventure"
   }
 ]
