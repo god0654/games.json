@@ -5552,30 +5552,29 @@
     "link": "https://store.steampowered.com/app/2432940"
   },
   {
-    "name": "Age of Wonders 4: Eldritch Realms / Mystic - Premium Edition",
+    "name": "Age of Wonders 4: Ways of War - Premium Edition",
     "id": "Age_of_Wonders_4",
-    "notes": "Note: GSE with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in ''_CrackOnly (OFME)'' folder and open Steam before launch.",
-    "subName": "Portable V1.007.001.94582 + Build 14757530 + DLCs Included & Online Supported",
+    "notes": "--How to Play Online--\nApply the content present in “_CrackOnly (OFME)” and open Steam before launch dowser.exe in ...\\Game\\Age of Wonders 4 Ways of War\\.\n\nOnline Fix folder is located in ...\\Game\\.",
+    "subName": "Portable V1.009.001.99091 + Build 16301929 + DLCs Included & Online Supported",
     "description": "Rule a fantasy realm of your own design! Explore new magical realms in Age of Wonders’ signature blend of 4X strategy and turn-based tactical combat. Control a faction that grows and changes as you expand your empire with each turn!",
-    "thumbnail": "https://god0654.github.io/DigitalZone/Images/Age%20of%20Wonders%204%20Eldritch%20Realms.webp",
-    "gameplay": "https://youtu.be/SHb2CnStS34",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2914280.webp",
+    "gameplay": "https://www.youtube.com/watch?v=VZ-9JcmSouE",
     "tags": [
       "gse",
-      "ofme",
-      "steamless"
+      "ofme"
     ],
     "based": {
       "info": "nfo",
       "credits": "RUNE",
-      "link": "https://api.predb.net/nfoimg/Age.of.Wonders.4.Eldritch.Realms-RUNE.png"
+      "link": "https://predb.net/rls/Age.of.Wonders.4.Ways.of.War-RUNE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=129238&p=3074026&hilit=#p3074026",
-    "download": "https://filecrypt.cc/Container/BDB0E3F2D9.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=129238&p=3159836&hilit=#p3159836",
+    "download": "https://filecrypt.cc/Container/46BC0CA195.html",
     "achievements": true,
-    "dateUpdated": "2024-07-24T12:34:15.084Z",
-    "steamID": "",
-    "genres": "",
-    "link": ""
+    "dateUpdated": "2024-11-05T18:24:15.104Z",
+    "link": "https://store.steampowered.com/app/1669000",
+    "steamID": "1669000",
+    "genres": "Strategy"
   },
   {
     "name": "METAL SLUG ATTACK RELOADED",
@@ -36771,5 +36770,29 @@
     "link": "https://store.steampowered.com/app/1590760",
     "steamID": "1590760",
     "genres": "Action, Indie, RPG, Strategy"
+  },
+  {
+    "name": "Surviving the Abyss",
+    "id": "Surviving_the_Abyss",
+    "notes": "",
+    "subName": "Portable V1.0 (Full Release) & Build 16301144",
+    "description": "Earth, 1976. You have been tasked with managing a deep-sea science facility working to perfect cloning. Explore the darkness and keep your crew alive in this hardcore survival colony builder. And beware. The darkness hides untold horrors.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1254320/header.jpg?t=1730819140",
+    "gameplay": "https://www.youtube.com/watch?v=njF-9qjGw_4",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "SJB",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127509&p=3159750&hilit=#p3159750"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127509&p=3159797&hilit=#p3159797",
+    "download": "https://filecrypt.cc/Container/3878C18962.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-05T17:39:22.369Z",
+    "link": "https://store.steampowered.com/app/1254320",
+    "steamID": "1254320",
+    "genres": "Indie, Simulation, Strategy"
   }
 ]
