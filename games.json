@@ -36747,5 +36747,29 @@
     "link": "https://store.steampowered.com/app/2693710",
     "steamID": "2693710",
     "genres": "Adventure, Indie, NSFW"
+  },
+  {
+    "name": "Metal Slug Tactics",
+    "id": "Metal_Slug_Tactics",
+    "notes": "",
+    "subName": "Portable V1.0.0 + Build 16241027 & DLC Included",
+    "description": "METAL SLUG makes an explosive return! Dive into this dynamic tactical RPG with a roguelite thrill and experience the iconic run'n'gun action of the original series, redefined. Grab your weapons, assemble your squad and conquer the battlefield to defeat the infamous Rebel Army.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1590760/header.jpg?t=1730815164",
+    "gameplay": "https://www.youtube.com/watch?v=tY_42XBMezw",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "chronos",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=113810&p=3159706&hilit=#p3159706"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=113810&p=3159736&hilit=#p3159736",
+    "download": "https://filecrypt.cc/Container/98136870B8.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-05T15:36:17.362Z",
+    "link": "https://store.steampowered.com/app/1590760",
+    "steamID": "1590760",
+    "genres": "Action, Indie, RPG, Strategy"
   }
 ]
