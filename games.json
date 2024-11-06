@@ -36817,5 +36817,29 @@
     "link": "https://store.steampowered.com/app/2530490",
     "steamID": "2530490",
     "genres": "Indie, RPG, Strategy"
+  },
+  {
+    "name": "DEATH NOTE Killer Within - Special Edition",
+    "id": "DEATH_NOTE_Killer_Within",
+    "notes": "--How to Play--\nLaunch DEATH NOTE Killer Within.exe in ''...\\Game\\DEATH NOTE Killer Within\\''.\n\nOpen Steam before launch.",
+    "subName": "Portable V1.0.3 + Build 16162154 + DLCs Included & Online Supported",
+    "description": "DEATH NOTE Killer Within is an online social deduction game for up to 10 players. Players will be split into two teams with different objectives. To win the game, players will need to figure out each other’s identities and either eliminate L who threatens Kira's power or seize the Death Note.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2213190.webp",
+    "gameplay": "https://www.youtube.com/watch?v=rn-iGHDLMlc",
+    "tags": [
+      "ofme"
+    ],
+    "based": {
+      "info": "release",
+      "credits": "Online-Fix.me",
+      "link": "https://online-fix.me/games/sandbox/17624-death-note-killer-within-po-seti.html"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144261&p=3160405&hilit=#p3160405",
+    "download": "https://filecrypt.cc/Container/1C59E827FF.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-06T17:59:21.208Z",
+    "link": "https://store.steampowered.com/app/2213190",
+    "steamID": "2213190",
+    "genres": "Casual, Strategy"
   }
 ]
