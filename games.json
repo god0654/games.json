@@ -1469,26 +1469,25 @@
     "link": "https://store.steampowered.com/app/2096030"
   },
   {
-    "name": "Hades II: Patch 6 - The Olympic",
+    "name": "Hades II - The Olympic",
     "id": "Hades_II",
     "notes": "",
-    "subName": "Portable V0.102933 & Build 16184516",
+    "subName": "Portable V0.103501 & Build 16298898",
     "description": "Battle beyond the Underworld using dark sorcery to take on the Titan of Time in this bewitching sequel to the award-winning rogue-like dungeon crawler. ",
     "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145350/header_alt_assets_0.jpg?t=1729095672",
     "gameplay": "https://www.youtube.com/watch?v=WH3jT53hIYM",
     "tags": [
-      "gse",
-      "steamless"
+      "gse"
     ],
     "based": {
       "info": "csf",
-      "credits": "nxbrew321",
-      "link": "https://store.steampowered.com/app/1145350/Hades_II/"
+      "credits": "flashybunny",
+      "link": "https://digitalzone.vercel.app/games/Hades_II"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127940&p=3153339&hilit=#p3153339",
-    "download": "https://filecrypt.cc/Container/3A81E85F92.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127940&p=3160029&hilit=#p3160029",
+    "download": "https://filecrypt.cc/Container/0E4404F9CA.html",
     "achievements": false,
-    "dateUpdated": "2024-10-26T23:34:19.924Z",
+    "dateUpdated": "2024-11-06T01:56:36.950Z",
     "link": "https://store.steampowered.com/app/1145350",
     "steamID": "1145350",
     "genres": "Action, Indie, RPG"
