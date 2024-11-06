@@ -36842,5 +36842,29 @@
     "link": "https://store.steampowered.com/app/2213190",
     "steamID": "2213190",
     "genres": "Casual, Strategy"
+  },
+  {
+    "name": "Mirthwood",
+    "id": "Mirthwood",
+    "notes": "",
+    "subName": "Portable V1.0.1f & Build 16316914",
+    "description": "Embark on an enchanting journey and brave ferocious creatures in an immersive medieval fantasy world. Will you settle a new homestead to live a life of farming and trade, or pick up the sword and take up the adventurers' path?",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272900/header.jpg?t=1730914458",
+    "gameplay": "https://www.youtube.com/watch?v=NoQ_Mnuv2FE",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "demon0x23",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132719&p=3160404&hilit=#p3160404"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132719&p=3160459&hilit=#p3160459",
+    "download": "https://filecrypt.cc/Container/D2F14ECAC8.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-06T19:46:06.410Z",
+    "link": "https://store.steampowered.com/app/2272900",
+    "steamID": "2272900",
+    "genres": "RPG, Simulation"
   }
 ]
