@@ -36866,5 +36866,29 @@
     "link": "https://store.steampowered.com/app/2272900",
     "steamID": "2272900",
     "genres": "RPG, Simulation"
+  },
+  {
+    "name": "The Matchless Kungfu",
+    "id": "The_Matchless_Kungfu",
+    "notes": "",
+    "subName": "Portable V1.0.1.0 (Full Release) & Build 16313575",
+    "description": "The Matchless Kungfu is an open world sandbox RPG game based on a WuXia background. You can play any martial arts role you imagine in this wild world. Travel through the great wilderness, or be the leader of the group. The most important thing is, build your own story and live the experience!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1696440/header.jpg?t=1730861403",
+    "gameplay": "https://www.youtube.com/watch?v=tnThgxHOOkI",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "GoGicz",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=123708&p=3160413&hilit=#p3160413"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=123708&p=3160522&hilit=#p3160522",
+    "download": "https://filecrypt.cc/Container/6295B8DB96.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-06T21:46:02.628Z",
+    "link": "https://store.steampowered.com/app/1696440",
+    "steamID": "1696440",
+    "genres": "Indie, RPG, Strategy"
   }
 ]
