@@ -23101,29 +23101,28 @@
     "link": "https://store.steampowered.com/app/362680"
   },
   {
-    "name": "Sengoku Dynasty: Ikigai - Ultimate Edition",
+    "name": "Sengoku Dynasty: The Daimyō - Ultimate Edition",
     "id": "Sengoku_Dynasty",
     "notes": "",
-    "subName": "Portable V0.4.0.2 + Build 15473581 & DLCs Included",
+    "subName": "Portable V1.0.0.3 (Full Release) + Build 16330989 & DLCs Included",
     "description": "Build and manage villages in an open-world feudal Japan. Survive, explore, meet unique characters, and establish your legacy. Play solo or in co-op multiplayer.",
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1702010.webp",
-    "gameplay": "https://www.youtube.com/watch?v=VV-ynBR9qYc",
+    "gameplay": "https://www.youtube.com/watch?v=JdyOVdr0VEY",
     "tags": [
-      "gse",
-      "steamless"
+      "gse"
     ],
     "based": {
-      "info": "basedon",
-      "credits": "Mart1z",
-      "link": "https://rutracker.org/forum/viewtopic.php?t=6397167"
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://predb.net/rls/Sengoku.Dynasty-RUNE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=117959&p=3112570&hilit=#p3112570",
-    "download": "https://filecrypt.cc/Container/07AB9F166F.html",
+    "csrinru": "",
+    "download": "https://filecrypt.cc/Container/0E5C3FC878.html",
     "achievements": false,
-    "dateUpdated": "2024-08-24T20:52:39.872Z",
+    "dateUpdated": "2024-11-07T20:11:07.734Z",
+    "link": "https://store.steampowered.com/app/1702010",
     "steamID": "1702010",
-    "genres": "Adventure, RPG, Simulation",
-    "link": "https://store.steampowered.com/app/1702010"
+    "genres": "Adventure, RPG, Simulation"
   },
   {
     "name": "Galaxy Burger",
