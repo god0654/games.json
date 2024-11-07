@@ -36962,5 +36962,53 @@
     "link": "https://store.steampowered.com/app/2288630",
     "steamID": "2288630",
     "genres": "Casual"
+  },
+  {
+    "name": "Chicken Police: Into the HIVE!",
+    "id": "Chicken_Police_Into_the_HIVE",
+    "notes": "",
+    "subName": "Portable V07.11.2024 & Build 16327099",
+    "description": "A wild tale of loss, friendship, conspiracy, and... chickens?! Two rooster detectives are about to venture into the insect underworld to uncover a worldwide conspiracy, while also battling their inherent demons in this animal noir adventure satire.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2362090/header.jpg?t=1730987467",
+    "gameplay": "https://www.youtube.com/watch?v=i0FKOcpa9yo",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://predb.net/rls/Chicken.Police.Into.the.HIVE-RUNE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=133643&p=3160943&hilit=#p3160943",
+    "download": "https://filecrypt.cc/Container/A002E64F39.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-07T14:41:13.438Z",
+    "link": "https://store.steampowered.com/app/2362090",
+    "steamID": "2362090",
+    "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Scramble: Battle of Britain",
+    "id": "Scramble_Battle_of_Britain",
+    "notes": "",
+    "subName": "Portable V0.09.003 & Build 16239424",
+    "description": "Scramble: Battle of Britain is a tactical dogfighting game set in 1940, featuring intense aerial battles in a 3D airspace. Players lead squadrons of Luftwaffe and RAF fighters, planning maneuvers, witnessing real-time simulations, and analyzing battle damage with detailed camera tools.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1530450/header.jpg?t=1730367777",
+    "gameplay": "https://www.youtube.com/watch?v=Yq1kSVlkr9E",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "cipherro",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=113245&p=3160536&hilit=#p3160536"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=133643&p=3160943&hilit=#p3160943",
+    "download": "https://filecrypt.cc/Container/A6D9D0E060.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-07T14:43:22.222Z",
+    "link": "https://store.steampowered.com/app/1530450",
+    "steamID": "1530450",
+    "genres": "Strategy"
   }
 ]
