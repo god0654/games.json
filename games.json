@@ -36938,5 +36938,29 @@
     "link": "https://store.steampowered.com/app/2510760",
     "steamID": "2510760",
     "genres": "Action, Indie, RPG"
+  },
+  {
+    "name": "Taiko no Tatsujin: Rhythm Festival The Setlist Edition",
+    "id": "Taiko_no_Tatsujin_Rhythm_Festival",
+    "notes": "",
+    "subName": "Portable V1.1.1 + Build 16071781 & DLCs Included",
+    "description": "Taiko no Tatsujin: Rhythm Festival is a drum-based rhythm game featuring songs from genres such as Anime and VOCALOID™, and also a variety of game modes! Have fun playing solo or online!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2288630.webp",
+    "gameplay": "https://www.youtube.com/watch?v=PiZbpbTu9uo",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Taiko.no.Tatsujin.Rhythm.Festival-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142926&p=3160828&hilit=#p3160828",
+    "download": "https://filecrypt.cc/Container/340481451C.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-07T11:42:05.031Z",
+    "link": "https://store.steampowered.com/app/2288630",
+    "steamID": "2288630",
+    "genres": "Casual"
   }
 ]
