@@ -15750,28 +15750,28 @@
     "link": "https://store.steampowered.com/app/2667160"
   },
   {
-    "name": "Shadow Corridor 2",
+    "name": "Shadow Corridor 2 雨ノ四葩",
     "id": "Shadow_Corridor_2",
     "notes": "",
-    "subName": "Portable V1.01 & Build 13901626",
+    "subName": "Portable V1.14.1 & Build 16179417",
     "description": "Lost forever in the pitch black! But that's what makes it fun! The vast corridors covered in darkness change with each play. All you can do is run or hide from the frightening Apparitions. Use unique items and Karuta cards with special powers in your desperate search for an escape from the darkness!",
     "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2310700/header.jpg?t=1711757042",
-    "gameplay": "https://www.youtube.com/watch?v=yrZGl9jC2jI",
+    "gameplay": "https://www.youtube.com/watch?v=lHhKNlHeYsM",
     "tags": [
-      "scene"
+      "gse"
     ],
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Shadow.Corridor.2-TENOKE.png"
+      "link": "https://predb.net/rls/Shadow.Corridor.2.v1.14.1-TENOKE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=139625&p=3024468&hilit=#p3024468",
-    "download": "https://filecrypt.cc/Container/9454076B09.html",
-    "achievements": false,
-    "dateUpdated": "2024-07-25T21:15:04.414Z",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=139625&p=3160593&hilit=#p3160593",
+    "download": "https://filecrypt.cc/Container/7D611ED3BE.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-07T00:23:24.200Z",
+    "link": "https://store.steampowered.com/app/2310700",
     "steamID": "2310700",
-    "genres": "Action, Adventure, Indie, Strategy",
-    "link": "https://store.steampowered.com/app/2310700"
+    "genres": "Action, Adventure, Indie, Strategy"
   },
   {
     "name": "Vellum",
@@ -36890,5 +36890,53 @@
     "link": "https://store.steampowered.com/app/1696440",
     "steamID": "1696440",
     "genres": "Indie, RPG, Strategy"
+  },
+  {
+    "name": "Aquatic Store Simulator",
+    "id": "Aquatic_Store_Simulator",
+    "notes": "",
+    "subName": "Portable V07.11.2024 (HotFix 1) & Build 16306850",
+    "description": "Dive into the vibrant world of aquatic retail with Aquatic Store Simulator! Take on the challenge of managing your underwater-themed supermarket, blending business management with the beauty of marine life. Stock shelves with exotic fish, decorations, set prices, take payments and maintain aquariums",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3073580/header.jpg?t=1730882701",
+    "gameplay": "https://www.youtube.com/watch?v=PsUPMKioYPA",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Aquatic.Store.Simulator-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144288&p=3160577&hilit=#p3160577",
+    "download": "https://filecrypt.cc/Container/8DAAD2922D.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-07T00:25:19.244Z",
+    "link": "https://store.steampowered.com/app/3073580",
+    "steamID": "3073580",
+    "genres": "Casual, Indie, Simulation"
+  },
+  {
+    "name": "Gods Wars : infinity Epic",
+    "id": "Gods_Wars_infinity_Epic",
+    "notes": "",
+    "subName": "Portable V1.0 (Full Release) & Build 16309130",
+    "description": "Come and defeat the evil gods! Create your personal outfit, overcome the siege of numerous monsters and leaders, and usher in a new victory! Gods Wars is a pixel ARPG Rogue like Game. You can obtain epic artifacts, upgrade epic skills, choose your epic pet, face the powerful evil gods!",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510760/header.jpg?t=1730873005",
+    "gameplay": "https://video.akamai.steamstatic.com/store_trailers/257071258/movie480_vp9.webm?t=1730872988",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Gods.Wars.infinity.Epic-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=139595&p=3160566&hilit=#p3160566",
+    "download": "https://filecrypt.cc/Container/2B2C916857.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-07T00:27:11.309Z",
+    "link": "https://store.steampowered.com/app/2510760",
+    "steamID": "2510760",
+    "genres": "Action, Indie, RPG"
   }
 ]
