@@ -23116,10 +23116,10 @@
       "credits": "RUNE",
       "link": "https://predb.net/rls/Sengoku.Dynasty-RUNE"
     },
-    "csrinru": "",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=117959&p=3161178&hilit=#p3161178",
     "download": "https://filecrypt.cc/Container/0E5C3FC878.html",
     "achievements": false,
-    "dateUpdated": "2024-11-07T20:11:07.734Z",
+    "dateUpdated": "2024-11-07T20:14:00.907Z",
     "link": "https://store.steampowered.com/app/1702010",
     "steamID": "1702010",
     "genres": "Adventure, RPG, Simulation"
@@ -37033,5 +37033,30 @@
     "link": "https://store.steampowered.com/app/1762930",
     "steamID": "1762930",
     "genres": "Adventure, Casual, Simulation"
+  },
+  {
+    "name": "Techtonica",
+    "id": "Techtonica",
+    "notes": "",
+    "subName": "Portable V1.0.1c (Full Release) + Build 16292160 & Online Supported",
+    "description": "Techtonica is a first-person factory automation game with a gripping mystery about mining your way out from the depths of an alien planet. Explore bioluminescent caves, mold destructible terrain, construct a massive subterranean factory. Dig your way toward answers & discover the secrets of Calyx.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1457320/header.jpg?t=1731001849",
+    "gameplay": "https://www.youtube.com/watch?v=gR_X0OeJnE0",
+    "tags": [
+      "gse",
+      "ofme"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://predb.net/rls/Techtonica-RUNE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=120548&p=3161123&hilit=#p3161123",
+    "download": "https://filecrypt.cc/Container/65D6ADBF15.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-07T20:22:49.669Z",
+    "link": "https://store.steampowered.com/app/1457320",
+    "steamID": "1457320",
+    "genres": "Indie, Simulation, Strategy"
   }
 ]
