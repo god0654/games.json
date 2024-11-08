@@ -24379,12 +24379,12 @@
     "link": "https://store.steampowered.com/app/1959580"
   },
   {
-    "name": "CarX Street - Deluxe Edition",
+    "name": "CarX Street: Drift Cars - Deluxe Edition",
     "id": "CarX_Street",
-    "notes": "How to Play: \nLaunch steamclient_loader_x64.exe in ''CarX Street - Deluxe Edition\\''.",
-    "subName": "Portable V1.1.0 + Build 16098053 & DLC Included",
+    "notes": "--How to keep the saves--\nThe saves are stored locally in the ''local_saves'' folder in CarX Street - Deluxe Edition\\DigitalZone\\.\n\nPrevious releases saves are stored in CarX Street - Deluxe Edition\\.",
+    "subName": "Portable V1.2.0 + Build 16339040 & DLCs Included",
     "description": "Conquer mountain roads, highways, and city streets. Build your dream car with detailed tuning that unleashes the potential of “CarX Technology”© physics. Take part in thrilling races, enjoying realistic gameplay and dynamic driving.",
-    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1114150.webp",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3285610.webp",
     "gameplay": "https://www.youtube.com/watch?v=hMm_Rkeg4wY",
     "tags": [
       "gse"
@@ -24392,12 +24392,12 @@
     "based": {
       "info": "csf",
       "credits": "flaywah",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=109435&p=3147786&hilit=#p3147786"
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=109435&p=3161634&hilit=#p3161634"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=109435&p=3147848&hilit=#p3147848",
-    "download": "https://filecrypt.cc/Container/C284B6A348.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=109435&p=3161663&hilit=#p3161663",
+    "download": "https://filecrypt.cc/Container/60B8173AAD.html",
     "achievements": true,
-    "dateUpdated": "2024-10-18T21:52:33.944Z",
+    "dateUpdated": "2024-11-08T14:20:49.953Z",
     "link": "https://store.steampowered.com/app/1114150",
     "steamID": "1114150",
     "genres": "Racing, Simulation, Sports"
