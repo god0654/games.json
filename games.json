@@ -37130,5 +37130,29 @@
     "link": "https://store.steampowered.com/app/2407830",
     "steamID": "2407830",
     "genres": "Casual, Simulation"
+  },
+  {
+    "name": "ZEPHON - Supporter Edition",
+    "id": "ZEPHON",
+    "notes": "",
+    "subName": "Portable V1.0.0 + Build 16342101 & DLCs Included",
+    "description": "From the developers of Warhammer 40,000: Gladius, ZEPHON is a post-apocalyptic 4X strategy game built on Proxy’s unique tactical combat system. Guide survivors through a turbulent future, navigating unexpected disasters, eldritch horror and cyberpunk monstrosities. What will you do to survive?",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1481170.webp",
+    "gameplay": "https://www.youtube.com/watch?v=XjTg-Ji9JLU",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "✧GͥOͣDͫ✧",
+      "link": "https://digitalzone.vercel.app/games/ZEPHON"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=113945&p=3161723&hilit=#p3161723",
+    "download": "https://filecrypt.cc/Container/8BE2B0355D.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-08T15:55:05.648Z",
+    "link": "https://store.steampowered.com/app/1481170",
+    "steamID": "1481170",
+    "genres": "RPG, Simulation, Strategy"
   }
 ]
