@@ -2797,10 +2797,10 @@
     "name": "Ark of Charon",
     "id": "Ark_of_Charon",
     "notes": "",
-    "subName": "Portable V0.8.2 & Build 14985267",
+    "subName": "Portable V1.0.0 (Full Release) & Build 16321307",
     "description": "Build a mobile fortress on the back of a giant and mysterious walking Tree and embark on a journey in this merge of tower defense and colony simulation.",
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827810/header.jpg?t=1720514827",
-    "gameplay": "https://youtu.be/N1BoukoDz3c",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2827810/header_alt_assets_1.jpg?t=1730945343",
+    "gameplay": "https://www.youtube.com/watch?v=eSfopE-3JJ0",
     "tags": [
       "gse"
     ],
@@ -2809,13 +2809,13 @@
       "credits": "UltraShaggy",
       "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141020&p=3058779&hilit=#p3058779"
     },
-    "download": "https://filecrypt.cc/Container/08E1CC0BA6.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141020&p=3162012&hilit=#p3162012",
+    "download": "https://filecrypt.cc/Container/8C5E9937F7.html",
     "achievements": false,
-    "dateUpdated": "2024-07-22T18:28:15.034Z",
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141020&p=3088256&hilit=#p3088256",
+    "dateUpdated": "2024-11-08T23:37:58.084Z",
+    "link": "https://store.steampowered.com/app/2827810",
     "steamID": "2827810",
-    "genres": "Simulation, Strategy, Early Access",
-    "link": "https://store.steampowered.com/app/2827810"
+    "genres": "Simulation, Strategy"
   },
   {
     "name": "New Cycle: Produce & Deliver - Supporter Bundle",
@@ -37178,5 +37178,29 @@
     "link": "https://store.steampowered.com/app/1671740",
     "steamID": "1671740",
     "genres": "Action, Adventure, Casual, Indie"
+  },
+  {
+    "name": "Death of the Reprobate",
+    "id": "Death_of_the_Reprobate",
+    "notes": "",
+    "subName": "Portable V09.11.2024 & Build 16219880",
+    "description": "Explore a world built from the luscious landscapes, turbulent townscapes and preposterous portraits of real Renaissance paintings. Death of the Reprobate is a Rabelaisian adventure game from the creator of Four Last Things and The Procession to Calvary.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1739900/header.jpg?t=1731000289",
+    "gameplay": "https://www.youtube.com/watch?v=aBBWsj0ad9w",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Death.of.the.Reprobate-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=116675&p=3162019&hilit=#p3162019",
+    "download": "https://filecrypt.cc/Container/4CC4EE3CA2.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-08T23:39:23.980Z",
+    "link": "https://store.steampowered.com/app/1739900",
+    "steamID": "1739900",
+    "genres": "Adventure, Indie"
   }
 ]
