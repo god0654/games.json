@@ -24257,13 +24257,13 @@
     "link": "https://store.steampowered.com/app/1299690"
   },
   {
-    "name": "Umamusume: Pretty Derby Party Dash: Vol. 1 Team Iris - Special Edition",
+    "name": "Umamusume Pretty Derby Party Dash: Vol. 2 Team Geranium - Special Edition",
     "id": "Umamusume_Pretty_Derby_Party_Dash",
     "notes": "",
-    "subName": "Portable V1.02.00 + Build 15686263 & DLCs Included",
+    "subName": "Portable V1.03.00 + Build 15977208 & DLCs Included",
     "description": "A colorful cast of pixel-art Umamusume are all in line and ready to compete in the Slapdash Grand Prix, a school festival featuring four zany events! Which team will run, shoot, and eat their way to gold and glory?",
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2313020.webp",
-    "gameplay": "https://www.youtube.com/watch?v=jVTQEvEZucM",
+    "gameplay": "https://www.youtube.com/watch?v=1-rY08mzHyg",
     "tags": [
       "gse",
       "steamless"
@@ -24271,12 +24271,12 @@
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Umamusume.Pretty.Derby.Party.Dash.DLC.Vol.1.Team.Iris-TENOKE.png"
+      "link": "https://predb.net/rls/Umamusume.Pretty.Derby.Party.Dash.DLC.Vol.2.Team.Geranium-TENOKE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142971&p=3133803&hilit=#p3133803",
-    "download": "https://filecrypt.cc/Container/97D729FD14.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142971&p=3161367&hilit=#p3161367",
+    "download": "https://filecrypt.cc/Container/E16820E1E8.html",
     "achievements": true,
-    "dateUpdated": "2024-09-27T10:53:24.747Z",
+    "dateUpdated": "2024-11-08T00:52:03.892Z",
     "link": "https://store.steampowered.com/app/2313020",
     "steamID": "2313020",
     "genres": "Action"
@@ -37058,5 +37058,53 @@
     "link": "https://store.steampowered.com/app/1457320",
     "steamID": "1457320",
     "genres": "Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Zombie Flick | 僵尸快打",
+    "id": "Zombie_Flick",
+    "notes": "",
+    "subName": "Portable V1.0 & Build 16312191",
+    "description": "It's a well-designed side-by-side action adventure game that allows you to control a single character, deftly destroying traps and heroically killing hordes of zombies along the way by executing gorgeous commotion, using a variety of weapons, and unleashing powerful skills.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/906680/header.jpg?t=1730887656",
+    "gameplay": "https://video.cloudflare.steamstatic.com/store_trailers/256730805/movie480.webm?t=1538365802",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Zombie.Flick-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144422&p=3161372&hilit=#p3161372",
+    "download": "https://filecrypt.cc/Container/14AEE9C3CB.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-08T00:45:26.835Z",
+    "link": "https://store.steampowered.com/app/906680",
+    "steamID": "906680",
+    "genres": "Action, Adventure, Casual, Indie, RPG, Simulation"
+  },
+  {
+    "name": "Rogue Samurai",
+    "id": "Rogue_Samurai",
+    "notes": "",
+    "subName": "Portable V1.0 (Full Release) & Build 16317833",
+    "description": "Rogue Samurai is an intense roguelite action game where you fight relentless waves of enemies as a legendary samurai. Master your skills, unlock powerful abilities, and face epic boss battles in a quest for survival.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2552680/header.jpg?t=1730918384",
+    "gameplay": "https://video.cloudflare.steamstatic.com/store_trailers/256998684/movie480_vp9.webm?t=1725653557",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Rogue.Samurai-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144419&p=3161354&hilit=#p3161354",
+    "download": "https://filecrypt.cc/Container/E2FC67B6A9.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-08T01:01:30.550Z",
+    "link": "https://store.steampowered.com/app/2552680",
+    "steamID": "2552680",
+    "genres": "Action, Adventure, Casual, Indie"
   }
 ]
