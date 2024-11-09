@@ -37202,5 +37202,53 @@
     "link": "https://store.steampowered.com/app/1739900",
     "steamID": "1739900",
     "genres": "Adventure, Indie"
+  },
+  {
+    "name": "ShapeHero Factory",
+    "id": "ShapeHero_Factory",
+    "notes": "",
+    "subName": "Portable V0.8.6.2 & Build 16338834",
+    "description": "ShapeHero Factory is a game that fuses the factory simulation, roguelite, and tower defense genres. Use different shape combinations to mass-produce a variety of heroes, who will then fight all on their own. All you need to worry about is building the optimal factory to manufacture them.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2389040/header.jpg?t=1730963519",
+    "gameplay": "https://www.youtube.com/watch?v=rA4zeiOYbjU",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "sikmeister15",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135154&p=3162150&hilit=#p3162150"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135154&p=3162341&hilit=#p3162341",
+    "download": "https://filecrypt.cc/Container/FBE6B20F77.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-09T13:17:17.421Z",
+    "link": "https://store.steampowered.com/app/2389040",
+    "steamID": "2389040",
+    "genres": "Casual, Indie, Simulation"
+  },
+  {
+    "name": "Tower Factory",
+    "id": "Tower_Factory",
+    "notes": "",
+    "subName": "Portable V0.1.3 & Build 16344896",
+    "description": "Tower Factory is a tower defense and automation game with roguelite elements. Optimize resource production using conveyor systems while defending against monster waves. Can you find and destroy the enemy tower before it's too late?",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2707490/header.jpg?t=1730999376",
+    "gameplay": "https://www.youtube.com/watch?v=8tYRAjtOgJQ",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "sikmeister15",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142447&p=3162151&hilit=#p3162151"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142447&p=3162355&hilit=#p3162355",
+    "download": "https://filecrypt.cc/Container/9021B8E6A4.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-09T13:32:59.930Z",
+    "link": "https://store.steampowered.com/app/2707490",
+    "steamID": "2707490",
+    "genres": "Simulation, Strategy"
   }
 ]
