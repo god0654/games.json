@@ -37370,5 +37370,29 @@
     "link": "https://store.steampowered.com/app/2424230",
     "steamID": "2424230",
     "genres": "Action, Adventure, Casual, Indie"
+  },
+  {
+    "name": "Kozue's Strange Journey 2",
+    "id": "Kozues_Strange_Journey_2",
+    "notes": "",
+    "subName": "Portable V1.01 + Build 16306753 & Uncensored",
+    "description": "One year after taking down the supernatural threat behind a series of disappearances, Sayuri Shirasagi and her friends team up once more to unravel a new mystery!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2991390/header.jpg?t=1731128678",
+    "gameplay": "https://video.cloudflare.steamstatic.com/store_trailers/257069827/movie480_vp9.webm?t=1730396175",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://digitalzone.vercel.app/games/Kozues_Strange_Journey_2"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144459&p=3162709&hilit=#p3162709",
+    "download": "https://filecrypt.cc/Container/69AED42F7D.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-10T01:59:46.799Z",
+    "link": "https://store.steampowered.com/app/2991390",
+    "steamID": "2991390",
+    "genres": "Adventure, RPG, NSFW"
   }
 ]
