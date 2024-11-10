@@ -37419,5 +37419,54 @@
     "link": "",
     "steamID": "",
     "genres": "Action, RPG"
+  },
+  {
+    "name": "Vending Machine Business Simulator",
+    "id": "Vending_Machine_Business_Simulator",
+    "notes": "",
+    "subName": "Portable V1.663 & Build 16353625",
+    "description": "Build your business! control every aspect of a thriving vending machine business. Buy, place, and restock machines to increase profits. Do you have what it takes to manage, expand, and dominate the vending industry?",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2998750/header.jpg?t=1731085196",
+    "gameplay": "https://www.youtube.com/watch?v=sI7QFAWpxtQ",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "cbander",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144330&p=3162411&hilit=#p3162411"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144330&p=3163007&hilit=#p3163007",
+    "download": "https://filecrypt.cc/Container/F07A613CE4.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-10T14:08:47.091Z",
+    "link": "https://store.steampowered.com/app/2998750",
+    "steamID": "2998750",
+    "genres": "Casual, Indie, Simulation"
+  },
+  {
+    "name": "Six Days in Fallujah - Command and Control",
+    "id": "Six_Days_in_Fallujah",
+    "notes": "--How to Play Online--\nApply the content present in “_CrackOnly (OFME)” and open Steam before launch SixDays.exe in ...\\Game\\Six Days in Fallujah\\. \n(Also need an Epic Games account for proper operation)\n\nOnline Fix folder is located in ...\\Game\\.",
+    "subName": "Portable V0.4.0.0-161772 + Build 16346830 & Online Supported",
+    "description": "NEW! Play solo with an AI fireteam or co-op online. Six Days in Fallujah is an intensely realistic first-person tactical shooter based on true stories from one of this century’s toughest urban battles.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1548850/header_alt_assets_2.jpg?t=1731195241",
+    "gameplay": "https://www.youtube.com/watch?v=UiX2tMJ_gYA",
+    "tags": [
+      "gse",
+      "ofme"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "kerbob",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=111554&p=3162796&hilit=#p3162796"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=111554&p=3163048&hilit=#p3163048",
+    "download": "https://filecrypt.cc/Container/34943778A9.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-10T15:07:51.912Z",
+    "link": "https://store.steampowered.com/app/1548850",
+    "steamID": "1548850",
+    "genres": "Action"
   }
 ]
