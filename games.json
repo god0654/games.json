@@ -37468,5 +37468,29 @@
     "link": "https://store.steampowered.com/app/1548850",
     "steamID": "1548850",
     "genres": "Action"
+  },
+  {
+    "name": "Windstorm: Start of a Great Friendship Remastered Winter Wonderland - Complete Edition",
+    "id": "Windstorm_Start_of_a_Great_Friendship_Remastered",
+    "notes": "--How to change language--\nYou can do this in the game settings. (Sound Tab)",
+    "subName": "Portable V1.0.5 + Build 16288513 & DLC Included",
+    "description": "Rediscover the breathtaking world of Windstorm. Delve into the fascinating story of Mika, a girl known as a horse whisperer, as she befriends the majestic black stallion called Windstorm – with fully updated graphics and a new photo mode!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3145870.webp",
+    "gameplay": "https://www.youtube.com/watch?v=ozmjYhRtL4A",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Windstorm.Start.of.a.Great.Friendship.Remastered.Complete.Edition-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141069&p=3163296&hilit=#p3163296",
+    "download": "https://filecrypt.cc/Container/60FFA4A218.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-10T23:59:11.737Z",
+    "link": "https://store.steampowered.com/app/2829790",
+    "steamID": "2829790",
+    "genres": "Adventure, Casual, Racing, Simulation"
   }
 ]
