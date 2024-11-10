@@ -37298,5 +37298,77 @@
     "link": "https://store.steampowered.com/app/2211170",
     "steamID": "2211170",
     "genres": "Action, Casual, Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Calcium Chaos: Derailed",
+    "id": "Calcium_Chaos_Derailed",
+    "notes": "",
+    "subName": "Portable V1.0 & Build 16315660",
+    "description": "Calcium Chaos is a casual Twin-Stick Roguelite that takes you on a journey by train to confront the necromancer and her skeleton army. Get ready to explore a world filled with crazy weapon combinations and unexpected allies as you embark on an epic quest to save the world!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1951650/header.jpg?t=1731094223",
+    "gameplay": "https://www.youtube.com/watch?v=93HpvSFG8uQ",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Calcium.Chaos.Derailed-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144458&p=3162684&hilit=#p3162684",
+    "download": "https://filecrypt.cc/Container/B952E51291.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-10T00:42:29.709Z",
+    "link": "https://store.steampowered.com/app/1951650",
+    "steamID": "1951650",
+    "genres": "Action, Adventure, Casual, Indie"
+  },
+  {
+    "name": "Ecosystem",
+    "id": "Ecosystem",
+    "notes": "",
+    "subName": "Portable V1.0 (Full Release) & Build 16342525",
+    "description": "Create virtual lifeforms whose development is shaped by a deep simulation of evolution. Guide them as they fight, mate, and adapt to the environment you have built. All the creatures in the trailer evolved on their own in the game!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1133120/header.jpg?t=1731141764",
+    "gameplay": "https://www.youtube.com/watch?v=4DkDZt7C4yQ",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Ecosystem-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=108022&p=3162694&hilit=#p3162694",
+    "download": "https://filecrypt.cc/Container/3B2D3741D2.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-10T01:04:36.241Z",
+    "link": "https://store.steampowered.com/app/1133120",
+    "steamID": "1133120",
+    "genres": "Casual, Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Locuras en el Banaverso",
+    "id": "Locuras_en_el_Banaverso",
+    "notes": "",
+    "subName": "Portable V10.11.2024 & Build 16346726",
+    "description": "Madness in the Banaverse is a single player platform game that combines action and comedy with a cartoonish style, taking as its protagonist the famous YouTuber “El Bananero”, who provides his voice to give life to the character and the most iconic phrases.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2424230/header.jpg?t=1731098268",
+    "gameplay": "https://video.cloudflare.steamstatic.com/store_trailers/257036157/movie480_vp9.webm?t=1720387618",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Locuras.en.el.Banaverso-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144457&p=3162702&hilit=#p3162702",
+    "download": "https://filecrypt.cc/Container/EB7B0C1A0B.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-10T01:30:18.045Z",
+    "link": "https://store.steampowered.com/app/2424230",
+    "steamID": "2424230",
+    "genres": "Action, Adventure, Casual, Indie"
   }
 ]
