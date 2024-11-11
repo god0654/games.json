@@ -37614,5 +37614,29 @@
     "link": "https://store.steampowered.com/app/2644610",
     "steamID": "2644610",
     "genres": "Adventure, Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Dawn of the Ashen Queen",
+    "id": "Dawn_of_the_Ashen_Queen",
+    "notes": "",
+    "subName": "Portable V10.11.2024 & Build 16358943",
+    "description": "Dawn of the Ashen Queen is a classic grid-based dungeon crawler. Set out with your party to reveal the legacy of a millennia old curse in a narrative-rich experience. Explore the colorful world of Eshavon, unearth its many secrets and fight dangerous foes sent out to stop you in your mission.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2809820/header.jpg?t=1730993503",
+    "gameplay": "https://www.youtube.com/watch?v=3aQk6mDS4m0",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "lanternjoe",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144378&p=3163190&hilit=#p3163190"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144378&p=3163850&hilit=#p3163850",
+    "download": "https://filecrypt.cc/Container/E437B093E5.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-11T23:35:05.794Z",
+    "link": "https://store.steampowered.com/app/2809820",
+    "steamID": "2809820",
+    "genres": "Indie, RPG"
   }
 ]
