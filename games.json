@@ -37566,5 +37566,29 @@
     "link": "https://store.steampowered.com/app/2178930",
     "steamID": "2178930",
     "genres": "Adventure, Casual, Indie, NSFW"
+  },
+  {
+    "name": "Farming Simulator 25",
+    "id": "Farming_Simulator_25",
+    "notes": "",
+    "subName": "Portable V1.2.1.0 + Build Unknown & DLCs Included",
+    "description": "Farming Simulator 25 invites you to join the rewarding farm life, single-handedly or cooperatively in multiplayer. This Farm is Your Farm!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2300320/header.jpg?t=1731109949",
+    "gameplay": "https://www.youtube.com/watch?v=3hu1PCyZiLA",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://predb.net/rls/Farming.Simulator.25-RUNE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141739&p=3163678&hilit=#p3163678",
+    "download": "https://filecrypt.cc/Container/23ED2F74B7.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-11T18:01:46.341Z",
+    "link": "https://store.steampowered.com/app/2300320",
+    "steamID": "2300320",
+    "genres": "Simulation"
   }
 ]
