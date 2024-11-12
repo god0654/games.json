@@ -37759,5 +37759,29 @@
     "link": "https://store.steampowered.com/app/2716400",
     "steamID": "2716400",
     "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Tetris® Forever",
+    "id": "Tetris_Forever",
+    "notes": "",
+    "subName": "Portable V12.11.2024 & Build 16309393",
+    "description": "Celebrate 40 years of Tetris® with 15+ games, a new game, and documentary videos",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3180240/header.jpg?t=1731431469",
+    "gameplay": "https://www.youtube.com/watch?v=zOAvxi9iy04",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "takeshita",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142968&p=3164411&hilit=#p3164411"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=142968&p=3164459&hilit=#p3164459",
+    "download": "https://filecrypt.cc/Container/28953AB27A.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-12T20:28:24.700Z",
+    "link": "https://store.steampowered.com/app/3180240",
+    "steamID": "3180240",
+    "genres": "Casual"
   }
 ]
