@@ -37783,5 +37783,30 @@
     "link": "https://store.steampowered.com/app/3180240",
     "steamID": "3180240",
     "genres": "Casual"
+  },
+  {
+    "name": "Steep - Gold Edition",
+    "id": "Steep",
+    "notes": "--Important--\nLaunch “Unlock Offline Mode.bat” before playing, otherwise you will not have access to the open world.\n\nOnly first launch.",
+    "subName": "Portable V1.23.7640008 + Build 11514888 & DLCs Included",
+    "description": "Ride a massive open world across the Alps, where the powder is always fresh and the run never ends. Defy and master the mountain alone or with friends on skis, wingsuits, snowboards and paragliders. Record and share your best stunts.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/460920.webp",
+    "gameplay": "https://www.youtube.com/watch?v=9UM-4TOGSyI",
+    "tags": [
+      "p2p",
+      "offlineonly"
+    ],
+    "based": {
+      "info": "release",
+      "credits": "VoriiYT",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=72411&p=3163687&hilit=#p3163687"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=72411&p=3164499&hilit=#p3164499",
+    "download": "https://filecrypt.cc/Container/74DD70F780.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-12T21:30:34.876Z",
+    "link": "https://store.steampowered.com/app/460920",
+    "steamID": "460920",
+    "genres": "Action, Sports"
   }
 ]
