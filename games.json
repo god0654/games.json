@@ -37686,5 +37686,29 @@
     "link": "https://store.steampowered.com/app/1525700",
     "steamID": "1525700",
     "genres": "Simulation, Strategy"
+  },
+  {
+    "name": "Sniper Ghost Warrior Contracts - Deluxe Edition",
+    "id": "Sniper_Ghost_Warrior_Contracts",
+    "notes": "",
+    "subName": "Portable V11.11.2024 + Build 16167732 & DLCs Included",
+    "description": "Become the ultimate assassin in the most realistic modern warfare sniping game available. Engage in an immersive single-player campaign across large, open-ended maps. Tactical thinking, stealth approach and precision in execution of long shots required.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/973580.webp",
+    "gameplay": "https://www.youtube.com/watch?v=hCB-f6tZtAY",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "ARMGDDNGames",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=91737&p=3163417&hilit=#p3163417"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=91737&p=3164172&hilit=#p3164172",
+    "download": "https://filecrypt.cc/Container/578EB7D1E8.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-12T13:37:20.870Z",
+    "link": "https://store.steampowered.com/app/973580",
+    "steamID": "973580",
+    "genres": "Action"
   }
 ]
