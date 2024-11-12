@@ -37735,5 +37735,29 @@
     "link": "https://store.steampowered.com/app/1286220",
     "steamID": "1286220",
     "genres": "Action, Simulation, Strategy"
+  },
+  {
+    "name": "The Rise of the Golden Idol - Deluxe Edition",
+    "id": "The_Rise_of_the_Golden_Idol",
+    "notes": "--Note--\nOpenGL added.",
+    "subName": "Portable V1.01 + Build 16378973 & DLC Included",
+    "description": "The Award-winning detective saga returns in this standalone sequel to The Case of the Golden Idol. Uncover the truth behind 20 strange cases of crime, death and depravity in the 1970s. The world has changed dramatically - the sins of humanity have not.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2716400/header.jpg?t=1731440338",
+    "gameplay": "https://www.youtube.com/watch?v=TYy1kW8AB6E",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "stroopwafel",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137086&p=3164375&hilit=#p3164375"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137086&p=3164431&hilit=#p3164431",
+    "download": "https://filecrypt.cc/Container/3D22E5D611.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-12T19:56:24.711Z",
+    "link": "https://store.steampowered.com/app/2716400",
+    "steamID": "2716400",
+    "genres": "Adventure, Indie"
   }
 ]
