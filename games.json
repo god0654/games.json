@@ -37638,5 +37638,53 @@
     "link": "https://store.steampowered.com/app/2809820",
     "steamID": "2809820",
     "genres": "Indie, RPG"
+  },
+  {
+    "name": "1428 Shadows over Silesia: Tourney at the Bear Rock - Deluxe Edition",
+    "id": "1428_Shadows_over_Silesia",
+    "notes": "",
+    "subName": "Portable V1.1.23 + Build 16358954 & DLCs Included",
+    "description": "Medieval Europe is in the middle of religious upheaval and many a preacher predict the imminent end of the world. Immerse yourself in a dark fantasy story with true historical events in the background. You'll be facing intricate puzzles, challenging battles and cunning stealth.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1228500.webp",
+    "gameplay": "https://www.youtube.com/watch?v=kNotOzllmR8",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/1428.Shadows.over.Silesia.Deluxe.Edition-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=103861&p=3164098&hilit=#p3164098",
+    "download": "https://filecrypt.cc/Container/D87E986A82.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-12T11:41:18.881Z",
+    "link": "https://store.steampowered.com/app/1228500",
+    "steamID": "1228500",
+    "genres": "Action, Adventure, Indie, RPG"
+  },
+  {
+    "name": "Tavern Master: Pirates Retreat",
+    "id": "Tavern_Master",
+    "notes": "",
+    "subName": "Portable V12.11.2024 + Build 16375246 & DLC Included",
+    "description": "Tavern Master is all about managing your medieval tavern. You start with a very small room, couple of benches and tables and build your way up to a huge successful tavern with a kitchen, rooms for guests, group of loyal staff and much more!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3261130.webp",
+    "gameplay": "https://www.youtube.com/watch?v=GysVYtIdObw",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Tavern.Master.Pirates.Retreat-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=116874&p=3164112&hilit=#p3164112",
+    "download": "https://filecrypt.cc/Container/06D97CBD49.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-12T12:10:47.935Z",
+    "link": "https://store.steampowered.com/app/1525700",
+    "steamID": "1525700",
+    "genres": "Simulation, Strategy"
   }
 ]
