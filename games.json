@@ -37711,5 +37711,29 @@
     "link": "https://store.steampowered.com/app/973580",
     "steamID": "973580",
     "genres": "Action"
+  },
+  {
+    "name": "Sea Power: Naval Combat in the Missile Age - Sea Power",
+    "id": "Sea_Power_Naval_Combat_in_the_Missile_Age",
+    "notes": "",
+    "subName": "Portable V12.11.2024 & Build 16376182",
+    "description": "From the lead designer of Cold Waters, Sea Power lets you control NATO and Warsaw Pact forces in modern naval conflict campaigns. Use your advanced naval weaponry and sensors to respect rules of engagement and defeat the enemy forces in a tense fight for initiative and air/naval supremacy.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1286220/header.jpg?t=1731405821",
+    "gameplay": "https://www.youtube.com/watch?v=VG5wPww1HqQ",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "popsi",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=121750&p=3164225&hilit=#p3164225"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=121750&p=3164415&hilit=#p3164415",
+    "download": "https://filecrypt.cc/Container/76BA3AF621.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-12T19:11:28.103Z",
+    "link": "https://store.steampowered.com/app/1286220",
+    "steamID": "1286220",
+    "genres": "Action, Simulation, Strategy"
   }
 ]
