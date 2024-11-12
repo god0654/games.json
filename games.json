@@ -16496,28 +16496,29 @@
     "link": "https://store.steampowered.com/app/1450250"
   },
   {
-    "name": "Millennia: Ancient Worlds - Expansion Pass",
+    "name": "Millennia: Atomic Ambitions - Premium Edition",
     "id": "Millennia",
-    "notes": "",
-    "subName": "Portable V1.0.21444.F + Build 15307926 & DLCs Included",
+    "notes": "--How to Play Online--\nApply the content present in “_CrackOnly (OFME)” and open Steam before launch dowser.exe in ...\\Game\\Millennia Atomic Ambitions\\launcher\\.\n\nOnline Fix folder is located in ...\\Game\\.",
+    "subName": "Portable V1.0.22991.f + Build 16331954 & Online Supported",
     "description": "Create your own nation in Millennia, a historical turn-based 4X game that challenges your strategic prowess across 10,000 years of history, from the dawn of humanity to our possible futures.",
-    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2829680.webp",
-    "gameplay": "https://www.youtube.com/watch?v=MtRoczdjW6A",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2829690.webp",
+    "gameplay": "https://www.youtube.com/watch?v=iiOOdwPN_hw",
     "tags": [
-      "gse"
+      "gse",
+      "ofme"
     ],
     "based": {
       "info": "nfo",
       "credits": "RUNE",
-      "link": "https://api.predb.net/nfoimg/Millennia.Ancient.Worlds-RUNE.png"
+      "link": "https://predb.net/rls/Millennia.Atomic.Ambitions-RUNE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135519&p=3105492&hilit=#p3105492",
-    "download": "https://filecrypt.cc/Container/8E6FBCA594.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135519&p=3164354&hilit=#p3164354",
+    "download": "https://filecrypt.cc/Container/DE5C709A2F.html",
     "achievements": true,
-    "dateUpdated": "2024-08-12T17:14:43.140Z",
+    "dateUpdated": "2024-11-12T18:10:12.230Z",
+    "link": "https://store.steampowered.com/app/1268590",
     "steamID": "1268590",
-    "genres": "Simulation, Strategy",
-    "link": "https://store.steampowered.com/app/1268590"
+    "genres": "Simulation, Strategy"
   },
   {
     "name": "Valley Peaks",
