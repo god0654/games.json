@@ -37976,5 +37976,29 @@
     "link": "https://store.steampowered.com/app/2008980",
     "steamID": "2008980",
     "genres": "Action, Indie"
+  },
+  {
+    "name": "Sker Ritual - Ultimate Edition",
+    "id": "Sker_Ritual",
+    "notes": "",
+    "subName": "Portable V1.2.0.23982 + Build 16123069 & DLCs Included",
+    "description": "An intense round-based zombie survival FPS, play solo. Shoot your way through relentless waves of vicious horrors with high-octane objectives, upgrading steampunk weapons, collecting Celtic God powers, and surviving the onslaught of the Quiet Ones.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1492070.webp",
+    "gameplay": "https://www.youtube.com/watch?v=MEKvfu92i6Q",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://predb.net/rls/Sker.Ritual.v1.2.0.23982-RUNE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=117211&p=3164909&hilit=#p3164909",
+    "download": "https://filecrypt.cc/Container/5D0E3049B2.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-13T14:03:47.579Z",
+    "link": "https://store.steampowered.com/app/1492070",
+    "steamID": "1492070",
+    "genres": "Action, Adventure, Indie"
   }
 ]
