@@ -38024,5 +38024,53 @@
     "link": "https://store.steampowered.com/app/1858650",
     "steamID": "1858650",
     "genres": "Adventure, Casual, Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Operator8",
+    "id": "Operator8",
+    "notes": "",
+    "subName": "Portable V1.0 (Full Release) & Build 16382718",
+    "description": "An unparalleled alien invasion has overwhelmed the Mining Block Facility on the moon Triton, leaving only death and horror in its wake. You are a mercenary known as Operator8 and you alone have been called in to bring a stop to this fierce attack. Destroy the hive mind at all costs!",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1693710/header.jpg?t=1731532624",
+    "gameplay": "https://www.youtube.com/watch?v=Jta7PvzERoY",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Operator8-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=131261&p=3165237&hilit=#p3165237",
+    "download": "https://filecrypt.cc/Container/2BDED47C32.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-13T22:56:49.650Z",
+    "link": "https://store.steampowered.com/app/1693710",
+    "steamID": "1693710",
+    "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Night Stones Game + Soundtrack Bundle",
+    "id": "Night_Stones",
+    "notes": "",
+    "subName": "Portable V1.012 & Build 16384125",
+    "description": "You awake in Mythica, a cozy island where magical stones change day to night. Explore winding paths or venture into the wilds with your trusty glider and sailboat. To return home, you must befriend quirky townsfolk, discover hidden treasures, master magic, and face enemies in clever puzzle combat.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2300340/header.jpg?t=1731376839",
+    "gameplay": "https://www.youtube.com/watch?v=nKqivya4dSA",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Night.Stones-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141087&p=3165246&hilit=#p3165246",
+    "download": "https://filecrypt.cc/Container/E9732640D7.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-13T23:22:26.451Z",
+    "link": "https://store.steampowered.com/app/2300340",
+    "steamID": "2300340",
+    "genres": "Adventure, RPG"
   }
 ]
