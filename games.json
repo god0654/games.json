@@ -5213,28 +5213,28 @@
     "link": ""
   },
   {
-    "name": "Tavern Talk - Complete Edition",
+    "name": "Tavern Talk: Tempest Tantrum - Innkeep Edition",
     "id": "Tavern_Talk",
     "notes": "",
-    "subName": "Portable V21.06.2024 + Build 14766881 & DLCs Included",
+    "subName": "Portable V13.11.2024 + Build 16365035 & DLCs Included",
     "description": "A cozy visual novel about running a tavern in a D&D-inspired fantasy! Gather rumors, serve magical drinks, and meet adventurers on a life-changing quest.",
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2076140/header.jpg?t=1721394024",
-    "gameplay": "https://youtu.be/oTAIMnChVGc",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3244740.webp",
+    "gameplay": "https://www.youtube.com/watch?v=4Gfz5t_mu2Y",
     "tags": [
       "gse"
     ],
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Tavern.Talk-TENOKE.png"
+      "link": "https://predb.net/rls/Tavern.Talk.Tempest.Tantrum-TENOKE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137840&p=3075736&hilit=#p3075736",
-    "download": "https://filecrypt.cc/Container/E7AC340D18.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=137840&p=3164860&hilit=#p3164860",
+    "download": "https://filecrypt.cc/Container/90233BE47D.html",
     "achievements": true,
-    "dateUpdated": "2024-07-24T12:18:43.120Z",
+    "dateUpdated": "2024-11-13T13:17:10.246Z",
+    "link": "https://store.steampowered.com/app/2076140",
     "steamID": "2076140",
-    "genres": "Adventure, Casual, Indie",
-    "link": "https://store.steampowered.com/app/2076140"
+    "genres": "Adventure, Casual, Indie"
   },
   {
     "name": "Forest Ranger Simulator",
@@ -37928,5 +37928,53 @@
     "link": "https://store.steampowered.com/app/2949720",
     "steamID": "2949720",
     "genres": "Casual, Indie, RPG, Simulation, NSFW"
+  },
+  {
+    "name": "Sea of Stars - The Dawn of Equinox",
+    "id": "Sea_of_Stars",
+    "notes": "",
+    "subName": "Portable V1.1.53063 + Build 16380101 & DLCs Included",
+    "description": "Sea of Stars is a turn-based RPG inspired by the classics. It tells the story of two Children of the Solstice who will combine the powers of the sun and moon to perform Eclipse Magic, the only force capable of fending off the monstrous creations of the evil alchemist known as The Fleshmancer.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1244090.webp",
+    "gameplay": "https://www.youtube.com/watch?v=pk6FYIift0Y",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "info",
+      "credits": "Based on ElAmigos files & update",
+      "link": "https://elamigos.site/data/Sea_of_Stars_MULTi10_-_ElAmigos.html"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=104379&p=3164831&hilit=#p3164831",
+    "download": "https://filecrypt.cc/Container/D79D08BBB3.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-13T12:12:26.119Z",
+    "link": "https://store.steampowered.com/app/1244090",
+    "steamID": "1244090",
+    "genres": "Adventure, Indie, RPG"
+  },
+  {
+    "name": "XENOTILT: HOSTILE PINBALL ACTION",
+    "id": "XENOTILT_HOSTILE_PINBALL_ACTION",
+    "notes": "",
+    "subName": "Portable V1.02 (Full Release) & Build 16372082",
+    "description": "LIGHTNING STRIKES AGAIN!! XENOTILT, the sequel to the cult hit, DEMON'S TILT. Get ready for another PINBALL FANTASY. XENOTILT shreds the envelope with face-melting gameplay & graphics.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2008980/header.jpg?t=1731449352",
+    "gameplay": "https://www.youtube.com/watch?v=aLOpcMWYTqk",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/XENOTILT.HOSTILE.PINBALL.ACTION-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=129438&p=3164844&hilit=#p3164844",
+    "download": "https://filecrypt.cc/Container/D358BEB2DD.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-13T12:42:37.162Z",
+    "link": "https://store.steampowered.com/app/2008980",
+    "steamID": "2008980",
+    "genres": "Action, Indie"
   }
 ]
