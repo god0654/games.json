@@ -38000,5 +38000,29 @@
     "link": "https://store.steampowered.com/app/1492070",
     "steamID": "1492070",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "In Sink: A Co-op Escape Adventure",
+    "id": "In_Sink",
+    "notes": "",
+    "subName": "Portable V13.11.2024 + Build 16373357 & Online Supported",
+    "description": "Work together to solve puzzles and escape a desert island in this stylized multiplayer co-op adventure. Success requires more than just you and your partner thinking alike - you'll have to communicate and stay In Sink to overcome the challenges ahead.",
+    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1858650/header.jpg?t=1731512260",
+    "gameplay": "https://www.youtube.com/watch?v=srpcAfJJ0PU",
+    "tags": [
+      "creamapi"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Gloft",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=130545&p=3164621&hilit=#p3164621"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=130545&p=3164982&hilit=#p3164982",
+    "download": "https://filecrypt.cc/Container/BB8E897D9A.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-13T15:57:26.655Z",
+    "link": "https://store.steampowered.com/app/1858650",
+    "steamID": "1858650",
+    "genres": "Adventure, Casual, Indie, Simulation, Strategy"
   }
 ]
