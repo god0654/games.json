@@ -8552,28 +8552,28 @@
     "link": ""
   },
   {
-    "name": "Warhammer 40,000: Inquisitor - Martyr Definitive Edition",
+    "name": "Warhammer 40,000 Inquisitor Martyr: Hierophant - Definitive Edition",
     "id": "Warhammer_40_000_Inquisitor",
-    "notes": "How to Play: Launch Warhammer.bat/WarHammer_Inquisitor_Prophecy.bat in ''Warhammer 40000 Inquisitor Martyr - Definitive Edition\\'' to play the game.",
-    "subName": "Portable V2.9.1 + Build 14453303 & DLCs Included",
+    "notes": "",
+    "subName": "Portable V2.9.4 + Build 16367289 & DLCs Included",
     "description": "Enter the Chaos-infested Caligari Sector and purge the unclean with the most powerful agents of the Imperium of Man! W40k: Inquisitor – Martyr is a grim Action-RPG featuring multiple classes of the Inquisition who will carry out the Emperor’s will.",
-    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/527430/header_alt_assets_8.jpg?t=1716481052",
-    "gameplay": "https://youtu.be/ptj2FiZ8ufs",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3003800.webp",
+    "gameplay": "https://www.youtube.com/watch?v=sg5ebChMWAo",
     "tags": [
       "gse"
     ],
     "based": {
-      "info": "nfo",
-      "credits": "RUNE",
-      "link": "https://api.predb.net/nfoimg/Warhammer.40000.Inquisitor.Martyr-RUNE.png"
+      "info": "info",
+      "credits": "Based on ElAmigos files & update",
+      "link": "https://elamigos.site/data/Warhammer_40000_Inquisitor_Martyr_Definitive_Edition_MULTi12_-_ElAmigos.html"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=71361&p=3057625&hilit=#p3057625",
-    "download": "https://filecrypt.cc/Container/68AB2FCDBC.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=71361&p=3165079&hilit=#p3165079",
+    "download": "https://filecrypt.cc/Container/1EA4EBFD1B.html",
     "achievements": true,
-    "dateUpdated": "2024-07-24T16:23:58.661Z",
+    "dateUpdated": "2024-11-13T18:06:33.950Z",
+    "link": "https://store.steampowered.com/app/527430",
     "steamID": "527430",
-    "genres": "Action, Adventure, Indie, RPG",
-    "link": "https://store.steampowered.com/app/527430"
+    "genres": "Action, Adventure, Indie, RPG"
   },
   {
     "name": "DRAGON BALL XENOVERSE 2: FUTURE SAGA Chapter 1 - Special Edition",
