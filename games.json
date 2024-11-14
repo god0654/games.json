@@ -38145,5 +38145,77 @@
     "link": "https://store.steampowered.com/app/1159090",
     "steamID": "1159090",
     "genres": "Adventure, Indie, RPG, Strategy"
+  },
+  {
+    "name": "Underground Garage",
+    "id": "Underground_Garage",
+    "notes": "",
+    "subName": "Portable V10404_UG & Build 16358161",
+    "description": "Dive into Underground Garage, a mechanic sim blending car customization with fast driving. Craft builds for every drive, test them in an open world filled with challenges. Gear up and rev up your ultimate automotive adventure!",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1452250/header.jpg?t=1731145612",
+    "gameplay": "https://www.youtube.com/watch?v=-P38L45Ps2w",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "madej1312",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=111148&p=3165185&hilit=#p3165185"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=111148&p=3165575&hilit=#p3165575",
+    "download": "https://filecrypt.cc/Container/8D8290076F.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-14T11:58:43.270Z",
+    "link": "https://store.steampowered.com/app/1452250",
+    "steamID": "1452250",
+    "genres": "Simulation"
+  },
+  {
+    "name": "Little Big Adventure: Twinsen’s Quest - Deluxe Edition",
+    "id": "Little_Big_Adventure_Twinsen_s_Quest",
+    "notes": "",
+    "subName": "Portable V1.0.4 + Build 16383695 & DLC Included",
+    "description": "Step into Twinsun's fantastical world in this action-adventure remake! Little Big Adventure - Twinsen's Quest brings brand new visuals, new music by the original composer, and smoother gameplay to the iconic classic released back in 1994.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2318070.webp",
+    "gameplay": "https://www.youtube.com/watch?v=UQzpG8WHC1s",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "SubZeroPL",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=130835&p=3165498&hilit=#p3165498"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=130835&p=3165584&hilit=#p3165584",
+    "download": "https://filecrypt.cc/Container/3BBD150D1C.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-14T12:23:58.107Z",
+    "link": "https://store.steampowered.com/app/2318070",
+    "steamID": "2318070",
+    "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Blood Running",
+    "id": "Blood_Running",
+    "notes": "",
+    "subName": "Portable V0.4.11 + Build 16397601 & DLC Partial Included",
+    "description": "Blood Running is a stylish extraction shooter where you'll enter the cyber-wasteland, fight off creatures and bandits, loot valuable gear, and venture into the remnants of a world in ruins. Are you willing to bleed to survive, Blood Runner?",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2641490/header.jpg?t=1731350781",
+    "gameplay": "https://www.youtube.com/watch?v=qDbXEt02eFQ",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "badnews1983",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144491&p=3165262&hilit=#p3165262"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144491&p=3165596&hilit=#p3165596",
+    "download": "https://filecrypt.cc/Container/9CBDF683F8.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-14T12:48:08.686Z",
+    "link": "https://store.steampowered.com/app/2641490",
+    "steamID": "2641490",
+    "genres": "Action, Adventure, Simulation"
   }
 ]
