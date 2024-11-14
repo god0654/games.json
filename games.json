@@ -17366,28 +17366,28 @@
     "link": "https://store.steampowered.com/app/2143420"
   },
   {
-    "name": "Age of Empires II: Definitive Edition - Victors and Vanquished",
+    "name": "Age of Empires II DE: Chronicles Battle for Greece - Ultimate Edition",
     "id": "Age_of_Empires_II_Definitive_Edition",
-    "notes": "Note: Updates and DLC by Skiminok & kelevra94 applied. How to Play: Launch steamclient_loader.exe in ''Age of Empires II: Definitive Edition - Victors and Vanquished\\'' to play the game.",
+    "notes": "",
     "subName": "Portable V101.102.42346.0 + Build 13720908 & DLCs Included",
     "description": "Age of Empires II: Definitive Edition features “The Last Khans” with 3 new campaigns and 4 new Civilizations. Frequent updates include events, additional content, new game modes, and enhanced features with the recent addition of Co-Op mode!",
-    "thumbnail": "https://god0654.github.io/DigitalZone/Images/Age%20of%20Empires%202%20DE%20Victors%20and%20Vanquished.webp",
-    "gameplay": "https://youtu.be/6xIeOmOH-uk",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2805520.webp",
+    "gameplay": "https://www.youtube.com/watch?v=O-SKVgig1BQ",
     "tags": [
-      "gse"
+      "scene"
     ],
     "based": {
-      "info": "basedon",
+      "info": "nfo",
       "credits": "RUNE",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?p=2051402#p2051402"
+      "link": "https://predb.net/rls/Age.of.Empires.II.Definitive.Edition.Chronicles.Battle.for.Greece-RUNE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=97675&p=3016375&hilit=#p3016375",
-    "download": "https://filecrypt.cc/Container/496AA4BAD1.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=97675&p=3166034&hilit=#p3166034",
+    "download": "https://filecrypt.cc/Container/F6B3DC3078.html",
     "achievements": false,
-    "dateUpdated": "2024-07-26T12:48:57.530Z",
-    "steamID": "",
-    "genres": "",
-    "link": ""
+    "dateUpdated": "2024-11-14T22:43:04.771Z",
+    "link": "https://store.steampowered.com/app/813780",
+    "steamID": "813780",
+    "genres": "Strategy"
   },
   {
     "name": "False Myth: Unrated",
