@@ -25734,28 +25734,28 @@
     "link": "https://store.steampowered.com/app/1835240"
   },
   {
-    "name": "Peaks of Yore",
+    "name": "Peaks of Yore - The Great Alps",
     "id": "Peaks_of_Yore",
     "notes": "",
-    "subName": "Portable V1.7.0f & Build 15592799",
+    "subName": "Portable V1.8.1 + Build 16399298 & DLC Included",
     "description": "Travel around The Great Gales to climb challenging peaks in this physics-based climbing adventure set in 1887. Meet like-minded mountaineers, unlock helpful climbing gear, and become a pioneer of mountaineering.",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/header.jpg?t=1715074643",
-    "gameplay": "https://www.youtube.com/watch?v=pwfN-Q5IixY",
+    "gameplay": "https://www.youtube.com/watch?v=VwlVnQ4bong",
     "tags": [
-      "scene"
+      "gse"
     ],
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://api.predb.net/nfoimg/Peaks.of.Yore.v1.7.0f-TENOKE.png"
+      "link": "https://predb.net/rls/Peaks.of.Yore.The.Great.Alps-TENOKE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=136123&p=3121705&hilit=#p3121705",
-    "download": "https://filecrypt.cc/Container/1E29853E2D.html",
-    "achievements": false,
-    "dateUpdated": "2024-09-09T10:35:41.428Z",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=136123&p=3165647&hilit=#p3165647",
+    "download": "https://filecrypt.cc/Container/E61A68E0C0.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-14T13:44:14.365Z",
+    "link": "https://store.steampowered.com/app/2236070",
     "steamID": "2236070",
-    "genres": "Action, Adventure, Indie",
-    "link": "https://store.steampowered.com/app/2236070"
+    "genres": "Action, Adventure, Indie"
   },
   {
     "name": "KeepUp Survival + DLC Bündel",
@@ -38217,5 +38217,29 @@
     "link": "https://store.steampowered.com/app/2641490",
     "steamID": "2641490",
     "genres": "Action, Adventure, Simulation"
+  },
+  {
+    "name": "Is this Game Trying to Kill Me?",
+    "id": "Is_this_Game_Trying_to_Kill_Me",
+    "notes": "",
+    "subName": "Portable V1.0.4 & Build 16401281",
+    "description": "An old shack deep in a dense forest, a strange computer and a game that's trying to kill you!",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2658470/header.jpg?t=1731475416",
+    "gameplay": "https://www.youtube.com/watch?v=Zw8SbSTkFQY",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "kotya",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144365&p=3165495&hilit=#p3165495"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144365&p=3165623&hilit=#p3165623",
+    "download": "https://filecrypt.cc/Container/932983D18E.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-14T13:16:40.692Z",
+    "link": "https://store.steampowered.com/app/2658470",
+    "steamID": "2658470",
+    "genres": ""
   }
 ]
