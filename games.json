@@ -37446,10 +37446,10 @@
     "genres": "Casual, Indie, Simulation"
   },
   {
-    "name": "Six Days in Fallujah - Command and Control",
+    "name": "Six Days in Fallujah",
     "id": "Six_Days_in_Fallujah",
     "notes": "--How to Play Online--\nApply the content present in “_CrackOnly (OFME)” and open Steam before launch SixDays.exe in ...\\Game\\Six Days in Fallujah\\. \n(Also need an Epic Games account for proper operation)\n\nOnline Fix folder is located in ...\\Game\\.",
-    "subName": "Portable V0.4.0.0-161772 + Build 16346830 & Online Supported",
+    "subName": "Portable V0.4.0.2 + Build 16373217 & Online Supported",
     "description": "NEW! Play solo with an AI fireteam or co-op online. Six Days in Fallujah is an intensely realistic first-person tactical shooter based on true stories from one of this century’s toughest urban battles.",
     "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1548850/header_alt_assets_2.jpg?t=1731195241",
     "gameplay": "https://www.youtube.com/watch?v=UiX2tMJ_gYA",
@@ -37460,12 +37460,12 @@
     "based": {
       "info": "csf",
       "credits": "kerbob",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=111554&p=3162796&hilit=#p3162796"
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=111554&p=3164747&hilit=#p3164747"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=111554&p=3163048&hilit=#p3163048",
-    "download": "https://filecrypt.cc/Container/34943778A9.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=111554&p=3165675&hilit=#p3165675",
+    "download": "https://filecrypt.cc/Container/0C3411F3C6.html",
     "achievements": true,
-    "dateUpdated": "2024-11-10T15:07:51.912Z",
+    "dateUpdated": "2024-11-14T14:55:51.398Z",
     "link": "https://store.steampowered.com/app/1548850",
     "steamID": "1548850",
     "genres": "Action"
