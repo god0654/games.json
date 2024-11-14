@@ -38241,5 +38241,55 @@
     "link": "https://store.steampowered.com/app/2658470",
     "steamID": "2658470",
     "genres": "Action, Adventure, Indie"
+  },
+  {
+    "name": "Forbidden Bricks: Horizon Escapades - Deluxe Edition",
+    "id": "LEGO_Horizon_Adventures",
+    "notes": "--Before Playing--\nLaunch \"Unlock Game.bat\". \n\nOnly first launch.",
+    "subName": "Portable V14.11.2024 + Build 16289915 & DLCs Included",
+    "description": "Join machine hunter Aloy as she leads a colourful crew of heroes on a quest to save the world and learn the secrets of her past. Dive into boundless adventure, customize to your heart’s content, and take on action-packed battles solo or with friends.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/ForbiddenBricksHorizonEscapades.webp",
+    "gameplay": "https://www.youtube.com/watch?v=4Q_Y1I_mQZE",
+    "tags": [
+      "gse",
+      "p2p"
+    ],
+    "based": {
+      "info": "info",
+      "credits": "CSF & Bypass of ficojekokot",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141621&p=3165861&hilit=#p3165861"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141621&p=3165927&hilit=#p3165927",
+    "download": "https://filecrypt.cc/Container/D54869E5E9.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-14T20:31:29.007Z",
+    "link": "",
+    "steamID": "",
+    "genres": "Action, Adventure, NSFW"
+  },
+  {
+    "name": "Hearts of Iron IV: Götterdämmerung - Ultimate Edition",
+    "id": "Hearts_of_Iron_IV",
+    "notes": "--How to Play Online--\nApply the content present in “_CrackOnly (OFME)” and open Steam before launch hoi4.exe in ...\\Game\\Hearts of Iron IV Gotterdammerung\\.\n\nOnline Fix folder is located in ...\\Game\\.",
+    "subName": "Portable V1.15.0.acbb + Build 16407294 + DLCs Included & Online Supported",
+    "description": "Victory is at your fingertips! Your ability to lead your nation is your supreme weapon, the strategy game Hearts of Iron IV lets you take command of any nation in World War II; the most engaging conflict in world history.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3152780.webp",
+    "gameplay": "https://www.youtube.com/watch?v=FrDwvcy40ZM",
+    "tags": [
+      "gse",
+      "ofme"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://predb.net/rls/Hearts.of.Iron.IV.Gotterdammerung-RUNE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=41&t=65592&p=3165830&hilit=#p3165830",
+    "download": "https://filecrypt.cc/Container/F11E0F6062.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-14T20:37:16.177Z",
+    "link": "https://store.steampowered.com/app/394360",
+    "steamID": "394360",
+    "genres": "Simulation, Strategy"
   }
 ]
