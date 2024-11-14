@@ -38072,5 +38072,30 @@
     "link": "https://store.steampowered.com/app/2300340",
     "steamID": "2300340",
     "genres": "Adventure, RPG"
+  },
+  {
+    "name": "Astroneer: Glitchwalkers - Deluxe Edition",
+    "id": "Astroneer",
+    "notes": "--Before Playing--\nLaunch \"Unlock Game.bat\".\nOnly first launch.\n\n--How to Play Online--\nApply the content present in “_CrackOnly (OFME)” and open Steam before launch Astro.exe in ...\\Game\\ASTRONEER\\.\n\nOnline Fix folder is located in ...\\Game\\.",
+    "subName": "Portable V1.32.9.0 + Build 16348216 + DLCs Included & Online Supported",
+    "description": "Interact with strange new worlds in a unique and tactile way, molding the environment itself as if it were clay in your hands. Build your base, master resource management, automate your production lines, and more as you unravel the mysteries of the universe, alone or with friends.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3042220.webp",
+    "gameplay": "https://www.youtube.com/watch?v=20w0xAGtyto",
+    "tags": [
+      "gse",
+      "ofme"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "bruh667",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=71102&p=3165238&hilit=#p3165238"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=71102&p=3165271&hilit=#p3165271",
+    "download": "https://filecrypt.cc/Container/9F2408AC68.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-14T00:24:03.660Z",
+    "link": "https://store.steampowered.com/app/361420",
+    "steamID": "361420",
+    "genres": "Adventure, Indie"
   }
 ]
