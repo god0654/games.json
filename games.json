@@ -38121,5 +38121,29 @@
     "link": "https://store.steampowered.com/app/2312520",
     "steamID": "2312520",
     "genres": "Casual, Indie, RPG"
+  },
+  {
+    "name": "Zoria Age of Shattering: Wild Walker - Deluxe Edition",
+    "id": "Zoria_Age_of_Shattering",
+    "notes": "",
+    "subName": "Portable V1.1.6 + Build 16398773 & DLCs Included",
+    "description": "A squad-based tactical RPG with fluid turn-based combat, outpost, and followers management, set in the expansive fantasy world of Zoria. Lead a team of four heroes with their unique skills and perks. Every team member contributes to undertaken battles.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1159090.webp",
+    "gameplay": "https://www.youtube.com/watch?v=VjJuz5Zmo74",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Zoria.Age.of.Shattering.Wild.Walker.Class-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=104728&p=3165389&hilit=#p3165389",
+    "download": "https://filecrypt.cc/Container/0D84DBB10B.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-14T03:45:58.223Z",
+    "link": "https://store.steampowered.com/app/1159090",
+    "steamID": "1159090",
+    "genres": "Adventure, Indie, RPG, Strategy"
   }
 ]
