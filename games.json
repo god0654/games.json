@@ -7348,26 +7348,26 @@
     "name": "Songs Of Silence - Supporter Edition",
     "id": "Songs_Of_Silence",
     "notes": "",
-    "subName": "Portable V0.5.1-d.6131 + Build 14602389 & DLCs Included",
+    "subName": "Portable V1.0.0_d.7619 (Full Release) + Build 16391448 & DLCs Included",
     "description": "Songs of Silence is a strategy game set in a fantasy world threatened by the all-devouring Silence. The game features a mix of turn-based kingdom management, auto battler, and hero development, contrasted with intense real-time battles.",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/40915/re2xoiw6e194zp3a/header_ratio.jpg?t=1717503914",
-    "gameplay": "https://youtu.be/I20TX5XwiUs",
+    "gameplay": "https://www.youtube.com/watch?v=IwtZSh2Kj08",
     "tags": [
       "gse",
       "steamless"
     ],
     "based": {
-      "info": "csf",
-      "credits": "✧GͥOͣDͫ✧",
-      "link": "https://store.steampowered.com/app/2195410/Songs_of_Silence/"
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Songs.of.Silence-TENOKE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=129602&p=3064780&hilit=#p3064780",
-    "download": "https://filecrypt.cc/Container/927A312009.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=129602&p=3165361&hilit=#p3165361",
+    "download": "https://filecrypt.cc/Container/761D24EF2E.html",
     "achievements": true,
-    "dateUpdated": "2024-07-24T15:15:51.809Z",
-    "steamID": "",
-    "genres": "",
-    "link": ""
+    "dateUpdated": "2024-11-14T03:05:29.387Z",
+    "link": "https://store.steampowered.com/app/2195410",
+    "steamID": "2195410",
+    "genres": "Indie, Strategy"
   },
   {
     "name": "Field of Glory: Kingdoms",
@@ -9084,28 +9084,28 @@
     "link": "https://store.steampowered.com/app/1428520"
   },
   {
-    "name": "I Am Future: Cozy Apocalypse Survival - Relationship",
+    "name": "I Am Future: Cozy Apocalypse Survival - Supporter Edition",
     "id": "I_Am_Future_Cozy_Apocalypse_Survival",
     "notes": "",
-    "subName": "Portable V0.8.0.007r & Build 15279993",
+    "subName": "Portable V1.0.0.000r (Full Release) + Build 16368887 & DLCs Included",
     "description": "I Am Future is a relaxing single-player survival game about building a cozy rooftop camp amid a flooded post-apocalyptic city. Set up a farm, go fishing, tinker with gadgets, craft new tools, manage a team of cute robots to automate and expand your base, explore the mysterious world, and chill out!",
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1658040/header_alt_assets_5.jpg?t=1723053081",
-    "gameplay": "https://www.youtube.com/watch?v=0_iy6T-H_Rs",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1658040.webp",
+    "gameplay": "https://www.youtube.com/watch?v=na8B094ngOQ",
     "tags": [
       "gse"
     ],
     "based": {
-      "info": "csf",
-      "credits": "._._v0id_._.",
-      "link": "https://store.steampowered.com/app/1658040/I_Am_Future_Cozy_Apocalypse_Survival/"
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/I.Am.Future.Cozy.Apocalypse.Survival-TENOKE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=121694&p=3102847&hilit=#p3102847",
-    "download": "https://filecrypt.cc/Container/0EE70C25C4.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=121694&p=3165341&hilit=#p3165341",
+    "download": "https://filecrypt.cc/Container/E6C9B4CE78.html",
     "achievements": true,
-    "dateUpdated": "2024-08-08T01:30:37.416Z",
+    "dateUpdated": "2024-11-14T02:23:19.956Z",
+    "link": "https://store.steampowered.com/app/1658040",
     "steamID": "1658040",
-    "genres": "Indie, RPG, Simulation",
-    "link": "https://store.steampowered.com/app/1658040"
+    "genres": "Indie, RPG, Simulation"
   },
   {
     "name": "Survival: Fountain of Youth",
@@ -38097,5 +38097,29 @@
     "link": "https://store.steampowered.com/app/361420",
     "steamID": "361420",
     "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Everholm",
+    "id": "Everholm",
+    "notes": "",
+    "subName": "Portable V1.0.3 & Build 16395192",
+    "description": "Lilly was spirited away to a mysterious island. As her memories fade, everyone seems to know her and her quest for her missing sister. It’s time to establish a homestead, meet your friendly Everfolks, then learn their secrets and solve the mystery of Everholm, in this open-ended minimalist RPG!",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2312520/header.jpg?t=1731341827",
+    "gameplay": "https://www.youtube.com/watch?v=DDUlxVIF_ZE",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Soltanis",
+      "link": "https://digitalzone.vercel.app/games/Everholm"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132241&p=3165312&hilit=#p3165312",
+    "download": "https://filecrypt.cc/Container/1AD643B8FA.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-14T01:46:10.605Z",
+    "link": "https://store.steampowered.com/app/2312520",
+    "steamID": "2312520",
+    "genres": "Casual, Indie, RPG"
   }
 ]
