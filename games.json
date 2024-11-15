@@ -38339,5 +38339,53 @@
     "link": "https://store.steampowered.com/app/1723780",
     "steamID": "1723780",
     "genres": "Casual, Indie, Simulation"
+  },
+  {
+    "name": "Warcraft II: Remastered",
+    "id": "Warcraft_II_Remastered",
+    "notes": "",
+    "subName": "Portable V1.0.0.2157",
+    "description": "Master the waters in the iconic second Warcraft title\nLead your fleet in the second Warcraft® title created in 1995, now in a remastered version with all-new crisp graphics and revamped controls!\nWar between Orcs and Humans rages overseas... The fate of the world is in jeopardy as the great strategists of the Horde and Alliance clash. Only one thing is certain: winning this war will require acumen, courage and nerves of steel like never before.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/W2R.webp",
+    "gameplay": "https://www.youtube.com/watch?v=ryZ2jiW95qo",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "Razor1911",
+      "link": "https://predb.net/rls/Warcraft_II_Remastered-Razor1911"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=38&t=144529&p=3166654&hilit=#p3166654",
+    "download": "https://filecrypt.cc/Container/CDF76F8B2B.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-15T21:30:34.448Z",
+    "link": "",
+    "steamID": "",
+    "genres": "Strategy"
+  },
+  {
+    "name": "Warcraft I: Remastered",
+    "id": "Warcraft_I_Remastered",
+    "notes": "",
+    "subName": "Portable V1.0.0.2137",
+    "description": "Retrace the original story of Warcraft: Orcs & Humans.\nRelive the dawn of a 30-year legend with the first Warcraft® story created in 1994, now in a remastered version with all-new crisp graphics and revamped controls!\nExperience the exciting war between Orcs and Humans that wreaked havoc across Azeroth. Defend the kingdom as the noble Alliance or try to conquer it with the bloodthirsty Horde through exciting faction campaigns or custom skirmish matches. Regardless of which side you choose, now is the perfect time to throw yourself into the legendary battles of Azeroth's greatest heroes in the Warcraft universe.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/WIR.webp",
+    "gameplay": "https://www.youtube.com/watch?v=ryZ2jiW95qo",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "Razor1911",
+      "link": "https://predb.net/rls/Warcraft_I_Remastered-Razor1911"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=38&t=144528&p=3166657&hilit=#p3166657",
+    "download": "https://filecrypt.cc/Container/0F5EAC4E04.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-15T21:37:24.515Z",
+    "link": "",
+    "steamID": "",
+    "genres": "Strategy"
   }
 ]
