@@ -38291,5 +38291,29 @@
     "link": "https://store.steampowered.com/app/394360",
     "steamID": "394360",
     "genres": "Simulation, Strategy"
+  },
+  {
+    "name": "Trainee Death Simulator",
+    "id": "Trainee_Death_Simulator",
+    "notes": "",
+    "subName": "Portable V15.11.2024 & Build 16390344",
+    "description": "You will play as a Trainee Death, harvesting Souls to pay off your debt. Random choice events offer you various options: Lie in bed and slack off since the debt is endless anyway, Or follow your senior to earn some extra Souls, collecting outfits to switch up your style.",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3188550/header.jpg?t=1731570132",
+    "gameplay": "https://www.youtube.com/watch?v=iZWTsIQ-dMA",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Trainee.Death.Simulator-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144567&p=3166085&hilit=#p3166085",
+    "download": "https://filecrypt.cc/Container/DB12553B47.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-15T00:25:14.224Z",
+    "link": "https://store.steampowered.com/app/3188550",
+    "steamID": "3188550",
+    "genres": "Indie, RPG, Simulation, Strategy"
   }
 ]
