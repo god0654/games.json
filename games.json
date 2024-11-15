@@ -38315,5 +38315,29 @@
     "link": "https://store.steampowered.com/app/3188550",
     "steamID": "3188550",
     "genres": "Indie, RPG, Simulation, Strategy"
+  },
+  {
+    "name": "Finnish Cottage Simulator",
+    "id": "Finnish_Cottage_Simulator",
+    "notes": "",
+    "subName": "Portable V15.11.2024 & Build 16401281",
+    "description": "Finnish Cottage Simulator is the ultimate cottage experience. Relax and enjoy the Finnish summer nature, go to the sauna, get drunk, grill food or play games with others!",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1723780/header.jpg?t=1731679213",
+    "gameplay": "https://video.fastly.steamstatic.com/store_trailers/257060836/movie480_vp9.webm?t=1727805949",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "allgasnobrakes",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144582&p=3166530&hilit=#p3166530"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144582&p=3166551&hilit=#p3166551",
+    "download": "https://filecrypt.cc/Container/66EE2594A2.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-15T17:39:28.506Z",
+    "link": "https://store.steampowered.com/app/1723780",
+    "steamID": "1723780",
+    "genres": "Casual, Indie, Simulation"
   }
 ]
