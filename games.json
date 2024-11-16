@@ -37495,30 +37495,29 @@
     "genres": "Adventure, Casual, Racing, Simulation"
   },
   {
-    "name": "Dragon's Dogma 2",
+    "name": "Desire's Dogma 2",
     "id": "Dragons_Dogma_2",
-    "notes": "--Note for Blind Users--\nusually available for free, but you may need to wait for your turn.\nIf you’d prefer faster access and don’t want to wait, you have the option to donate to speed up the process. (This is entirely optional!)\n\n--Guide--\n\nDownload CSF\nAT THE END OF THIS DETAILS\n➥ FileCrypt.cc Button\n\n- Join the Discord Group:\n[CLICK HERE](https://discord.gg/4jrF9V4h5h)\n\n- Log into your Discord account and complete the verification process. Once verified, you’ll be able to access the server.\n\nThe game is not cracked. You'll need to follow this guide in order to activate it. \n\n⚠️\nAs a new member, you’ll need to wait 24 hours before requesting your first game.\n⚠️\n\n--Rules--\nAfter joining, head to the #read-first channel for the server rules. You can also visit the #review-panel to see user feedback about the server and activation process.\n\n--Get Your Tools Ready--\nBefore requesting games, ensure you have all necessary tools. Find downloaders in the #tools-closet thread.\n\nCategories:\n\n- Free Category: Request games for free here.\n\n- Donor Category: Donate to get your game faster. (Optional, only if you don’t have patience)\n\n--Don't break your Activation--\n- Never launch the game from Steam. > breaks activation.\n\n- Never update your windows! > breaks activation (Use this to permanently disable windows updates, it's dangerous to keep it completely disabled, so ONLY use it until you finish the game, then RESTORE windows updates.)\n[CLICK HERE](https://torrent.cybar.xyz/Y2024/1/Wub.zip)\n\n- Never move the game folders > breaks activation.\n\n- \"Never update or alter/overclock/remove overclock/undervolt, etc from bios\" > breaks activation.\n\n- Never change your hardware > breaks activation.\n\n--Donation Info--\nSkip the 24-Hour Wait: You can bypass the wait time by donating.\nPriority for New Games: Donors get first access to newly added games, while free users may need to wait a week or longer.",
-    "subName": "Portable V31.10.2024 & Build 16079474",
+    "notes": "--How to Play--\nLaunch runtime_il2cpp.exe in ''...\\Game\\Dragons Dogma 2 - Feb 27, 2024 Debug\\''.",
+    "subName": "Portable V27.02.2024 + Denuvo Free Debug Executables & Playable",
     "description": "Dragon’s Dogma 2 is a single player, narrative driven action-RPG that challenges the players to choose their own experience – from the appearance of their Arisen, their vocation, their party, how to approach different situations and more - in a truly immersive fantasy world.",
-    "thumbnail": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2054970/header.jpg?t=1727767895",
-    "gameplay": "https://www.youtube.com/watch?v=6SwRuaVwC8c",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2054970/header.jpg?t=1727767895",
+    "gameplay": "https://www.youtube.com/watch?v=jU-vkDLoGwQ",
     "tags": [
-      "antidenuvosanctuary",
-      "denuvoofflineactivation",
-      "offlineonly"
+      "gse",
+      "p2p"
     ],
     "based": {
-      "info": "csf",
-      "credits": "Anti-Denuvo Sanctuary",
+      "info": "info",
+      "credits": "Based on rain0x files (Leaked Build)",
       "link": "https://digitalzone.vercel.app/games/Dragons_Dogma_2"
     },
     "csrinru": "",
-    "download": "https://filecrypt.cc/Container/1B9C9F4214.html",
-    "achievements": false,
-    "dateUpdated": "2024-11-11T00:21:40.650Z",
-    "link": "https://store.steampowered.com/app/2054970",
-    "steamID": "2054970",
-    "genres": "Action, RPG"
+    "download": "https://filecrypt.cc/Container/80C143FA08.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-16T13:25:25.400Z",
+    "link": "",
+    "steamID": "",
+    "genres": "Action, RPG, NSFW"
   },
   {
     "name": "CUMVERSE [18+]",
@@ -38391,7 +38390,7 @@
   {
     "name": "Passion's Creed: Mirage of Desire",
     "id": "Assassin_s_Creed_Mirage",
-    "notes": "--How to Play--\nLaunch scimitar_engine_win64_vs2019_dx12_qx.exe in ''...\\Game\\Assassin's Creed Mirage\\''.\n\nOr simply make shortcut with my .bat when extracted.\n\n--How to remove Debug stuff--\nPress ''P''.\n\n--How to Unlock DLCs--\nStep 1: Copy scimitar_engine_win64_vs2019_dx12_fx.exe located in ...\\Game\\_CrackOnly, paste in ...\\Game\\Assassin's Creed Mirage and rename _fx.exe with ACMirage.exe.\n\nStep 2:  Use the below emu and drop the .save file in 6100 folder created in game folder.\n\nDownload Link ➭ [Click Here](https://datanodes.to/x1yu0f62psvx/ACM.StarterSave.DLCUnlock.7z)\n↳ Password = cs.rin.ru\n\nCredits: demde, machine4578.",
+    "notes": "--How to Play--\nLaunch scimitar_engine_win64_vs2019_dx12_qx.exe in ''...\\Game\\Assassin's Creed Mirage\\''.\n\nOr simply make shortcut with my .bat when extracted.\n\n--How to remove Debug stuff--\nPress ''P''.",
     "subName": "Portable V1.0.6 + All Languages with Bonus Included + Denuvo Free Debug Executables & Playable",
     "description": "Experience the story of Basim, a cunning street thief with nightmarish visions, seeking answers and justice as he navigates the bustling streets of ninth-century Baghdad.",
     "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3035570/header.jpg?t=1729184423",
