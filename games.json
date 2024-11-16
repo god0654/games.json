@@ -38387,5 +38387,29 @@
     "link": "",
     "steamID": "",
     "genres": "Strategy"
+  },
+  {
+    "name": "Passion's Creed: Mirage of Desire",
+    "id": "Assassin_s_Creed_Mirage",
+    "notes": "--How to Play--\nLaunch scimitar_engine_win64_vs2019_dx12_qx.exe in ''...\\Game\\Assassin's Creed Mirage\\''.\n\nOr simply make shortcut with my .bat when extracted.\n\n--How to remove Debug stuff--\nPress ''P''.",
+    "subName": "Portable V1.0.6 + All Languages with Bonus Included + Denuvo Free Debug Executables & Playable",
+    "description": "Experience the story of Basim, a cunning street thief with nightmarish visions, seeking answers and justice as he navigates the bustling streets of ninth-century Baghdad.",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3035570/header.jpg?t=1729184423",
+    "gameplay": "https://www.youtube.com/watch?v=0xM3ZjgiX10",
+    "tags": [
+      "p2p"
+    ],
+    "based": {
+      "info": "info",
+      "credits": "CSF thyaguster & Crack Masquerade!",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?p=3166772#p3166772"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=125983&p=3166848&hilit=#p3166848",
+    "download": "https://filecrypt.cc/Container/B251E26A32.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-16T00:07:07.444Z",
+    "link": "",
+    "steamID": "",
+    "genres": "Action, Adventure, NSFW"
   }
 ]
