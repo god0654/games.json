@@ -38508,5 +38508,29 @@
     "link": "https://store.steampowered.com/app/1517180",
     "steamID": "1517180",
     "genres": "Adventure, Casual, Indie"
+  },
+  {
+    "name": "Lust Quest III: HD-2D Remake",
+    "id": "DRAGON_QUEST_III_HD_2D_Remake",
+    "notes": "",
+    "subName": "Portable-Ryujinx V1.0.1 + 60FPS Mod + 1920x1080 Mod & Disable AA Mod",
+    "description": "DRAGON QUEST III HD-2D Remake is a stunning reimagining of the beloved masterpiece and narrative beginning to The Erdrick Trilogy.",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2701660/header.jpg?t=1731682657",
+    "gameplay": "https://www.youtube.com/watch?v=KPzCs0sXR-w",
+    "tags": [
+      "switch"
+    ],
+    "based": {
+      "info": "info",
+      "credits": "Based on Ryujinx",
+      "link": "https://digitalzone.vercel.app/games/DRAGON_QUEST_III_HD_2D_Remake"
+    },
+    "csrinru": "",
+    "download": "https://filecrypt.cc/Container/DC4F15D65B.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-17T16:35:07.313Z",
+    "link": "",
+    "steamID": "",
+    "genres": "RPG"
   }
 ]
