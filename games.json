@@ -31791,25 +31791,25 @@
     "genres": "Adventure, Indie"
   },
   {
-    "name": "Placid Plastic Duck: Rooftop One Percent - More Ducks Everywhere Bundle",
+    "name": "Placid Plastic Duck: Ducks Galore - More Ducks Everywhere Bundle",
     "id": "Placid_Plastic_Duck",
     "notes": "",
-    "subName": "Portable V10.10.2024 + Build 15965651 & DLCs Included",
+    "subName": "Portable V18.11.2024 + Build 16431509 & DLCs Included",
     "description": "The ultimate high-tech rubber duck simulation, Placid Plastic Duck brings you dangerous levels of relaxation. With chill music, dreamy 3D graphics, and many different happy ducks, your only priority is to float around. Zero Ducks given.",
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1999360/header.jpg?t=1728056800",
-    "gameplay": "https://www.youtube.com/watch?v=dDZ8sA-c_yA",
+    "gameplay": "https://www.youtube.com/watch?v=fvAFjemuqUQ",
     "tags": [
       "gse"
     ],
     "based": {
       "info": "nfo",
       "credits": "TENOKE",
-      "link": "https://predb.net/rls/Placid.Plastic.Duck.Rooftop.One.Percent-TENOKE"
+      "link": "https://predb.net/rls/Placid.Plastic.Duck.Simulator.Ducks.Galore-TENOKE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=124506&p=3141951&hilit=#p3141951",
-    "download": "https://filecrypt.cc/Container/8082597BA0.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=124506&p=3168373&hilit=#p3168373",
+    "download": "https://filecrypt.cc/Container/B224021CD7.html",
     "achievements": true,
-    "dateUpdated": "2024-10-09T23:34:22.535Z",
+    "dateUpdated": "2024-11-18T01:00:02.339Z",
     "link": "https://store.steampowered.com/app/1999360",
     "steamID": "1999360",
     "genres": "Casual, Simulation"
@@ -38532,5 +38532,125 @@
     "link": "",
     "steamID": "",
     "genres": "RPG, NSFW"
+  },
+  {
+    "name": "Men of War II: Steel Rain - Deluxe Edition",
+    "id": "Men_of_War_II",
+    "notes": "",
+    "subName": "Portable V1.040 + Build 16169865 & DLCs Included",
+    "description": "Experience warfare like never before! Men of War II, the anticipated sequel to the highly acclaimed RTS franchise is here with all-new units, locations, campaigns, game modes and true trademarks of the series: historical fidelity and action-filled gameplay on the Eastern and Western Fronts of WWII.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1128860.webp",
+    "gameplay": "https://www.youtube.com/watch?v=mt9X4gZjETY",
+    "tags": [
+      "scene"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://predb.net/rls/Men.of.War.II-RUNE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=117446&p=3168323&hilit=#p3168323",
+    "download": "https://filecrypt.cc/Container/E95A7A6462.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-17T23:17:53.169Z",
+    "link": "https://store.steampowered.com/app/1128860",
+    "steamID": "1128860",
+    "genres": "Action, Simulation, Strategy"
+  },
+  {
+    "name": "Great God Grove - Divine Edition",
+    "id": "Great_God_Grove",
+    "notes": "",
+    "subName": "Portable V18.11.2024 + Build 16432695 & DLCs Included",
+    "description": "THE WORLD IS ENDING AND THE GODS ARE SQUABBLING! Suck up and launch dialogue in a world of puzzles, puppets, and weird gods… or THE RIFT WILL CONSUME US ALL!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2840190.webp",
+    "gameplay": "https://www.youtube.com/watch?v=MDs11k9BnNc",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Great.God.Grove-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=139994&p=3168350&hilit=#p3168350",
+    "download": "https://filecrypt.cc/Container/2DD2033254.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-18T00:07:32.010Z",
+    "link": "https://store.steampowered.com/app/2840190",
+    "steamID": "2840190",
+    "genres": "Adventure, Casual, Indie"
+  },
+  {
+    "name": "My Hotel",
+    "id": "My_Hotel",
+    "notes": "",
+    "subName": "Portable V1.0 (Full Release) & Build 16435089",
+    "description": "Step into the 1950s with My Hotel. As the new owner of a mysterious hotel, revive its glory through stylish renovations, solve hidden secrets, and master faction intrigues. A captivating blend of history and adventure awaits.",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1855890/header.jpg?t=1731693810",
+    "gameplay": "https://www.youtube.com/watch?v=zZqfPYUZnak",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/My.Hotel-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=121309&p=3168357&hilit=#p3168357",
+    "download": "https://filecrypt.cc/Container/0C1A0B813A.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-18T00:20:50.593Z",
+    "link": "https://store.steampowered.com/app/1855890",
+    "steamID": "1855890",
+    "genres": "Adventure, Casual, Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Petit Island",
+    "id": "Petit_Island",
+    "notes": "",
+    "subName": "Portable V1.0.0.2 + Build 16364320 & Controller Fix",
+    "description": "Welcome to the beautiful and tropical Petit Island! Relive your grandpaw's youthful adventures by exploring the island and meeting all the unique islanders in this heartwarming open-world narrative exploration game. Preserve his memories before they fade away.",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1744970/header.jpg?t=1731573287",
+    "gameplay": "https://www.youtube.com/watch?v=VT99W3gt4ek",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Petit.Island-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=120375&p=3168368&hilit=#p3168368",
+    "download": "https://filecrypt.cc/Container/29E086A995.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-18T00:39:28.030Z",
+    "link": "https://store.steampowered.com/app/1744970",
+    "steamID": "1744970",
+    "genres": "Adventure, Casual, Indie"
+  },
+  {
+    "name": "Struggle F.O - Deluxe Edition",
+    "id": "Struggle_F_O",
+    "notes": "",
+    "subName": "Portable V1.0.1 + Build 16435428 & DLCs Included",
+    "description": "What the newly awakened girl saw was an unfamiliar world and unfamiliar creatures. And on her arm, there was a mysterious gadget that could speak. Somehow, the girl who could now communicate with all living creatures, starts to struggle with her allies to survive in this world!",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2633080/header.jpg?t=1731632421",
+    "gameplay": "https://video.fastly.steamstatic.com/store_trailers/257072056/movie480_vp9.webm?t=1731167048",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Struggle.F.O-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144615&p=3168378&hilit=#p3168378",
+    "download": "https://filecrypt.cc/Container/D7A31E9844.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-18T01:24:37.974Z",
+    "link": "https://store.steampowered.com/app/2633080",
+    "steamID": "2633080",
+    "genres": "Action, Adventure, Casual, Indie, RPG"
   }
 ]
