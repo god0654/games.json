@@ -38652,5 +38652,53 @@
     "link": "https://store.steampowered.com/app/2633080",
     "steamID": "2633080",
     "genres": "Action, Adventure, Casual, Indie, RPG"
+  },
+  {
+    "name": "Bioweaver",
+    "id": "Bioweaver",
+    "notes": "",
+    "subName": "Portable V1.0.6 & Build 16436159",
+    "description": "Bioweaver is an RPG game with the main content of treasure hunting and character building. You can use basic programming logic to deeply customize your skill sets, and you can also create organs with different attributes and functions with the special crafting system.",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3177970/header.jpg?t=1731744543",
+    "gameplay": "https://video.fastly.steamstatic.com/store_trailers/257051959/movie480_vp9.webm?t=1727930315",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "emoris",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143190&p=3168185&hilit=#p3168185"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143190&p=3168386&hilit=#p3168386",
+    "download": "https://filecrypt.cc/Container/D7F3A39005.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-18T01:47:56.830Z",
+    "link": "https://store.steampowered.com/app/3177970",
+    "steamID": "3177970",
+    "genres": "Action, Indie, RPG"
+  },
+  {
+    "name": "WANDERER: Broken Bed",
+    "id": "WANDERER_Broken_Bed",
+    "notes": "",
+    "subName": "Portable V0.12 + Build 16428746 & DLCs Included",
+    "description": "WANDERER: Broken Bed is a hentai adventure game with dating-sim, point-and-click and RPG elements that will take you to a world of pleasures and lewd adventures.",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2485860/header.jpg?t=1731697571",
+    "gameplay": "https://video.fastly.steamstatic.com/store_trailers/257074182/movie480_vp9.webm?t=1731697564",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://digitalzone.vercel.app/games/WANDERER_Broken_Bed"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144588&p=3168395&hilit=#p3168395",
+    "download": "https://filecrypt.cc/Container/90F60D407E.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-18T02:17:50.556Z",
+    "link": "https://store.steampowered.com/app/2485860",
+    "steamID": "2485860",
+    "genres": "Adventure, Casual, RPG, NSFW"
   }
 ]
