@@ -38700,5 +38700,29 @@
     "link": "https://store.steampowered.com/app/2485860",
     "steamID": "2485860",
     "genres": "Adventure, Casual, RPG, NSFW"
+  },
+  {
+    "name": "Forgotten but Unbroken",
+    "id": "Forgotten_but_Unbroken",
+    "notes": "",
+    "subName": "Portable V18.11.2024 & Build 16438634",
+    "description": "A tactical turn-based strategy game inspired by events and stories of forgotten and unsung heroes of WW2. Unique and new-to-genre features offer immersion and deeper protagonists to lead and care for. Lead the resistance against the Axis Forces.",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2122090/header.jpg?t=1731927403",
+    "gameplay": "https://www.youtube.com/watch?v=zk-0lhVHVGE",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "FLT",
+      "link": "https://predb.net/rls/Forgotten_but_Unbroken-FLT"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127641&p=3168583&hilit=#p3168583",
+    "download": "https://filecrypt.cc/Container/D902A3487F.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-18T12:36:15.654Z",
+    "link": "https://store.steampowered.com/app/2122090",
+    "steamID": "2122090",
+    "genres": "Strategy"
   }
 ]
