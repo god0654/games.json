@@ -38724,5 +38724,29 @@
     "link": "https://store.steampowered.com/app/2122090",
     "steamID": "2122090",
     "genres": "Strategy"
+  },
+  {
+    "name": "Subverse",
+    "id": "Subverse",
+    "notes": "",
+    "subName": "Portable V1.0 (Full Release) & Build 16431707",
+    "description": "A sexy new sci-fi parody where you command your own starship filled with the hottest babes in the galaxy, who are ready to bring your fantasies to life in fully animated love scenes!",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1034140/header.jpg?t=1731855437",
+    "gameplay": "https://www.youtube.com/watch?v=bsiFITLAOuc",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "F95Zone",
+      "link": "https://digitalzone.vercel.app/games/Subverse"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=96011&p=3168647&hilit=#p3168647",
+    "download": "https://filecrypt.cc/Container/CAF1E231CA.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-18T15:00:12.144Z",
+    "link": "https://store.steampowered.com/app/1034140",
+    "steamID": "1034140",
+    "genres": "Action, Adventure, Casual, RPG, Strategy, NSFW"
   }
 ]
