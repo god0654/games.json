@@ -13577,25 +13577,25 @@
     "link": "https://store.steampowered.com/app/2091720"
   },
   {
-    "name": "Frostpunk 2",
+    "name": "Frostpunk 2 - Deluxe Edition",
     "id": "Frostpunk_2",
     "notes": "",
-    "subName": "Portable V5.2.1-391109 & Build 15731711",
+    "subName": "Portable V1.1.2 + Build 16390287 & DLCs Included",
     "description": "Discover a city-survival game set 30 years after an apocalyptic blizzard ravaged Earth, transforming our world into a harsh, icy wasteland. In Frostpunk 2, you must face a new deadly threat that appears on the horizon – human nature and its unsatiated thirst for power.",
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/header_alt_assets_0.jpg?t=1726592173",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1601580.webp",
     "gameplay": "https://www.youtube.com/watch?v=BuvJAcptUd0",
     "tags": [
-      "scene"
+      "gse"
     ],
     "based": {
-      "info": "nfo",
-      "credits": "RUNE",
-      "link": "https://api.predb.net/nfoimg/Frostpunk.2-RUNE.png"
+      "info": "basedon",
+      "credits": "Gh0sT73",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=115123&p=3165433&hilit=#p3165433"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=115123&p=3127337&hilit=#p3127337",
-    "download": "https://filecrypt.cc/Container/AB08874C49.html",
-    "achievements": false,
-    "dateUpdated": "2024-09-17T18:04:19.508Z",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=115123&p=3168809&hilit=#p3168809",
+    "download": "https://filecrypt.cc/Container/F855D23325.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-18T19:37:25.375Z",
     "link": "https://store.steampowered.com/app/1601580",
     "steamID": "1601580",
     "genres": "Simulation, Strategy"
