@@ -38820,5 +38820,29 @@
     "link": "https://store.steampowered.com/app/1876890",
     "steamID": "1876890",
     "genres": "Adventure, Indie, RPG, Strategy"
+  },
+  {
+    "name": "Space Trash Scavenger",
+    "id": "Space_Trash_Scavenger",
+    "notes": "",
+    "subName": "Portable V1.02 & Build 16444173",
+    "description": "Grab your jetpack and explore procedural asteroid fields, derelict spaceships and abandoned outposts. Build and automate your Space Rig to process scavenged trash. Craft, trade and fight your way home in this interstellar, open-world survival sandbox.",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1759350/header.jpg?t=1731965115",
+    "gameplay": "https://www.youtube.com/watch?v=sh3oC6TeI04",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Soltanis",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=136339&p=3168804&hilit=#p3168804"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=136339&p=3168977&hilit=#p3168977",
+    "download": "https://filecrypt.cc/Container/C4156A9349.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-19T00:43:09.886Z",
+    "link": "https://store.steampowered.com/app/1759350",
+    "steamID": "1759350",
+    "genres": "Action, Adventure, Indie, Simulation"
   }
 ]
