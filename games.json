@@ -38748,5 +38748,77 @@
     "link": "https://store.steampowered.com/app/1034140",
     "steamID": "1034140",
     "genres": "Action, Adventure, Casual, RPG, Strategy, NSFW"
+  },
+  {
+    "name": "Immortal Life - Spirits of Jade",
+    "id": "Immortal_Life",
+    "notes": "",
+    "subName": "Portable V1.0.33 & Build 16364393",
+    "description": "Embark on a magical journey in this captivating life simulation game. Escape to a welcoming valley, farm with spells, and master skills like fishing, crafting, and cooking. Engage in epic battles, strengthen the bonds with your companions, and build your dream home to achieve Immortal Life!",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1201230/header.jpg?t=1731655139",
+    "gameplay": "https://www.youtube.com/watch?v=WicztEI7iYw",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Immortal.Life.Spirits.of.Jade-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=108715&p=3168953&hilit=#p3168953",
+    "download": "https://filecrypt.cc/Container/53CCDAF95C.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-18T23:23:03.261Z",
+    "link": "https://store.steampowered.com/app/1201230",
+    "steamID": "1201230",
+    "genres": "Action, Adventure, Casual, RPG, Simulation"
+  },
+  {
+    "name": "ABI-DOS",
+    "id": "ABI_DOS",
+    "notes": "",
+    "subName": "Portable V15.11.2024 & Build 16424796",
+    "description": "Build the most advanced operating system ever created! Can you master the fictional simulation language of this mind-bending machine? Design circuits, automate UBITS (coloured mobile data blocks), and optimize your system. The Admin is always watching, and he’s not what he seems.",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2180700/header.jpg?t=1731743744",
+    "gameplay": "https://www.youtube.com/watch?v=iZ5EN0mYOfs",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/ABI-DOS-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144611&p=3168956&hilit=#p3168956",
+    "download": "https://filecrypt.cc/Container/C8AA8B2C95.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-18T23:44:27.500Z",
+    "link": "https://store.steampowered.com/app/2180700",
+    "steamID": "2180700",
+    "genres": "Casual, Indie, Simulation, Strategy"
+  },
+  {
+    "name": "Wandering Sword - Echoes Of Ash and Dust",
+    "id": "Wandering_Sword",
+    "notes": "",
+    "subName": "Portable V1.23.24-3 + Build 16388167 & DLC Included",
+    "description": "Wandering Sword is a Chinese martial-arts RPG where you play a young swordsman caught up in a feud and nearly dies. Escaping the event puts you on the path of pursuing the highest form of martial arts and exploring the pugilistic world to become the great hero you are always destined to be.",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1876890/header.jpg?t=1731290742",
+    "gameplay": "https://www.youtube.com/watch?v=itLC25_mH3o",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Wandering.Sword.v1.23.24-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=122995&p=3168964&hilit=#p3168964",
+    "download": "https://filecrypt.cc/Container/0D9FB568B3.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-19T00:10:11.556Z",
+    "link": "https://store.steampowered.com/app/1876890",
+    "steamID": "1876890",
+    "genres": "Adventure, Indie, RPG, Strategy"
   }
 ]
