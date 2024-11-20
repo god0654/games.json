@@ -38917,5 +38917,125 @@
     "link": "https://store.steampowered.com/app/3282670",
     "steamID": "3282670",
     "genres": "Adventure, Casual, Indie, Simulation, NSFW"
+  },
+  {
+    "name": "Towers of Aghasba",
+    "id": "Towers_of_Aghasba",
+    "notes": "",
+    "subName": "Portable V63.638 & Build 16459783",
+    "description": "Explore a stunning open-world filled with majestic creatures and quirky characters. Nurture withered lands into vibrant ecosystems and flex your creativity as you build a thriving island civilization in balance with nature. Invite friends to craft, harvest, and hang on your fantasy island.",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2178070/header.jpg?t=1732038223",
+    "gameplay": "https://www.youtube.com/watch?v=JFCusWjJKnw",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "samsterrz",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132935&p=3169454&hilit=#p3169454"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=132935&p=3169622&hilit=#p3169622",
+    "download": "https://filecrypt.cc/Container/D688018217.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-19T23:21:14.407Z",
+    "link": "https://store.steampowered.com/app/2178070",
+    "steamID": "2178070",
+    "genres": "Action, Adventure, RPG"
+  },
+  {
+    "name": "Maid Cafe on Electric Street - Soundtrack Bundle",
+    "id": "Maid_Cafe_on_Electric_Street",
+    "notes": "",
+    "subName": "Portable V1.0 & Build 16439161",
+    "description": "Maid Cafe on Electric Street is a leisurely maid cafe adventure set in the otaku haven of Nipponbashi, Osaka.",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1789030/header.jpg?t=1731917534",
+    "gameplay": "https://www.youtube.com/watch?v=NJgQics6_Yc",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Maid.Cafe.on.Electric.Street-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141047&p=3169702&hilit=#p3169702",
+    "download": "https://filecrypt.cc/Container/B9FB632CB3.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-20T00:47:08.764Z",
+    "link": "https://store.steampowered.com/app/1789030",
+    "steamID": "1789030",
+    "genres": "Adventure, Casual, Indie, RPG, Simulation"
+  },
+  {
+    "name": "Shop Simulator: Supermarket",
+    "id": "Shop_Simulator_Supermarket",
+    "notes": "",
+    "subName": "Portable V1.0.5.2 + Build 16301353 & DLC Included",
+    "description": "DESIGN, SELL & EXPAND – YOUR SUCCESS IS IN YOUR HANDS. Put your entrepreneurial skills to the test in Shop Simulator: Supermarket. Immerse yourself in the world of retail and start your own business today!",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2886550/header.jpg?t=1730623939",
+    "gameplay": "https://www.youtube.com/watch?v=YDs5HMdwIGs",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Shop.Simulator.Supermarket-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144130&p=3169717&hilit=#p3169717",
+    "download": "https://filecrypt.cc/Container/9473D07033.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-20T01:10:06.319Z",
+    "link": "https://store.steampowered.com/app/2886550",
+    "steamID": "2886550",
+    "genres": "Casual, Indie, Simulation"
+  },
+  {
+    "name": "Once Alive",
+    "id": "Once_Alive",
+    "notes": "",
+    "subName": "Portable V0.9.9.8 & Build 16438657",
+    "description": "A story-driven, first-person adventure game offering a cinematic experience. Embark on a journey to HaustVille, an abandoned settlement in a post-apocalyptic world. Explore your surroundings and uncover the mystery behind the disappearance of the last survivors.",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2336440/header.jpg?t=1731922266",
+    "gameplay": "https://www.youtube.com/watch?v=3VUZ8P-aKoE",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Once.Alive-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144047&p=3169731&hilit=#p3169731",
+    "download": "https://filecrypt.cc/Container/AEFC077831.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-20T01:40:06.032Z",
+    "link": "https://store.steampowered.com/app/2336440",
+    "steamID": "2336440",
+    "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Papa's Pizzeria Deluxe",
+    "id": "Papa_s_Pizzeria_Deluxe",
+    "notes": "",
+    "subName": "Portable V1.0.1 & Build 16463055",
+    "description": "Top, bake, and serve delicious pizzas in Papa's Pizzeria Deluxe! Craft pizzas for Papa Louie's loyal customers while earning tips, points, and Special Recipes. Unlock holiday ingredients for seasonal pies, and take a trip in the Food Truck to serve your own unique creations!",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3259470/header.jpg?t=1732030361",
+    "gameplay": "https://www.youtube.com/watch?v=TWPqPL-8aVE",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "manofalvi5",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144674&p=3169555&hilit=#p3169555"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144674&p=3169740&hilit=#p3169740",
+    "download": "https://filecrypt.cc/Container/86C7F5FF1F.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-20T02:27:06.870Z",
+    "link": "https://store.steampowered.com/app/3259470",
+    "steamID": "3259470",
+    "genres": "Action, Casual, Indie, Simulation, Strategy"
   }
 ]
