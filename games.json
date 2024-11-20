@@ -39063,5 +39063,30 @@
     "link": "https://store.steampowered.com/app/1364780",
     "steamID": "1364780",
     "genres": "Action, Adventure"
+  },
+  {
+    "name": "Luma Island",
+    "id": "Luma_Island",
+    "notes": "",
+    "subName": "Portable V1.19219 + Build 16459144 & Online Supported",
+    "description": "Travel to Luma Island to go on an epic adventure by yourself or with your friends and family. Build your dream farm, master professions, collect magical Lumas, find treasures and unravel the mysteries of the island.",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2408820/header.jpg?t=1732099693",
+    "gameplay": "https://www.youtube.com/watch?v=2hdTnW-s97Y",
+    "tags": [
+      "gse",
+      "creamapi"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "Soltanis",
+      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=118983&p=3169901&hilit=#p3169901"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=118983&p=3169935&hilit=#p3169935",
+    "download": "https://filecrypt.cc/Container/96B1F04B76.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-20T11:29:55.604Z",
+    "link": "https://store.steampowered.com/app/2408820",
+    "steamID": "2408820",
+    "genres": "Adventure, Casual, Indie, RPG, Simulation"
   }
 ]
