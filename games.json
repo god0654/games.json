@@ -14269,12 +14269,12 @@
       "link": "https://api.predb.net/nfoimg/Harvest.Days.My.Dream.Farm-TENOKE.png"
     },
     "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=122539&p=3095337&hilit=#p3095337",
-    "download": "",
+    "download": "https://filecrypt.cc/Container/7A7A46ACF9.html",
     "achievements": true,
-    "dateUpdated": "2024-07-25T16:09:44.971Z",
-    "steamID": "",
-    "genres": "",
-    "link": ""
+    "dateUpdated": "2024-11-20T16:41:10.099Z",
+    "link": "https://store.steampowered.com/app/1515320",
+    "steamID": "1515320",
+    "genres": "Adventure, Indie, RPG, Simulation"
   },
   {
     "name": "LINKiTO",
@@ -39088,5 +39088,29 @@
     "link": "https://store.steampowered.com/app/2408820",
     "steamID": "2408820",
     "genres": "Adventure, Casual, Indie, RPG, Simulation"
+  },
+  {
+    "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition + Pre-Order Bonus",
+    "id": "S_T_A_L_K_E_R_2_Heart_of_Chornobyl",
+    "notes": "",
+    "subName": "Portable V20.11.2024 + Build 16454264 & DLCs Included",
+    "description": "Discover the vast Chornobyl Exclusion Zone full of dangerous enemies, deadly anomalies and powerful artifacts. Unveil your own epic story as you make your way to the Heart of Chornobyl. Make your choices wisely, as they will determine your fate in the end.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1643320.webp",
+    "gameplay": "https://www.youtube.com/watch?v=pmkTWF0fmvE",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "csf",
+      "credits": "flashybunny",
+      "link": "https://digitalzone.vercel.app/games/S_T_A_L_K_E_R_2_Heart_of_Chornobyl"
+    },
+    "csrinru": "",
+    "download": "https://filecrypt.cc/Container/8A387D2B6A.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-20T19:08:47.544Z",
+    "link": "https://store.steampowered.com/app/1643320",
+    "steamID": "1643320",
+    "genres": "Action, Adventure, RPG"
   }
 ]
