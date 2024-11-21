@@ -4776,28 +4776,28 @@
     "link": "https://store.steampowered.com/app/1948980"
   },
   {
-    "name": "Victoria 3: Sphere of Influence - Grand Edition",
+    "name": "Victoria 3: Pivot of Empire - Grand Edition",
     "id": "Victoria_3",
-    "notes": "",
-    "subName": "Portable V1.7.0 + Build 14738474 & DLCs Included",
+    "notes": "--How to Play Online--\nApply the content present in “_CrackOnly (OFME)” and open Steam before launch victoria3.exe in ...\\Game\\Victoria 3 Pivot of Empire\\binaries\\.\n\nOnline Fix folder is located in ...\\Game\\.",
+    "subName": "Portable V1.8.0 + Build 16455017 + DLCs Included & Online Supported",
     "description": "Paradox Development Studio invites you to build your ideal society in the tumult of the exciting and transformative 19th century. Balance the competing interests in your society and earn your place in the sun in Victoria 3, one of the most anticipated games in Paradox’s history.",
-    "thumbnail": "https://god0654.github.io/DigitalZone/Images/Victoria%203%20Sphere%20of%20Influence%20-%20Grand%20Edition.webp",
-    "gameplay": "https://youtu.be/Rz3l4bY0A-4",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3174360.webp",
+    "gameplay": "https://www.youtube.com/watch?v=esXmztDsGkA",
     "tags": [
       "gse"
     ],
     "based": {
       "info": "nfo",
       "credits": "RUNE",
-      "link": "https://api.predb.net/nfoimg/Victoria.3.Sphere.of.Influence-RUNE.png"
+      "link": "https://predb.net/rls/Victoria.3.Pivot.of.Empire-RUNE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=113435&p=3077690&hilit=#p3077690",
-    "download": "https://filecrypt.cc/Container/2592AD4106.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=113435&p=3170509&hilit=#p3170509",
+    "download": "https://filecrypt.cc/Container/9A03D28A46.html",
     "achievements": true,
-    "dateUpdated": "2024-07-24T11:53:31.682Z",
-    "steamID": "",
-    "genres": "",
-    "link": ""
+    "dateUpdated": "2024-11-21T12:10:35.086Z",
+    "link": "https://store.steampowered.com/app/529340",
+    "steamID": "529340",
+    "genres": "Simulation, Strategy"
   },
   {
     "name": "Dice & Fold",
@@ -11108,29 +11108,28 @@
     "link": "https://store.steampowered.com/app/2336580"
   },
   {
-    "name": "Disney Dreamlight Valley: Discover the Dapper Delights - Gold Edition",
+    "name": "Disney Dreamlight Valley: The Storybook Vale - Enchanted Edition",
     "id": "Disney_Dreamlight_Valley",
     "notes": "",
-    "subName": "Portable V1.12.0.7834 + Build 15323657 + DLCs with Items Included",
+    "subName": "Portable V1.14.1.990 + Build 16348801 & DLCs Included",
     "description": "Explore a world filled with the magic of Disney as you discover rich stories and build the perfect neighborhood alongside Disney and Pixar heroes and villains in this new life-sim adventure game. Welcome to Disney Dreamlight Valley.",
-    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/1401590.webp",
-    "gameplay": "https://www.youtube.com/watch?v=rDbp8LcbBJc",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3259120.webp",
+    "gameplay": "https://www.youtube.com/watch?v=odLqgITVDqI",
     "tags": [
-      "gse",
-      "steamless"
+      "gse"
     ],
     "based": {
       "info": "nfo",
       "credits": "RUNE",
-      "link": "https://api.predb.net/nfoimg/Disney.Dreamlight.Valley.Update.v1.12.0.7834-RUNE.png"
+      "link": "https://predb.net/rls/Disney.Dreamlight.Valley.The.Storybook.Vale-RUNE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=121979&p=3110854&hilit=#p3110854",
-    "download": "https://filecrypt.cc/Container/D0F5CA0615.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=121979&p=3170491&hilit=#p3170491",
+    "download": "https://filecrypt.cc/Container/7CA6A3DA37.html",
     "achievements": true,
-    "dateUpdated": "2024-08-21T18:58:21.892Z",
+    "dateUpdated": "2024-11-21T11:09:52.321Z",
+    "link": "https://store.steampowered.com/app/1401590",
     "steamID": "1401590",
-    "genres": "Action, Adventure, Casual, RPG, Simulation",
-    "link": "https://store.steampowered.com/app/1401590"
+    "genres": "Action, Adventure, Casual, RPG, Simulation"
   },
   {
     "name": "SIGNALIS – L* BETRIEBSYSTEM",
@@ -12398,25 +12397,25 @@
     "name": "The Devil Within: Satgat",
     "id": "The_Devil_Within_Satgat",
     "notes": "",
-    "subName": "Portable V0.5.57.36858 - HotFix & Build 14107769",
+    "subName": "Portable V1.4.82.46571 (Full Release) & Build 16456106",
     "description": "Join Kim Rip, a Royal Guard whose humanity is gradually slipping away, on a thrilling 2.5D action-adventure platforming journey in 'The Devil Within: Satgat'. Uncover the mysteries of a desolate realm as you engage in stylish battles against formidable foes.",
-    "thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1802880/header.jpg?t=1712891792",
-    "gameplay": "https://youtu.be/tinE8wszWiQ",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1802880/header.jpg?t=1732172689",
+    "gameplay": "https://www.youtube.com/watch?v=KG2n5ySSwDo",
     "tags": [
       "gse"
     ],
     "based": {
-      "info": "csf",
-      "credits": "inkstop1",
-      "link": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=125242&p=3039110&hilit=#p3039110"
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://predb.net/rls/The.Devil.Within.Satgat-RUNE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=125242&p=3039541&hilit=#p3039541",
-    "download": "https://filecrypt.cc/Container/19246A8A05.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=125242&p=3170474&hilit=#p3170474",
+    "download": "https://filecrypt.cc/Container/AB60748D39.html",
     "achievements": true,
-    "dateUpdated": "2024-07-25T10:17:28.142Z",
+    "dateUpdated": "2024-11-21T10:21:39.035Z",
+    "link": "https://store.steampowered.com/app/1802880",
     "steamID": "1802880",
-    "genres": "Action, Adventure, Indie, RPG, Early Access",
-    "link": "https://store.steampowered.com/app/1802880"
+    "genres": "Action, Adventure, Indie, RPG"
   },
   {
     "name": "Rotwood",
@@ -39105,7 +39104,7 @@
       "credits": "flashybunny",
       "link": "https://digitalzone.vercel.app/games/S_T_A_L_K_E_R_2_Heart_of_Chornobyl"
     },
-          "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=89163&p=3170158&hilit=#p3170158",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=89163&p=3170158&hilit=#p3170158",
     "download": "https://filecrypt.cc/Container/8A387D2B6A.html",
     "achievements": false,
     "dateUpdated": "2024-11-20T19:08:47.544Z",
