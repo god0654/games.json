@@ -4783,9 +4783,10 @@
     "description": "Paradox Development Studio invites you to build your ideal society in the tumult of the exciting and transformative 19th century. Balance the competing interests in your society and earn your place in the sun in Victoria 3, one of the most anticipated games in Paradox’s history.",
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3174360.webp",
     "gameplay": "https://www.youtube.com/watch?v=esXmztDsGkA",
-    "tags": [
-      "gse"
-    ],
+           "tags": [
+                "gse",
+                "ofme"
+           ],
     "based": {
       "info": "nfo",
       "credits": "RUNE",
@@ -8576,13 +8577,13 @@
     "genres": "Action, Adventure, Indie, RPG"
   },
   {
-    "name": "DRAGON BALL XENOVERSE 2: FUTURE SAGA Chapter 1 - Special Edition",
+    "name": "DRAGON BALL XENOVERSE 2: FUTURE SAGA Chapter 2 - Special Edition",
     "id": "DRAGON_BALL_XENOVERSE_2",
-    "notes": "Note: GoldBerg Emu, with Achievements and Overlay support, is applied after extraction if you need play Online apply the contents in ''_CrackOnly (OFME)'', open Steam and launch START.exe.",
-    "subName": "Portable V1.22.00 + Build 14366451 + DLCs Included & Online Supported",
+    "notes": "--How to Play Online--\nApply the content present in “_CrackOnly (OFME)” and open Steam before launch START.exe in ...\\Game\\Dragon Ball Xenoverse 2 Future Saga Chapter 2\\.\n\nOnline Fix folder is located in ...\\Game\\.",
+    "subName": "Portable V1.23.00 + Build 16225687 + DLCs Included & Online Supported",
     "description": "DRAGON BALL XENOVERSE 2 builds upon the highly popular DRAGON BALL XENOVERSE with enhanced graphics that will further immerse players into the largest and most detailed Dragon Ball world ever developed.",
-    "thumbnail": "https://god0654.github.io/DigitalZone/Images/DRAGON%20BALL%20XENOVERSE%202%20FUTURE%20SAGA%20Chapter%201%20-%20Special%20Edition.webp",
-    "gameplay": "https://youtu.be/I7zMlMEZVBE",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/3188680.webp",
+    "gameplay": "https://www.youtube.com/watch?v=HnGYJWArvUs",
     "tags": [
       "gse",
       "ofme"
@@ -8590,15 +8591,15 @@
     "based": {
       "info": "nfo",
       "credits": "RUNE",
-      "link": "https://api.predb.net/nfoimg/Dragon.Ball.Xenoverse.2.Future.Saga.Chapter.1-RUNE.png"
+      "link": "https://predb.net/rls/Dragon.Ball.Xenoverse.2.Future.Saga.Chapter.2-RUNE"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=72155&p=3057324&hilit=#p3057324",
-    "download": "https://filecrypt.cc/Container/D00ACBA9E9.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=72155&p=3170545&hilit=#p3170545",
+    "download": "https://filecrypt.cc/Container/6B8099F7E7.html",
     "achievements": true,
-    "dateUpdated": "2024-07-24T16:27:59.742Z",
-    "steamID": "",
-    "genres": "",
-    "link": ""
+    "dateUpdated": "2024-11-21T13:11:23.499Z",
+    "link": "https://store.steampowered.com/app/454650",
+    "steamID": "454650",
+    "genres": "Action, Adventure, Casual"
   },
   {
     "name": "Wizardry: Proving Grounds of the Mad Overlord",
