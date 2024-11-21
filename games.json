@@ -39161,5 +39161,29 @@
     "link": "https://store.steampowered.com/app/2638560",
     "steamID": "2638560",
     "genres": "Adventure, Indie, NSFW"
+  },
+  {
+    "name": "Alaloth: Champions of The Four Kingdoms - Deluxe Edition",
+    "id": "Alaloth_Champions_of_The_Four_Kingdoms",
+    "notes": "",
+    "subName": "Portable V1.0 - Full Release + Build 16455017 * DLCs Included",
+    "description": "Baldur's Gate and Dark Souls had a baby! A thrilling RPG game that blends real-time action with an isometric view, set in a world of magic and monsters. Players must navigate through dangerous dungeons, battle fierce bosses, and uncover ancient secrets to save Plamen from an impending doom!",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/919360.webp",
+    "gameplay": "https://www.youtube.com/watch?v=u0xW9g2Y3iY",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "RUNE",
+      "link": "https://predb.net/rls/Alaloth.Champions.of.The.Four.Kingdoms-RUNE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=79295&p=3170874&hilit=#p3170874",
+    "download": "https://filecrypt.cc/Container/41F5110B1F.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-21T21:55:49.492Z",
+    "link": "https://store.steampowered.com/app/919360",
+    "steamID": "919360",
+    "genres": "Action, Adventure, Indie, RPG, Strategy"
   }
 ]
