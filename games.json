@@ -39121,9 +39121,10 @@
     "description": "Explore the world with our largest fleet of aircraft and take simulation to new heights while pursuing your aviation career within Microsoft Flight Simulator 2024.",
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/MidnightFlightSeductionSkies2024.webp",
     "gameplay": "https://www.youtube.com/watch?v=fldSitlMvEk",
-    "tags": [
-      "ofme"
-    ],
+           "tags": [
+                "ofme",
+                "mc"
+           ],
     "based": {
       "info": "release",
       "credits": "Online-Fix.me",
