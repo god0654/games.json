@@ -39121,10 +39121,10 @@
     "description": "Explore the world with our largest fleet of aircraft and take simulation to new heights while pursuing your aviation career within Microsoft Flight Simulator 2024.",
     "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/MidnightFlightSeductionSkies2024.webp",
     "gameplay": "https://www.youtube.com/watch?v=fldSitlMvEk",
-           "tags": [
-                "ofme",
-                "mc"
-           ],
+    "tags": [
+      "ofme",
+      "mc"
+    ],
     "based": {
       "info": "release",
       "credits": "Online-Fix.me",
@@ -39137,5 +39137,29 @@
     "link": "",
     "steamID": "",
     "genres": "Simulation, NSFW"
+  },
+  {
+    "name": "Forbidden Fantasy",
+    "id": "Forbidden_Fantasy",
+    "notes": "",
+    "subName": "Portable V20.11.2024 + Build 16463509 & DLC Included",
+    "description": "Forbidden Fantasy is a choice-driven adult visual novel where you're the chosen one. Become the hero of prophecy, romance elven women, and save the world from the Demon Queen. Your quest will be filled with adventure, drama, and lots of sex.",
+    "thumbnail": "https://raw.githubusercontent.com/god0654/games.json/main/thumbnails/2638560.webp",
+    "gameplay": "https://video.fastly.steamstatic.com/store_trailers/257073190/movie480_vp9.webm?t=1731955454",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "basedon",
+      "credits": "ryuugames",
+      "link": "https://digitalzone.vercel.app/games/Forbidden_Fantasy"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144719&p=3170685&hilit=#p3170685",
+    "download": "https://filecrypt.cc/Container/55B8D1DCFB.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-21T17:23:08.082Z",
+    "link": "https://store.steampowered.com/app/2638560",
+    "steamID": "2638560",
+    "genres": "Adventure, Indie, NSFW"
   }
 ]
