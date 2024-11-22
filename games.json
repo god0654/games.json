@@ -39258,5 +39258,29 @@
     "link": "https://store.steampowered.com/app/2351560",
     "steamID": "2351560",
     "genres": "Action, Casual, Indie, Strategy"
+  },
+  {
+    "name": "Lust is Strange: Intimate Exposure",
+    "id": "Life_is_Strange_Double_Exposure",
+    "notes": "--How to Unlock FPS--\nPress CTRL+U in-game.",
+    "subName": "Portable-Sudachi V1.0.1 & FPS Unlocked",
+    "description": "When Max Caulfield finds her friend Safi dead in the snow, she tears open the way to a parallel timeline. Here, Safi is still alive - and still in danger! With her new power to Shift between two timelines – can Max solve and prevent the same murder?",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1874000/header.jpg?t=1732039607",
+    "gameplay": "https://www.youtube.com/watch?v=N0F-UQjOtiQ",
+    "tags": [
+      "switch"
+    ],
+    "based": {
+      "info": "info",
+      "credits": "Based on Sudachi",
+      "link": "https://digitalzone.vercel.app/games/Life_is_Strange_Double_Exposure"
+    },
+    "csrinru": "",
+    "download": "https://filecrypt.cc/Container/F6DA91631D.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-22T15:38:54.568Z",
+    "link": "",
+    "steamID": "",
+    "genres": "Action, Adventure, NSFW"
   }
 ]
