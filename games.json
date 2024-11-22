@@ -7564,13 +7564,13 @@
     "link": "https://store.steampowered.com/app/2979110"
   },
   {
-    "name": "Jujutsu Kaisen Cursed Clash: Hidden Inventory/Premature - Ultimate Edition",
+    "name": "Jujutsu Kaisen Cursed Clash: Shibuya Incident - Ultimate Edition",
     "id": "Jujutsu_Kaisen_Cursed_Clash",
-    "notes": "Note: GoldBerg with Achievements and Overlay support is applied after extraction, if you need play Online apply the contents in ''_CrackOnly (OFME)'' and open Steam before launch.",
-    "subName": "Portable V03.06.2024 + Build 14140588 + DLCs Included & Online Supported",
+    "notes": "--How to Play Online--\nApply the content present in “_CrackOnly (OFME)” and open Steam before launch Jujutsu Kaisen CC.exe in ...\\Game\\Jujutsu Kaisen CC\\Jujutsu Kaisen CC\\Binaries\\Win64\\.\n\nOnline Fix folder is located in ...\\Game\\.",
+    "subName": "Portable V1.4.0 + Build 15988265 + DLCs Included & Online Supported",
     "description": "Master the Jujutsu of your favorite Sorcerers and Cursed Spirits! Bring a friend and dive into the world of JUJUTSU KAISEN in this action-packed, 2-on-2 fighting game!",
-    "thumbnail": "https://god0654.github.io/DigitalZone/Images/Jujutsu%20Kaisen%20Cursed%20Clash%20Hidden%20Inventory%20Premature%20-%20Ultimate%20Edition.webp",
-    "gameplay": "https://youtu.be/kSQ9uqe-5gw",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1877020/header_alt_assets_3.jpg?t=1732143684",
+    "gameplay": "https://www.youtube.com/watch?v=sc-MInbZLFU",
     "tags": [
       "gse",
       "ofme"
@@ -7580,13 +7580,13 @@
       "credits": "TENOKE",
       "link": "https://api.predb.net/nfoimg/Jujutsu.Kaisen.Cursed.Clash.Hidden.Inventory.Premature.Death-TENOKE.png"
     },
-    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135884&p=3063729&hilit=#p3063729",
-    "download": "https://filecrypt.cc/Container/D7DB4CC67F.html",
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135884&p=3170957&hilit=#p3170957",
+    "download": "https://filecrypt.cc/Container/897D10BC2F.html",
     "achievements": true,
-    "dateUpdated": "2024-07-24T15:26:09.585Z",
-    "steamID": "",
-    "genres": "",
-    "link": ""
+    "dateUpdated": "2024-11-22T00:35:53.554Z",
+    "link": "https://store.steampowered.com/app/1877020",
+    "steamID": "1877020",
+    "genres": "Action"
   },
   {
     "name": "Heads Will Roll: Reforged - Not a Hero",
@@ -39185,5 +39185,78 @@
     "link": "https://store.steampowered.com/app/919360",
     "steamID": "919360",
     "genres": "Action, Adventure, Indie, RPG, Strategy"
+  },
+  {
+    "name": "Loco Motive - Game + Soundtrack Bundle",
+    "id": "Loco_Motive",
+    "notes": "",
+    "subName": "Portable V1.0.3 & Build 16461926",
+    "description": "On the Reuss Express a passenger has been murdered, and you’re the prime suspects. Uncover a thrilling mystery and solve satisfying point and click puzzles to prove your innocence! A slapstick adventure, packed full of deadly surprises, shocking twists and larger than life characters!",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1709880/header.jpg?t=1732215074",
+    "gameplay": "https://www.youtube.com/watch?v=CGmW4G5XfSE",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "SKIDROW",
+      "link": "https://predb.net/rls/Loco.Motive-SKIDROW"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=117997&p=3170901&hilit=#p3170901",
+    "download": "https://filecrypt.cc/Container/26A69CDFFD.html",
+    "achievements": false,
+    "dateUpdated": "2024-11-21T22:46:50.189Z",
+    "link": "https://store.steampowered.com/app/1709880",
+    "steamID": "1709880",
+    "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Graces: Posthumous Wish",
+    "id": "Graces_Posthumous_Wish",
+    "notes": "",
+    "subName": "Portable V22.11.2024 & Build 16436773",
+    "description": "Aki is haunted by a curse. In search of salvation, she travels into the memories of a dead classmate, where she must witness three eerie mystical stories and figure out how to break the shackles of misfortune.",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2899980/header.jpg?t=1732105813",
+    "gameplay": "https://www.youtube.com/watch?v=5jzpVx-2RUE",
+    "tags": [
+      "gse"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Graces.Posthumous.Wish-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=144687&p=3170931&hilit=#p3170931",
+    "download": "https://filecrypt.cc/Container/DB9C1755CB.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-21T23:24:29.276Z",
+    "link": "https://store.steampowered.com/app/2899980",
+    "steamID": "2899980",
+    "genres": "Casual, Indie, Simulation"
+  },
+  {
+    "name": "Apocalypse Party",
+    "id": "Apocalypse_Party",
+    "notes": "--How to Play Online--\nApply the content present in “_CrackOnly (OFME)” and open Steam before launch TheLastSurvivor.exe in ...\\Game\\Apocalypse Party\\.\n\nOnline Fix folder is located in ...\\Game\\.",
+    "subName": "Portable V25.10.2024 + Build 16145511 + DLC Included & Online Supported",
+    "description": "Apocalypse Party is a 3D top-down action Roguelike game. In this game, you will embark on a new mission to traverse through the Middle Ages and gradually master abilities, and arm yourself to become the strongest survivor through numerous choices.",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2351560/header.jpg?t=1727261428",
+    "gameplay": "https://www.youtube.com/watch?v=Rj_PDr5NDTY",
+    "tags": [
+      "gse",
+      "ofme"
+    ],
+    "based": {
+      "info": "nfo",
+      "credits": "TENOKE",
+      "link": "https://predb.net/rls/Apocalypse.Party.v20241025-TENOKE"
+    },
+    "csrinru": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=135644&p=3170944&hilit=#p3170944",
+    "download": "https://filecrypt.cc/Container/096FA26215.html",
+    "achievements": true,
+    "dateUpdated": "2024-11-21T23:53:39.917Z",
+    "link": "https://store.steampowered.com/app/2351560",
+    "steamID": "2351560",
+    "genres": "Action, Casual, Indie, Strategy"
   }
 ]
